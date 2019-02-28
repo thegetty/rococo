@@ -1,88 +1,158 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "3-1"
+    src: figures/Fig-3-1_gm_006657F12V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Main View, 3/4 right front, 83.DA.280
+  - id: "3-2"
+    src: figures/Fig-3-2_gm_00665701_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, front, 83.DA.280
+  - id: "3-3"
+    src: figures/Fig-3-3_gm_006657F7V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, back, 83.DA.280
+  - id: "3-4"
+    src: figures/Fig-3-4_gm_006657F15V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, top, 83.DA.280
+  - id: "3-5"
+    src: figures/Fig-3-5_gm_006657F11V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, bottom, 83.DA.280
+  - id: "3-6"
+    src: figures/Fig-3-6_gm_006657F9V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Left profile, 83.DA.280
+  - id: "3-7"
+    src: figures/Fig-3-7_gm_006657F8V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, right profile, 83.DA.280
+  - id: "3-8"
+    src: figures/Fig-3-8_gml_006657D16V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Front of clock, 83.DA.280
+  - id: "3-9"
+    src: figures/Fig-3-9_gml_006657D25V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, back of clock, 83.DA.280
+  - id: "3-10"
+    src: figures/Fig-3-10_gml_006657D29V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Front of clock workings, 83.DA.280
+  - id: "3-11"
+    src: figures/Fig-3-11_gml_006657D30V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Back of clock workings, 83.DA.280
+  - id: "3-a"
+    src: figures/Fig-3-a_gml_006657D18V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Clock, figures on top, 83.DA.280
+  - id: "3-b"
+    src: figures/Fig-3-b_gml_006657D24V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Clock, figure on left, 83.DA.280
+  - id: "3-c"
+    src: figures/Fig-3-c_gml_006657D19V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Clock, figure on right, 83.DA.280
+  - id: "3-d"
+    src: figures/Fig-3-d_gm_006657D9V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, mounts on top L & R corners, 83.DA.280
+  - id: "3-e"
+    src: figures/Fig-3-e_gm_006657D12V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, foot mount, 83.DA.280
+  - id: "3-f"
+    src: figures/Fig-3-f_gm_006657D8V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, top central mount, 83.DA.280
+  - id: "3-g"
+    src: figures/Fig-3-g_gm_006657D11V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, top central mount, 83.DA.280
+  - id: "3-h"
+    src: figures/Fig-3-h_gm_006657D13V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, middle mount, 83.DA.280
+  - id: "3-i"
+    src: figures/FIg-3-i_gm_006657D10V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, lower side mount, 83.DA.280
+  - id: "3-j"
+    src: figures/Fig-3-j_gm_006657D33V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, painted scene, left, 83.DA.280
+  - id: "3-k"
+    src: figures/Fig-3-k_gm_006657D34V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, painted scene, right, 83.DA.280
+  - id: "3-l"
+    src: figures/Fig-3-l_gm_006657D5V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, top corner mount, 83.DA.280
+  - id: "3-m"
+    src: figures/Fig-3-m_gm_006657D4V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, bottom corner mount, 83.DA.280
+  - id: "3-n"
+    src: figures/Fig-3-n_gm_006657D35V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, apron mount, 83.DA.280
+  - id: "3-o"
+    src: figures/Fig-3-o_gm_006657D31V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, vernis Martin cranes, 83.DA.280
+  - id: "3-p"
+    src: figures/Fig-3-p_gm_006657D32V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, vernis Martin azaleas & daisies, 83.DA.280
+  - id: "3-q"
+    src: figures/Fig-3-q_gm_006657D38V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh,  Serre-papiers, B.V.R.B , 83.DA.280
+  - id: "3-r"
+    src: figures/Fig-3-r_gml_006657D28V1_320x320.jpg
+    caption: 'Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, Angela''s 1835 , 83.DA.280'
+  - id: "3-s"
+    src: figures/Fig-3-s_gm_006657D3V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, 2 B.V.R.B stamps, 83.DA.280
+  - id: "3-t"
+    src: figures/Fig-3-t_gm_006657D36V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, E.J.CUVELLIER, 83.DA.280
+  - id: "3-u"
+    src: figures/Fig-3-u_gm_006657D39V1_320x320.jpg
+    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, “M...xandrine de....” , 83.DA.280
+  - id: "3-v"
+    src: figures/Fig-3-v.jpg
+    caption: Cartonnier, Bernard II van Risenburgh, Inv. no. 584
+  - id: "3-w"
+    src: figures/Fig-3-w.jpg
+    caption: Clock_ composite X-ray, 83.DA.280
+  - id: "3-x"
+    src: figures/Fig-3-x.jpg
+    caption: Fig XX insect attack, 83.DA.280
+  - id: "3-y"
+    src: figures/Fig-3-y.jpg
+    caption: fig XX SerreCompositeX-ray, 83.DA.280
+  - id: "3-z"
+    src: figures/Fig-3-z.jpg
+    caption: FigXX MidLevelEndToEndB, 83.DA.280
+  - id: "3-aa"
+    src: figures/Fig-3-aa.jpg
+    caption: fig XX PLfrontcornerBottom, 83.DA.280
+  - id: "3-ab"
+    src: figures/Fig-3-ab.jpg
+    caption: fig XX 83.DA.280UnmountedUV042, 83.DA.280
+  - id: "3-ac"
+    src: figures/Fig-3-ac.JPG
+    caption: Fig. x CAT6 83DA280 S7 VIS, 83.DA.280
+  - id: "3-ad"
+    src: figures/Fig-3-ad.JPG
+    caption: x CAT6 83DA280 S7 UV, 83.DA.280
+  - id: "3-ae"
+    src: figures/Fig-3-ae.jpg
+    caption: FigXX 83.DA.280.3S6sampleSite , 83.DA.280
+  - id: "3-af"
+    src: figures/Fig-3-af.jpg
+    caption: Fig. x 83.DA.280_S6_overlay, 83.DA.280
+  - id: "3-ag"
+    src: figures/Fig-3-ag.JPG
+    caption: CAT6 83DA280 S8 site, 83.DA.280
+  - id: "3-ah"
+    src: figures/Fig-3-ah.jpg
+    caption: x CAT6 83DA280 S8 composite UV, 83.DA.280
+  - id: "3-ai"
+    src: figures/Fig-3-ai.JPG
+    caption: Fig. x CAT6 83DA280 S9 site, 83.DA.280
+  - id: "3-aj"
+    src: figures/Fig-3-aj.jpg
+    caption: x CAT6 83DA280 S9 UV, 83.DA.280
+  - id: "3-ak"
+    src: figures/Fig-3-ak.jpg
+    caption: fig xx CrownCfoot, 83.DA.280
+  - id: "3-al"
+    src: figures/Fig-3-al.jpg
+    caption: fig xx CrownC Comp, 83.DA.280
+  - id: "3-am"
+    src: figures/Fig-3-am.jpg
+    caption: Fig.XX High res. 1922, 83.DA.280
+  - id: "3-an"
+    src: figures/Fig-3-an.jpg
+    caption: Figs XX 83.DA.280.3 carvedmount C8, 83.DA.280
+  - id: "3-ao"
+    src: figures/Fig-3-ao.jpg
+    caption: Fig. XX 83.DA.280.3 Lengthened mount, 83.DA.280
 
