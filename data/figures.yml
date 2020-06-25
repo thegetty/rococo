@@ -1,158 +1,2173 @@
 figure_list:
-  - id: "3-1"
-    src: figures/Fig-3-1_gm_006657F12V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Main View, 3/4 right front, 83.DA.280
-  - id: "3-2"
-    src: figures/Fig-3-2_gm_00665701_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, front, 83.DA.280
-  - id: "3-3"
-    src: figures/Fig-3-3_gm_006657F7V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, back, 83.DA.280
-  - id: "3-4"
-    src: figures/Fig-3-4_gm_006657F15V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, top, 83.DA.280
-  - id: "3-5"
-    src: figures/Fig-3-5_gm_006657F11V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, bottom, 83.DA.280
-  - id: "3-6"
-    src: figures/Fig-3-6_gm_006657F9V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Left profile, 83.DA.280
-  - id: "3-7"
-    src: figures/Fig-3-7_gm_006657F8V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, right profile, 83.DA.280
-  - id: "3-8"
-    src: figures/Fig-3-8_gml_006657D16V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Front of clock, 83.DA.280
-  - id: "3-9"
-    src: figures/Fig-3-9_gml_006657D25V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, back of clock, 83.DA.280
-  - id: "3-10"
-    src: figures/Fig-3-10_gml_006657D29V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Front of clock workings, 83.DA.280
-  - id: "3-11"
-    src: figures/Fig-3-11_gml_006657D30V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Back of clock workings, 83.DA.280
-  - id: "3-a"
-    src: figures/Fig-3-a_gml_006657D18V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Clock, figures on top, 83.DA.280
-  - id: "3-b"
-    src: figures/Fig-3-b_gml_006657D24V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Clock, figure on left, 83.DA.280
-  - id: "3-c"
-    src: figures/Fig-3-c_gml_006657D19V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Clock, figure on right, 83.DA.280
-  - id: "3-d"
-    src: figures/Fig-3-d_gm_006657D9V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, mounts on top L & R corners, 83.DA.280
-  - id: "3-e"
-    src: figures/Fig-3-e_gm_006657D12V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, foot mount, 83.DA.280
-  - id: "3-f"
-    src: figures/Fig-3-f_gm_006657D8V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, top central mount, 83.DA.280
-  - id: "3-g"
-    src: figures/Fig-3-g_gm_006657D11V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, top central mount, 83.DA.280
-  - id: "3-h"
-    src: figures/Fig-3-h_gm_006657D13V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, middle mount, 83.DA.280
-  - id: "3-i"
-    src: figures/FIg-3-i_gm_006657D10V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, lower side mount, 83.DA.280
-  - id: "3-j"
-    src: figures/Fig-3-j_gm_006657D33V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, painted scene, left, 83.DA.280
-  - id: "3-k"
-    src: figures/Fig-3-k_gm_006657D34V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, side, painted scene, right, 83.DA.280
-  - id: "3-l"
-    src: figures/Fig-3-l_gm_006657D5V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, top corner mount, 83.DA.280
-  - id: "3-m"
-    src: figures/Fig-3-m_gm_006657D4V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, bottom corner mount, 83.DA.280
-  - id: "3-n"
-    src: figures/Fig-3-n_gm_006657D35V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, apron mount, 83.DA.280
-  - id: "3-o"
-    src: figures/Fig-3-o_gm_006657D31V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, vernis Martin cranes, 83.DA.280
-  - id: "3-p"
-    src: figures/Fig-3-p_gm_006657D32V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, vernis Martin azaleas & daisies, 83.DA.280
-  - id: "3-q"
-    src: figures/Fig-3-q_gm_006657D38V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh,  Serre-papiers, B.V.R.B , 83.DA.280
-  - id: "3-r"
-    src: figures/Fig-3-r_gml_006657D28V1_320x320.jpg
-    caption: 'Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, Angela''s 1835 , 83.DA.280'
-  - id: "3-s"
-    src: figures/Fig-3-s_gm_006657D3V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, 2 B.V.R.B stamps, 83.DA.280
-  - id: "3-t"
-    src: figures/Fig-3-t_gm_006657D36V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Serre-papiers, E.J.CUVELLIER, 83.DA.280
-  - id: "3-u"
-    src: figures/Fig-3-u_gm_006657D39V1_320x320.jpg
-    caption: Black lacquer cartonnier, Bernard II van Risenburgh, Bout de bureau, “M...xandrine de....” , 83.DA.280
-  - id: "3-v"
-    src: figures/Fig-3-v.jpg
-    caption: Cartonnier, Bernard II van Risenburgh, Inv. no. 584
-  - id: "3-w"
-    src: figures/Fig-3-w.jpg
-    caption: Clock_ composite X-ray, 83.DA.280
-  - id: "3-x"
-    src: figures/Fig-3-x.jpg
-    caption: Fig XX insect attack, 83.DA.280
-  - id: "3-y"
-    src: figures/Fig-3-y.jpg
-    caption: fig XX SerreCompositeX-ray, 83.DA.280
-  - id: "3-z"
-    src: figures/Fig-3-z.jpg
-    caption: FigXX MidLevelEndToEndB, 83.DA.280
-  - id: "3-aa"
-    src: figures/Fig-3-aa.jpg
-    caption: fig XX PLfrontcornerBottom, 83.DA.280
-  - id: "3-ab"
-    src: figures/Fig-3-ab.jpg
-    caption: fig XX 83.DA.280UnmountedUV042, 83.DA.280
-  - id: "3-ac"
-    src: figures/Fig-3-ac.JPG
-    caption: Fig. x CAT6 83DA280 S7 VIS, 83.DA.280
-  - id: "3-ad"
-    src: figures/Fig-3-ad.JPG
-    caption: x CAT6 83DA280 S7 UV, 83.DA.280
-  - id: "3-ae"
-    src: figures/Fig-3-ae.jpg
-    caption: FigXX 83.DA.280.3S6sampleSite , 83.DA.280
-  - id: "3-af"
-    src: figures/Fig-3-af.jpg
-    caption: Fig. x 83.DA.280_S6_overlay, 83.DA.280
-  - id: "3-ag"
-    src: figures/Fig-3-ag.JPG
-    caption: CAT6 83DA280 S8 site, 83.DA.280
-  - id: "3-ah"
-    src: figures/Fig-3-ah.jpg
-    caption: x CAT6 83DA280 S8 composite UV, 83.DA.280
-  - id: "3-ai"
-    src: figures/Fig-3-ai.JPG
-    caption: Fig. x CAT6 83DA280 S9 site, 83.DA.280
-  - id: "3-aj"
-    src: figures/Fig-3-aj.jpg
-    caption: x CAT6 83DA280 S9 UV, 83.DA.280
-  - id: "3-ak"
-    src: figures/Fig-3-ak.jpg
-    caption: fig xx CrownCfoot, 83.DA.280
-  - id: "3-al"
-    src: figures/Fig-3-al.jpg
-    caption: fig xx CrownC Comp, 83.DA.280
-  - id: "3-am"
-    src: figures/Fig-3-am.jpg
-    caption: Fig.XX High res. 1922, 83.DA.280
-  - id: "3-an"
-    src: figures/Fig-3-an.jpg
-    caption: Figs XX 83.DA.280.3 carvedmount C8, 83.DA.280
-  - id: "3-ao"
-    src: figures/Fig-3-ao.jpg
-    caption: Fig. XX 83.DA.280.3 Lengthened mount, 83.DA.280
 
+  - id: "fig-1"
+    src: "figures/fig-1.jpg"
+    label: "Figure 1"
+    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table (70.DA.84; [cat. no. 19](/catalogue/19/)), Ranch House, Malibu, 1950."
+    download: true
+
+  - id: "fig-2"
+    src: "figures/fig-2.jpg"
+    label: "Figure 2"
+    caption: "The Louis XV Gallery, Ranch House, Malibu, 1954."
+    download: true
+
+  - id: "fig-3"
+    src: "figures/fig-3.jpg"
+    label: "Figure 3"
+    caption: "The Régence (or Rote) Salon of Baron Alphone (Mayer) von Rothschild, view of the collection with the Dubois corner cupboard on the left (79.DA.66; [cat. no. 11](/catalogue/11/)), Theresianum Gasse 16--18, Vienna, before 1938."
+    download: true
+
+  - id: "cat-1"
+    src: "figures/cat-1.jpg"
+    label: "Catalogue 1"
+    caption: "Main view: front view of whole thing"
+    download: true
+
+  - id: "fig-1-1"
+    src: "figures/fig-1-1.jpg"
+    label: "Figure 1.1"
+    caption: "Center section, doors and drawer open."
+    download: true
+
+  - id: "fig-1-2"
+    src: "figures/fig-1-2.jpg"
+    label: "Figure 1.2"
+    caption: "Center section, three-quarter view."
+    download: true
+
+  - id: "fig-1-3"
+    src: "figures/fig-1-3.jpg"
+    label: "Figure 1.3"
+    caption: "Left section, three-quarter view."
+    download: true
+
+  - id: "fig-1-4"
+    src: "figures/fig-1-4.jpg"
+    label: "Figure 1.4"
+    caption: "Left profile."
+    download: true
+
+  - id: "fig-1-5"
+    src: "figures/fig-1-5.jpg"
+    label: "Figure 1.5"
+    caption: "Back of right section, with the "DAVAL" inscription."
+    download: true
+
+  - id: "fig-1-6"
+    src: "figures/fig-1-6.jpg"
+    label: "Figure 1.6"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 x 139.7 x 41.5 cm (66 x 55 x 16.3 in.). Versailles, Château de Versailles, OA 9599, V 5090."
+    download: true
+
+  - id: "fig-1-7"
+    src: "figures/fig-1-7.jpg"
+    label: "Figure 1.7"
+    caption: "The underside of the left side cabinet top showing the offset double pinning of the mortise-and-tenon joints, the mortises for the side panel unit, and the dado for the back panels."
+    download: true
+
+  - id: "fig-1-8"
+    src: "figures/fig-1-8.jpg"
+    label: "Figure 1.8"
+    caption: "The top section of the right case from above. Note the five pieces of oak glued around the perimeter of the frame-and-panel element. These pieces are simply butt joined, with no additional joinery between them."
+    download: true
+
+  - id: "fig-1-9"
+    src: "figures/fig-1-9.jpg"
+    label: "Figure 1.9"
+    caption: "A schematic drawing of the side panel construction."
+    download: true
+
+  - id: "fig-1-10"
+    src: "figures/fig-1-10.jpg"
+    label: "Figure 1.10"
+    caption: "Inside cabinet door."
+    download: true
+
+  - id: "fig-1-11"
+    src: "figures/fig-1-11.jpg"
+    label: "Figure 1.11"
+    caption: "An X-radiograph of a door, showing the batten, or breadboard end, at the bottom, joined to the vertical boards with hand-shaped wooden pegs, driven into holes drilled with a round-tipped spoon bit."
+    download: true
+
+  - id: "fig-1-12"
+    src: "figures/fig-1-12.jpg"
+    label: "Figure 1.12"
+    caption: "The bottom of the central base section. The front bottom rails of the base are fixed to the sides with a single dovetail, reinforced with three wooden pegs."
+    download: true
+
+  - id: "fig-1-13"
+    src: "figures/fig-1-13.jpg"
+    label: "Figure 1.13"
+    caption: "Three-quarter top view of a drawer."
+    download: true
+
+  - id: "fig-1-14"
+    src: "figures/fig-1-14.jpg"
+    label: "Figure 1.14"
+    caption: "Three-quarter bottom view of a drawer."
+    download: true
+
+  - id: "fig-1-15"
+    src: "figures/fig-1-15.jpg"
+    label: "Figure 1.15"
+    caption: "A schematic drawing of the log of *ferréol* that provided the highly varied patterns of veneer used on the cabinet."
+    download: true
+
+  - id: "fig-1-16"
+    src: "figures/fig-1-16.jpg"
+    label: "Figure 1.16"
+    caption: "This image shows the unusually extensive and creative use of *ferréol* on the cabinet surfaces."
+    download: true
+
+  - id: "fig-1-17"
+    src: "figures/fig-1-17.jpg"
+    label: "Figure 1.17"
+    caption: "A lock disassembled; top left, the lock as removed from the door; top right, the upper and lower bolts removed; bottom left, the lock with the intermediate cover plate removed showing the action of the double bolt above and the spring catch at bottom; bottom right, the inner face of the intermediate cover plate with the wards for the key attached."
+    download: true
+
+  - id: "cat-2"
+    src: "figures/cat-2.jpg"
+    label: "Catalogue 2"
+    caption: "Main view: 3/4 right front of .1, front of .2"
+    download: true
+
+  - id: "fig-2-1"
+    src: "figures/fig-2-1.jpg"
+    label: "Figure 2.1"
+    caption: "Front, doors open."
+    download: true
+
+  - id: "fig-2-2"
+    src: "figures/fig-2-2.jpg"
+    label: "Figure 2.2"
+    caption: "Front, slide out."
+    download: true
+
+  - id: "fig-2-3"
+    src: "figures/fig-2-3.jpg"
+    label: "Figure 2.3"
+    caption: "Left profile."
+    download: true
+
+  - id: "fig-2-4"
+    src: "figures/fig-2-4.jpg"
+    label: "Figure 2.4"
+    caption: "On the back of the cabinet on the upper rail is stamped "B.V.R.B." (84.DA.24.1)."
+    download: true
+
+  - id: "fig-2-5"
+    src: "figures/fig-2-5.jpg"
+    label: "Figure 2.5"
+    caption: "On the back of the cabinet on the upper rail is stamped "B.V.R.B." (84.DA.24.2)."
+    download: true
+
+  - id: "fig-2-6"
+    src: "figures/fig-2-6.jpg"
+    label: "Figure 2.6"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Louis XV's secretary at Trianon, ca. 1755. Oak frame, rosewood, kingwood, gilt bronze, white marble, white satin, 229 x 112 x 53 cm (90 x 44 x 20.9 in.). Le Mans, Musée de Tessé, Inv. 1906.29.66."
+    download: true
+
+  - id: "fig-2-7"
+    src: "figures/fig-2-7.jpg"
+    label: "Figure 2.7"
+    caption: "Back."
+    download: true
+
+  - id: "fig-2-8"
+    src: "figures/fig-2-8.jpg"
+    label: "Figure 2.8"
+    caption: "X-radiograph, and corresponding photograph, showing a multilayered cabinet top. A cross-grain is visible in the X-radiograph, revealing the presence of a hidden board between the upper veneer and the original panelboard, which is invisible from below."
+    download: true
+
+  - id: "fig-2-9"
+    src: "figures/fig-2-9.jpg"
+    label: "Figure 2.9"
+    caption: "Top."
+    download: true
+
+  - id: "fig-2-10"
+    src: "figures/fig-2-10.jpg"
+    label: "Figure 2.10"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-2-11"
+    src: "figures/fig-2-11.jpg"
+    label: "Figure 2.11"
+    caption: "Bonde (per the signature \[unidentified French painter\]), *Les enfants des Machault d'Arnouville*, ca. 1741--47. Pastel on paper, 114 x 89 cm (44.9 x 35 in.). Thoiry, château de Thoiry."
+    download: true
+
+  - id: "fig-2-12"
+    src: "figures/fig-2-12.jpg"
+    label: "Figure 2.12"
+    caption: "Composite of two X-radiographs showing that the slides, situated between the upper and lower door sections, are made of butt-joined boards running from side to side, with front-to-back battens on both ends. The battens are attached with both tongue-and-groove joints and mortise and tenons at the front and back."
+    download: true
+
+  - id: "fig-2-13"
+    src: "figures/fig-2-13.jpg"
+    label: "Figure 2.13"
+    caption: "Detail showing the traces of shoulder knife cuts, here seen as compressed and distorted wood fibers around the tight curves of the marquetry. Such evidence is found widely on these cabinets."
+    download: true
+
+  - id: "fig-2-14"
+    src: "figures/fig-2-14.jpg"
+    label: "Figure 2.14"
+    caption: "X-radiograph of the .1 lower left door. It is comprised of butt-joined vertical boards secured with tongue-and-groove joints to horizontal battens at the top and bottom. Veneer pin holes align well with the inner edge of the amaranth banding, showing that the craftsman applied veneer from the perimeter toward the middle."
+    download: true
+
+  - id: "fig-2-15"
+    src: "figures/fig-2-15.jpg"
+    label: "Figure 2.15"
+    caption: "X-radiograph of one of the cabinet's sides showing that the veneer pin holes are slightly offset, suggesting the marquetry may have been removed during a previous restoration."
+    download: true
+
+  - id: "cat-3"
+    src: "figures/cat-3.jpg"
+    label: "Catalogue 3"
+    caption: "Main view: 3/4 right front, with side door open"
+    download: true
+
+  - id: "fig-3-1"
+    src: "figures/fig-3-1.jpg"
+    label: "Figure 3.1"
+    caption: "Front of the clock."
+    download: true
+
+  - id: "fig-3-2"
+    src: "figures/fig-3-2.jpg"
+    label: "Figure 3.2"
+    caption: "Right profile."
+    download: true
+
+  - id: "fig-3-3"
+    src: "figures/fig-3-3.jpg"
+    label: "Figure 3.3"
+    caption: "Mount detail."
+    download: true
+
+  - id: "fig-3-4"
+    src: "figures/fig-3-4.jpg"
+    label: "Figure 3.4"
+    caption: "Center of the top rail on the back of the *bout de bureau* stamped "B.V.R.B." twice."
+    download: true
+
+  - id: "fig-3-5"
+    src: "figures/fig-3-5.jpg"
+    label: "Figure 3.5"
+    caption: "Stamp on the upper back of the *bout de bureau*: "E.J.CUVELLIER."
+    download: true
+
+  - id: "fig-3-6"
+    src: "figures/fig-3-6.jpg"
+    label: "Figure 3.6"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois santiné*, chased gilt bronze mounts, 57 x 82 x 31 cm (22.4 x 32.3 x 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584."
+    download: true
+
+  - id: "fig-3-7"
+    src: "figures/fig-3-7.jpg"
+    label: "Figure 3.7"
+    caption: "Back."
+    download: true
+
+  - id: "fig-3-8"
+    src: "figures/fig-3-8.jpg"
+    label: "Figure 3.8"
+    caption: "X-radiograph of the left side of the *serre-papiers*, showing extensive insect damage to the poplar structure. The damage is partly filled with a high-density restoration putty (white in image)."
+    download: true
+
+  - id: "fig-3-9"
+    src: "figures/fig-3-9.jpg"
+    label: "Figure 3.9"
+    caption: "X-radiograph showing the loose tenon securing the corner scroll to the base."
+    download: true
+
+  - id: "fig-3-10"
+    src: "figures/fig-3-10.jpg"
+    label: "Figure 3.10"
+    caption: "Top of the *bout de bureau* under ultraviolet illumination, showing the C-shaped veneer patch beneath the sides and back edge of the *serre-papiers*."
+    download: true
+
+  - id: "fig-3-11"
+    src: "figures/fig-3-11.jpg"
+    label: "Figure 3.11"
+    caption: "Cross-section photomicrograph in visible light (left) and in ultraviolet illumination (right) illustrating the layer structure of the European lacquer on the *serre-papiers*. The sample shows a mixture of gold- and silver-colored metal powders."
+    download: true
+
+  - id: "fig-3-12"
+    src: "figures/fig-3-12.jpg"
+    label: "Figure 3.12"
+    caption: "Detail of the front of the *bout de bureau.*"
+    download: true
+
+  - id: "fig-3-13"
+    src: "figures/fig-3-13.jpg"
+    label: "Figure 3.13"
+    caption: "Composite photomicrograph in ultraviolet illumination showing the stratigraphy of the clock, which varies significantly from the body of the *cartonnier*."
+    download: true
+
+  - id: "fig-3-14"
+    src: "figures/fig-3-14.jpg"
+    label: "Figure 3.14"
+    caption: "Cross-section photomicrograph in ultraviolet illumination illustrating the buildup of lacquer layers on the *pagodes* beginning with the transparent undervarnish."
+    download: true
+
+  - id: "fig-3-15"
+    src: "figures/fig-3-15.jpg"
+    label: "Figure 3.15"
+    caption: "Detail of the crowned C stamp on the foot of the *pagode* (left) and a stamp on a gilt bronze mount from the clock. The *pagode* was stamped before the application of the lacquer."
+    download: true
+
+  - id: "fig-3-16"
+    src: "figures/fig-3-16.jpg"
+    label: "Figure 3.16"
+    caption: "Image of the Getty *cartonnier* from the sale catalogue, *Porcelain, Objects of Art and Decorative Furniture*, Christie, Manson & Woods, London, May 9, 1922, lot 144."
+    download: true
+
+  - id: "fig-3-17"
+    src: "figures/fig-3-17.jpg"
+    label: "Figure 3.17"
+    caption: "Details, front and rear, of the upper right framing mount of the front of the *bout de bureau*. The central section has been brazed in to lengthen the original, shorter mount for use on the broad front of the *bout*."
+    download: true
+
+  - id: "cat-4"
+    src: "figures/cat-4.jpg"
+    label: "Catalogue 4"
+    caption: "Main view: front of both cupboards"
+    download: true
+
+  - id: "fig-4-1"
+    src: "figures/fig-4-1.jpg"
+    label: "Figure 4.1"
+    caption: "Front, doors open."
+    download: true
+
+  - id: "fig-4-2"
+    src: "figures/fig-4-2.jpg"
+    label: "Figure 4.2"
+    caption: "Stamp on the top of 72.DA.44.1: "B.V.R.B.""
+    download: true
+
+  - id: "fig-4-3"
+    src: "figures/fig-4-3.jpg"
+    label: "Figure 4.3"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1745--49. Oak veneered with ebony and Coromandel lacquer, cherry wood, and purplewood; gilt bronze mounts; brocatelle marble top, 91.1 x 86 x 66.4 cm (35 7/8 x 33 7/8 x 26 1/8 in.). New York, Metropolitan Museum of Art, 1983.185.1."
+    download: true
+
+  - id: "fig-4-4"
+    src: "figures/fig-4-4.jpg"
+    label: "Figure 4.4"
+    caption: "Ghosts of the original metal hinge straps that once fixed this lacquer panel to a Japanese cabinet, top left corner of 72.DA.44.2."
+    download: true
+
+  - id: "fig-4-5"
+    src: "figures/fig-4-5.jpg"
+    label: "Figure 4.5"
+    caption: "Top."
+    download: true
+
+  - id: "fig-4-6"
+    src: "figures/fig-4-6.jpg"
+    label: "Figure 4.6"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-4-7"
+    src: "figures/fig-4-7.jpg"
+    label: "Figure 4.7"
+    caption: "Left back."
+    download: true
+
+  - id: "fig-4-8"
+    src: "figures/fig-4-8.jpg"
+    label: "Figure 4.8"
+    caption: "Intact Japanese cabinet in the collections of Rosenborg Castle. A similar cabinet was the likely source for the lacquerwork on the Museum's cabinets. Cabinet, ca. 1640--90, 69.8 x 91.1 x 50.8 cm (27 1/2 x 35 7/8 x 20 in.). Copenhagen, Royal Collections, Rosenborg Castle, EAc 229."
+    download: true
+
+  - id: "fig-4-9"
+    src: "figures/fig-4-9.jpg"
+    label: "Figure 4.9"
+    caption: "Composite cross-section photomicrograph in ultraviolet illumination showing the original Japanese substrate thinned down to 1.3 mm."
+    download: true
+
+  - id: "fig-4-10"
+    src: "figures/fig-4-10.jpg"
+    label: "Figure 4.10"
+    caption: "X-ray images of the doors of cabinet .1 with an overlay detailing the locations of the nail holes from the original Japanese cabinet hinges."
+    download: true
+
+  - id: "fig-4-11"
+    src: "figures/fig-4-11.jpg"
+    label: "Figure 4.11"
+    caption: "X-ray images of the doors of cabinet .2 with an overlay detailing the locations of the nail holes from the original Japanese cabinet hinges."
+    download: true
+
+  - id: "fig-4-12"
+    src: "figures/fig-4-12.jpg"
+    label: "Figure 4.12"
+    caption: "Cross-section photomicrograph in ultraviolet illumination showing the black clay ground used in cabinet .1."
+    download: true
+
+  - id: "fig-4-13"
+    src: "figures/fig-4-13.jpg"
+    label: "Figure 4.13"
+    caption: "Cross-section photomicrograph in ultraviolet illumination showing the beige-colored ground used in cabinet .2."
+    download: true
+
+  - id: "fig-4-14"
+    src: "figures/fig-4-14.jpg"
+    label: "Figure 4.14"
+    caption: "The locations of the samples taken for comparison from the .1 (above) and .2 (below) cabinets."
+    download: true
+
+  - id: "fig-4-15"
+    src: "figures/fig-4-15.jpg"
+    label: "Figure 4.15"
+    caption: "Composite photomicrograph of the Japanese lacquer on cabinet .1 featuring the complex buildup of layers to create the surface decoration. The seven layers (including the wood) comprising the black background are 0.75 mm thick. The *takamakie* decoration above adds 0.65 mm of thickness in an additional six to seven layers."
+    download: true
+
+  - id: "fig-4-16"
+    src: "figures/fig-4-16.jpg"
+    label: "Figure 4.16"
+    caption: "Right door from cabinet .1 as seen under ultraviolet illumination showing the variety of materials applied to the surface during different restoration campaigns."
+    download: true
+
+  - id: "cat-5"
+    src: "figures/cat-5.jpg"
+    label: "Catalogue 5"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-5-1"
+    src: "figures/fig-5-1.jpg"
+    label: "Figure 5.1"
+    caption: "Front, doors open."
+    download: true
+
+  - id: "fig-5-2"
+    src: "figures/fig-5-2.jpg"
+    label: "Figure 5.2"
+    caption: "The top of the front right leg is stamped "B.V.R.B.""
+    download: true
+
+  - id: "fig-5-3"
+    src: "figures/fig-5-3.jpg"
+    label: "Figure 5.3"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 x 127 x 61 cm (33.5 x 50 x 24 in.). Paris, Musée du Louvre, OA 11193."
+    download: true
+
+  - id: "fig-5-4"
+    src: "figures/fig-5-4.jpg"
+    label: "Figure 5.4"
+    caption: "Sliding through-dovetails are used to attach the case bottom rails to the posts. The groove for the side panel attachment is visible on the inner face of the post."
+    download: true
+
+  - id: "fig-5-5"
+    src: "figures/fig-5-5.jpg"
+    label: "Figure 5.5"
+    caption: "Top."
+    download: true
+
+  - id: "fig-5-6"
+    src: "figures/fig-5-6.jpg"
+    label: "Figure 5.6"
+    caption: "Back."
+    download: true
+
+  - id: "fig-5-7"
+    src: "figures/fig-5-7.jpg"
+    label: "Figure 5.7"
+    caption: "Detail of the *galon*, or trim, at the perimeter of the interior's silk lining."
+    download: true
+
+  - id: "fig-5-8"
+    src: "figures/fig-5-8.jpg"
+    label: "Figure 5.8"
+    caption: "Composite X-radiograph of the commode's front doors. The pattern of damage in the central area is the result of the removal of the lock that adorned the original Japanese cabinet from which the lacquer was taken."
+    download: true
+
+  - id: "fig-5-9"
+    src: "figures/fig-5-9.jpg"
+    label: "Figure 5.9"
+    caption: "Composite cross-section photomicrograph under ultraviolet illumination showing the Japanese lacquer from the front panel."
+    download: true
+
+  - id: "fig-5-10"
+    src: "figures/fig-5-10.jpg"
+    label: "Figure 5.10"
+    caption: "Composite cross-section photomicrograph of a sample from the left side panel showing a layer structure similar to the front lacquer panel."
+    download: true
+
+  - id: "fig-5-11"
+    src: "figures/fig-5-11.jpg"
+    label: "Figure 5.11"
+    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 x 69 x 49 cm (35.8 x 27.2 x 19.3 in.). Vienna, Präsidentschaftskanzleiin, MD 035837. Photo: Silvia Miklin-Kniefacz"
+    download: true
+
+  - id: "fig-5-12"
+    src: "figures/fig-5-12.jpg"
+    label: "Figure 5.12"
+    caption: "X-radiograph of the paired holes on the commode's right side (white areas overlapping the cartouche); these may indicate the position of the handles on the sides of the original Japanese cabinet."
+    download: true
+
+  - id: "fig-5-13"
+    src: "figures/fig-5-13.jpg"
+    label: "Figure 5.13"
+    caption: "X-radiograph of the border on the front showing the radio-opaque raised cartouche extending over a now-concealed Japanese decoration with a sprinkled dot pattern."
+    download: true
+
+  - id: "fig-5-14"
+    src: "figures/fig-5-14.jpg"
+    label: "Figure 5.14"
+    caption: "Cross-section photomicrograph of the European lacquer in visible light showing the layer structure of the original ground, original pigmented and transparent varnishes, and later restorations."
+    download: true
+
+  - id: "fig-5-15"
+    src: "figures/fig-5-15.jpg"
+    label: "Figure 5.15"
+    caption: "Cross-section photomicrograph of the European lacquer in ultraviolet illumination showing the layer structure of the original ground, original pigmented and transparent varnishes, and later restorations."
+    download: true
+
+  - id: "fig-5-16"
+    src: "figures/fig-5-16.jpg"
+    label: "Figure 5.16"
+    caption: "Detail of marble tabletop with rudist bivalve fossil traces."
+    download: true
+
+  - id: "fig-5-17"
+    src: "figures/fig-5-17.jpg"
+    label: "Figure 5.17"
+    caption: "Profile rending of the commode's marble top."
+    download: true
+
+  - id: "cat-6"
+    src: "figures/cat-6.jpg"
+    label: "Catalogue 6"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-6-1"
+    src: "figures/fig-6-1.jpg"
+    label: "Figure 6.1"
+    caption: "Left profile."
+    download: true
+
+  - id: "fig-6-2"
+    src: "figures/fig-6-2.jpg"
+    label: "Figure 6.2"
+    caption: "On top of the right rear leg stile are the stamps "JME B.V.R.B. JME.""
+    download: true
+
+  - id: "fig-6-3"
+    src: "figures/fig-6-3.jpg"
+    label: "Figure 6.3"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*. Caen, musée des Beaux-Arts de Caen."
+    download: true
+
+  - id: "fig-6-4"
+    src: "figures/fig-6-4.jpg"
+    label: "Figure 6.4"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 x 116 x 54.5 cm (33 x 45 3/4 x 21 1/2 in.). Abu Dhabi, Louvre Abu Dhabi."
+    download: true
+
+  - id: "fig-6-5"
+    src: "figures/fig-6-5.jpg"
+    label: "Figure 6.5"
+    caption: "Detail of the top of the left rear leg showing its laminated construction from two pieces of oak. The image also shows the maker's stamp, the back rail slid into place from above, and the small patch inserted to fill the groove cut for the case side attachment."
+    download: true
+
+  - id: "fig-6-6"
+    src: "figures/fig-6-6.jpg"
+    label: "Figure 6.6"
+    caption: "Back."
+    download: true
+
+  - id: "fig-6-7"
+    src: "figures/fig-6-7.jpg"
+    label: "Figure 6.7"
+    caption: "Top."
+    download: true
+
+  - id: "fig-6-8"
+    src: "figures/fig-6-8.jpg"
+    label: "Figure 6.8"
+    caption: "The case without marble top, drawers, or mounts showing the bottom exterior rail and cutout for the drop apron."
+    download: true
+
+  - id: "fig-6-9"
+    src: "figures/fig-6-9.jpg"
+    label: "Figure 6.9"
+    caption: "The front-to-rear medial rails were attached to the top rear rail using unpinned through mortise and tenons, seen here."
+    download: true
+
+  - id: "fig-6-10"
+    src: "figures/fig-6-10.jpg"
+    label: "Figure 6.10"
+    caption: "This image shows the long groove cut in the leg post that extends below the case bottom."
+    download: true
+
+  - id: "fig-6-11"
+    src: "figures/fig-6-11.jpg"
+    label: "Figure 6.11"
+    caption: "Composite ultraviolet photomicrograph of the Chinese lacquer showing an overall thickness of 1.2 mm, including what remains of the original wood substrate."
+    download: true
+
+  - id: "fig-6-12"
+    src: "figures/fig-6-12.jpg"
+    label: "Figure 6.12"
+    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
+    download: true
+
+  - id: "fig-6-13"
+    src: "figures/fig-6-13.jpg"
+    label: "Figure 6.13"
+    caption: "Detail of one of the solid sycamore maple blocks inserted into the tops of the legs to provide a smooth substrate for lacquering."
+    download: true
+
+  - id: "fig-6-14"
+    src: "figures/fig-6-14.jpg"
+    label: "Figure 6.14"
+    caption: "Detail of the foot with mount removed showing area of European lacquer sampled for analysis."
+    download: true
+
+  - id: "fig-6-15"
+    src: "figures/fig-6-15.jpg"
+    label: "Figure 6.15"
+    caption: "Cross-section photomicrograph in visible light showing the buildup of the European varnish layers."
+    download: true
+
+  - id: "fig-6-16"
+    src: "figures/fig-6-16.jpg"
+    label: "Figure 6.16"
+    caption: "Cross-section photomicrograph in ultraviolet illumination showing the buildup of the European varnish layers."
+    download: true
+
+  - id: "cat-7"
+    src: "figures/cat-7.jpg"
+    label: "Catalogue 7"
+    caption: "Main view: 3/4 right front of each"
+    download: true
+
+  - id: "fig-7-1"
+    src: "figures/fig-7-1.jpg"
+    label: "Figure 7.1"
+    caption: "Front."
+    download: true
+
+  - id: "fig-7-2"
+    src: "figures/fig-7-2.jpg"
+    label: "Figure 7.2"
+    caption: "Left profile."
+    download: true
+
+  - id: "fig-7-3"
+    src: "figures/fig-7-3.jpg"
+    label: "Figure 7.3"
+    caption: "Stamped "B.V.R.B." on the top of the proper left leg stile (71.DA.96.2)."
+    download: true
+
+  - id: "fig-7-4"
+    src: "figures/fig-7-4.jpg"
+    label: "Figure 7.4"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1750. Now destroyed. Residenzschloss, Dresden. Pictured in Adolf Feulner, *Kunstgeschichte des Möbels* (Berlin: Propyläen-Verlag, 1927), 325, fig. 227."
+    download: true
+
+  - id: "fig-7-5"
+    src: "figures/fig-7-5.jpg"
+    label: "Figure 7.5"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode* (one of a pair), ca. 1750. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding, *brèche d'Alep* marble top; brass and iron locks, 92.5 x 150 x 64.5 cm (36.5 x 59 x 25.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37418."
+    download: true
+
+  - id: "fig-7-6"
+    src: "figures/fig-7-6.jpg"
+    label: "Figure 7.6"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, mid-eighteenth century. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; marble top; brass and iron locks, 89 x 146 x 67 (35 x 57.5 x 26.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37348."
+    download: true
+
+  - id: "fig-7-7"
+    src: "figures/fig-7-7.jpg"
+    label: "Figure 7.7"
+    caption: "Back of commode .1."
+    download: true
+
+  - id: "fig-7-8"
+    src: "figures/fig-7-8.jpg"
+    label: "Figure 7.8"
+    caption: "Top of commode .1."
+    download: true
+
+  - id: "fig-7-9"
+    src: "figures/fig-7-9.jpg"
+    label: "Figure 7.9"
+    caption: "Detail of the notched dovetail joint between the front rail and proper left leg."
+    download: true
+
+  - id: "fig-7-10"
+    src: "figures/fig-7-10.jpg"
+    label: "Figure 7.10"
+    caption: "Bottom of commode .1."
+    download: true
+
+  - id: "fig-7-11"
+    src: "figures/fig-7-11.jpg"
+    label: "Figure 7.11"
+    caption: "Detail of the sliding half-dovetails that are used to connect the side rails with the rear and front legs."
+    download: true
+
+  - id: "fig-7-12"
+    src: "figures/fig-7-12.jpg"
+    label: "Figure 7.12"
+    caption: "Detail of the blocks of oak that were added to fill gaps around the notched inside front corners of the rear legs after assembly."
+    download: true
+
+  - id: "fig-7-13"
+    src: "figures/fig-7-13.jpg"
+    label: "Figure 7.13"
+    caption: "Top view of the upper drawer of commode .1."
+    download: true
+
+  - id: "fig-7-14"
+    src: "figures/fig-7-14.jpg"
+    label: "Figure 7.14"
+    caption: "Bottom view of the lower drawer of commode .1."
+    download: true
+
+  - id: "fig-7-15"
+    src: "figures/fig-7-15.jpg"
+    label: "Figure 7.15"
+    caption: "Three-quarter view without drawers showing internal construction and the cutaway apron."
+    download: true
+
+  - id: "fig-7-16"
+    src: "figures/fig-7-16.jpg"
+    label: "Figure 7.16"
+    caption: "Detail of the marquetry. The kingwood was likely cut to shape with a fret saw and inlaid with a shoulder knife."
+    download: true
+
+  - id: "fig-7-17"
+    src: "figures/fig-7-17.jpg"
+    label: "Figure 7.17"
+    caption: "Two versions of one of the mounts, at left the model or "original" and at right an aftercast made from that model. There is a marked difference in their surface treatment. Generally, the models are larger and less detailed, and the copies are smaller, with more elaborate surface chasing."
+    download: true
+
+  - id: "cat-8"
+    src: "figures/cat-8.jpg"
+    label: "Catalogue 8"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-8-1"
+    src: "figures/fig-8-1.jpg"
+    label: "Figure 8.1"
+    caption: "Right profile."
+    download: true
+
+  - id: "fig-8-2"
+    src: "figures/fig-8-2.jpg"
+    label: "Figure 8.2"
+    caption: "Three-quarter right front, fall front open."
+    download: true
+
+  - id: "fig-8-3"
+    src: "figures/fig-8-3.jpg"
+    label: "Figure 8.3"
+    caption: "Top."
+    download: true
+
+  - id: "fig-8-4"
+    src: "figures/fig-8-4.jpg"
+    label: "Figure 8.4"
+    caption: "Front of a drawer inside the desk."
+    download: true
+
+  - id: "fig-8-5"
+    src: "figures/fig-8-5.jpg"
+    label: "Figure 8.5"
+    caption: "Engraved plates that cover the hinges inside the desk."
+    download: true
+
+  - id: "fig-8-6"
+    src: "figures/fig-8-6.jpg"
+    label: "Figure 8.6"
+    caption: "Underneath the central drawer on the back of the desk, a rail is stamped "JME B.V.R.B. JME.""
+    download: true
+
+  - id: "fig-8-7"
+    src: "figures/fig-8-7.jpg"
+    label: "Figure 8.7"
+    caption: "One of the seven wax seals of the Duke of Argyll."
+    download: true
+
+  - id: "fig-8-8"
+    src: "figures/fig-8-8.jpg"
+    label: "Figure 8.8"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Lean-to *secrétaire*, ca. 1750. Oak veneered with tulipwood, inlaid with stylized floral marquetry of kingwood; mounts of chased and gilt bronze; drawers of mahogany, probably relined, 104 x 142.2 x 67.5 cm (41 x 56 x 26.5 in.). Edinburgh, Dalmeny House, collection of the Earl of Rosebery."
+    download: true
+
+  - id: "fig-8-9"
+    src: "figures/fig-8-9.jpg"
+    label: "Figure 8.9"
+    caption: "View through the interior of the left side of the desk showing the bottom front rail, leg post, and drawer divider carved back to accommodate the drawer front."
+    download: true
+
+  - id: "fig-8-10"
+    src: "figures/fig-8-10.jpg"
+    label: "Figure 8.10"
+    caption: "X-radiograph showing the buildup of overlapping, stacked, and laminated oak blocks that create the curved form of the case sides."
+    download: true
+
+  - id: "fig-8-11"
+    src: "figures/fig-8-11.jpg"
+    label: "Figure 8.11"
+    caption: "The pigeonholes and drawers on both sides of the desk are built as separate removable units."
+    download: true
+
+  - id: "fig-8-12"
+    src: "figures/fig-8-12.jpg"
+    label: "Figure 8.12"
+    caption: "X-radiograph detailing how the upper sections of the legs were internally modified to enlarge the swell of the knees behind the pierced sections of the corner mounts."
+    download: true
+
+  - id: "fig-8-13"
+    src: "figures/fig-8-13.jpg"
+    label: "Figure 8.13"
+    caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
+    download: true
+
+  - id: "fig-8-14"
+    src: "figures/fig-8-14.jpg"
+    label: "Figure 8.14"
+    caption: "Detail of a lock from one of the exterior drawers, mounted to a pair of horizontal oak blocks that are glued and nailed to the inner face of the drawer fronts."
+    download: true
+
+  - id: "fig-8-15"
+    src: "figures/fig-8-15.jpg"
+    label: "Figure 8.15"
+    caption: "Drawer seen from the top with its gilt bronze lock box."
+    download: true
+
+  - id: "fig-8-16"
+    src: "figures/fig-8-16.jpg"
+    label: "Figure 8.16"
+    caption: "Detail of one of the fall fronts showing the iron hinge and their elegant gilt bronze cover."
+    download: true
+
+  - id: "cat-9"
+    src: "figures/cat-9.jpg"
+    label: "Catalogue 9"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-9-1"
+    src: "figures/fig-9-1.jpg"
+    label: "Figure 9.1"
+    caption: "Three-quarter right front, with writing slide and candlestick slides pulled out."
+    download: true
+
+  - id: "fig-9-2"
+    src: "figures/fig-9-2.jpg"
+    label: "Figure 9.2"
+    caption: "Writing slide with green leather and marquetry surface."
+    download: true
+
+  - id: "fig-9-3"
+    src: "figures/fig-9-3.jpg"
+    label: "Figure 9.3"
+    caption: "Slide to support a candlestick."
+    download: true
+
+  - id: "fig-9-4"
+    src: "figures/fig-9-4.jpg"
+    label: "Figure 9.4"
+    caption: "Drawer."
+    download: true
+
+  - id: "fig-9-5"
+    src: "figures/fig-9-5.jpg"
+    label: "Figure 9.5"
+    caption: ""JME" and "B.V.R.B" stamps on the underside of the left front rail."
+    download: true
+
+  - id: "fig-9-6"
+    src: "figures/fig-9-6.jpg"
+    label: "Figure 9.6"
+    caption: "Two paper labels on the underside of the table, one printed "Londesborough" and the other "J.J. Allen.""
+    download: true
+
+  - id: "fig-9-7"
+    src: "figures/fig-9-7.jpg"
+    label: "Figure 9.7"
+    caption: "Top surface."
+    download: true
+
+  - id: "fig-9-8"
+    src: "figures/fig-9-8.jpg"
+    label: "Figure 9.8"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Writing table (*table à écrire*), ca. 1755. Oak veneered with tulipwood, kingwood, amaranth, mahogany, ebony, mother-of-pearl, stained horn; gilt bronze mounts; modern velvet, 78.1 x 96.5 x 57.5 cm (30 3/4 x 38 x 22 5/8 in.). New York, Metropolitan Museum of Art, 1976.155.100."
+    download: true
+
+  - id: "fig-9-9"
+    src: "figures/fig-9-9.jpg"
+    label: "Figure 9.9"
+    caption: "View through the case, from right to left, with drawers and candle slides removed. The writing slide is extended toward the front (left side of the image)."
+    download: true
+
+  - id: "fig-9-10"
+    src: "figures/fig-9-10.jpg"
+    label: "Figure 9.10"
+    caption: "Composite of several X-radiographs of the tabletop showing its unconventional assembly method."
+    download: true
+
+  - id: "fig-9-11"
+    src: "figures/fig-9-11.jpg"
+    label: "Figure 9.11"
+    caption: "Schematic diagram of the construction and assembly of the top."
+    download: true
+
+  - id: "fig-9-12"
+    src: "figures/fig-9-12.jpg"
+    label: "Figure 9.12"
+    caption: "The quarter-round molding along the edge of the tabletop is made of many pieces of solid tulipwood, averaging about 4 cm long and about 2.1 cm wide, which extend well beneath the adjacent amaranth veneer banding."
+    download: true
+
+  - id: "fig-9-13"
+    src: "figures/fig-9-13.jpg"
+    label: "Figure 9.13"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-9-14"
+    src: "figures/fig-9-14.jpg"
+    label: "Figure 9.14"
+    caption: "Detail of a flower in the veneer showing a visible connecting cut between a leaf and a stem."
+    download: true
+
+  - id: "fig-9-15"
+    src: "figures/fig-9-15.jpg"
+    label: "Figure 9.15"
+    caption: "An errant shoulder knife mark shows that the stem here was inlaid with a knife, not a fretsaw."
+    download: true
+
+  - id: "fig-9-16"
+    src: "figures/fig-9-16.jpg"
+    label: "Figure 9.16"
+    caption: "The scrolling acanthus mount on the left is one of two later copies of the original mounts (example on the right). The copies are not as finely chased and have unrepaired casting flaws."
+    download: true
+
+  - id: "cat-10"
+    src: "figures/cat-10.jpg"
+    label: "Catalogue 10"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-10-1"
+    src: "figures/fig-10-1.jpg"
+    label: "Figure 10.1"
+    caption: "Mount on a corner of the table."
+    download: true
+
+  - id: "fig-10-2"
+    src: "figures/fig-10-2.jpg"
+    label: "Figure 10.2"
+    caption: "Right profile."
+    download: true
+
+  - id: "fig-10-3"
+    src: "figures/fig-10-3.jpg"
+    label: "Figure 10.3"
+    caption: "Top of a front leg with the stamp "JME B.V.R.B. JME.""
+    download: true
+
+  - id: "fig-10-4"
+    src: "figures/fig-10-4.jpg"
+    label: "Figure 10.4"
+    caption: "Underneath the table by the left drawer, with the effaced stamp "JME BVRB JME.""
+    download: true
+
+  - id: "fig-10-5"
+    src: "figures/fig-10-5.jpg"
+    label: "Figure 10.5"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Tulipwood and kingwood with gilt bronze mounts. Vienna, The Princely Collections, Liechtenstein."
+    download: true
+
+  - id: "fig-10-6"
+    src: "figures/fig-10-6.jpg"
+    label: "Figure 10.6"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Amaranth, *bois satiné*, and Japanese lacquer with gilt bronze mounts, 164.5 x 78 x 80 cm (64.75 x 30.75 x 31.5 in.). London, Christie's, June 10, 1993, lot 34."
+    download: true
+
+  - id: "fig-10-7"
+    src: "figures/fig-10-7.jpg"
+    label: "Figure 10.7"
+    caption: "Drawer."
+    download: true
+
+  - id: "fig-10-8"
+    src: "figures/fig-10-8.jpg"
+    label: "Figure 10.8"
+    caption: "Edward Holmes Baldock (English, 1777--1845), *Bureau plat*, nineteenth century. Tulipwood and kingwood with gilt bronze mounts, 79 x 161.7 x 80.6 cm (31.1 x 63.7 x 31.7 in.). Los Angeles, Sotheby Parke Bernet, October 31, 1978, lot 795."
+    download: true
+
+  - id: "fig-10-9"
+    src: "figures/fig-10-9.jpg"
+    label: "Figure 10.9"
+    caption: "Case with top and drawers removed, showing the double wood pins used to attach the vertical blocks between the drawers to the top front rail."
+    download: true
+
+  - id: "fig-10-10"
+    src: "figures/fig-10-10.jpg"
+    label: "Figure 10.10"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-10-11"
+    src: "figures/fig-10-11.jpg"
+    label: "Figure 10.11"
+    caption: "Detail of one of the two extra dovetail mortises cut into the top front rail, just outside of the side drawer kickers, that are likely the result of a placement error during construction."
+    download: true
+
+  - id: "fig-10-12"
+    src: "figures/fig-10-12.jpg"
+    label: "Figure 10.12"
+    caption: "Remnants of the original loose double-dovetail blocks that were severed to remove the original case top."
+    download: true
+
+  - id: "fig-10-13"
+    src: "figures/fig-10-13.jpg"
+    label: "Figure 10.13"
+    caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
+    download: true
+
+  - id: "fig-10-14"
+    src: "figures/fig-10-14.jpg"
+    label: "Figure 10.14"
+    caption: "Replacement veneer with horizontally oriented grain on the table's sides, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from "aging" with acid."
+    download: true
+
+  - id: "fig-10-15"
+    src: "figures/fig-10-15.jpg"
+    label: "Figure 10.15"
+    caption: "Reverse sides of two corner mounts show remnants of earlier screw holes, indicating they are *surmoulage* copies. They may be copies of the original corner mounts."
+    download: true
+
+  - id: "fig-10-16"
+    src: "figures/fig-10-16.jpg"
+    label: "Figure 10.16"
+    caption: "Backside detail of one of the tabletop mounts. These are fixed to the secondary wood with slotted head bolts that run through the frame and are secured with nuts soldered to the backsides of the mounts. The threading of the bolts conforms to a British nineteenth-century standard."
+    download: true
+
+  - id: "cat-11"
+    src: "figures/cat-11.jpg"
+    label: "Catalogue 11"
+    caption: "Main view: front"
+    download: true
+
+  - id: "fig-11-1"
+    src: "figures/fig-11-1.jpg"
+    label: "Figure 11.1"
+    caption: "Stamp "I.DUBOIS" on the back."
+    download: true
+
+  - id: "fig-11-2"
+    src: "figures/fig-11-2.jpg"
+    label: "Figure 11.2"
+    caption: "Delineator, Nicolas Pineau (French, 1684--1754), and publisher, Jean Mariette (French, 1694--1774), *Dessin de Lambris d'une chambre à coucher avec lit en niche*, ca. 1727. Engraving on white laid paper, platemark: 30.1 x 21.1 cm (11 7/8 x 8 5/16 in), sheet: 41.5 x 27.8 cm (16 5/16 x 10 15/16 in.). New York, Cooper Hewitt, Smithsonian Design Museum, 1959-85-49."
+    download: true
+
+  - id: "fig-11-3"
+    src: "figures/fig-11-3.jpg"
+    label: "Figure 11.3"
+    caption: "Nicolas Pineau (French, 1684--1754), *Encoignure avec pendule*, eighteenth century. Pen, gray wash, brown wash, 27.7 x 7.5 cm (11 x 3 in.). Paris, musée des Arts décoratifs, inv. no. 4504."
+    download: true
+
+  - id: "fig-11-4"
+    src: "figures/fig-11-4.jpg"
+    label: "Figure 11.4"
+    caption: "Back right."
+    download: true
+
+  - id: "fig-11-5"
+    src: "figures/fig-11-5.jpg"
+    label: "Figure 11.5"
+    caption: "Back left."
+    download: true
+
+  - id: "fig-11-6"
+    src: "figures/fig-11-6.jpg"
+    label: "Figure 11.6"
+    caption: "These seven gilt bronze elements, as well as the clock in its case, would have been the only elements requiring separate packaging prior to shipment. The remainder of the mounts could travel while fixed in place."
+    download: true
+
+  - id: "fig-11-7"
+    src: "figures/fig-11-7.jpg"
+    label: "Figure 11.7"
+    caption: "X-radiographic composite showing a side view of the étagère and the drawer compartment beneath it."
+    download: true
+
+  - id: "fig-11-8"
+    src: "figures/fig-11-8.jpg"
+    label: "Figure 11.8"
+    caption: "Drawer bottom, composed of three horizontal boards, thin strips of mahogany drawer runners, and a pair of parallel drawer guides running from front to back. The latter mate with a corresponding central strip of oak in the interior of the compartment."
+    download: true
+
+  - id: "fig-11-9"
+    src: "figures/fig-11-9.jpg"
+    label: "Figure 11.9"
+    caption: "X-radiographic composite of the proper left drawer showing the seven vertical butt-joined staves that are capped at either end with transverse battens. The battens were originally attached only with glue and four evenly spaced wooden pegs on each end but are currently attached with screws, as seen in the radiographs."
+    download: true
+
+  - id: "fig-11-10"
+    src: "figures/fig-11-10.jpg"
+    label: "Figure 11.10"
+    caption: "Marks of a shoulder knife suggest strongly that the marquetry was inlaid and not stack cut with a saw."
+    download: true
+
+  - id: "fig-11-11"
+    src: "figures/fig-11-11.jpg"
+    label: "Figure 11.11"
+    caption: "Distorted fibers of wood also indicate the inlay technique with knife cutting of the background veneer."
+    download: true
+
+  - id: "fig-11-12"
+    src: "figures/fig-11-12.jpg"
+    label: "Figure 11.12"
+    caption: "X-radiograph of both candle arms showing they were cast in seven pieces and joined with threaded rods and brazing metal."
+    download: true
+
+  - id: "fig-11-13"
+    src: "figures/fig-11-13.jpg"
+    label: "Figure 11.13"
+    caption: "Riveted plates reinforce the joints between the candle arm sections and the figural groups below."
+    download: true
+
+  - id: "fig-11-14"
+    src: "figures/fig-11-14.jpg"
+    label: "Figure 11.14"
+    caption: "One of two mounts from the outer edges of the upper shelf that show evidence of complex sand piece molding. Seen here from behind, the cast exhibits the relatively smooth and unblemished surfaces of sand castings coupled with distinct mold lines."
+    download: true
+
+  - id: "fig-11-15"
+    src: "figures/fig-11-15.jpg"
+    label: "Figure 11.15"
+    caption: "Comparison of the two sides of original mount (left) and a later replacement (right). The two are clearly distinguishable based on their chasing and the working of the models."
+    download: true
+
+  - id: "fig-11-16"
+    src: "figures/fig-11-16.jpg"
+    label: "Figure 11.16"
+    caption: "A detail of a restored veneered area where Andaman padauk (*Pterocarpus dalbergioides*) was used in place of the original bloodwood. This replacement wood is similar in color and figure to the bloodwood, but the width of the stripes is narrower and the dark vessels are more pronounced."
+    download: true
+
+  - id: "cat-12"
+    src: "figures/cat-12.jpg"
+    label: "Catalogue 12"
+    caption: "Main view: 3/4 right front view of each"
+    download: true
+
+  - id: "fig-12-1"
+    src: "figures/fig-12-1.jpg"
+    label: "Figure 12.1"
+    caption: "Three-quarter right front view, with doors open."
+    download: true
+
+  - id: "fig-12-2"
+    src: "figures/fig-12-2.jpg"
+    label: "Figure 12.2"
+    caption: "On top of the front right leg stile is stamped "I.DUBOIS JME JME" (78.DA.119.2)"
+    download: true
+
+  - id: "fig-12-3"
+    src: "figures/fig-12-3.jpg"
+    label: "Figure 12.3"
+    caption: "Jacques Dubois (French, 1694--1763), Pair of corner cupboards, ca. 1750. Oak veneered with bloodwood, softwood, and kingwood; gilt bronze mounts; *fleur de pêcher* marble top, 105 x 85 x 54 cm (41 x 33 x 21 in.). Rome, Palazzo del Quirinale."
+    download: true
+
+  - id: "fig-12-4"
+    src: "figures/fig-12-4.jpg"
+    label: "Figure 12.4"
+    caption: "Right back."
+    download: true
+
+  - id: "fig-12-5"
+    src: "figures/fig-12-5.jpg"
+    label: "Figure 12.5"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-12-6"
+    src: "figures/fig-12-6.jpg"
+    label: "Figure 12.6"
+    caption: "Top."
+    download: true
+
+  - id: "fig-12-7"
+    src: "figures/fig-12-7.jpg"
+    label: "Figure 12.7"
+    caption: "Detail of the protruding blocks of wood that were added to the front posts, presumably to fill the gap between the post and the current mounts."
+    download: true
+
+  - id: "fig-12-8"
+    src: "figures/fig-12-8.jpg"
+    label: "Figure 12.8"
+    caption: "X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door."
+    download: true
+
+  - id: "fig-12-9"
+    src: "figures/fig-12-9.jpg"
+    label: "Figure 12.9"
+    caption: "X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door."
+    download: true
+
+  - id: "fig-12-10"
+    src: "figures/fig-12-10.jpg"
+    label: "Figure 12.10"
+    caption: "Two-dimensional view of the lacquer on cabinet .2 showing the "darts" that enabled the panel to lie flat across the rounded surface of the current cabinet."
+    download: true
+
+  - id: "fig-12-11"
+    src: "figures/fig-12-11.jpg"
+    label: "Figure 12.11"
+    caption: "Lacquer layout on the .1 cabinet. This panel was cut into three sections before it was secured to the cabinet."
+    download: true
+
+  - id: "fig-12-12"
+    src: "figures/fig-12-12.jpg"
+    label: "Figure 12.12"
+    caption: "A significant amount of retouching was necessary to bridge the gaps in excised original lacquer, seen here on cabinet .2 as a 2-cm-wide band straddling the cut."
+    download: true
+
+  - id: "fig-12-13"
+    src: "figures/fig-12-13.jpg"
+    label: "Figure 12.13"
+    caption: "Detail of the area sampled to analyze the composition and structure of the original Chinese lacquer. The sample location is concealed by a gilt bronze mount."
+    download: true
+
+  - id: "fig-12-14"
+    src: "figures/fig-12-14.jpg"
+    label: "Figure 12.14"
+    caption: "Cross-section photomicrograph in ultraviolet illumination illustrating the thickness of the water buffalo hide substrate."
+    download: true
+
+  - id: "fig-12-15"
+    src: "figures/fig-12-15.jpg"
+    label: "Figure 12.15"
+    caption: "Sample of the European red lacquer from the interior of the cabinet viewed as a cross section in ultraviolet illumination. The photomicrographs feature the original series of two varnish layers, one pigmented and one transparent, followed by later restoration coatings."
+    download: true
+
+  - id: "fig-12-16"
+    src: "figures/fig-12-16.jpg"
+    label: "Figure 12.16"
+    caption: "Details of a mount from the .2 cabinet showing the brazing method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be brazed without shifting. The remnants of the wire, surrounded by brazing metal, are still visible."
+    download: true
+
+  - id: "fig-12-17"
+    src: "figures/fig-12-17.jpg"
+    label: "Figure 12.17"
+    caption: "Details of a mount from the .2 cabinet showing the brazing method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be brazed without shifting. The remnants of the wire, surrounded by brazing metal, are still visible."
+    download: true    
+
+  - id: "cat-13"
+    src: "figures/cat-13.jpg"
+    label: "Catalogue 13"
+    caption: "Main view: 3/4 right front."
+    download: true
+
+  - id: "fig-13-1"
+    src: "figures/fig-13-1.jpg"
+    label: "Figure 13.1"
+    caption: "Right side."
+    download: true
+
+  - id: "fig-13-2"
+    src: "figures/fig-13-2.jpg"
+    label: "Figure 13.2"
+    caption: "Left side."
+    download: true
+
+  - id: "fig-13-3"
+    src: "figures/fig-13-3.jpg"
+    label: "Figure 13.3"
+    caption: "Front with fall front writing surface open."
+    download: true
+
+  - id: "fig-13-4"
+    src: "figures/fig-13-4.jpg"
+    label: "Figure 13.4"
+    caption: "Front with bottom cupboard doors open."
+    download: true
+
+  - id: "fig-13-5"
+    src: "figures/fig-13-5.jpg"
+    label: "Figure 13.5"
+    caption: "On the top rear right stile is stamped "I.DUBOIS" and "JME.""
+    download: true
+
+  - id: "fig-13-6"
+    src: "figures/fig-13-6.jpg"
+    label: "Figure 13.6"
+    caption: "Detail showing the join of the side panels to the front post with loose splines. This type of joint is atypical of Parisian work."
+    download: true
+
+  - id: "fig-13-7"
+    src: "figures/fig-13-7.jpg"
+    label: "Figure 13.7"
+    caption: "Top."
+    download: true
+
+  - id: "fig-13-8"
+    src: "figures/fig-13-8.jpg"
+    label: "Figure 13.8"
+    caption: "X-ray detail showing the tenons on the case back that have been usually cut with angled shoulders."
+    download: true
+
+  - id: "fig-13-9"
+    src: "figures/fig-13-9.jpg"
+    label: "Figure 13.9"
+    caption: "View of the *secrétaire*'s back showing the tongue-and-groove joint assembly method for the horizontal boards."
+    download: true
+
+  - id: "fig-13-10"
+    src: "figures/fig-13-10.jpg"
+    label: "Figure 13.10"
+    caption: "Joinery drawing. Request for professional drawing. Caption to come after drawing complete."
+    download: true
+
+  - id: "fig-13-11"
+    src: "figures/fig-13-11.jpg"
+    label: "Figure 13.11"
+    caption: "Detail of open side drawers."
+    download: true
+
+  - id: "fig-13-12"
+    src: "figures/fig-13-12.jpg"
+    label: "Figure 13.12"
+    caption: "Composite X-ray of the *secrétaire*'s top showing the joints between the original Asian wood panels on which the lacquer was first applied."
+    download: true
+
+  - id: "fig-13-13"
+    src: "figures/fig-13-13.jpg"
+    label: "Figure 13.13"
+    caption: "Composite cross-section photomicrograph in ultraviolet illumination showing the lacquer stratigraphy."
+    download: true
+
+  - id: "fig-13-14"
+    src: "figures/fig-13-14.jpg"
+    label: "Figure 13.14"
+    caption: "Detail of the corresponding sample site for fig. 13-13."
+    download: true
+
+  - id: "fig-13-15"
+    src: "figures/fig-13-15.jpg"
+    label: "Figure 13.15"
+    caption: "Detail of cracks in the lacquer, seen in raking light, showing the unusual pattern of long diagonal cracks that cross over the more typical gridlike pattern of cracks."
+    download: true
+
+  - id: "fig-13-16"
+    src: "figures/fig-13-16.jpg"
+    label: "Figure 13.16"
+    caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
+    download: true
+
+  - id: "cat-14"
+    src: "figures/cat-14.jpg"
+    label: "Catalogue 14"
+    caption: "Main view: 3/4 right front."
+    download: true
+
+  - id: "fig-14-1"
+    src: "figures/fig-14-1.jpg"
+    label: "Figure 14.1"
+    caption: "Left profile."
+    download: true
+
+  - id: "fig-14-2"
+    src: "figures/fig-14-2.jpg"
+    label: "Figure 14.2"
+    caption: "On the underside of the *commode*, a trade label for the *marchand-mercier* François-Charles Darnault."
+    download: true
+
+  - id: "fig-14-3"
+    src: "figures/fig-14-3.jpg"
+    label: "Figure 14.3"
+    caption: "Joseph Baumhauer (French, died 1772), *Commode*, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 x 139 x 58.5 cm (33 x 55 x 23 in.). London, Victoria and Albert Museum, 1013-1882."
+    download: true
+
+  - id: "fig-14-4"
+    src: "figures/fig-14-4.jpg"
+    label: "Figure 14.4"
+    caption: "Three-quarter view with drawers removed."
+    download: true
+
+  - id: "fig-14-5"
+    src: "figures/fig-14-5.jpg"
+    label: "Figure 14.5"
+    caption: "Back."
+    download: true
+
+  - id: "fig-14-6"
+    src: "figures/fig-14-6.jpg"
+    label: "Figure 14.6"
+    caption: "Detail of 55.DA.2; the four corner posts are attached to the perimeter rails using a single, open-faced dovetail method."
+    download: true
+
+  - id: "fig-14-7"
+    src: "figures/fig-14-7.jpg"
+    label: "Figure 14.7"
+    caption: "Reverse detail of the lower edge showing how it was created by building up the reverse with oak blocks that were then carved and sanded to achieve the desired profile."
+    download: true
+
+  - id: "fig-14-8"
+    src: "figures/fig-14-8.jpg"
+    label: "Figure 14.8"
+    caption: "Open drawers: Detail showing how curved blocks of wood were glued over the drawer fronts, serving to both hide their method of assembly and serve as decorative extensions."
+    download: true
+
+  - id: "fig-14-9"
+    src: "figures/fig-14-9.jpg"
+    label: "Figure 14.9"
+    caption: "View of the cabinet, with most of its mounts removed, detailing the locations of two seventeenth-century Japanese lacquer panels."
+    download: true
+
+  - id: "fig-14-10"
+    src: "figures/fig-14-10.jpg"
+    label: "Figure 14.10"
+    caption: "Unknown Japanese lacquer cabinet, 1670--1700. \[**Waiting for Dims from Dr. Rachel Conroy**\]. Leeds, Temple Newsom House."
+    download: true
+
+  - id: "fig-14-11"
+    src: "figures/fig-14-11.jpg"
+    label: "Figure 14.11"
+    caption: "Morel and Seddon, *Fall-front secrétaire, ca.* 1829--30. 177.5 x 110 x 56 cm (70 x 43.3 x 22 in.). Temple Newsom House."
+    download: true
+
+  - id: "fig-14-12"
+    src: "figures/fig-14-12.jpg"
+    label: "Figure 14.12"
+    caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
+    download: true
+
+  - id: "fig-14-13"
+    src: "figures/fig-14-13.jpg"
+    label: "Figure 14.13"
+    caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
+    download: true
+
+  - id: "fig-14-14"
+    src: "figures/fig-14-14.jpg"
+    label: "Figure 14.14"
+    caption: "**\[TWO LAYER IMAGE WITH SLIDER\]** X-radiograph of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
+    download: true
+
+  - id: "fig-14-15"
+    src: "figures/fig-14-15.jpg"
+    label: "Figure 14.15"
+    caption: "Cross-section photomicrographs in visible light showing the original European *aventurine*, or imitation *nashiji*, decoration."
+    download: true
+
+  - id: "fig-14-16"
+    src: "figures/fig-14-16.jpg"
+    label: "Figure 14.16"
+    caption: "Front of the cabinet under ultraviolet illumination, detailing the extent of restoration overpaint on the surface."
+    download: true
+
+  - id: "fig-14-17"
+    src: "figures/fig-14-17.jpg"
+    label: "Figure 14.17"
+    caption: "Detail of the duck in visible light (left) and X-radiograph (right). The original Japanese gold decoration is visible in the X-radiograph but is hidden in visible light by later European overpaint, executed in brass powder paint."
+    download: true
+
+  - id: "cat-15"
+    src: "figures/cat-15.jpg"
+    label: "Catalogue 15"
+    caption: "Main view: 3/4 right front."
+    download: true
+
+  - id: "fig-15-1"
+    src: "figures/fig-15-1.jpg"
+    label: "Figure 15.1"
+    caption: "Three-quarter view with drawers open."
+    download: true
+
+  - id: "fig-15-2"
+    src: "figures/fig-15-2.jpg"
+    label: "Figure 15.2"
+    caption: "Right profile."
+    download: true
+
+  - id: "fig-15-3"
+    src: "figures/fig-15-3.jpg"
+    label: "Figure 15.3"
+    caption: "Handle of the front right drawer."
+    download: true
+
+  - id: "fig-15-4"
+    src: "figures/fig-15-4.jpg"
+    label: "Figure 15.4"
+    caption: "Crowned C mark."
+    download: true
+
+  - id: "fig-15-5"
+    src: "figures/fig-15-5.jpg"
+    label: "Figure 15.5"
+    caption: "Joseph Baumhauer (French, died 1772), *Bureau plat* and *cartonnier*, reign of Louis XV. *Bureau plat*: 190 x 95 x 84 cm (75 x 37.5 x 33 in.), *cartonnier*: 86 x 64 cm (34 x 25 in.). Paris, Hôtel Drouot, *Objets d\'art et d\'ameublement composant la collection de M. B. Kotschoubey*, April 13--16, 1906, lots 384 and 385."
+    download: true
+
+  - id: "fig-15-6"
+    src: "figures/fig-15-6.jpg"
+    label: "Figure 15.6"
+    caption: "Joseph Baumhauer (French, died 1772) and Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, mid-eighteenth century. Oak, amaranth, red wood, gilt bronze, marquetry, 133 x 106 x 46 cm (52 x 42 x 18 in.). Saint Petersburg, State Hermitage Museum, MB 434."
+    download: true
+
+  - id: "fig-15-7"
+    src: "figures/fig-15-7.jpg"
+    label: "Figure 15.7"
+    caption: "Bottom of the case."
+    download: true
+
+  - id: "fig-15-8"
+    src: "figures/fig-15-8.jpg"
+    label: "Figure 15.8"
+    caption: "Construction of rear frieze rail, as seen from inside the case. Gray areas indicate the extension blocks, attached to the center rail section with massive finger joints."
+    download: true
+
+  - id: "fig-15-9"
+    src: "figures/fig-15-9.jpg"
+    label: "Figure 15.9"
+    caption: "Schematic drawing of the two-tiered construction of the bottom frame."
+    download: true
+
+  - id: "fig-15-10"
+    src: "figures/fig-15-10.jpg"
+    label: "Figure 15.10"
+    caption: "Interior of the case with drawers and dust panels removed."
+    download: true
+
+  - id: "fig-15-11"
+    src: "figures/fig-15-11.jpg"
+    label: "Figure 15.11"
+    caption: "Interior of the case with drawers and dust panels in place."
+    download: true
+
+  - id: "fig-15-12"
+    src: "figures/fig-15-12.jpg"
+    label: "Figure 15.12"
+    caption: "Composite of the types of dovetails seen in the drawer constructions: lapped full-blind dovetails, lapped and mitered full-blind dovetails, reverse lapped and mitered full-blind dovetails, lapped half-blind dovetails, and lapped and mitered half-blind dovetails."
+    download: true
+
+  - id: "fig-15-13"
+    src: "figures/fig-15-13.jpg"
+    label: "Figure 15.13"
+    caption: "View of the secret drawers that are only accessible when the main central drawer is closed."
+    download: true
+
+  - id: "fig-15-14"
+    src: "figures/fig-15-14.jpg"
+    label: "Figure 15.14"
+    caption: "Underside view of the top showing its frame-and-panel construction."
+    download: true
+
+  - id: "fig-15-15"
+    src: "figures/fig-15-15.jpg"
+    label: "Figure 15.15"
+    caption: "X-radiograph of the holes left behind by veneer pins. These pins are used during the fabrication process to keep sections of veneer stationary."
+    download: true
+
+  - id: "fig-15-16"
+    src: "figures/fig-15-16.jpg"
+    label: "Figure 15.16"
+    caption: "Detail of an anchor bridge brazed to the underside of the gilt molding. These help secure the molding around the top of the bureau."
+    download: true
+
+  - id: "cat-16"
+    src: "figures/cat-16.jpg"
+    label: "Catalogue 16"
+    caption: "Main view: 3/4 right front."
+    download: true
+
+  - id: "fig-16-1"
+    src: "figures/fig-16-1.jpg"
+    label: "Figure 16.1"
+    caption: "Detail of the front."
+    download: true
+
+  - id: "fig-16-2"
+    src: "figures/fig-16-2.jpg"
+    label: "Figure 16.2"
+    caption: ""RESTAURE par P. SPOHN." stamp on top of the right rear post, beneath the marble."
+    download: true
+
+  - id: "fig-16-3"
+    src: "figures/fig-16-3.jpg"
+    label: "Figure 16.3"
+    caption: "Jean Pierre Latz (French, 1691--1754), *Commode*, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 x 153 x 66.5 cm (34.5 x 60 x 26 in.). Rome, Palazzo del Quirinale."
+    download: true
+
+  - id: "fig-16-4"
+    src: "figures/fig-16-4.jpg"
+    label: "Figure 16.4"
+    caption: "Carl Hårleman (Swedish, 1700--1753), *A Clock and a Commode*, ca. 1744--45. Pen and ink tracing on thin yellow, probably oiled, paper. Stockholm, Nationalmuseum, THC 7158."
+    download: true
+
+  - id: "fig-16-5"
+    src: "figures/fig-16-5.jpg"
+    label: "Figure 16.5"
+    caption: "View of the top of the commode without the marble slab, showing the tripartite frame-and-panel construction method and open-faced dovetails at the corner posts."
+    download: true
+
+  - id: "fig-16-6"
+    src: "figures/fig-16-6.jpg"
+    label: "Figure 16.6"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-16-7"
+    src: "figures/fig-16-7.jpg"
+    label: "Figure 16.7"
+    caption: "Composite of the red chalk drawing found on the underside of an interior panel showing a male figure with a long *queue*, fencing."
+    download: true
+
+  - id: "fig-16-8"
+    src: "figures/fig-16-8.jpg"
+    label: "Figure 16.8"
+    caption: "Three-quarter view with drawers open."
+    download: true
+
+  - id: "fig-16-9"
+    src: "figures/fig-16-9.jpg"
+    label: "Figure 16.9"
+    caption: "Interior of a commode in the collection of the Palazzo del Quirinale. This version appears outwardly identical to the Museum's, but its joinery method is plank construction."
+    download: true
+
+  - id: "fig-16-10"
+    src: "figures/fig-16-10.jpg"
+    label: "Figure 16.10"
+    caption: "Schematic diagram illustrating the 135 individual pieces of veneer on the front of the commode."
+    download: true
+
+  - id: "fig-16-11"
+    src: "figures/fig-16-11.jpg"
+    label: "Figure 16.11"
+    caption: "Top of the marble."
+    download: true
+
+  - id: "fig-16-12"
+    src: "figures/fig-16-12.jpg"
+    label: "Figure 16.12"
+    caption: "Line drawing showing the restoration method used to fill a split on the right side of the commode."
+    download: true
+
+  - id: "fig-16-13"
+    src: "figures/fig-16-13.jpg"
+    label: "Figure 16.13"
+    caption: "Detail of the oak wedges used during the restoration to fill the new gap along the vertical saw cut."
+    download: true
+
+  - id: "fig-16-14"
+    src: "figures/fig-16-14.jpg"
+    label: "Figure 16.14"
+    caption: "Line drawing detailing the repair at the join between the right case side panel and the right rear post. Five 9 mm holes were drilled through the back of the post and into the case side panel; 15-cm-long oak pegs were then driven into these holes with glue to secure the joint."
+    download: true
+
+  - id: "fig-16-15"
+    src: "figures/fig-16-15.jpg"
+    label: "Figure 16.15"
+    caption: "Image of the five vertically oriented blocks of oak that were used to repair a split in the upper drawer front."
+    download: true
+
+  - id: "cat-17"
+    src: "figures/cat-17.jpg"
+    label: "Catalogue 17"
+    caption: "Main view: front of both"
+    download: true
+
+  - id: "fig-17-1"
+    src: "figures/fig-17-1.jpg"
+    label: "Figure 17.1"
+    caption: "Jean Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 x 82.5 x 59 cm (37 x 32.5 x 23 in.). Rome, Palazzo del Quirinale."
+    download: true
+
+  - id: "fig-17-2"
+    src: "figures/fig-17-2.jpg"
+    label: "Figure 17.2"
+    caption: "Juste Chevillet (French, 1729--1802) after Louis Tessier (French, 1719--1781), *Lys*, from *Livre de principes de fleurs, dédié aux dames*, ca. 1755. Engraving with etching. Getty Research Institute, Los Angeles, P860001."
+    download: true
+
+  - id: "fig-17-3"
+    src: "figures/fig-17-3.jpg"
+    label: "Figure 17.3"
+    caption: "Back side of 72.DA.69.1 showing original plank construction of the back panels."
+    download: true
+
+  - id: "fig-17-4"
+    src: "figures/fig-17-4.jpg"
+    label: "Figure 17.4"
+    caption: "Schematic diagram showing the original and restored reverse structures for the .39 cabinets."
+    download: true
+
+  - id: "fig-17-5"
+    src: "figures/fig-17-5.jpg"
+    label: "Figure 17.5"
+    caption: "Details of the 72.DA.69.2 cabinet with mounts removed illustrating the different locations for the mounting hardware, original and current. Figure 17-5 is of the top left corner; figure 17-6 is of the left foot."
+    download: true
+
+  - id: "fig-17-6"
+    src: "figures/fig-17-6.jpg"
+    label: "Figure 17.6"
+    caption: "Details of the 72.DA.69.2 cabinet with mounts removed illustrating the different locations for the mounting hardware, original and current. Figure 17-5 is of the top left corner; figure 17-6 is of the left foot."
+    download: true
+
+  - id: "fig-17-7"
+    src: "figures/fig-17-7.jpg"
+    label: "Figure 17.7"
+    caption: "The top on cabinet 72.DA.69.2 is marked at its right corner with a recently discovered stamp of J. H. Riesener. This photographic composite shows, from the top, the stamp in normal light, with RTI "specular enhancement" (greyscale), and with RTI "normals visualization." The lowest image is a close-up detail of the stamp modified with yellow outlines to indicate areas that can be discerned in the images and with orange outlines to indicate the areas where letters are not visible but assumed to have once been based on complete surviving Riesener stamps."
+    download: true
+
+  - id: "fig-17-8"
+    src: "figures/fig-17-8.jpg"
+    label: "Figure 17.8"
+    caption: "Near-infrared reflectance image of the inscription, presumably in pencil, on the .69.2 cabinet: "Réparée le 13 Juillet 1843 / par \[indecipherable\] de Fère Champenoise / rue de Vitry No 29.""
+    download: true
+
+  - id: "fig-17-9"
+    src: "figures/fig-17-9.jpg"
+    label: "Figure 17.9"
+    caption: "Detail showing the wire finishing nails that were used to join the bottom to the side rails of the cabinet."
+    download: true
+
+  - id: "fig-17-10"
+    src: "figures/fig-17-10.jpg"
+    label: "Figure 17.10"
+    caption: "Original dolphin key for cabinets .39.1--.2."
+    download: true
+
+  - id: "fig-17-11"
+    src: "figures/fig-17-11.jpg"
+    label: "Figure 17.11"
+    caption: "The fronts (first image) and backs (second image) of mounts from both cabinets. In both images, the original mount is on the top, and the copies, sequentially, are beneath it."
+    download: true
+
+  - id: "fig-17-12"
+    src: "figures/fig-17-12.jpg"
+    label: "Figure 17.12"
+    caption: "The fronts (first image) and backs (second image) of mounts from both cabinets. In both images, the original mount is on the top, and the copies, sequentially, are beneath it."
+    download: true
+
+  - id: "fig-17-13"
+    src: "figures/fig-17-13.jpg"
+    label: "Figure 17.13"
+    caption: "Framing mount from a .39 cabinet (left side of each image) compared to a corresponding mount from a .69 cabinet (right side of each image). The solder line is visible on the .39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during brazing) is visible in the brazing metal on the reverse."
+    download: true
+
+  - id: "fig-17-14"
+    src: "figures/fig-17-14.jpg"
+    label: "Figure 17.14"
+    caption: "XRF macro-scanning images (left) of sections of a door from cabinet 72.DA.69.2. These illustrate how leaves with high iron content (appearing red in the scans) appear mixed in the composition with leaves that contain both iron and zinc in high concentration (shown as fuschia)."
+    download: true
+
+  - id: "fig-17-15"
+    src: "figures/fig-17-15.jpg"
+    label: "Figure 17.15"
+    caption: "Detail showing typical marks on the leaves and adjacent areas left by the use of an inlay knife."
+    download: true
+
+  - id: "fig-17-16"
+    src: "figures/fig-17-16.jpg"
+    label: "Figure 17.16"
+    caption: "X-radiograph of the marquetry on an area of the .69.2 cabinet. The lines around the perimeters of the flowers are generally fainter than those outlining the stems and smaller leaves. This is likely because the stems and leaves were inlaid using a knife, which left a deep groove in the substrate that subsequently filled with dense glue. The flowers, on the other hand, were probably inlaid into the background with a fretsaw, before the veneer was applied to the substrate, resulting in a thinner glue line."
+    download: true
+
+  - id: "fig-17-17"
+    src: "figures/fig-17-17.jpg"
+    label: "Figure 17.17"
+    caption: "The black lines drawn in ink on the surface of leaves are almost certainly the result of a previous restoration that was meant to replicate original etched (and black pigment--filled) embellishments."
+    download: true
+
+  - id: "fig-17-18"
+    src: "figures/fig-17-18.jpg"
+    label: "Figure 17.18"
+    caption: "The flower on the left, found on the left door of 72.DA.39.1, is aesthetically different from surrounding examples and is most likely a replacement."
+    download: true
+
+  - id: "cat-18"
+    src: "figures/cat-18.jpg"
+    label: "Catalogue 18"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-18-1"
+    src: "figures/fig-18-1.jpg"
+    label: "Figure 18.1"
+    caption: "Three-quarter right front, drawer open."
+    download: true
+
+  - id: "fig-18-2"
+    src: "figures/fig-18-2.jpg"
+    label: "Figure 18.2"
+    caption: "The underside of the front rail is stamped "J.F.OEBEN" and "JME.""
+    download: true
+
+  - id: "fig-18-3"
+    src: "figures/fig-18-3.jpg"
+    label: "Figure 18.3"
+    caption: "Top."
+    download: true
+
+  - id: "fig-18-4"
+    src: "figures/fig-18-4.jpg"
+    label: "Figure 18.4"
+    caption: "Marquetry open tulip on the top center of the tabletop."
+    download: true
+
+  - id: "fig-18-5"
+    src: "figures/fig-18-5.jpg"
+    label: "Figure 18.5"
+    caption: "Marquetry closed tulip on the top center of the tabletop."
+    download: true
+
+  - id: "fig-18-6"
+    src: "figures/fig-18-6.jpg"
+    label: "Figure 18.6"
+    caption: "Jean-François Oeben (French, born Germany, 1721--1763), and Roger Vandercruse, called Lacroix (French, 1727--1799), Mechanical table, ca. 1761--63. Oak veneered with mahogany, kingwood, and tulipwood, with marquetry of mahogany, rosewood, holly, and various other woods; gilt bronze mounts; imitation Japanese lacquer; replaced silk, 69.9 x 81.9 x 46.7 cm (27 1/2 x 32 1/4 x 18 3/8 in.). New York, Metropolitan Museum of Art, 1982.60.61."
+    download: true
+
+  - id: "fig-18-7"
+    src: "figures/fig-18-7.jpg"
+    label: "Figure 18.7"
+    caption: "Interior of the right-side frieze showing the mainspring assembly at center, with brass guide rails above and below."
+    download: true
+
+  - id: "fig-18-8"
+    src: "figures/fig-18-8.jpg"
+    label: "Figure 18.8"
+    caption: "X-radiograph of the top showing the cross-grain batten on the left, the diagonal grain of the main boards, and the butterfly repairs at the bottom."
+    download: true
+
+  - id: "fig-18-9"
+    src: "figures/fig-18-9.jpg"
+    label: "Figure 18.9"
+    caption: "Spring release mechanism of a table in the collection of the Victoria and Albert Museum, inv. no. 1095:1 to 3-1882."
+    download: true
+
+  - id: "fig-18-10"
+    src: "figures/fig-18-10.jpg"
+    label: "Figure 18.10"
+    caption: "Interior of the left-side frieze with mainspring assembly removed, showing four unused screw holes from an earlier mainspring or simple gear wheel."
+    download: true
+
+  - id: "fig-18-11"
+    src: "figures/fig-18-11.jpg"
+    label: "Figure 18.11"
+    caption: "Left side of the sliding drawer case, showing the toothed brass rail with extraneous holes, indicating some prior modification of the mechanism."
+    download: true
+
+  - id: "fig-18-12"
+    src: "figures/fig-18-12.jpg"
+    label: "Figure 18.12"
+    caption: "Front left corner with the corner mount removed and sliding block in place (left) and removed (right)."
+    download: true
+
+  - id: "fig-18-13"
+    src: "figures/fig-18-13.jpg"
+    label: "Figure 18.13"
+    caption: "Mark from a shoulder knife on the top edge of the side drawer front, showing that pieces of veneer were trimmed in place, after having been glued down to the oak substrate."
+    download: true
+
+  - id: "fig-18-14"
+    src: "figures/fig-18-14.jpg"
+    label: "Figure 18.14"
+    caption: "Detail of an X-radiograph showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate. The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
+    download: true  
+
+  - id: "fig-18-15"
+    src: "figures/fig-18-15.jpg"
+    label: "Figure 18.15"
+    caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
+    download: true  
+
+  - id: "fig-18-16"
+    src: "figures/fig-18-16.jpg"
+    label: "Figure 18.16"
+    caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
+    download: true  
+
+  - id: "fig-18-17"
+    src: "figures/fig-18-17.jpg"
+    label: "Figure 18.17"
+    caption: "The Museum's table, in its current condition on the left and virtually restored to its original colors on the right."
+    download: true  
+
+  - id: "fig-18-18"
+    src: "figures/fig-18-18.jpg"
+    label: "Figure 18.18"
+    caption: "The top of the table, virtually restored to its original colors based on detailed analysis of trace dye compounds remaining in the wood and the use of reference samples, prepared using traditional techniques."
+    download: true  
+
+  - id: "cat-19"
+    src: "figures/cat-19.jpg"
+    label: "Catalogue 19"
+    caption: "Main view: 3/4 right front"
+    download: true  
+
+  - id: "fig-19-1"
+    src: "figures/fig-19-1.jpg"
+    label: "Figure 19.1"
+    caption: "Top."
+    download: true  
+
+  - id: "fig-19-2"
+    src: "figures/fig-19-2.jpg"
+    label: "Figure 19.2"
+    caption: "Interior of the drawer with divided compartments and watered silk lining."
+    download: true  
+
+  - id: "fig-19-3"
+    src: "figures/fig-19-3.jpg"
+    label: "Figure 19.3"
+    caption: "The underside of the rear rail is stamped "J.F.OEBEN.""
+    download: true  
+
+  - id: "fig-19-4"
+    src: "figures/fig-19-4.jpg"
+    label: "Figure 19.4"
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1755. Oak veneered with amaranth, burl wood, bloodwood, kingwood, and mahogany; marquetry in polychrome wood and green-stained ivory; Japanese lacquer; gilt bronze mounts, 68.3 x 79.5 x 44.8 cm (27 x 31 x 17.5 in.). Paris, musée du Louvre, OA 10404."
+    download: true  
+
+  - id: "fig-19-5"
+    src: "figures/fig-19-5.jpg"
+    label: "Figure 19.5"
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Galerie Charpentier, *Bel ameublement et objets d\'art*, December 15, 2003, lot 109."
+    download: true    
+
+  - id: "fig-19-6"
+    src: "figures/fig-19-6.jpg"
+    label: "Figure 19.6"
+    caption: "Detail of one of the stop pins that limits the movement of the sliding top."
+    download: true  
+
+  - id: "fig-19-7"
+    src: "figures/fig-19-7.jpg"
+    label: "Figure 19.7"
+    caption: "Bottom."
+    download: true  
+
+  - id: "fig-19-8"
+    src: "figures/fig-19-8.jpg"
+    label: "Figure 19.8"
+    caption: "Detail of the ebony glides on the sides of the drawer. These slide within grooves on either side of the case."
+    download: true
+
+  - id: "fig-19-9"
+    src: "figures/fig-19-9.jpg"
+    label: "Figure 19.9"
+    caption: "Detail of one of the diagonally oriented blocks that cover the grooves cut for the drawer glides."
+    download: true
+
+  - id: "fig-19-10"
+    src: "figures/fig-19-10.jpg"
+    label: "Figure 19.10"
+    caption: "Blunt-ended saw cuts and consistently rounded petal tips suggest the flowers and many leaves were inlaid in the background veneer using a fretsaw prior to gluing the marquetry to the oak substrate."
+    download: true
+
+  - id: "fig-19-11"
+    src: "figures/fig-19-11.jpg"
+    label: "Figure 19.11"
+    caption: "An errant knife mark, bent wood fibers in the background veneer, and sharp corners with no kerf all suggest that this curved stem was inlaid using a shoulder knife, after the veneer had been applied to the oak substrate."
+    download: true
+
+  - id: "fig-19-12"
+    src: "figures/fig-19-12.jpg"
+    label: "Figure 19.12"
+    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-13. The thickness of the glue lines also gives clues to the marquetry techniques used."
+    download: true
+
+  - id: "fig-19-13"
+    src: "figures/fig-19-13.jpg"
+    label: "Figure 19.13"
+    caption: "Some flowers were enhanced with engraved veins filled with black or red mastic. The engraved lines have pointed tips, while saw cut veins have blunt tips."
+    download: true
+
+  - id: "fig-19-14"
+    src: "figures/fig-19-14.jpg"
+    label: "Figure 19.14"
+    caption: "X-radiography indicates the use of veneer pins to hold stringing in place during marquetry assembly. Both the holes left by the pins and even some broken off fragments are visible in this X-radiograph."
+    download: true
+
+  - id: "fig-19-15"
+    src: "figures/fig-19-15.jpg"
+    label: "Figure 19.15"
+    caption: "Typical fretsaw mark on the holly trellis of the sliding writing surface. The fretsaw mark is a couple of millimeters away from the finished trellis, suggesting that the fretsaw was used only to cut the trellis to its approximate size."
+    download: true
+
+  - id: "fig-19-16"
+    src: "figures/fig-19-16.jpg"
+    label: "Figure 19.16"
+    caption: "Typical inlay knife mark on the trellis, suggesting that the trellis was trimmed to its final size using an inlay knife."
+    download: true
+
+  - id: "fig-19-17"
+    src: "figures/fig-19-17.jpg"
+    label: "Figure 19.17"
+    caption: "View of the exposed edge of the trellis marquetry on the sliding writing surface. The beveled edge of the yellow barberry flower is clearly visible, showing the use of the conic cutting technique."
+    download: true
+
+  - id: "fig-19-18"
+    src: "figures/fig-19-18.jpg"
+    label: "Figure 19.18"
+    caption: "This reproduction of the Museum's table, showing the different stages of production, was made in 2003 by Alain Guéroult. Because the trellis marquetry is made using only naturally colored woods, the finished right side of the reproduction gives an extremely realistic view of the table's original appearance."
+    download: true
+
+  - id: "fig-19-19"
+    src: "figures/fig-19-19.jpg"
+    label: "Figure 19.19"
+    caption: "The drawer unit, separated from the rest of the table during examination, shows the entire sliding writing surface with its marbleized leather and gilt tooling."
+    download: true
+
+  - id: "cat-20"
+    src: "figures/cat-20.jpg"
+    label: "Catalogue 20"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-20-1"
+    src: "figures/fig-20-1.jpg"
+    label: "Figure 20.1"
+    caption: "Foot mount."
+    download: true
+
+  - id: "fig-20-2"
+    src: "figures/fig-20-2.jpg"
+    label: "Figure 20.2"
+    caption: "Apron mount."
+    download: true
+
+  - id: "fig-20-3"
+    src: "figures/fig-20-3.jpg"
+    label: "Figure 20.3"
+    caption: "On the top of the left front stile is stamped "DF.""
+    download: true
+
+  - id: "fig-20-4"
+    src: "figures/fig-20-4.jpg"
+    label: "Figure 20.4"
+    caption: "Back."
+    download: true
+
+  - id: "fig-20-5"
+    src: "figures/fig-20-5.jpg"
+    label: "Figure 20.5"
+    caption: "Top."
+    download: true
+
+  - id: "fig-20-6"
+    src: "figures/fig-20-6.jpg"
+    label: "Figure 20.6"
+    caption: "Detail showing the in-line double dovetail and the open-faced dovetail on the proper right front corner post."
+    download: true
+
+  - id: "fig-20-7"
+    src: "figures/fig-20-7.jpg"
+    label: "Figure 20.7"
+    caption: "Bottom."
+    download: true
+
+  - id: "fig-20-8"
+    src: "figures/fig-20-8.jpg"
+    label: "Figure 20.8"
+    caption: "Three-quarter right front without drawers removed."
+    download: true
+
+  - id: "fig-20-9"
+    src: "figures/fig-20-9.jpg"
+    label: "Figure 20.9"
+    caption: "Mechanical saw marks on a kingwood veneer element."
+    download: true
+
+  - id: "fig-20-10"
+    src: "figures/fig-20-10.jpg"
+    label: "Figure 20.10"
+    caption: "This photo from the 1977 restoration shows an example of the mechanical saw and toothing plane marks that remain on the reverse of elements within the marquetry panels."
+    download: true
+
+  - id: "fig-20-11"
+    src: "figures/fig-20-11.jpg"
+    label: "Figure 20.11"
+    caption: "X-ray of the top drawer showing the myriad locations of the drawer handles throughout the history of the piece. Only the current set of holes remain visible; the others are covered by subsequent marquetry additions."
+    download: true
+
+  - id: "fig-20-12"
+    src: "figures/fig-20-12.jpg"
+    label: "Figure 20.12"
+    caption: "Example of quartersawn kingwood showing the light-colored rays that run perpendicular to the grain direction."
+    download: true
+
+  - id: "fig-20-13"
+    src: "figures/fig-20-13.jpg"
+    label: "Figure 20.13"
+    caption: "Flat-sawn kingwood lacks the ray "streaks" and generally exhibits dark stripes in the grain that are more widely spaced than in the quarter-sawn variety."
+    download: true
+
+  - id: "cat-21"
+    src: "figures/cat-21.jpg"
+    label: "Catalogue 21"
+    caption: "Main view: 3/4 right front"
+    download: true
+
+  - id: "fig-21-1"
+    src: "figures/fig-21-1.jpg"
+    label: "Figure 21.1"
+    caption: "The top of the right leg stile is stamped "DELORME JME" and "N.PETIT.""
+    download: true
+
+  - id: "fig-21-2"
+    src: "figures/fig-21-2.jpg"
+    label: "Figure 21.2"
+    caption: "Further comparison of the Latz mounts and the later copies of this commode. The dramatic difference in scale suggests that the new master models could have been made from sketches or photographs, without the original mounts at hand."
+    download: true
+
+  - id: "fig-21-3"
+    src: "figures/fig-21-3.jpg"
+    label: "Figure 21.3"
+    caption: "Unknown maker, *Commode*, reign of Louis XV. Unidentified wood, gilt bronze mounts, *brèche d'Alep* marble top, 142 cm wide (56 in. wide). Galerie Georges Petit, Paris, *Objets d'art et très bel ameublement du XVIIIe siècle et autres*, December 6--7, 1928, lot 180."
+    download: true
+
+  - id: "fig-21-4"
+    src: "figures/fig-21-4.jpg"
+    label: "Figure 21.4"
+    caption: "Joseph Baumhauer (French, died 1772), *Commode*, 1755--58 (designed). Carcass of oak veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*; mounts of gilt bronze; slab of *rouge de Villefranche* (possibly Languedoc) marble, 86 x 127 x 62.3 cm (33.85 x 50 x 24.5 in.). London, Victoria and Albert Museum, 1013-1882."
+    download: true
+
+  - id: "fig-21-5"
+    src: "figures/fig-21-5.jpg"
+    label: "Figure 21.5"
+    caption: "Back."
+    download: true
+
+  - id: "fig-21-6"
+    src: "figures/fig-21-6.jpg"
+    label: "Figure 21.6"
+    caption: "The interior of the commode reveals inconsistent colors, textures, and degrees of aging in the wood used. The fir panels of the sides also have exposed insect tunnels, typical of old wood that has been resurfaced and reused."
+    download: true
+
+  - id: "fig-21-7"
+    src: "figures/fig-21-7.jpg"
+    label: "Figure 21.7"
+    caption: "Detail of an X-radiograph of the lower drawer front. The upper half shows extensive tunneling in the substrate by wood-boring insects, while the lower half is undamaged. This suggests that old wood was cut and reused to fabricate the drawer front."
+    download: true
+
+  - id: "fig-21-8"
+    src: "figures/fig-21-8.jpg"
+    label: "Figure 21.8"
+    caption: "The saw marks on the drawer bottom are of a type made by a large rotary saw, of a kind not invented until the mid-nineteenth century."
+    download: true
+
+  - id: "fig-21-9"
+    src: "figures/fig-21-9.jpg"
+    label: "Figure 21.9"
+    caption: "Comparison of the original eighteenth-century mounts of the Latz commode ([cat. no. 16](/catalogue/16/)) and the copies on this commode. The chasing of the Latz mounts is more varied; the chasing of the later copies is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
+    download: true
+
+  - id: "fig-21-10"
+    src: "figures/fig-21-10.jpg"
+    label: "Figure 21.10"
+    caption: "Comparison of the original eighteenth-century mounts of the Latz commode ([cat. no. 16](/catalogue/16/)) and the copies on this commode. The chasing of the Latz mounts is more varied; the chasing of the later copies is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
+    download: true
