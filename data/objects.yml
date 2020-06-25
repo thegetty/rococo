@@ -13,25 +13,9 @@ object_list:
     materials: "White oak veneered with bloodwood*, cherry*, *ferréol**, and amaranth*; gilt bronze mounts; brass and iron hardware, lock, and keys; *brèche d’Alep* top"
     dimensions: "H: 3 ft. 9 5/8 in., W: 15 ft. 4 1/2 in., D: 1 ft. 9 1/2 in. (115.8 x 468.6 x 54.5 cm)"
     accession_number: "77.DA.91"
-    link:
+    link: https://www.getty.edu/art/collection/objects/5616/
     figure:
-      - id: "fig-1-1"
-      - id: "fig-1-2"
-      - id: "fig-1-3"
-      - id: "fig-1-4"
-      - id: "fig-1-5"
-      - id: "fig-1-6"
-      - id: "fig-1-7"
-      - id: "fig-1-8"
-      - id: "fig-1-9"
-      - id: "fig-1-10"
-      - id: "fig-1-11"
-      - id: "fig-1-12"
-      - id: "fig-1-13"
-      - id: "fig-1-14"
-      - id: "fig-1-15"
-      - id: "fig-1-16"
-      - id: "fig-1-17"
+      - id: "cat-1"
 
   - id: "2"
     title: "Pair of cabinets"
@@ -40,23 +24,9 @@ object_list:
     materials: "White oak* veneered with bloodwood*, amaranth*, and cherry* and restorations in hornbeam and Spanish cedar; modern wire mesh screens; gilt bronze mounts; brass and iron hardware and locks"
     dimensions: "H: 4 ft. 10 5/8 in., W: 3 ft. 3 3/4 in., D: 1 ft. 7 in. (149 x 101 x 48.3 cm)"
     accession_number: 84.DA.24.1–.2
-    link:
+    link: https://www.getty.edu/art/collection/objects/5819/
     figure:
-      - id: "fig-2-1"
-      - id: "fig-2-2"
-      - id: "fig-2-3"
-      - id: "fig-2-4"
-      - id: "fig-2-5"
-      - id: "fig-2-6"
-      - id: "fig-2-7"
-      - id: "fig-2-8"
-      - id: "fig-2-9"
-      - id: "fig-2-10"
-      - id: "fig-2-11"
-      - id: "fig-2-12"
-      - id: "fig-2-13"
-      - id: "fig-2-14"
-      - id: "fig-2-15"
+      - id: "cat-2"
 
   - id: "3"
     title: "*Cartonnier* with *serre-papiers*, *bout de bureau*, and clock"
@@ -67,23 +37,7 @@ object_list:
     accession_number: 83.DA.280
     link: http://www.getty.edu/art/collection/objects/5797/
     figure:
-      - id: "fig-3-1"
-      - id: "fig-3-2"
-      - id: "fig-3-3"
-      - id: "fig-3-4"
-      - id: "fig-3-5"
-      - id: "fig-3-6"
-      - id: "fig-3-7"
-      - id: "fig-3-8"
-      - id: "fig-3-9"
-      - id: "fig-3-10"
-      - id: "fig-3-11"
-      - id: "fig-3-12"
-      - id: "fig-3-13"
-      - id: "fig-3-14"
-      - id: "fig-3-15"
-      - id: "fig-3-16"
-      - id: "fig-3-17"
+      - id: "cat-3"
 
   - id: "4"
     title: "Pair of corner cupboards"
@@ -92,24 +46,9 @@ object_list:
     materials: "White oak* veneered with amaranth*, cherry*, and sycamore maple*, set with panels of black Japanese lacquer on Japanese arborvitae***, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; *sarrancolin* marble tops"
     dimensions: "H: 3 ft. 3 1/8 in., W: 2 ft. 10 3/4 in., D: 2 ft. 1/8 in. (99.4 x 88.3 x 61.3 cm)"
     accession_number: 72.DA.44.1 and .2
-    link:
+    link: https://www.getty.edu/art/collection/objects/5465/
     figure:
-      - id: "fig-4-1"
-      - id: "fig-4-2"
-      - id: "fig-4-3"
-      - id: "fig-4-4"
-      - id: "fig-4-5"
-      - id: "fig-4-6"
-      - id: "fig-4-7"
-      - id: "fig-4-8"
-      - id: "fig-4-9"
-      - id: "fig-4-10"
-      - id: "fig-4-11"
-      - id: "fig-4-12"
-      - id: "fig-4-13"
-      - id: "fig-4-14"
-      - id: "fig-4-15"
-      - id: "fig-4-16"
+      - id: "cat-4"
 
   - id: "5"
     title: "*Commode à vantaux*"
@@ -118,25 +57,9 @@ object_list:
     materials: "White oak*, veneered with alder*, set with panels of Japanese lacquer on a coniferous substrate and painted with European lacquer; veneered with cherry* and amaranth* on interior of the doors; replacement gilt bronze mounts; brass and iron hardware and lock; *sarrancolin* marble top; original silk fabric lining; and silver metal *galon* trim"
     dimensions: "H: 2 ft. 10 3/4 in., W: 4 ft. 11 3/4 in., D: 1 ft. 10 3/4 in. (88.3 x 151.9 x 57.8 cm)"
     accession_number: 65.DA.4
-    link:
+    link: https://www.getty.edu/art/collection/objects/5375/
     figure:
-      - id: "fig-5-1"
-      - id: "fig-5-2"
-      - id: "fig-5-3"
-      - id: "fig-5-4"
-      - id: "fig-5-5"
-      - id: "fig-5-6"
-      - id: "fig-5-7"
-      - id: "fig-5-8"
-      - id: "fig-5-9"
-      - id: "fig-5-10"
-      - id: "fig-5-11"
-      - id: "fig-5-12"
-      - id: "fig-5-13"
-      - id: "fig-5-14"
-      - id: "fig-5-15"
-      - id: "fig-5-16"
-      - id: "fig-5-17"
+      - id: "cat-5"
 
   - id: "6"
     title: "Commode"
@@ -145,24 +68,9 @@ object_list:
     materials: "White oak, set with panels of Chinese red lacquer on a coniferous substrate, and sycamore maple* painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; *brèche d’Alep* top"
     dimensions: "H: 2 ft. 9 in., W: 3 ft. 9 in., D: 1 ft. 9 1/2 in. (83.8 x 114.3 x 54.9 cm)"
     accession_number: 72.DA.46
-    link:
+    link: https://www.getty.edu/art/collection/objects/5469/
     figure:
-      - id: "fig-6-1"
-      - id: "fig-6-2"
-      - id: "fig-6-3"
-      - id: "fig-6-4"
-      - id: "fig-6-5"
-      - id: "fig-6-6"
-      - id: "fig-6-7"
-      - id: "fig-6-8"
-      - id: "fig-6-9"
-      - id: "fig-6-10"
-      - id: "fig-6-11"
-      - id: "fig-6-12"
-      - id: "fig-6-13"
-      - id: "fig-6-14"
-      - id: "fig-6-15"
-      - id: "fig-6-16"
+      - id: "cat-6"
 
   - id: "7"
     title: "Pair of commodes"
@@ -171,25 +79,9 @@ object_list:
     materials: "White oak* veneered with bloodwood*, kingwood*, and amaranth*; drawers of walnut* and white oak; gilt bronze mounts; brass, steel, and iron locks; modern *campan grand mélange* marble tops"
     dimensions: "H: 2 ft. 10 3/16 in., W: 3 ft. 3 15/16 in., D: 1 ft. 10 1/16 in. (86.8 x 101.4 x 56 cm)"
     accession_number: 71.DA.96.1–.2
-    link:
+    link: https://www.getty.edu/art/collection/objects/5429/
     figure:
-      - id: "fig-7-1"
-      - id: "fig-7-2"
-      - id: "fig-7-3"
-      - id: "fig-7-4"
-      - id: "fig-7-5"
-      - id: "fig-7-6"
-      - id: "fig-7-7"
-      - id: "fig-7-8"
-      - id: "fig-7-9"
-      - id: "fig-7-10"
-      - id: "fig-7-11"
-      - id: "fig-7-12"
-      - id: "fig-7-13"
-      - id: "fig-7-14"
-      - id: "fig-7-15"
-      - id: "fig-7-16"
-      - id: "fig-7-17"
+      - id: "cat-7"
 
   - id: "8"
     title: "Double desk"
@@ -198,24 +90,9 @@ object_list:
     materials: "White oak* veneered with tulipwood*, kingwood*, and bloodwood*; drawers of mahogany*; gilt bronze mounts; gilt bronze and iron hardware and locks; stained leather"
     dimensions: "H: 3 ft. 6 1/2 in., W: 5 ft. 2 1/2 in., D: 2 ft. 9 3/8 in. (107.8 x 158.7 x 84.7 cm)"
     accession_number: 70.DA.87
-    link:
+    link: https://www.getty.edu/art/collection/objects/5405/
     figure:
-      - id: "fig-8-1"
-      - id: "fig-8-2"
-      - id: "fig-8-3"
-      - id: "fig-8-4"
-      - id: "fig-8-5"
-      - id: "fig-8-6"
-      - id: "fig-8-7"
-      - id: "fig-8-8"
-      - id: "fig-8-9"
-      - id: "fig-8-10"
-      - id: "fig-8-11"
-      - id: "fig-8-12"
-      - id: "fig-8-13"
-      - id: "fig-8-14"
-      - id: "fig-8-15"
-      - id: "fig-8-16"
+      - id: "cat-8"
 
   - id: "9"
     title: "Writing table"
@@ -224,24 +101,9 @@ object_list:
     materials: "White oak and fir* veneered with amaranth*, kingwood, and tulipwood; drawers of mahogany* and white oak; gilt bronze mounts; brass and iron locks; replacement leather writing surface"
     dimensions: "H: 2 ft. 5 1/2 in., W: 3 ft. 1 7/8 in., D: 1 ft. 10 11/16 in. (29 1/2 x 37 7/8 x 22 11/16 cm)"
     accession_number: 65.DA.1
-    link:
+    link: https://www.getty.edu/art/collection/objects/5372/
     figure:
-      - id: "fig-9-1"
-      - id: "fig-9-2"
-      - id: "fig-9-3"
-      - id: "fig-9-4"
-      - id: "fig-9-5"
-      - id: "fig-9-6"
-      - id: "fig-9-7"
-      - id: "fig-9-8"
-      - id: "fig-9-9"
-      - id: "fig-9-10"
-      - id: "fig-9-11"
-      - id: "fig-9-12"
-      - id: "fig-9-13"
-      - id: "fig-9-14"
-      - id: "fig-9-15"
-      - id: "fig-9-16"
+      - id: "cat-9"
 
   - id: "10"
     title: "Writing table (*bureau plat*)"
@@ -252,22 +114,7 @@ object_list:
     accession_number: 78.DA.84
     link:
     figure:
-      - id: "fig-10-1"
-      - id: "fig-10-2"
-      - id: "fig-10-3"
-      - id: "fig-10-4"
-      - id: "fig-10-5"
-      - id: "fig-10-6"
-      - id: "fig-10-7"
-      - id: "fig-10-8"
-      - id: "fig-10-9"
-      - id: "fig-10-10"
-      - id: "fig-10-11"
-      - id: "fig-10-12"
-      - id: "fig-10-13"
-      - id: "fig-10-14"
-      - id: "fig-10-15"
-      - id: "fig-10-16"
+      - id: "cat-10"
 
   - id: "11"
     title: "Corner cabinet"
@@ -276,24 +123,9 @@ object_list:
     materials: "Mahogany* and white oak* veneered with bloodwood*, kingwood*, *ferréol**, amaranth, and mahogany; enameled metal clock dial; glass; gilt bronze mounts; brass and iron hardware and lock [Restorations in fir*, walnut*, and Andaman padauk*]"
     dimensions: "H: 9 ft. 6 in., W: 4 ft. 3 in., D: 2 ft. 4 1/2 in. (289.5 x 129.5 x 72 cm)"
     accession_number: 79.DA.66
-    link:
+    link: https://www.getty.edu/art/collection/objects/5693/
     figure:
-      - id: "fig-11-1"
-      - id: "fig-11-2"
-      - id: "fig-11-3"
-      - id: "fig-11-4"
-      - id: "fig-11-5"
-      - id: "fig-11-6"
-      - id: "fig-11-7"
-      - id: "fig-11-8"
-      - id: "fig-11-9"
-      - id: "fig-11-10"
-      - id: "fig-11-11"
-      - id: "fig-11-12"
-      - id: "fig-11-13"
-      - id: "fig-11-14"
-      - id: "fig-11-15"
-      - id: "fig-11-16"
+      - id: "cat-11"
 
   - id: "12"
     title: "Pair of corner cupboards"
@@ -302,25 +134,9 @@ object_list:
     materials: "White oak veneered with pear* and bloodwood, set with leather panels of Chinese black lacquer, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and locks; *brèche d’Alep* top"
     dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 7 1/2 in., D: 1 ft. 11 1/4 in. (97.2 x 80 x 58.7 cm)"
     accession_number: 78.DA.119.1-2
-    link:
+    link: https://www.getty.edu/art/collection/objects/5650/
     figure:
-      - id: "fig-12-1"
-      - id: "fig-12-2"
-      - id: "fig-12-3"
-      - id: "fig-12-4"
-      - id: "fig-12-5"
-      - id: "fig-12-6"
-      - id: "fig-12-7"
-      - id: "fig-12-8"
-      - id: "fig-12-9"
-      - id: "fig-12-10"
-      - id: "fig-12-11"
-      - id: "fig-12-12"
-      - id: "fig-12-13"
-      - id: "fig-12-14"
-      - id: "fig-12-15"
-      - id: "fig-12-16"
-      - id: "fig-12-17"
+      - id: "cat-12"
 
   - id: "13"
     title: "*Secrétaire*"
@@ -329,24 +145,9 @@ object_list:
     materials: "White oak and sycamore maple* veneered with panels of Chinese red lacquer on Japanese arborvitae* and painted with European lacquer; interior drawers of sycamore maple, and Japanese arborvitae; gilt bronze mounts; brass and iron hardware and locks; *brèche d’Alep* top; replacement silk velvet, and trim"
     dimensions: "H: 3ft. 4 1/2 in., W: 3ft. 9 in., D: 1ft. 3 1/8 in. (102.8 x 114.3 x 38.4 cm)"
     accession_number: 65.DA.3
-    link:
+    link: https://www.getty.edu/art/collection/objects/5374/
     figure:
-      - id: "fig-13-1"
-      - id: "fig-13-2"
-      - id: "fig-13-3"
-      - id: "fig-13-4"
-      - id: "fig-13-5"
-      - id: "fig-13-6"
-      - id: "fig-13-7"
-      - id: "fig-13-8"
-      - id: "fig-13-9"
-      - id: "fig-13-10"
-      - id: "fig-13-11"
-      - id: "fig-13-12"
-      - id: "fig-13-13"
-      - id: "fig-13-14"
-      - id: "fig-13-15"
-      - id: "fig-13-16"
+      - id: "cat-13"
 
   - id: "14"
     title: "Commode"
@@ -355,25 +156,9 @@ object_list:
     materials: "White oak veneered with ebony* and a wood possibly identified as service tree*, set with panels of Japanese lacquer on Japanese arborvitae, and painted with European lacquer; drawers of white oak; brass and iron hardware and lock; gilt bronze mounts; *campan mélange vert* marble top"
     dimensions: "H: 2 ft. 10 3/4 in., W: 4 ft. 9 1/2 in., D: 2 ft. 3/4 in. (88.3 x 146.1 x 62.6 cm)"
     accession_number: 55.DA.2
-    link:
+    link: https://www.getty.edu/art/collection/objects/5359/
     figure:
-      - id: "fig-14-1"
-      - id: "fig-14-2"
-      - id: "fig-14-3"
-      - id: "fig-14-4"
-      - id: "fig-14-5"
-      - id: "fig-14-6"
-      - id: "fig-14-7"
-      - id: "fig-14-8"
-      - id: "fig-14-9"
-      - id: "fig-14-10"
-      - id: "fig-14-11"
-      - id: "fig-14-12"
-      - id: "fig-14-13"
-      - id: "fig-14-14"
-      - id: "fig-14-15"
-      - id: "fig-14-16"
-      - id: "fig-14-17"
+      - id: "cat-14"
 
   - id: "15"
     title: "Writing table (*bureau plat*)"
@@ -382,24 +167,9 @@ object_list:
     materials: "White oak* and ash* carcass veneered with bloodwood*; drawers of white oak; gilt bronze mounts; brass and iron hardware and lock; leather top"
     dimensions: "H: 2 ft. 7 1/16 in., W: 5 ft. 11 3/8 in., D: 3 ft. 3 5/8 in. (78.9 × 181.3 × 100.6 cm)"
     accession_number: 71.DA.95
-    link:
+    link: https://www.getty.edu/art/collection/objects/5428/
     figure:
-      - id: "fig-15-1"
-      - id: "fig-15-2"
-      - id: "fig-15-3"
-      - id: "fig-15-4"
-      - id: "fig-15-5"
-      - id: "fig-15-6"
-      - id: "fig-15-7"
-      - id: "fig-15-8"
-      - id: "fig-15-9"
-      - id: "fig-15-10"
-      - id: "fig-15-11"
-      - id: "fig-15-12"
-      - id: "fig-15-13"
-      - id: "fig-15-14"
-      - id: "fig-15-15"
-      - id: "fig-15-16"
+      - id: "cat-15"
 
   - id: "16"
     title: "Commode"
@@ -408,23 +178,9 @@ object_list:
     materials: "White oak* and poplar* veneered with bloodwood*; drawers of white oak and walnut*; brass and iron locks; gilt bronze mounts; *fleur de pêcher* marble top"
     dimensions: "H: 2 ft. 10 1/2 in., W: 4 ft. 11 5/8 in., D: 2 ft. 2 5/8 in. (87.7 x 151.5 x 65 cm)"
     accession_number: 83.DA.356
-    link:
+    link: https://www.getty.edu/art/collection/objects/5814/
     figure:
-      - id: "fig-16-1"
-      - id: "fig-16-2"
-      - id: "fig-16-3"
-      - id: "fig-16-4"
-      - id: "fig-16-5"
-      - id: "fig-16-6"
-      - id: "fig-16-7"
-      - id: "fig-16-8"
-      - id: "fig-16-9"
-      - id: "fig-16-10"
-      - id: "fig-16-11"
-      - id: "fig-16-12"
-      - id: "fig-16-13"
-      - id: "fig-16-14"
-      - id: "fig-16-15"
+      - id: "cat-16"
 
   - id: "17"
     title: "Two pairs of corner cupboards (*encoignures*)"
@@ -435,26 +191,9 @@ object_list:
     dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 9 3/4 in., D: 1 ft. 11 1/8 in. (97.2 x 85.7 x 58.7 cm)
     H: 3 ft. 1/4 in., W: 2 ft. 8 1/4 in., D: 2 ft. (92.1 x 81.9 x 61 cm)"
     accession_number: 72.DA.39.1–.2 72.DA.69.1–.2
-    link:
+    link: https://www.getty.edu/art/collection/objects/5454/
     figure:
-      - id: "fig-17-1"
-      - id: "fig-17-2"
-      - id: "fig-17-3"
-      - id: "fig-17-4"
-      - id: "fig-17-5"
-      - id: "fig-17-6"
-      - id: "fig-17-7"
-      - id: "fig-17-8"
-      - id: "fig-17-9"
-      - id: "fig-17-10"
-      - id: "fig-17-11"
-      - id: "fig-17-12"
-      - id: "fig-17-13"
-      - id: "fig-17-14"
-      - id: "fig-17-15"
-      - id: "fig-17-16"
-      - id: "fig-17-17"
-      - id: "fig-17-18"
+      - id: "cat-17"
 
   - id: "18"
     title: "Mechanical reading, writing, and toilette table"
@@ -463,28 +202,9 @@ object_list:
     materials: "White oak* veneered with bloodwood*, kingwood*, amaranth*, padauk*, barberry, holly*, boxwood, sycamore, tulipwood, hornbeam, ebony*, cedar; drawer of juniper*; gilt bronze mounts; brass and iron mechanism and lock; silk"
     dimensions: "H: 2 ft. 4 3/4 in., W: 2 ft. 5 1/4 in., D: 1 ft . 3 in. (73 x 74 x 37.8 cm)"
     accession_number: 70.DA.84
-    link:
+    link: https://www.getty.edu/art/collection/objects/5403/
     figure:
-      - id: "fig-18-1"
-      - id: "fig-18-2"
-      - id: "fig-18-3"
-      - id: "fig-18-4"
-      - id: "fig-18-5"
-      - id: "fig-18-6"
-      - id: "fig-18-7"
-      - id: "fig-18-8"
-      - id: "fig-18-9"
-      - id: "fig-18-10"
-      - id: "fig-18-11"
-      - id: "fig-18-12-1"
-      - id: "fig-18-12-2"
-      - id: "fig-18-13"
-      - id: "fig-18-14"
-      - id: "fig-18-15"
-      - id: "fig-18-16-1"
-      - id: "fig-18-16-1"
-      - id: "fig-18-17"
-      - id: "fig-18-18"
+      - id: "cat-18"
 
   - id: "19"
     title: "Writing and toilette table"
@@ -493,27 +213,9 @@ object_list:
     materials: "White oak* veneered with kingwood, tulipwood, amaranth, boxwood, holly*, barberry*, stained hornbeam, bloodwood, sycamore maple*, stained maple*, ebony; leather; silk* fabric lining; gilt bronze mounts; brass and iron fittings and lock; iron screws"
     dimensions: "H: 2 ft. 4 in., W: 2 ft. 7 1/2 in., D: 1 ft. 6 1/8 in. (71.1 x 80 x 46 cm)"
     accession_number: 71.DA.103
-    link:
+    link: https://www.getty.edu/art/collection/objects/5441/
     figure:
-      - id: "fig-19-1"
-      - id: "fig-19-2"
-      - id: "fig-19-3"
-      - id: "fig-19-4"
-      - id: "fig-19-5"
-      - id: "fig-19-6"
-      - id: "fig-19-7"
-      - id: "fig-19-8"
-      - id: "fig-19-9"
-      - id: "fig-19-10"
-      - id: "fig-19-11"
-      - id: "fig-19-12"
-      - id: "fig-19-13"
-      - id: "fig-19-14"
-      - id: "fig-19-15"
-      - id: "fig-19-16"
-      - id: "fig-19-17"
-      - id: "fig-19-18"
-      - id: "fig-19-19"
+      - id: "cat-19"
 
   - id: "20"
     title: "Commode"
@@ -522,21 +224,9 @@ object_list:
     materials: "White oak, maple, and fir veneered with tulipwood, kingwood, amaranth, and other unidentified woods; gilt bronze mounts; brass and iron lock; *brèche d’Alep* top"
     dimensions: "H: 2 ft. 10 1/4 in., W: 5 ft. 1 1/4 in., D: 2 ft. 1 in. (87 x 155.5 x 63.5 cm)"
     accession_number: 76.DA.15
-    link:
+    link: https://www.getty.edu/art/collection/objects/5603/
     figure:
-      - id: "fig-20-1"
-      - id: "fig-20-2"
-      - id: "fig-20-3"
-      - id: "fig-20-4"
-      - id: "fig-20-5"
-      - id: "fig-20-6"
-      - id: "fig-20-7"
-      - id: "fig-20-8"
-      - id: "fig-20-9"
-      - id: "fig-20-10"
-      - id: "fig-20-11"
-      - id: "fig-20-12"
-      - id: "fig-20-13"
+      - id: "cat-20"
 
   - id: "21"
     title: "Commode"
@@ -545,18 +235,9 @@ object_list:
     materials: "White* and red oak*, poplar* and fir* veneered with tulipwood* and kingwood*; gilt bronze mounts; iron lock hardware; Rance limestone top"
     dimensions: "H: 2 ft. 11 1/2 in., W: 4 ft. 9 in., D: 2 ft. 2 1/4 in. (90.1 x 144.8 x 66.6 cm)"
     accession_number: 70.DA.79
-    link:
+    link: https://www.getty.edu/art/collection/objects/5398/
     figure:
-      - id: "fig-21-1"
-      - id: "fig-21-2"
-      - id: "fig-21-3"
-      - id: "fig-21-4"
-      - id: "fig-21-5"
-      - id: "fig-21-6"
-      - id: "fig-21-7"
-      - id: "fig-21-8"
-      - id: "fig-21-9"
-      - id: "fig-21-10"
+      - id: "cat-21"
 
   - id: ""
     title: ""
