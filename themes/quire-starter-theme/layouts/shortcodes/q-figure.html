@@ -504,10 +504,18 @@ render the figure from matching values found ther
           {{ readFile $tableSrc | safeHTML }}
         </figure>
       {{ else}}
+      
+      {{ $imgPath := printf "%s/%s" ($.Scratch.Get "imageDir") .src }}
+        
+      {{- $image := resources.Get $imgPath -}}
+      {{ $image = $image.Filter (images.GaussianBlur 64) }}
+    
+      {{ $image = $image.Resize "720x" }}
+      
         <img
         id='{{ .id }}'
         class="quire-figure__image" 
-        src='{{ printf "%s/%s" ($.Scratch.Get "imageDir") .src | relURL }}' 
+        src='{{ $image.RelPermalink }}' 
         alt='{{ with .alt }}{{ . }}{{ end }}' />
       {{ end }}
   {{ else }}
