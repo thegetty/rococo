@@ -45,6 +45,7 @@ params:
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: false
   entryPageObjectLinkText: "View in Collection"
+  entryPageTombstone: list # list | table (default)
   figureLabelLocation: on-top # below | on-top
   figureModal: true
   figureModalIcons: true

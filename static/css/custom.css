@@ -1,0 +1,17 @@
+/* COVER
+============================================================================= */
+/* Style custom list treatment of object tombstones */
+.quire-entry__tombstone--list {
+  font-size: .875rem;
+  margin: 0 2rem;
+}
+.quire-entry__tombstone--list li {
+  margin-bottom: .25rem;
+  margin-left: 1.5rem;
+  text-indent: -1.5rem;
+}
+.quire-entry__tombstone .button {
+  margin-left: 2rem;
+  margin-top: 1rem;
+  font-size: .875rem;
+}

@@ -1,5 +1,4 @@
 object_display_order:
-  - title
   - place_date
   - attribution
   - materials
