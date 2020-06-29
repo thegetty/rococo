@@ -51,7 +51,7 @@ figure_list:
   - id: "fig-1-5"
     src: "figures/fig-1-5.jpg"
     label: "Figure 1.5"
-    caption: "Back of right section, with the "DAVAL" inscription."
+    caption: "Back of right section, with the “DAVAL” inscription."
     download: true
 
   - id: "fig-1-6"
@@ -153,13 +153,13 @@ figure_list:
   - id: "fig-2-4"
     src: "figures/fig-2-4.jpg"
     label: "Figure 2.4"
-    caption: "On the back of the cabinet on the upper rail is stamped "B.V.R.B." (84.DA.24.1)."
+    caption: "On the back of the cabinet on the upper rail is stamped “B.V.R.B.”(84.DA.24.1)."
     download: true
 
   - id: "fig-2-5"
     src: "figures/fig-2-5.jpg"
     label: "Figure 2.5"
-    caption: "On the back of the cabinet on the upper rail is stamped "B.V.R.B." (84.DA.24.2)."
+    caption: "On the back of the cabinet on the upper rail is stamped “B.V.R.B.” (84.DA.24.2)."
     download: true
 
   - id: "fig-2-6"
@@ -249,13 +249,13 @@ figure_list:
   - id: "fig-3-4"
     src: "figures/fig-3-4.jpg"
     label: "Figure 3.4"
-    caption: "Center of the top rail on the back of the *bout de bureau* stamped "B.V.R.B." twice."
+    caption: "Center of the top rail on the back of the *bout de bureau* stamped “B.V.R.B.” twice."
     download: true
 
   - id: "fig-3-5"
     src: "figures/fig-3-5.jpg"
     label: "Figure 3.5"
-    caption: "Stamp on the upper back of the *bout de bureau*: "E.J.CUVELLIER."
+    caption: "Stamp on the upper back of the *bout de bureau*: “E.J.CUVELLIER.”"
     download: true
 
   - id: "fig-3-6"
@@ -345,7 +345,7 @@ figure_list:
   - id: "fig-4-2"
     src: "figures/fig-4-2.jpg"
     label: "Figure 4.2"
-    caption: "Stamp on the top of 72.DA.44.1: "B.V.R.B.""
+    caption: "Stamp on the top of 72.DA.44.1: “B.V.R.B.”"
     download: true
 
   - id: "fig-4-3"
@@ -447,7 +447,7 @@ figure_list:
   - id: "fig-5-2"
     src: "figures/fig-5-2.jpg"
     label: "Figure 5.2"
-    caption: "The top of the front right leg is stamped "B.V.R.B.""
+    caption: "The top of the front right leg is stamped “B.V.R.B.”"
     download: true
 
   - id: "fig-5-3"
@@ -501,7 +501,7 @@ figure_list:
   - id: "fig-5-11"
     src: "figures/fig-5-11.jpg"
     label: "Figure 5.11"
-    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 x 69 x 49 cm (35.8 x 27.2 x 19.3 in.). Vienna, Präsidentschaftskanzleiin, MD 035837. Photo: Silvia Miklin-Kniefacz"
+    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 x 69 x 49 cm (35.8 x 27.2 x 19.3 in.). Vienna, Präsidentschaftskanzleiin, MD 035837. Photo: Silvia Miklin-Kniefacz."
     download: true
 
   - id: "fig-5-12"
@@ -555,7 +555,7 @@ figure_list:
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
     label: "Figure 6.2"
-    caption: "On top of the right rear leg stile are the stamps "JME B.V.R.B. JME.""
+    caption: "On top of the right rear leg stile are the stamps “JME B.V.R.B. JME.”"
     download: true
 
   - id: "fig-6-3"
@@ -663,7 +663,7 @@ figure_list:
   - id: "fig-7-3"
     src: "figures/fig-7-3.jpg"
     label: "Figure 7.3"
-    caption: "Stamped "B.V.R.B." on the top of the proper left leg stile (71.DA.96.2)."
+    caption: "Stamped “B.V.R.B.” on the top of the proper left leg stile (71.DA.96.2)."
     download: true
 
   - id: "fig-7-4"
@@ -747,7 +747,7 @@ figure_list:
   - id: "fig-7-17"
     src: "figures/fig-7-17.jpg"
     label: "Figure 7.17"
-    caption: "Two versions of one of the mounts, at left the model or "original" and at right an aftercast made from that model. There is a marked difference in their surface treatment. Generally, the models are larger and less detailed, and the copies are smaller, with more elaborate surface chasing."
+    caption: "Two versions of one of the mounts, at left the model or “original” and at right an aftercast made from that model. There is a marked difference in their surface treatment. Generally, the models are larger and less detailed, and the copies are smaller, with more elaborate surface chasing."
     download: true
 
   - id: "cat-8"
@@ -789,7 +789,7 @@ figure_list:
   - id: "fig-8-6"
     src: "figures/fig-8-6.jpg"
     label: "Figure 8.6"
-    caption: "Underneath the central drawer on the back of the desk, a rail is stamped "JME B.V.R.B. JME.""
+    caption: "Underneath the central drawer on the back of the desk, a rail is stamped “JME B.V.R.B. JME.”"
     download: true
 
   - id: "fig-8-7"
@@ -885,13 +885,13 @@ figure_list:
   - id: "fig-9-5"
     src: "figures/fig-9-5.jpg"
     label: "Figure 9.5"
-    caption: ""JME" and "B.V.R.B" stamps on the underside of the left front rail."
+    caption: "“JME” and “B.V.R.B” stamps on the underside of the left front rail."
     download: true
 
   - id: "fig-9-6"
     src: "figures/fig-9-6.jpg"
     label: "Figure 9.6"
-    caption: "Two paper labels on the underside of the table, one printed "Londesborough" and the other "J.J. Allen.""
+    caption: "Two paper labels on the underside of the table, one printed “Londesborough” and the other “J.J. Allen.”"
     download: true
 
   - id: "fig-9-7"
@@ -975,13 +975,13 @@ figure_list:
   - id: "fig-10-3"
     src: "figures/fig-10-3.jpg"
     label: "Figure 10.3"
-    caption: "Top of a front leg with the stamp "JME B.V.R.B. JME.""
+    caption: "Top of a front leg with the stamp “JME B.V.R.B. JME.”"
     download: true
 
   - id: "fig-10-4"
     src: "figures/fig-10-4.jpg"
     label: "Figure 10.4"
-    caption: "Underneath the table by the left drawer, with the effaced stamp "JME BVRB JME.""
+    caption: "Underneath the table by the left drawer, with the effaced stamp “JME BVRB JME.”"
     download: true
 
   - id: "fig-10-5"
@@ -1041,7 +1041,7 @@ figure_list:
   - id: "fig-10-14"
     src: "figures/fig-10-14.jpg"
     label: "Figure 10.14"
-    caption: "Replacement veneer with horizontally oriented grain on the table's sides, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from "aging" with acid."
+    caption: "Replacement veneer with horizontally oriented grain on the table's sides, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from “aging” with acid."
     download: true
 
   - id: "fig-10-15"
@@ -1065,7 +1065,7 @@ figure_list:
   - id: "fig-11-1"
     src: "figures/fig-11-1.jpg"
     label: "Figure 11.1"
-    caption: "Stamp "I.DUBOIS" on the back."
+    caption: "Stamp “I.DUBOIS” on the back."
     download: true
 
   - id: "fig-11-2"
@@ -1173,7 +1173,7 @@ figure_list:
   - id: "fig-12-2"
     src: "figures/fig-12-2.jpg"
     label: "Figure 12.2"
-    caption: "On top of the front right leg stile is stamped "I.DUBOIS JME JME" (78.DA.119.2)"
+    caption: "On top of the front right leg stile is stamped “I.DUBOIS JME JME” (78.DA.119.2)."
     download: true
 
   - id: "fig-12-3"
@@ -1221,7 +1221,7 @@ figure_list:
   - id: "fig-12-10"
     src: "figures/fig-12-10.jpg"
     label: "Figure 12.10"
-    caption: "Two-dimensional view of the lacquer on cabinet .2 showing the "darts" that enabled the panel to lie flat across the rounded surface of the current cabinet."
+    caption: "Two-dimensional view of the lacquer on cabinet .2 showing the “darts” that enabled the panel to lie flat across the rounded surface of the current cabinet."
     download: true
 
   - id: "fig-12-11"
@@ -1264,7 +1264,7 @@ figure_list:
     src: "figures/fig-12-17.jpg"
     label: "Figure 12.17"
     caption: "Details of a mount from the .2 cabinet showing the brazing method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be brazed without shifting. The remnants of the wire, surrounded by brazing metal, are still visible."
-    download: true    
+    download: true
 
   - id: "cat-13"
     src: "figures/cat-13.jpg"
@@ -1299,7 +1299,7 @@ figure_list:
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
     label: "Figure 13.5"
-    caption: "On the top rear right stile is stamped "I.DUBOIS" and "JME.""
+    caption: "On the top rear right stile is stamped “I.DUBOIS” and “JME.”"
     download: true
 
   - id: "fig-13-6"
@@ -1593,7 +1593,7 @@ figure_list:
   - id: "fig-16-2"
     src: "figures/fig-16-2.jpg"
     label: "Figure 16.2"
-    caption: ""RESTAURE par P. SPOHN." stamp on top of the right rear post, beneath the marble."
+    caption: "“RESTAURE par P. SPOHN.” stamp on top of the right rear post, beneath the marble."
     download: true
 
   - id: "fig-16-3"
@@ -1719,13 +1719,13 @@ figure_list:
   - id: "fig-17-7"
     src: "figures/fig-17-7.jpg"
     label: "Figure 17.7"
-    caption: "The top on cabinet 72.DA.69.2 is marked at its right corner with a recently discovered stamp of J. H. Riesener. This photographic composite shows, from the top, the stamp in normal light, with RTI "specular enhancement" (greyscale), and with RTI "normals visualization." The lowest image is a close-up detail of the stamp modified with yellow outlines to indicate areas that can be discerned in the images and with orange outlines to indicate the areas where letters are not visible but assumed to have once been based on complete surviving Riesener stamps."
+    caption: "The top on cabinet 72.DA.69.2 is marked at its right corner with a recently discovered stamp of J. H. Riesener. This photographic composite shows, from the top, the stamp in normal light, with RTI “specular enhancement” (greyscale), and with RTI “normals visualization.” The lowest image is a close-up detail of the stamp modified with yellow outlines to indicate areas that can be discerned in the images and with orange outlines to indicate the areas where letters are not visible but assumed to have once been based on complete surviving Riesener stamps."
     download: true
 
   - id: "fig-17-8"
     src: "figures/fig-17-8.jpg"
     label: "Figure 17.8"
-    caption: "Near-infrared reflectance image of the inscription, presumably in pencil, on the .69.2 cabinet: "Réparée le 13 Juillet 1843 / par \[indecipherable\] de Fère Champenoise / rue de Vitry No 29.""
+    caption: "Near-infrared reflectance image of the inscription, presumably in pencil, on the .69.2 cabinet: “Réparée le 13 Juillet 1843 / par \[indecipherable\] de Fère Champenoise / rue de Vitry No 29.”"
     download: true
 
   - id: "fig-17-9"
@@ -1803,7 +1803,7 @@ figure_list:
   - id: "fig-18-2"
     src: "figures/fig-18-2.jpg"
     label: "Figure 18.2"
-    caption: "The underside of the front rail is stamped "J.F.OEBEN" and "JME.""
+    caption: "The underside of the front rail is stamped “J.F.OEBEN” and “JME.”"
     download: true
 
   - id: "fig-18-3"
@@ -1876,79 +1876,79 @@ figure_list:
     src: "figures/fig-18-14.jpg"
     label: "Figure 18.14"
     caption: "Detail of an X-radiograph showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate. The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
-    download: true  
+    download: true
 
   - id: "fig-18-15"
     src: "figures/fig-18-15.jpg"
     label: "Figure 18.15"
     caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
-    download: true  
+    download: true
 
   - id: "fig-18-16"
     src: "figures/fig-18-16.jpg"
     label: "Figure 18.16"
     caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
-    download: true  
+    download: true
 
   - id: "fig-18-17"
     src: "figures/fig-18-17.jpg"
     label: "Figure 18.17"
     caption: "The Museum's table, in its current condition on the left and virtually restored to its original colors on the right."
-    download: true  
+    download: true
 
   - id: "fig-18-18"
     src: "figures/fig-18-18.jpg"
     label: "Figure 18.18"
     caption: "The top of the table, virtually restored to its original colors based on detailed analysis of trace dye compounds remaining in the wood and the use of reference samples, prepared using traditional techniques."
-    download: true  
+    download: true
 
   - id: "cat-19"
     src: "figures/cat-19.jpg"
     label: "Catalogue 19"
     caption: "Main view: 3/4 right front"
-    download: true  
+    download: true
 
   - id: "fig-19-1"
     src: "figures/fig-19-1.jpg"
     label: "Figure 19.1"
     caption: "Top."
-    download: true  
+    download: true
 
   - id: "fig-19-2"
     src: "figures/fig-19-2.jpg"
     label: "Figure 19.2"
     caption: "Interior of the drawer with divided compartments and watered silk lining."
-    download: true  
+    download: true
 
   - id: "fig-19-3"
     src: "figures/fig-19-3.jpg"
     label: "Figure 19.3"
-    caption: "The underside of the rear rail is stamped "J.F.OEBEN.""
-    download: true  
+    caption: "The underside of the rear rail is stamped “J.F.OEBEN.”"
+    download: true
 
   - id: "fig-19-4"
     src: "figures/fig-19-4.jpg"
     label: "Figure 19.4"
     caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1755. Oak veneered with amaranth, burl wood, bloodwood, kingwood, and mahogany; marquetry in polychrome wood and green-stained ivory; Japanese lacquer; gilt bronze mounts, 68.3 x 79.5 x 44.8 cm (27 x 31 x 17.5 in.). Paris, musée du Louvre, OA 10404."
-    download: true  
+    download: true
 
   - id: "fig-19-5"
     src: "figures/fig-19-5.jpg"
     label: "Figure 19.5"
     caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Galerie Charpentier, *Bel ameublement et objets d\'art*, December 15, 2003, lot 109."
-    download: true    
+    download: true
 
   - id: "fig-19-6"
     src: "figures/fig-19-6.jpg"
     label: "Figure 19.6"
     caption: "Detail of one of the stop pins that limits the movement of the sliding top."
-    download: true  
+    download: true
 
   - id: "fig-19-7"
     src: "figures/fig-19-7.jpg"
     label: "Figure 19.7"
     caption: "Bottom."
-    download: true  
+    download: true
 
   - id: "fig-19-8"
     src: "figures/fig-19-8.jpg"
@@ -2043,7 +2043,7 @@ figure_list:
   - id: "fig-20-3"
     src: "figures/fig-20-3.jpg"
     label: "Figure 20.3"
-    caption: "On the top of the left front stile is stamped "DF.""
+    caption: "On the top of the left front stile is stamped “DF.”"
     download: true
 
   - id: "fig-20-4"
@@ -2103,7 +2103,7 @@ figure_list:
   - id: "fig-20-13"
     src: "figures/fig-20-13.jpg"
     label: "Figure 20.13"
-    caption: "Flat-sawn kingwood lacks the ray "streaks" and generally exhibits dark stripes in the grain that are more widely spaced than in the quarter-sawn variety."
+    caption: "Flat-sawn kingwood lacks the ray “streaks” and generally exhibits dark stripes in the grain that are more widely spaced than in the quarter-sawn variety."
     download: true
 
   - id: "cat-21"
@@ -2115,7 +2115,7 @@ figure_list:
   - id: "fig-21-1"
     src: "figures/fig-21-1.jpg"
     label: "Figure 21.1"
-    caption: "The top of the right leg stile is stamped "DELORME JME" and "N.PETIT.""
+    caption: "The top of the right leg stile is stamped “DELORME JME” and “N.PETIT.”"
     download: true
 
   - id: "fig-21-2"
