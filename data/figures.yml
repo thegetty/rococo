@@ -7,13 +7,13 @@ figure_list:
     download: true
 
   - id: "fig-2"
-    src: "figures/fig-2.jpg"
+    src: "figures/fig-2--fpo.jpg"
     label: "Figure 2"
     caption: "The Louis XV Gallery, Ranch House, Malibu, 1954."
     download: true
 
   - id: "fig-3"
-    src: "figures/fig-3.jpg"
+    src: "figures/fig-3--fpo.jpg"
     label: "Figure 3"
     caption: "The Régence (or Rote) Salon of Baron Alphone (Mayer) von Rothschild, view of the collection with the Dubois corner cupboard on the left (79.DA.66; [cat. no. 11](/catalogue/11/)), Theresianum Gasse 16--18, Vienna, before 1938."
     download: true
@@ -193,7 +193,7 @@ figure_list:
     download: true
 
   - id: "fig-2-11"
-    src: "figures/fig-2-11.jpg"
+    src: "figures/fig-2-11--fpo.jpg"
     label: "Figure 2.11"
     caption: "Bonde (per the signature \[unidentified French painter\]), *Les enfants des Machault d'Arnouville*, ca. 1741--47. Pastel on paper, 114 x 89 cm (44.9 x 35 in.). Thoiry, château de Thoiry."
     download: true
@@ -259,7 +259,7 @@ figure_list:
     download: true
 
   - id: "fig-3-6"
-    src: "figures/fig-3-6.jpg"
+    src: "figures/fig-3-6--fpo.jpg"
     label: "Figure 3.6"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois santiné*, chased gilt bronze mounts, 57 x 82 x 31 cm (22.4 x 32.3 x 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584."
     download: true
@@ -565,7 +565,7 @@ figure_list:
     download: true
 
   - id: "fig-6-4"
-    src: "figures/fig-6-4.jpg"
+    src: "figures/fig-6-4--fpo.jpg"
     label: "Figure 6.4"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 x 116 x 54.5 cm (33 x 45 3/4 x 21 1/2 in.). Abu Dhabi, Louvre Abu Dhabi."
     download: true
@@ -799,7 +799,7 @@ figure_list:
     download: true
 
   - id: "fig-8-8"
-    src: "figures/fig-8-8.jpg"
+    src: "figures/fig-8-8--fpo.jpg"
     label: "Figure 8.8"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Lean-to *secrétaire*, ca. 1750. Oak veneered with tulipwood, inlaid with stylized floral marquetry of kingwood; mounts of chased and gilt bronze; drawers of mahogany, probably relined, 104 x 142.2 x 67.5 cm (41 x 56 x 26.5 in.). Edinburgh, Dalmeny House, collection of the Earl of Rosebery."
     download: true
@@ -919,7 +919,7 @@ figure_list:
     download: true
 
   - id: "fig-9-11"
-    src: "figures/fig-9-11.jpg"
+    src: "figures/fig-9-11--fpo.jpg"
     label: "Figure 9.11"
     caption: "Schematic diagram of the construction and assembly of the top."
     download: true
@@ -1087,7 +1087,7 @@ figure_list:
     download: true
 
   - id: "fig-11-5"
-    src: "figures/fig-11-5.jpg"
+    src: "figures/fig-11-5--fpo.jpg"
     label: "Figure 11.5"
     caption: "Back left."
     download: true
@@ -1507,7 +1507,7 @@ figure_list:
     download: true
 
   - id: "fig-15-5"
-    src: "figures/fig-15-5.jpg"
+    src: "figures/fig-15-5--fpo.jpg"
     label: "Figure 15.5"
     caption: "Joseph Baumhauer (French, died 1772), *Bureau plat* and *cartonnier*, reign of Louis XV. *Bureau plat*: 190 x 95 x 84 cm (75 x 37.5 x 33 in.), *cartonnier*: 86 x 64 cm (34 x 25 in.). Paris, Hôtel Drouot, *Objets d\'art et d\'ameublement composant la collection de M. B. Kotschoubey*, April 13--16, 1906, lots 384 and 385."
     download: true
@@ -1933,7 +1933,7 @@ figure_list:
     download: true
 
   - id: "fig-19-5"
-    src: "figures/fig-19-5.jpg"
+    src: "figures/fig-19-5--fpo.jpg"
     label: "Figure 19.5"
     caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Galerie Charpentier, *Bel ameublement et objets d\'art*, December 15, 2003, lot 109."
     download: true
