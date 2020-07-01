@@ -612,8 +612,20 @@ figure_list:
     caption: "Composite ultraviolet photomicrograph of the Chinese lacquer showing an overall thickness of 1.2 mm, including what remains of the original wood substrate."
     download: true
 
-  - id: "fig-6-12"
-    src: "figures/fig-6-12.jpg"
+  - id: "fig-6-12-1"
+    src: "figures/fig-6-12-1.jpg"
+    label: "Figure 6.12"
+    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
+    download: true
+
+  - id: "fig-6-12-2"
+    src: "figures/fig-6-12-2.jpg"
+    label: "Figure 6.12"
+    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
+    download: true
+
+  - id: "fig-6-12-3"
+    src: "figures/fig-6-12-3.jpg"
     label: "Figure 6.12"
     caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
     download: true
