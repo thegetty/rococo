@@ -840,8 +840,14 @@ figure_list:
     caption: "X-radiograph detailing how the upper sections of the legs were internally modified to enlarge the swell of the knees behind the pierced sections of the corner mounts."
     download: true
 
-  - id: "fig-8-13"
-    src: "figures/fig-8-13.jpg"
+  - id: "fig-8-13-1"
+    src: "figures/fig-8-13-1.jpg"
+    label: "Figure 8.13"
+    caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
+    download: true
+
+  - id: "fig-8-13-2"
+    src: "figures/fig-8-13-2.jpg"
     label: "Figure 8.13"
     caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
     download: true
