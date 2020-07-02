@@ -1105,13 +1105,13 @@ figure_list:
     download: true
 
   - id: "fig-11-4"
-    src: "figures/fig-11-4.jpg"
+    src: "figures/fig-11-4-1.jpg"
     label: "Figure 11.4"
     caption: "Back right."
     download: true
 
   - id: "fig-11-5"
-    src: "figures/fig-11-5--fpo.jpg"
+    src: "figures/fig-11-4-2.jpg"
     label: "Figure 11.5"
     caption: "Back left."
     download: true
