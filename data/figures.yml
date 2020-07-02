@@ -1050,8 +1050,14 @@ figure_list:
     caption: "Remnants of the original loose double-dovetail blocks that were severed to remove the original case top."
     download: true
 
-  - id: "fig-10-13"
-    src: "figures/fig-10-13.jpg"
+  - id: "fig-10-13-1"
+    src: "figures/fig-10-13-1--fpo.jpg"
+    label: "Figure 10.13"
+    caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
+    download: true
+
+  - id: "fig-10-13-2"
+    src: "figures/fig-10-13-2--fpo.jpg"
     label: "Figure 10.13"
     caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
     download: true
