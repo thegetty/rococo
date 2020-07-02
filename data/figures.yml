@@ -1386,8 +1386,14 @@ figure_list:
     caption: "Detail of cracks in the lacquer, seen in raking light, showing the unusual pattern of long diagonal cracks that cross over the more typical gridlike pattern of cracks."
     download: true
 
-  - id: "fig-13-16"
-    src: "figures/fig-13-16.jpg"
+  - id: "fig-13-16-1"
+    src: "figures/fig-13-16-1.jpg"
+    label: "Figure 13.16"
+    caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
+    download: true
+
+  - id: "fig-13-16-2"
+    src: "figures/fig-13-16-2.jpg"
     label: "Figure 13.16"
     caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
     download: true
