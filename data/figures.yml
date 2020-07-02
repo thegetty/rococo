@@ -1920,9 +1920,15 @@ figure_list:
     caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
     download: true
 
-  - id: "fig-18-16"
-    src: "figures/fig-18-16.jpg"
-    label: "Figure 18.16"
+  - id: "fig-18-16-1"
+    src: "figures/fig-18-16-1.jpg"
+    label: "Figure 18.16.1"
+    caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
+    download: true
+
+  - id: "fig-18-16-2"
+    src: "figures/fig-18-16-2.jpg"
+    label: "Figure 18.16.2"
     caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
     download: true
 
