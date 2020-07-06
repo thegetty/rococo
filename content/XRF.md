@@ -1,6 +1,6 @@
 ---
 title: "Technical Note: The Use of X-Ray Fluorescence Spectroscopy (XRF) in the Technical Study of Gilt Bronze Mounts in This Catalogue"
-weight: 5
+weight: 8
 type: page
 author: Arlen Heginbotham
 ---

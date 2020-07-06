@@ -1,6 +1,6 @@
 ---
 title: The Analysis of East Asian and European Lacquer Surfaces on Rococo Furniture
-weight: 4
+weight: 7
 type: page
 author: Jessica Chasen, Arlen Heginbotham, and Michael Schilling
 ---
