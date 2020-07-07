@@ -46,7 +46,7 @@ params:
   entryPageSideBySideLayout: false
   entryPageObjectLinkText: "View in Collection"
   entryPageTombstone: list # list | table (default)
-  figureLabelLocation: on-top # below | on-top
+  figureLabelLocation: below # below | on-top
   figureModal: true
   figureModalIcons: true
   figureZoom: true

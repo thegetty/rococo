@@ -612,8 +612,20 @@ figure_list:
     caption: "Composite ultraviolet photomicrograph of the Chinese lacquer showing an overall thickness of 1.2 mm, including what remains of the original wood substrate."
     download: true
 
-  - id: "fig-6-12"
-    src: "figures/fig-6-12.jpg"
+  - id: "fig-6-12-1"
+    src: "figures/fig-6-12-1.jpg"
+    label: "Figure 6.12"
+    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
+    download: true
+
+  - id: "fig-6-12-2"
+    src: "figures/fig-6-12-2.jpg"
+    label: "Figure 6.12"
+    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
+    download: true
+
+  - id: "fig-6-12-3"
+    src: "figures/fig-6-12-3.jpg"
     label: "Figure 6.12"
     caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
     download: true
@@ -828,8 +840,14 @@ figure_list:
     caption: "X-radiograph detailing how the upper sections of the legs were internally modified to enlarge the swell of the knees behind the pierced sections of the corner mounts."
     download: true
 
-  - id: "fig-8-13"
-    src: "figures/fig-8-13.jpg"
+  - id: "fig-8-13-1"
+    src: "figures/fig-8-13-1.jpg"
+    label: "Figure 8.13"
+    caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
+    download: true
+
+  - id: "fig-8-13-2"
+    src: "figures/fig-8-13-2.jpg"
     label: "Figure 8.13"
     caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
     download: true
@@ -1032,8 +1050,14 @@ figure_list:
     caption: "Remnants of the original loose double-dovetail blocks that were severed to remove the original case top."
     download: true
 
-  - id: "fig-10-13"
-    src: "figures/fig-10-13.jpg"
+  - id: "fig-10-13-1"
+    src: "figures/fig-10-13-1--fpo.jpg"
+    label: "Figure 10.13"
+    caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
+    download: true
+
+  - id: "fig-10-13-2"
+    src: "figures/fig-10-13-2--fpo.jpg"
     label: "Figure 10.13"
     caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
     download: true
@@ -1081,13 +1105,13 @@ figure_list:
     download: true
 
   - id: "fig-11-4"
-    src: "figures/fig-11-4.jpg"
+    src: "figures/fig-11-4-1.jpg"
     label: "Figure 11.4"
     caption: "Back right."
     download: true
 
   - id: "fig-11-5"
-    src: "figures/fig-11-5--fpo.jpg"
+    src: "figures/fig-11-4-2.jpg"
     label: "Figure 11.5"
     caption: "Back left."
     download: true
@@ -1362,8 +1386,14 @@ figure_list:
     caption: "Detail of cracks in the lacquer, seen in raking light, showing the unusual pattern of long diagonal cracks that cross over the more typical gridlike pattern of cracks."
     download: true
 
-  - id: "fig-13-16"
-    src: "figures/fig-13-16.jpg"
+  - id: "fig-13-16-1"
+    src: "figures/fig-13-16-1.jpg"
+    label: "Figure 13.16"
+    caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
+    download: true
+
+  - id: "fig-13-16-2"
+    src: "figures/fig-13-16-2.jpg"
     label: "Figure 13.16"
     caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
     download: true
@@ -1452,8 +1482,14 @@ figure_list:
     caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
     download: true
 
-  - id: "fig-14-14"
-    src: "figures/fig-14-14.jpg"
+  - id: "fig-14-14-1"
+    src: "figures/fig-14-14-1.jpg"
+    label: "Figure 14.14"
+    caption: "**[TWO LAYER IMAGE WITH SLIDER]** X-radiograph of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
+    download: true
+
+  - id: "fig-14-14-2"
+    src: "figures/fig-14-14-2.jpg"
     label: "Figure 14.14"
     caption: "**[TWO LAYER IMAGE WITH SLIDER]** X-radiograph of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
     download: true
@@ -1884,9 +1920,15 @@ figure_list:
     caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
     download: true
 
-  - id: "fig-18-16"
-    src: "figures/fig-18-16.jpg"
-    label: "Figure 18.16"
+  - id: "fig-18-16-1"
+    src: "figures/fig-18-16-1.jpg"
+    label: "Figure 18.16.1"
+    caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
+    download: true
+
+  - id: "fig-18-16-2"
+    src: "figures/fig-18-16-2.jpg"
+    label: "Figure 18.16.2"
     caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
     download: true
 
