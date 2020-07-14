@@ -2,7 +2,8 @@
 title: Introduction
 weight: 6
 type: page
-author: Anne-Lise Desmas
+contributor:
+  - id: ademas
 ---
 
 In his first book, *History of the Oil Business of George F. and J. Paul Getty 1903–1939*, published in 1941, J. Paul Getty (1892–1976) took the opportunity to include a short, two-page chapter on his art collection. He explained that although since 1931 he had acquired only fine arts objects—with the exception of one antique rug—his lease of a large penthouse in New York City in November 1936 marked a turning point: “The apartment was furnished and included many examples of 18th-Century French and English furniture of good quality, and one 18th-Century Gobelins tapestry. I had never been particularly interested in antique furniture or in tapestries, but after living in the apartment for a few months I felt the influence of their charm.”[^1]

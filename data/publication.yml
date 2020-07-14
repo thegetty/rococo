@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 
 title: Rococo Ébénisterie in the J. Paul Getty Museum
-subtitle: 
+subtitle:
 reading_line:
 short_title: Rococo Ébénisterie
 
@@ -44,14 +44,98 @@ publisher:
 contributor_as_it_appears: Gillian Wilson and Philippe Halbert, with contributions by Anne-Lise Desmas and Arlen Heginbotham
 
 contributor:
-  - type:
-    first_name:
-    last_name:
+  - id: gwilson
+    type: primary
+    first_name: Gillian
+    last_name: Wilson
+    initials: GW
     title:
     affiliation:
-    bio:
-    url:
-    pic:
+  - id: phalbert
+    type: primary
+    first_name: Philippe
+    last_name: Halbert
+    initials: PH
+    title:
+    affiliation:
+  - id: ademas
+    type:
+    first_name: Anne-Lise
+    last_name: Desmas
+    initials:
+    title:
+    affiliation:
+  - id: aheginbotham
+    type:
+    first_name: Arlen
+    last_name: Heginbotham
+    initials: AH
+    title:
+    affiliation:
+  - id: ychastang
+    type:
+    first_name: Yannick
+    last_name: Chastang
+    initials: YC
+    title:
+    affiliation:
+  - id: jchasen
+    type:
+    first_name: Jessica
+    last_name: Chasen
+    initials: JC
+    title:
+    affiliation:
+  - id: jdorscheid
+    type:
+    first_name: Jan
+    last_name: Dorscheid
+    initials: JD
+    title:
+    affiliation:
+  - id: jgodla
+    type:
+    first_name: Joe
+    last_name: Godla
+    initials: JG
+    title:
+    affiliation:
+  - id: cvonenglehardt
+    type:
+    first_name: Clara
+    last_name: von Englehardt
+    initials: CvE
+    title:
+    affiliation:
+  - id: ghanlon
+    type:
+    first_name: Gordon
+    last_name: Hanlon
+    initials: GH
+    title:
+    affiliation:
+  - id: kposner
+    type:
+    first_name: Katrina
+    last_name: Posner
+    initials: KP
+    title:
+    affiliation:
+  - id: mschilling
+    type:
+    first_name: Michael
+    last_name: Schilling
+    initials: MS
+    title:
+    affiliation:
+  - id: rschmidtling
+    type:
+    first_name: Ron
+    last_name: Schmidtling
+    initials: RS
+    title:
+    affiliation:
+
 
 # ------------------------------------------------------------------------------
 # Copright & License

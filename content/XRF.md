@@ -2,7 +2,8 @@
 title: "Technical Note: The Use of X-Ray Fluorescence Spectroscopy (XRF) in the Technical Study of Gilt Bronze Mounts in This Catalogue"
 weight: 8
 type: page
-author: Arlen Heginbotham
+contributor:
+  - id: aheginbotham
 ---
 Throughout this catalogue, there are numerous mentions of the analysis of gilt bronzes using energy dispersive X-ray fluorescence spectroscopy (XRF). This analytical technique can be used to characterize the elemental composition of the copper alloy casting metal from which these objects are made. Results from this analysis are used to draw conclusions about the authenticity of mounts, as well as likely dates and regions of manufacture.
 
