@@ -49,92 +49,82 @@ contributor:
     first_name: Gillian
     last_name: Wilson
     initials: GW
-    title:
-    affiliation:
   - id: phalbert
     type: primary
     first_name: Philippe
     last_name: Halbert
     initials: PH
-    title:
-    affiliation:
   - id: ademas
     type:
     first_name: Anne-Lise
     last_name: Desmas
     initials:
-    title:
-    affiliation:
   - id: aheginbotham
     type:
     first_name: Arlen
     last_name: Heginbotham
     initials: AH
-    title:
-    affiliation:
   - id: ychastang
     type:
     first_name: Yannick
     last_name: Chastang
     initials: YC
-    title:
-    affiliation:
   - id: jchasen
     type:
     first_name: Jessica
     last_name: Chasen
     initials: JC
-    title:
-    affiliation:
   - id: jdorscheid
     type:
     first_name: Jan
     last_name: Dorscheid
     initials: JD
-    title:
-    affiliation:
   - id: jgodla
     type:
     first_name: Joe
     last_name: Godla
     initials: JG
-    title:
-    affiliation:
   - id: cvonenglehardt
     type:
     first_name: Clara
     last_name: von Englehardt
     initials: CvE
-    title:
-    affiliation:
   - id: ghanlon
     type:
     first_name: Gordon
     last_name: Hanlon
     initials: GH
-    title:
-    affiliation:
   - id: kposner
     type:
     first_name: Katrina
     last_name: Posner
     initials: KP
-    title:
-    affiliation:
   - id: mschilling
     type:
     first_name: Michael
     last_name: Schilling
     initials: MS
-    title:
-    affiliation:
   - id: rschmidtling
     type:
     first_name: Ron
     last_name: Schmidtling
     initials: RS
-    title:
-    affiliation:
+  - id: hpiening
+    first_name: Heinrich
+    last_name: Piening
+    initials: HP
+  - id: cgrzywacz
+    first_name: Cecily
+    last_name: Grzywacz
+    initials: CG
+  - id: ghughes
+    first_name: Gary
+    last_name: Hughes
+    initials: GH
+  - id: msmith
+    first_name: Michael
+    last_name: Smith
+    initials: MS
 
 
 # ------------------------------------------------------------------------------
