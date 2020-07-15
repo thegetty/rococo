@@ -76,6 +76,8 @@
 {{/* Contributor range variables */}}
 {{/* ---------------------------------------------------------------------- */}}
 {{ $listRange := $.Get "range" }}
+{{ $listRole := "" }}
+{{ $listRole = $.Get "role" }}
 
 {{ if eq ($.Get "range") "" }}
 {{- partial "error-message.html" $errorRange -}}
@@ -135,7 +137,13 @@
         {{/* Get all contributors on the page */}}
         {{/* -------------------------------------------------------------- */}}
         {{ if eq ($.Get "range") "page" }}
-          {{ partial "contributor-info.html" (dict "Page" $.Page "contributor" . "index" (string $index)) }}
+          {{ if ne $listRole "" }}
+            {{ if eq .role $listRole }}
+              {{ partial "contributor-info.html" (dict "Page" $.Page "contributor" . "index" (string $index)) }}
+            {{ end }}
+          {{ else }}
+            {{ partial "contributor-info.html" (dict "Page" $.Page "contributor" . "index" (string $index)) }}
+          {{ end }}
         {{ else if eq ($.Get "range") "all" }}
           {{ partial "contributor-info.html" (dict "Page" $.Page "contributor" . ) }}  
         {{- else -}}
