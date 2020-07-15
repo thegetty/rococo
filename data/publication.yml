@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 
 title: Rococo Ébénisterie in the J. Paul Getty Museum
-subtitle: 
+subtitle:
 reading_line:
 short_title: Rococo Ébénisterie
 
@@ -44,14 +44,104 @@ publisher:
 contributor_as_it_appears: Gillian Wilson and Philippe Halbert, with contributions by Anne-Lise Desmas and Arlen Heginbotham
 
 contributor:
-  - type:
-    first_name:
-    last_name:
-    title:
-    affiliation:
-    bio:
-    url:
-    pic:
+  - id: gwilson
+    type: primary
+    first_name: Gillian
+    last_name: Wilson
+    initials: GW
+    role: author
+  - id: phalbert
+    type: primary
+    first_name: Philippe
+    last_name: Halbert
+    initials: PH
+    role: author
+  - id: ademas
+    type:
+    first_name: Anne-Lise
+    last_name: Desmas
+    initials:
+  - id: aheginbotham
+    type:
+    first_name: Arlen
+    last_name: Heginbotham
+    initials: AH
+    role: conservator
+  - id: ychastang
+    type:
+    first_name: Yannick
+    last_name: Chastang
+    initials: YC
+    role: conservator
+  - id: jchasen
+    type:
+    first_name: Jessica
+    last_name: Chasen
+    initials: JC
+    role: conservator
+  - id: jdorscheid
+    type:
+    first_name: Jan
+    last_name: Dorscheid
+    initials: JD
+    role: conservator
+  - id: jgodla
+    type:
+    first_name: Joe
+    last_name: Godla
+    initials: JG
+    role: conservator
+  - id: cvonenglehardt
+    type:
+    first_name: Clara
+    last_name: von Englehardt
+    initials: CvE
+    role: conservator
+  - id: ghanlon
+    type:
+    first_name: Gordon
+    last_name: Hanlon
+    initials: GH
+    role: conservator
+  - id: kposner
+    type:
+    first_name: Katrina
+    last_name: Posner
+    initials: KP
+    role: conservator
+  - id: mschilling
+    type:
+    first_name: Michael
+    last_name: Schilling
+    initials: MS
+    role: conservator
+  - id: rschmidtling
+    type:
+    first_name: Ron
+    last_name: Schmidtling
+    initials: RS
+    role: conservator
+  - id: hpiening
+    first_name: Heinrich
+    last_name: Piening
+    initials: HP
+    role: conservator
+  - id: cgrzywacz
+    first_name: Cecily
+    last_name: Grzywacz
+    initials: CG
+    role: conservator
+  - id: ghughes
+    first_name: Gary
+    last_name: Hughes
+    initials: GH
+    role: conservator
+  - id: msmith
+    first_name: Michael
+    last_name: Smith
+    initials: MS
+    role: conservator 
+
 
 # ------------------------------------------------------------------------------
 # Copright & License

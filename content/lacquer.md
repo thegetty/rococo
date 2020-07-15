@@ -2,7 +2,10 @@
 title: The Analysis of East Asian and European Lacquer Surfaces on Rococo Furniture
 weight: 7
 type: page
-author: Jessica Chasen, Arlen Heginbotham, and Michael Schilling
+contributor:
+  - id: jchasen
+  - id: aheginbotham
+  - id: mschilling
 ---
 The Rococo furniture collection at the J. Paul Getty Museum, recently reinterpreted for this publication, has benefited from more than a decade of development and scholarly research into the analysis of lacquer coatings. Nine pieces in the Getty collection feature surfaces with Chinese or Japanese lacquer, or their European imitations, and it is this group of objects that have driven, in part, the development of a new analytical protocol for the study of these materials. Together, Museum conservators and Getty Conservation Institute scientists designed and implemented an approach using organic chemical analysis that generates reproducible data that allow for meaningful comparison. The results presented in this catalogue draw on data collected over a ten-year period that have been reexamined using the most recent improvements in spectral data processing and an expanded reference library.
 
