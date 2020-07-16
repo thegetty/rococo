@@ -12,6 +12,15 @@
 # Adds HTML to the title for styling it on the cover
 getty_catalogue_title: "French Rococo <span class=\"title-large\">Ébénisterie</span> in the J. Paul Getty Museum"
 
+# The title page authors are different than the cover authors
+titlepage_contributor_as_it_appears: |
+
+  Gillian Wilson and Arlen Heginbotham
+
+  with Jessica Chasen, Yannick Chastang, Jan Dorscheid, Joe Godla, Clara von Englehardt, Philippe Halbert, Gordon Hanlon, Katrina Posner, Michael Schilling, Ron&nbsp;Schmidtling, and Linnea Seidling
+
+  Introduction by Anne-Lise Desmas
+  
 
 title: Rococo Ébénisterie in the J. Paul Getty Museum
 subtitle:
@@ -45,7 +54,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears: Gillian Wilson and Philippe Halbert, with contributions by Anne-Lise Desmas and Arlen Heginbotham
+contributor_as_it_appears:
 
 contributor:
   - id: gwilson
@@ -55,7 +64,7 @@ contributor:
     initials: GW
     role: author
   - id: phalbert
-    type: primary
+    type: 
     first_name: Philippe
     last_name: Halbert
     initials: PH
@@ -66,7 +75,7 @@ contributor:
     last_name: Desmas
     initials:
   - id: aheginbotham
-    type:
+    type: primary
     first_name: Arlen
     last_name: Heginbotham
     initials: AH
