@@ -17,7 +17,7 @@
     {{ .Site.Data.publication.contributor_as_it_appears | markdownify }}
     {{ else }}
     <span class="visually-hidden">Contributors: </span>
-    <i>by {{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string" "Site" $.Site) }}</i>
+    <i>{{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string" "Site" $.Site) }}</i>
     {{- end }}
   </div>
 </header>

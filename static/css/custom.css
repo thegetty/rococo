@@ -1,5 +1,101 @@
 /* COVER
 ============================================================================= */
+/* 
+Spectral
+https://github.com/productiontype/Spectral
+Open Font License 1.1 (https://scripts.sil.org/OFL)
+
+Spectral Light
+*/
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral-light.woff2") format("woff2"),
+       url("../fonts/spectral-light.woff") format("woff"),
+       url("../fonts/spectral-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+/* Spectral Semi-Bold 
+*/
+@font-face {
+  font-family: "Spectral";
+  src: url("../fonts/spectral-semibold.woff2") format("woff2"),
+       url("../fonts/spectral-semibold.woff") format("woff"),
+       url("../fonts/spectral-semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Cover customization to match previous collection catalogues */
+.hero-body .container.is-fluid {
+  bottom: 0;
+  right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 3rem;
+  text-align: center;
+  background: -webkit-linear-gradient(top, transparent, rgba(0,0,0,0.8));
+  background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.8));
+  text-shadow: 3px 3px 5px rgba(0,0,0,0.9);
+}
+.quire-cover__hero .title {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 1.1;
+  margin-bottom: 2rem;
+}
+.quire-cover__hero .title .title-large {
+  display: block;
+  font-size: 5.25rem;
+  font-weight: 300;
+  padding-top: 5px
+}
+.quire-cover .quire-page__content .container.is-fluid .content .cover-authors {
+  margin-bottom: 3rem;
+}
+.quire-cover .quire-page__content .container.is-fluid .content .cover-authors p {
+  font-family: 'Noto Sans', sans-serif; 
+  font-weight: 700;
+  text-align: center;
+}
+.quire-cover .quire-page__content .container.is-fluid .content .cover-authors p:first-child {
+  font-size: 1.35rem;
+  letter-spacing: .5px;
+}
+.quire-cover__more .hero-more {
+  background: #a88603;
+}
+@media print {
+  .quire-cover__hero .hero-body .container {
+    width: 100%;
+    padding-bottom: 1in;
+  }
+  .quire-cover__hero .title {
+    font-size: 22pt;
+  }
+  .hero-body .container.is-fluid {
+    border-width: 0;
+  }
+  .quire-cover__hero .title .title-large {
+    font-size: 60pt;
+  }
+  .title-page .contributor {
+    max-width: 4.75in;
+    float: right;
+  }
+  .title-page .contributor p {
+    margin-bottom: 1em;
+  }
+  .title-page .contributor p:first-child {
+    font-weight: 700;
+  }
+}
+
+
+/* OBJECT ENTRIES
+============================================================================= */
 /* Style custom list treatment of object tombstones */
 .quire-entry__tombstone--list {
   font-size: .875rem;

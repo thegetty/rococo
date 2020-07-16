@@ -2,6 +2,7 @@
 title: Introduction
 weight: 6
 type: page
+class: page-one
 contributor:
   - id: ademas
 ---
