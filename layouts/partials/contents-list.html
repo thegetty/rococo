@@ -1,4 +1,9 @@
 {{/*
+  
+  THIS OVERRIDE FILE ADDS OBJECT INFO TO THE CONTENTS GRID
+  
+  
+  
   This partial generates a contents list. It is used in the publication menu
   and in the "contents" page type, but could be extended for further use. It
   expects five specific variables to be passed:
@@ -171,9 +176,19 @@
       {{- end -}}
       <div class="card-content">
         <div class="title">
-        {{- with .Page.Params.label }}{{ . }}{{ $.Site.Params.pageLabelDivider }}{{ end }}{{ if and .Page.Params.short_title (in .class "brief")}}{{ .Page.Params.short_title | markdownify }}{{ else if in .class "brief" }}{{ .Page.Title | markdownify }}{{ else }}{{ partial "page-title.html" . | markdownify }}{{ if .Page.Params.contributor }}<span class="contributor"> — {{ partial "contributor-list.html" (dict "range" .Page.Params.contributor "contributorType" "all" "listType" "string" "Site" .Site) }}</span>{{- end -}}{{- end -}}<span class="arrow remove-from-epub">&nbsp;{{- partial "icon.html" (dict "type" "arrow-forward" "description" "") -}}</span></div>
-      </div>
-    </div></a>
+          {{ range .Page.Params.object }}
+            {{ range where $.Site.Data.objects.object_list "id" "eq" .id }}
+              <div class="object-info">
+                <p class="object-info--cat-no">{{ .id }}.</p>
+                <p class="object-info--title">{{ with .title }}{{ markdownify . }}{{ end }}</p>
+                <p class="object-info--attribution">{{ with .attribution }}{{ markdownify . }}{{ end }}</p>
+                <p class="object-info--place-date">{{ with .place_date }}{{ markdownify . }}{{ end }}</p>
+                <p class="object-info--acc-no">{{ with .accession_number }}{{ markdownify . }}{{ end }}</p>
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div></a>
 
   {{- else -}}
 
