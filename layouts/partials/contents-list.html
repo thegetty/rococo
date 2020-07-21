@@ -1,7 +1,7 @@
 {{/*
   
-  THIS OVERRIDE FILE ADDS OBJECT INFO TO THE CONTENTS GRID
-  
+  THIS OVERRIDE FILE ADDS OBJECT INFO TO THE CONTENTS GRID, INCLUDING
+  MAKER AND DATE
   
   
   This partial generates a contents list. It is used in the publication menu
@@ -181,8 +181,8 @@
               <div class="object-info">
                 <p class="object-info--cat-no">{{ .id }}.</p>
                 <p class="object-info--title">{{ with .title }}{{ markdownify . }}{{ end }}</p>
-                <p class="object-info--attribution">{{ with .attribution }}{{ markdownify . }}{{ end }}</p>
-                <p class="object-info--place-date">{{ with .place_date }}{{ markdownify . }}{{ end }}</p>
+                <p class="object-info--maker">{{ with .display_maker }}{{ markdownify . }}{{ end }}</p>
+                <p class="object-info--date">{{ with .display_date }}{{ markdownify . }}{{ end }}</p>
                 <p class="object-info--acc-no">{{ with .accession_number }}{{ markdownify . }}{{ end }}</p>
               </div>
             {{ end }}

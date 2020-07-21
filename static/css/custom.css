@@ -111,3 +111,24 @@ Spectral Light
   margin-top: 1rem;
   font-size: .875rem;
 }
+
+
+/* CATALOGUE GRID
+============================================================================= */
+/* Styles for customization that includes some object info in the grid */
+.object-info {
+  font-weight: 400;
+}
+.object-info--title {
+  font-weight: 700;
+}
+@media print {
+  .quire-contents-list.grid .menu-list ul .page-item {
+    width: auto;
+    background-color: white;
+    height: auto;
+  }
+  .object-info p {
+    margin-bottom: .5rem !important;
+  }
+}

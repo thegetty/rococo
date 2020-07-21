@@ -7,6 +7,8 @@ object_display_order:
 object_list:
   - id: "1"
     title: "Cabinet"
+    display_maker: "Attributed to Bernard II van Risenburgh"
+    display_date: "mid-1730s"
     place_date: "French (Paris), mid-1730s"
     attribution: "Attributed to Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak veneered with bloodwood*, cherry*, *ferréol**, and amaranth*; gilt bronze mounts; brass and iron hardware, lock, and keys; *brèche d’Alep* top"
@@ -18,6 +20,8 @@ object_list:
 
   - id: "2"
     title: "Pair of cabinets"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "ca. 1750"
     place_date: "French (Paris), ca. 1750"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak* veneered with bloodwood*, amaranth*, and cherry* and restorations in hornbeam and Spanish cedar; modern wire mesh screens; gilt bronze mounts; brass and iron hardware and locks"
@@ -29,6 +33,8 @@ object_list:
 
   - id: "3"
     title: "*Cartonnier* with *serre-papiers*, *bout de bureau*, and clock"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "ca. 1740"
     place_date: "French (Paris), ca. 1740; clock movement and dial, 1746"
     attribution: "*Serre-papiers* and *bout de bureau* by Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730); clock movement by Étienne II Le Noir (French, 1699–1778, master 1717); dial enameled by Jacques Decla (French, died after 1764, active by 1742); maker of the clock case unknown"
     materials: "White oak* and poplar* veneered with, amaranth*, cherry*, and alder* and painted with European lacquer; painted bronze figures, gilt bronze mounts, enameled metal clock dial; glass; brass and iron hardware and lock; restorations in mahogany*"
@@ -40,6 +46,8 @@ object_list:
 
   - id: "4"
     title: "Pair of corner cupboards"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "about 1740"
     place_date: "French (Paris), about 1740"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak* veneered with amaranth*, cherry*, and sycamore maple*, set with panels of black Japanese lacquer on Japanese arborvitae***, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; *sarrancolin* marble tops"
@@ -51,6 +59,8 @@ object_list:
 
   - id: "5"
     title: "*Commode à vantaux*"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "ca. 1737"
     place_date: "French (Paris), ca. 1737, late nineteenth-/early twentieth-century gilt bronze mounts"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak*, veneered with alder*, set with panels of Japanese lacquer on a coniferous substrate and painted with European lacquer; veneered with cherry* and amaranth* on interior of the doors; replacement gilt bronze mounts; brass and iron hardware and lock; *sarrancolin* marble top; original silk fabric lining; and silver metal *galon* trim"
@@ -62,6 +72,8 @@ object_list:
 
   - id: "6"
     title: "Commode"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "ca. 1740"
     place_date: "French (Paris), ca. 1740"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak, set with panels of Chinese red lacquer on a coniferous substrate, and sycamore maple* painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; *brèche d’Alep* top"
@@ -73,6 +85,8 @@ object_list:
 
   - id: "7"
     title: "Pair of commodes"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "ca. 1750"
     place_date: "French (Paris), ca. 1750"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak* veneered with bloodwood*, kingwood*, and amaranth*; drawers of walnut* and white oak; gilt bronze mounts; brass, steel, and iron locks; modern *campan grand mélange* marble tops"
@@ -84,6 +98,8 @@ object_list:
 
   - id: "8"
     title: "Double desk"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "mid-1750s"
     place_date: "French (Paris), mid-1750s"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak* veneered with tulipwood*, kingwood*, and bloodwood*; drawers of mahogany*; gilt bronze mounts; gilt bronze and iron hardware and locks; stained leather"
@@ -95,6 +111,8 @@ object_list:
 
   - id: "9"
     title: "Writing table"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "about 1755"
     place_date: "French (Paris), about 1755"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak and fir* veneered with amaranth*, kingwood, and tulipwood; drawers of mahogany* and white oak; gilt bronze mounts; brass and iron locks; replacement leather writing surface"
@@ -106,6 +124,8 @@ object_list:
 
   - id: "10"
     title: "Writing table (*bureau plat*)"
+    display_maker: "By Bernard II van Risenburgh"
+    display_date: "ca. 1745–49"
     place_date: "French (Paris), ca. 1745–49, with nineteenth-century alterations"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
     materials: "White oak and white pine*, veneered with tulipwood*, stained pear*, and ebony*; drawers of walnut and white oak; gilt bronze mounts; brass, steel, and iron hardware and locks; replacement leather top"
@@ -117,6 +137,8 @@ object_list:
 
   - id: "11"
     title: "Corner cabinet"
+    display_maker: "By Jacques Dubois"
+    display_date: "ca. 1744–55"
     place_date: "French (Paris), cabinet, ca. 1744–55, clock, ca. 1744"
     attribution: "By Jacques Dubois (French, 1694–1763, master 1742); clock movement by Étienne Le Noir II (French, 1699–1778, master 1717); enamel dial by Antoine Nicolas Martinière (French, 1706–1784, master 1720); design attributed to Nicolas Pineau (French, 1684–1754); maker of gilt bronze clock case unknown"
     materials: "Mahogany* and white oak* veneered with bloodwood*, kingwood*, *ferréol**, amaranth, and mahogany; enameled metal clock dial; glass; gilt bronze mounts; brass and iron hardware and lock [Restorations in fir*, walnut*, and Andaman padauk*]"
@@ -128,6 +150,8 @@ object_list:
 
   - id: "12"
     title: "Pair of corner cupboards"
+    display_maker: "By Jacques Dubois"
+    display_date: "ca. 1755"
     place_date: "French (Paris), ca. 1755"
     attribution: "By Jacques Dubois (French, 1694–1763, master 1742)"
     materials: "White oak veneered with pear* and bloodwood, set with leather panels of Chinese black lacquer, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and locks; *brèche d’Alep* top"
@@ -139,6 +163,8 @@ object_list:
 
   - id: "13"
     title: "*Secrétaire*"
+    display_maker: "By Jacques Dubois"
+    display_date: "ca. 1755"
     place_date: "French (Paris), ca. 1755"
     attribution: "By Jacques Dubois (French, 1694–1763, master 1742)"
     materials: "White oak and sycamore maple* veneered with panels of Chinese red lacquer on Japanese arborvitae* and painted with European lacquer; interior drawers of sycamore maple, and Japanese arborvitae; gilt bronze mounts; brass and iron hardware and locks; *brèche d’Alep* top; replacement silk velvet, and trim"
@@ -150,6 +176,8 @@ object_list:
 
   - id: "14"
     title: "Commode"
+    display_maker: "Attributed to Joseph Baumhauer"
+    display_date: "early to mid-1750s"
     place_date: "French (Paris), early to mid-1750s"
     attribution: "Attributed to Joseph Baumhauer (French, died 1772; *ébéniste privilégié du Roi*, ca. 1749)"
     materials: "White oak veneered with ebony* and a wood possibly identified as service tree*, set with panels of Japanese lacquer on Japanese arborvitae, and painted with European lacquer; drawers of white oak; brass and iron hardware and lock; gilt bronze mounts; *campan mélange vert* marble top"
@@ -161,6 +189,8 @@ object_list:
 
   - id: "15"
     title: "Writing table (*bureau plat*)"
+    display_maker: "Attributed to Joseph Baumhauer"
+    display_date: "ca. 1745–49"
     place_date: "French (Paris), ca. 1745–49"
     attribution: "Attributed to Joseph Baumhauer (French, died 1772; *ébéniste privilégié du Roi*, ca. 1749)"
     materials: "White oak* and ash* carcass veneered with bloodwood*; drawers of white oak; gilt bronze mounts; brass and iron hardware and lock; leather top"
@@ -172,6 +202,8 @@ object_list:
 
   - id: "16"
     title: "Commode"
+    display_maker: "Attributed to Jean-Pierre Latz"
+    display_date: "ca. 1750"
     place_date: "French (Paris), ca. 1750"
     attribution: "Attributed to Jean-Pierre Latz (French, ca. 1691–1754, *ébéniste privilégié du Roi* before May 1741)"
     materials: "White oak* and poplar* veneered with bloodwood*; drawers of white oak and walnut*; brass and iron locks; gilt bronze mounts; *fleur de pêcher* marble top"
@@ -183,6 +215,8 @@ object_list:
 
   - id: "17"
     title: "Two pairs of corner cupboards (*encoignures*)"
+    display_maker: ""
+    display_date: "French (Paris), ca. 1750–60"
     place_date: "French (Paris), ca. 1750–60"
     attribution: ""
     materials: "Carcass and mounts attributed to Jean-Pierre Latz (French, ca. 1691–1754, *ébéniste privilégié du Roi* before May 1741), marquetry panels attributed to Jean-François Oeben (French, born Germany, 1721–1763, *ébéniste mécanicien du Roi* from 1760 and master 1761), and 72.DA.69.1–.2 altered by Jean-Henri Riesener (1734–1806, master 1768 and *ébéniste ordinaire du Roi* from 1774)\
@@ -196,6 +230,8 @@ object_list:
 
   - id: "18"
     title: "Mechanical reading, writing, and toilette table"
+    display_maker: "By Jean-François Oeben"
+    display_date: "ca. 1760"
     place_date: "French (Paris), ca. 1760"
     attribution: "By Jean-François Oeben (French, born Germany, 1721–1763, *ébéniste mécanicien du Roi* from 1760, master 1761)"
     materials: "White oak* veneered with bloodwood*, kingwood*, amaranth*, padauk*, barberry, holly*, boxwood, sycamore, tulipwood, hornbeam, ebony*, cedar; drawer of juniper*; gilt bronze mounts; brass and iron mechanism and lock; silk"
@@ -207,6 +243,8 @@ object_list:
 
   - id: "19"
     title: "Writing and toilette table"
+    display_maker: "By Jean-François Oeben"
+    display_date: "about 1760–70"
     place_date: "French (Paris), about 1760–70"
     attribution: "By Jean-Francois Oeben (French, born Germany, 1721–1763, *ébéniste mécanicien du Roi* from 1760, master 1761) and workshop"
     materials: "White oak* veneered with kingwood, tulipwood, amaranth, boxwood, holly*, barberry*, stained hornbeam, bloodwood, sycamore maple*, stained maple*, ebony; leather; silk* fabric lining; gilt bronze mounts; brass and iron fittings and lock; iron screws"
@@ -218,6 +256,8 @@ object_list:
 
   - id: "20"
     title: "Commode"
+    display_maker: "By unidentified *ébéniste* “DF”"
+    display_date: "ca.1735 for some parts; finished late nineteenth or twentieth century"
     place_date: "French (Paris), portions of carcass and gilt bronze mounts, ca.1735; finished carcass and veneer, late nineteenth or twentieth century"
     attribution: "By unidentified *ébéniste* “DF”"
     materials: "White oak, maple, and fir veneered with tulipwood, kingwood, amaranth, and other unidentified woods; gilt bronze mounts; brass and iron lock; *brèche d’Alep* top"
@@ -229,6 +269,8 @@ object_list:
 
   - id: "21"
     title: "Commode"
+    display_maker: "Maker unknown"
+    display_date: "ca. 1850–1900"
     place_date: "French (Paris), ca. 1850–1900"
     attribution: "Maker unknown"
     materials: "White* and red oak*, poplar* and fir* veneered with tulipwood* and kingwood*; gilt bronze mounts; iron lock hardware; Rance limestone top"
