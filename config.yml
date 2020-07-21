@@ -39,7 +39,7 @@ params:
   contributorByline: name-title # name | name-title | false
   displayBiblioShort: true
   imageDir: "img"
-  tocType: full
+  tocType: short
   menuType: short
   prevPageButtonText: "Back"
   nextPageButtonText: "Next"
