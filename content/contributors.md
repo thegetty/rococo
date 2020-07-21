@@ -1,5 +1,5 @@
 ---
-title: List of contributors
+title: List of Contributors
 weight: 5
 type: page
 class: list

@@ -132,3 +132,20 @@ Spectral Light
     margin-bottom: .5rem !important;
   }
 }
+
+/* LIST OF CONTRIBUTORS
+============================================================================= */
+/* Align initials on same line as names */
+#contributors .quire-page__content .container .content dl dt {
+  float: left;
+  width: 5rem;
+  font-weight: 400;
+}
+
+
+/* MISC
+============================================================================= */
+/* Hide arrow graphic in TOC */
+.menu-list .arrow {
+  display: none;
+}
