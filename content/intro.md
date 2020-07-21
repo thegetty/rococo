@@ -1,5 +1,6 @@
 ---
 title: Introduction
+subtitle: Acquisitions History of the Rococo Ébénisterie Collection
 weight: 6
 type: page
 class: page-one

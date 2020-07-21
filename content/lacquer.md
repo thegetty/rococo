@@ -1,5 +1,6 @@
 ---
 title: The Analysis of East Asian and European Lacquer Surfaces on Rococo Furniture
+short_title: Analysis of Lacquer Surfaces
 weight: 7
 type: page
 contributor:
