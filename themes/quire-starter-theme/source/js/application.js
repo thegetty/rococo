@@ -149,37 +149,70 @@ function sliderSetup() {
  * search
  * @description makes a search query using Lunr
  */
-window["search"] = () => {
-  let searchInput = document.getElementById("js-search-input");
-  let searchQuery = searchInput["value"];
-  let searchInstance = window["QUIRE_SEARCH"];
-  let resultsContainer = document.getElementById("js-search-results-list");
-  let resultsTemplate = document.getElementById("js-search-results-template");
-  if (searchQuery.length >= 3) {
-    let searchResults = searchInstance.search(searchQuery);
-    displayResults(searchResults);
-  }
+ window.search = () => {
+   let searchInput = document.getElementById('js-search-input');
+   let searchQuery = searchInput.value;
+   let searchInstance = window.QUIRE_SEARCH;
+   let resultsContainer = document.getElementById('js-search-results-list');
+   let resultsTemplate = document.getElementById('js-search-results-template');
+   if (searchQuery.length >= 3) {
+     let searchResults = searchInstance.search(searchQuery);
+     displayResults(searchResults, searchQuery);
+   }
 
-  function clearResults() {
-    resultsContainer.innerText = "";
-  }
+   function clearResults() {
+     resultsContainer.innerText = '';
+   }
 
-  function displayResults(results) {
-    clearResults();
-    results.forEach(result => {
-      let clone = document.importNode(resultsTemplate.content, true);
-      let item = clone.querySelector(".js-search-results-item");
-      let title = clone.querySelector(".js-search-results-item-title");
-      let type = clone.querySelector(".js-search-results-item-type");
-      let length = clone.querySelector(".js-search-results-item-length");
-      item.href = result.url;
-      title.textContent = result.title;
-      type.textContent = result.type;
-      length.textContent = result.length;
-      resultsContainer.appendChild(clone);
-    });
-  }
-};
+   function getExcerpt(text, query) {
+     // Skip past the tombstone using the DOI text as a search key
+     const doiIdx = text.search(/doi:.+\n/);
+     const searchStart = doiIdx >= 0 ? doiIdx + 21 : 0;
+     // Use only the rest of the content as our search
+     const searchText = text.substring(searchStart);
+     // Query Regexp that helps block off phrases
+     const queryRegExp = new RegExp(query, "gi");
+     // Use global, case-insensitive regex for bolding our results
+     const phraseRegExp = /\n|;\s\w|\.\s\W/g;
+     // Find first occurrence of query
+     const queryIdx = searchText.search(queryRegExp);
+     const excerptKey = queryIdx >= 0 ? queryIdx : 0;
+     // Split the searchText before/after result key
+     const excerptTop = searchText.substring(0, excerptKey);
+     const excerptBottom = searchText.substring(excerptKey);
+     // Seek the nearest phrase break BEFORE the result key
+     const startIdx = Array.from(excerptTop.matchAll(phraseRegExp)).reverse()[0];
+     const excerptStart = startIdx == undefined ? 0 : startIdx.index + 1;
+     // Seek the nearest phrase break AFTER the result key
+     const endIdx = excerptBottom.search(phraseRegExp);
+     // Safety catch in case there is no phrase break?
+     const excerptEnd = endIdx >= 0 ? endIdx : excerptKey + 300;
+     const excerpt = excerptTop.substring(excerptStart) + excerptBottom.substring(0, excerptEnd);
+     return excerpt.replace(queryRegExp, "<b>$&</b>");
+   }
+
+   function displayResults(results, query) {
+     clearResults();
+     results.forEach(result => {
+       let clone = document.importNode(resultsTemplate.content, true);
+       let item = clone.querySelector('.js-search-results-item');
+       let title = clone.querySelector('.js-search-results-item-title');
+       let type = clone.querySelector('.js-search-results-item-type');
+       let length = clone.querySelector('.js-search-results-item-length');
+       let excerpt = clone.querySelector('.js-search-results-excerpt');
+       item.href = result.url;
+       title.textContent = result.title;
+       if(result.type.indexOf("-") > 0) {
+         type.textContent = result.type.substr(0, result.type.indexOf("-"));
+       } else {
+         type.textContent = result.type ? result.type : "coming soon";
+       }
+       length.textContent = result.length ? result.length : "0";
+       excerpt.innerHTML = getExcerpt(result.content, query);
+       resultsContainer.appendChild(clone);
+     });
+   }
+ };
 
 /**
  * scrollToHash
