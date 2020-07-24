@@ -7,7 +7,7 @@ figure_list:
     download: true
 
   - id: "fig-2"
-    src: "figures/fig-2--fpo.jpg"
+    src: "figures/fig-2.jpg"
     label: "Figure 2"
     caption: "The Louis XV Gallery, Ranch House, Malibu, 1954."
     download: true
@@ -259,7 +259,7 @@ figure_list:
     download: true
 
   - id: "fig-3-6"
-    src: "figures/fig-3-6--fpo.jpg"
+    src: "figures/fig-3-6.jpg"
     label: "Figure 3.6"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois santiné*, chased gilt bronze mounts, 57 x 82 x 31 cm (22.4 x 32.3 x 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584."
     download: true
