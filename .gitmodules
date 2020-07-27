@@ -1,3 +1,3 @@
 [submodule "static/img/figures"]
 	path = static/img/figures
-	url = https://github.com/thegetty/rococo-images
+	url = git@github.com:thegetty/rococo-images.git
