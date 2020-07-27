@@ -17,11 +17,11 @@ The entry on each work comprises both a curatorial section, with description and
 
 ### Chicago
 
-Svoboda, Marie, and Caroline R. Cartwright, eds. *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. Los Angeles: J. Paul Getty Museum, 2020. http://www.getty.edu/publications/mummyportraits/.
+Wilson, Gillian, and Arlen Heginbotham. *French Rococo Ébénisterie in the J. Paul Getty Museum*. With an introduction by Anne-Lise Desmas. Los Angeles: J. Paul Getty Museum, 2021. http://www.getty.edu/publications/rococo/.
 
 ### MLA
 
-Svoboda, Marie, and Caroline R. Cartwright, editors. *Mummy Portraits of Roman Egypt: Emerging Research from the APPEAR Project*. J. Paul Getty Museum, 2020. http://www.getty.edu/publications/mummyportraits/. Accessed <span class="cite-current-date">Aug. 26, 2019</span>.
+Wilson, Gillian, and Arlen Heginbotham. *French Rococo Ébénisterie in the J. Paul Getty Museum*. The J. Paul Getty Museum, 2021. http://www.getty.edu/publications/rococo/. Accessed <span class="cite-current-date">Feb. 23, 2021</span>.
 
 ### Permanent URL
 
@@ -31,7 +31,7 @@ http://www.getty.edu/publications/rococo/
 
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/mummyportraits/](https://github.com/thegetty/rococo/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-### August 25, 2020
+### February 23, 2021
 
   - First edition
 
@@ -40,10 +40,11 @@ Any revisions or corrections made to this publication after the first edition da
   - [PDF](/downloads/output.pdf)
   - [EPUB](/downloads/output.epub)
   - [MOBI](/downloads/oputput.mobi)
+  - [Paperback](#)
 
 ## Copyright
 
-© 2020 J. Paul Getty Trust
+© 2021 J. Paul Getty Trust
 
 {{< q-class "cc-icon" >}}
 <svg class="quire-copyright__icon">
@@ -59,8 +60,7 @@ Any revisions or corrections made to this publication after the first edition da
 </svg>
 {{< /q-class >}}
 
-
-The text of this work and figs. 4.2–3, 4.10, 4.13, 8.3–4, 11.2–5, and 17.4a are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). All other images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+The text and figures of this work are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Figs. X, XX, XY, etc. are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />
@@ -68,52 +68,21 @@ Getty Publications<br />
 Los Angeles, California 90049-1682<br />
 [getty.edu/publications](http://www.getty.edu/publications/)<br />
 
-Elizabeth S. G. Nicholson, *Project Editor*<br />
-Amanda Sparrow, *Manuscript Editor*<br />
+Tevvy Ball and Rachel Barth, *Project Editors*<br />
 Greg Albers, *Digital Manager*<br />
-Victoria Barry and Laura diZerega, *Assistant Digital Editors*<br />
+Catherine Lorenz, *Cover Designer*<br />
 Victoria Gallina, *Production*<br />
-Jeffrey Cohen, *Cover Design*<br />
-Nina Damavandi, *Image and Rights Acquisition*<br />
-
+Kelly Peyton, *Image and Rights Acquisition*<br />
+Erin Dunigan and Victoria Barry, *Digital Assistants*<br />
 
 {{< q-class "cip-data" >}}
 
 Library of Congress Cataloging-in-Publication Data
 
-- Names: APPEAR (Project), author. | Svoboda, Marie, editor. | Cartwright,
-   Caroline, editor. | J. Paul Getty Museum, host institution, issuing
-   body.  
-- Title: Mummy portraits of Roman Egypt : emerging research from the APPEAR
-   project / edited by Marie Svoboda and Caroline R. Cartwright.  
-- Description: First edition. | Los Angeles : J. Paul Getty Museum, 2020. |
-   Proceedings of a conference held at the J. Paul Getty Museum at the
-   Getty Villa, Malibu, on May 17 and 18, 2018. | Includes bibliographical
-   references. | Summary: "This publication gathers papers and posters from
-   a 2018 conference organized as part of the APPEAR (Ancient Panel
-   Paintings: Examination, Analysis, and Research) initiative, an
-   international collaboration that promotes the study of funerary
-   portraits from Roman Egypt"-- Provided by publisher.  
-- Identifiers: LCCN 2019057806 (print) | LCCN 2019057807 (ebook) | ISBN
-   9781606066546 (paperback) | ISBN 9781606066522 (epub) | ISBN
-   9781606066539 (ebook)  
-- Subjects: LCSH: Mummy portraits--Expertising--Congresses. | Mummy
-   portraits--Egypt--Congresses. | Portraits, Roman--Egypt--Congresses. |
-   Portraits, Egyptian--Congresses. | Egypt--Antiquities,
-   Roman--Congresses.
-- Classification: LCC ND1327.E3 A67 2020  (print) | LCC ND1327.E3  (ebook) |
-   DDC 759.02/16--dc23
-- LC record available at https://lccn.loc.gov/2019057806
-- LC ebook record available at https://lccn.loc.gov/2019057807
+- TK
 
 {{< /q-class >}}
 
-Front cover: Mummy Portrait of a Woman, Romano-Egyptian, AD 100. Encaustic on linden wood, gilt, linen, 48 × 36 × 12.8 cm (18 7/8 × 14 3/16 × 5 1/16 in.). Los Angeles, J. Paul Getty Museum, 81.AP.42
-
-{{< q-class "awn-logo" >}}
-
-![This book is part of 'Ancient Worlds Now: A Future for the Past', a multifaceted Getty initiative to promote a greater understanding of the world’s cultural heritage and its value to global society](/img/awn-logo-and-line.png)
-
-{{< /q-class >}}
+Front cover: Detail of [cat. 16](/catalogue/16/)
 
 {{< /q-class >}}
