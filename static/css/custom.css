@@ -143,9 +143,65 @@ Spectral Light
 }
 
 
+/* ABOUT & COPYRIGHT PAGE
+============================================================================= */
+
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  display: none;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+@media print {
+  .quire-page__content .container .content .cip-data {
+    column-break-before: always;
+  }
+}
+
+@media print {
+  #copyright .quire-page.quire-page--frontmatter {
+    page: no-footer;
+  }
+  #copyright .quire-page__header {
+    display: none;
+  }
+  #copyright .quire-page__content {
+    column-count: 2;
+    column-gap: .1875in;
+    column-fill: auto;
+    max-width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  #copyright img {
+    height: .25in;
+  }
+}
+
+
 /* MISC
 ============================================================================= */
 /* Hide arrow graphic in TOC */
 .menu-list .arrow {
   display: none;
 }
+
+@media print {
+  .quire-entry__tombstone * {
+    color: #000;
+  }
+}
+

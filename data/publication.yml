@@ -29,10 +29,8 @@ short_title: Rococo Ébénisterie
 
 description:
   one_line:
-  full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
-
+  full: 
+    
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
@@ -45,7 +43,7 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: J. Paul Getty Museum
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -160,7 +158,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2020 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -206,23 +204,9 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "http://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "http://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "http://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "http://vocab.getty.edu/aat/300410245"
+  - type: 
+    name: 
+    identifer: 
 
 # ------------------------------------------------------------------------------
 # Revision History
