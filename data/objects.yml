@@ -4,6 +4,8 @@ object_display_order:
   - materials
   - dimensions
   - accession_number
+  - dimensions_two
+  - accession_number_two
 object_list:
   - id: "1"
     title: "Cabinet"
@@ -220,9 +222,10 @@ object_list:
     place_date: "French (Paris), ca. 1750–60"
     attribution: "Carcass and mounts attributed to Jean-Pierre Latz (French, ca. 1691–1754, *ébéniste privilégié du Roi* before May 1741), marquetry panels attributed to Jean-François Oeben (French, born Germany, 1721–1763, *ébéniste mécanicien du Roi* from 1760 and master 1761), and 72.DA.69.1–.2 altered by Jean-Henri Riesener (1734–1806, master 1768 and *ébéniste ordinaire du Roi* from 1774)"
     materials: "White oak* veneered with amaranth*, sycamore maple*, holly, fruitwood, barberry, boxwood, maple*, walnut*, and other unidentified woods; gilt bronze mounts; brass hinges; brass and iron locks and keys; <em>brèche d’Alep</em> top"
-    dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 9 3/4 in., D: 1 ft. 11 1/8 in. (97.2 x 85.7 x 58.7 cm)
-    H: 3 ft. 1/4 in., W: 2 ft. 8 1/4 in., D: 2 ft. (92.1 x 81.9 x 61 cm)"
-    accession_number: 72.DA.39.1–.2 72.DA.69.1–.2
+    dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 9 3/4 in., D: 1 ft. 11 1/8 in. (97.2 x 85.7 x 58.7 cm)"
+    accession_number: 72.DA.39.1–.2
+    dimensions_two: "H: 3 ft. 1/4 in., W: 2 ft. 8 1/4 in., D: 2 ft. (92.1 x 81.9 x 61 cm)"
+    accession_number_two: 72.DA.69.1–.2
     link: https://www.getty.edu/art/collection/objects/5454/
     figure:
       - id: "cat-17"
