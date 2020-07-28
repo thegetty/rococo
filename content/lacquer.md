@@ -56,69 +56,69 @@ As research into the materials of both Asian and European lacquer making continu
 
 ## Bibliography
 
-{{Augerson 2011}}; {{Bonanni 1720}; {{Bonanni 1723}}; {{Bonanni 1733}}; {{Bonanni 2009}}; {{Burmester 1983}}; {{Czarnocka, Lindgren, and Stein 1994}}; {{Garner 1963}}; {{Hagelskamp, Heginbotham, and van Duin 2016}}; {{Heckmann 2002}}; {{Heginbotham et al. 2008}}; {{Heginbotham et al. 2016}}; {{Heginbotham and Schilling 2011}}; {{Holzhausen 1959}}; {{Huth 1971}}; {{d’Incarville 1760}}; {{van Keulen 2014}}; {{Koller and Baumer 1997}}; {{Kopplin 2010}}; {{Kumanotani 1995}}; Langenheim 2003}}; {{Le Pileur d’Apligny 1779}}; {{ Lockyer 1711}} ; {{Lu and Miyakoshi 2015}}; {{Martini 1655}}; {{ Matsen, Petisca, and Auffret 2017}}; {{Miklin-Kniefacz et al. 2016}}; {{Moffatt et al. 2015}}; {{Niimura and Miyakoshi 1996}}; {{Niimura et al. 1996}}; {{Pastorova et al. 1997}}; {{Petisca et al. 2011}}; {{Pomet 1694}}; {{Roubo 1774}}; {{Roubo et al. 2013}}; {{Sargentson 1996}}; {{Scalarone, Lazzari, and Chiantore 2002}}; {{Scalarone, Lazzari, and Chiantore 2003}}; {{Schilling et al. 2016}}; {{Walch 1997}}; {{Wan et al. 2007}}; {{Watin 1778}}; {{Watin and Prévost de Saint-Lucien 1772}}; {{Webb 2000}}.
+{{< q-cite "Augerson 2011" >}}; {{< q-cite "Bonanni 1720" >}}; {{< q-cite "Bonanni 1723" >}}; {{< q-cite "Bonanni 1733" >}}; {{< q-cite "Bonanni 2009" >}}; {{< q-cite "Burmester 1983" >}}; {{< q-cite "Czarnocka, Lindgren, and Stein 1994" >}}; {{< q-cite "Garner 1963" >}}; {{< q-cite "Hagelskamp, Heginbotham, and van Duin 2016" >}}; {{< q-cite "Heckmann 2002" >}}; {{< q-cite "Heginbotham et al. 2008" >}}; {{< q-cite "Heginbotham et al. 2016" >}}; {{< q-cite "Heginbotham and Schilling 2011" >}}; {{< q-cite "Holzhausen 1959" >}}; {{< q-cite "Huth 1971" >}}; {{< q-cite "d’Incarville 1760" >}}; {{< q-cite "van Keulen 2014" >}}; {{< q-cite "Koller and Baumer 1997" >}}; {{< q-cite "Kopplin 2010" >}}; {{< q-cite "Kumanotani 1995" >}}; {{< q-cite "Langenheim 2003" >}}; {{< q-cite "Le Pileur d’Apligny 1779" >}}; {{< q-cite "Lockyer 1711" >}} ; {{< q-cite "Lu and Miyakoshi 2015" >}}; {{< q-cite "Martini 1655" >}}; {{< q-cite "Matsen, Petisca, and Auffret 2017" >}}; {{< q-cite "Miklin-Kniefacz et al. 2016" >}}; {{< q-cite "Moffatt et al. 2015" >}}; {{< q-cite "Niimura and Miyakoshi 2000" >}}; {{< q-cite "Niimura et al. 1996" >}}; {{< q-cite "Pastorova et al. 1997" >}}; {{< q-cite "Petisca et al. 2011" >}}; {{< q-cite "Pomet 1694" >}}; {{< q-cite "Roubo 1774" >}}; {{< q-cite "Roubo et al. 2013" >}}; {{< q-cite "Sargentson 1996" >}}; {{< q-cite "Scalarone, Lazzari, and Chiantore 2002" >}}; {{< q-cite "Schilling et al. 2016" >}}; {{< q-cite "Walch 1997" >}}; {{< q-cite "Wan et al. 2007" >}}; {{< q-cite "Watin 1778" >}}; {{< q-cite "Watin and Prévost de Saint-Lucien 1772" >}}; {{< q-cite "Webb 2000" >}}.
 
 {{< q-class "backmatter" >}}
 ## Notes
 {{< /q-class >}}
 
-[^1]: {{Martini 1655}}.
+[^1]: {{< q-cite "Martini 1655" >}}.
 
-[^2]: The Royal Society in London carried out scientific analysis of lacquers in 1663, and in 1690 Grand Duke Cosimo III of Tuscany commissioned Giuseppe del Papa to investigate the material; both had limited success. {{Kopplin 2010}}.
+[^2]: The Royal Society in London carried out scientific analysis of lacquers in 1663, and in 1690 Grand Duke Cosimo III of Tuscany commissioned Giuseppe del Papa to investigate the material; both had limited success. {{< q-cite "Kopplin 2010" >}}.
 
-[^3]: {{Bonanni 1720}}; {{Bonanni 2009}}; {{d’Incarville 1760}}.
+[^3]: {{< q-cite "Bonanni 1720" >}}; {{< q-cite "Bonanni 2009" >}}; {{< q-cite "d’Incarville 1760" >}}.
 
-[^4]: {{Heckmann 2002}}; {{Kumanotani 1995}}; {{Lu and Miyakoshi 2015}}.
+[^4]: {{< q-cite "Heckmann 2002" >}}; {{< q-cite "Kumanotani 1995" >}}; {{< q-cite "Lu and Miyakoshi 2015" >}}.
 
-[^5]: For European oils and resin publications, see {{Burmester 1983}}; {{Kumanotani 1995}}; {{Niimura et al. 1996}}; {{Niimura and Miyakoshi 2000}}. For developments in Asian lacquer research, see {{Koller and Baumer 1997}}; {{Pastorova et al. 1997}}; {{Scalarone, Lazzari, and Chiantore 2002}}; {{Scalarone, Lazzari, and Chiantore 2003}}.
+[^5]: For European oils and resin publications, see {{< q-cite "Burmester 1983" >}}; {{< q-cite "Kumanotani 1995" >}}; {{< q-cite "Niimura et al. 1996" >}}; {{< q-cite "Niimura and Miyakoshi 2000" >}}. For developments in Asian lacquer research, see {{< q-cite "Koller and Baumer 1997" >}}; {{< q-cite "Pastorova et al. 1997" >}}; {{< q-cite "Scalarone, Lazzari, and Chiantore 2002" >}}.
 
-[^6]: {{Heginbotham et al. 2008}}.
+[^6]: {{< q-cite "Heginbotham et al. 2008" >}}.
 
-[^7]: {{Schilling et al. 2016}}.
+[^7]: {{< q-cite "Schilling et al. 2016" >}}.
 
-[^8]: Asian lacquer objects were also produced in Southeast and Southwest Asia, but for the purpose of this publication the term “Asian lacquer” is used to refer specifically to those objects and materials coming from China and Japan. Lacquer objects from the Islamic world were the first to influence the development of European lacquer, with these objects streaming into Venice and Genoa in the early sixteenth century through the established Eastern trading routes. See {{Kopplin 2010}}, 230.
+[^8]: Asian lacquer objects were also produced in Southeast and Southwest Asia, but for the purpose of this publication the term “Asian lacquer” is used to refer specifically to those objects and materials coming from China and Japan. Lacquer objects from the Islamic world were the first to influence the development of European lacquer, with these objects streaming into Venice and Genoa in the early sixteenth century through the established Eastern trading routes. See {{< q-cite "Kopplin 2010" >}}, 230.
 
-[^9]: {{Garner 1963}}.
+[^9]: {{< q-cite "Garner 1963" >}}.
 
-[^10]: The three species can be distinguished in part by their primarily polymeric unit, a substituted catechol, from which they also draw their commonly used names: *Toxicodendron vernicifluum* contains urushiol (known as *urushi*), *Toxicodendron succedaneum* contains laccol, and *Gluta usitata* and *Gluta laccifera* contain thitsiol. See {{Petisca et al. 2011}}; {{Heginbotham et al. 2016}}; {{Heginbotham and Schilling 2011}}.
+[^10]: The three species can be distinguished in part by their primarily polymeric unit, a substituted catechol, from which they also draw their commonly used names: *Toxicodendron vernicifluum* contains urushiol (known as *urushi*), *Toxicodendron succedaneum* contains laccol, and *Gluta usitata* and *Gluta laccifera* contain thitsiol. See {{< q-cite "Petisca et al. 2011" >}}; {{< q-cite "Heginbotham et al. 2016" >}}; {{< q-cite "Heginbotham and Schilling 2011" >}}.
 
-[^11]: {{Heginbotham and Schilling 2011}}.
+[^11]: {{< q-cite "Heginbotham and Schilling 2011" >}}.
 
-[^12]: {{Heginbotham and Schilling 2011}}.
+[^12]: {{< q-cite "Heginbotham and Schilling 2011" >}}.
 
-[^13]: {{Matsen, Petisca, and Auffret 2017}}.
+[^13]: {{< q-cite "Matsen, Petisca, and Auffret 2017" >}}.
 
-[^14]: {{Wan et al. 2007}}.
+[^14]: {{< q-cite "Wan et al. 2007" >}}.
 
-[^15]: {{Heginbotham et al. 2016}}; {{Miklin-Kniefacz et al. 2016}}.
+[^15]: {{< q-cite "Heginbotham et al. 2016" >}}; {{< q-cite "Miklin-Kniefacz et al. 2016" >}}.
 
-[^16]: {{Heginbotham et al. 2016}}.
+[^16]: {{< q-cite "Heginbotham et al. 2016" >}}.
 
-[^17]: {{Sargentson 1996}}.
+[^17]: {{< q-cite "Sargentson 1996" >}}.
 
-[^18]: {{Roubo 1769}}; {{Roubo et al. 2013}}; {{Hagelskamp, Heginbotham, and van Duin 2014}}.
+[^18]: {{< q-cite "Roubo 1774" >}}; {{< q-cite "Roubo et al. 2013" >}}; {{< q-cite "Hagelskamp, Heginbotham, and van Duin 2014" >}}.
 
-[^19]: Lockyer writes in 1711 in *Account of the Trade in India* that “the finest comes from Jappan.” See {{Lockyer 1711}}. “Right japan” and especially “old japan” were considered superior products, having an air of exclusivity. Quotation from {{Kopplin 2010}}, 66.
+[^19]: Lockyer writes in 1711 in *Account of the Trade in India* that “the finest comes from Jappan.” See {{< q-cite "Lockyer 1711" >}}. “Right japan” and especially “old japan” were considered superior products, having an air of exclusivity. Quotation from {{< q-cite "Kopplin 2010" >}}, 66.
 
-[^20]: In addition to plant resins, shellac, an exudate from the insect *Laccifer lacca,* was also used as a component of eighteenth-century lacquers {{Webb 2000}}, 103.
+[^20]: In addition to plant resins, shellac, an exudate from the insect *Laccifer lacca,* was also used as a component of eighteenth-century lacquers {{< q-cite "Webb 2000" >}}, 103.
 
-[^21]: {{Huth 1971}}; {{Holzhausen 1959}}.
+[^21]: {{< q-cite "Huth 1971" >}}; {{< q-cite "Holzhausen 1959" >}}.
 
-[^22]: {{Kopplin 2010}}, 90.
+[^22]: {{< q-cite "Kopplin 2010" >}}, 90.
 
-[^23]: For a fuller discussion of the Martin family, see {{Czarnocka, Lindgren, and Stein 1994}}.
+[^23]: For a fuller discussion of the Martin family, see {{< q-cite "Czarnocka, Lindgren, and Stein 1994" >}}.
 
-[^24]: It is believed that the term *vernis de Martin* (as opposed to *vernis Martin*) was used in the eighteenth century to distinguish genuine lacquer produced by the Martin brothers from other imitations {{Kopplin 2010}}.
+[^24]: It is believed that the term *vernis de Martin* (as opposed to *vernis Martin*) was used in the eighteenth century to distinguish genuine lacquer produced by the Martin brothers from other imitations {{< q-cite "Kopplin 2010" >}}.
 
-[^25]: Essentials oils are the volatile aromatic compounds of plant resins based on mono- and sesquiterpenoids and should not be confused with triglyceride oils and fats. Oil of spike from lavender and oil of turpentine were the most common essential oils used in the period; see {{Moffatt et al. 2015}}; {{Langenheim 2003}}; {{Walch 1997}}. Watin notes that camphor is considered a solid essential oil, and he writes that Monsieur Eller told Watin that copal is more easily dissolved in spirit of wine if the spirit is “camphorated”; see {{Watin 1778}}, 258.
+[^25]: Essentials oils are the volatile aromatic compounds of plant resins based on mono- and sesquiterpenoids and should not be confused with triglyceride oils and fats. Oil of spike from lavender and oil of turpentine were the most common essential oils used in the period; see {{< q-cite "Moffatt et al. 2015" >}}; {{< q-cite "Langenheim 2003" >}}; {{< q-cite "Walch 1997" >}}. Watin notes that camphor is considered a solid essential oil, and he writes that Monsieur Eller told Watin that copal is more easily dissolved in spirit of wine if the spirit is “camphorated”; see {{< q-cite "Watin 1778" >}}, 258.
 
-[^26]: See {{Pomet 1694}}; {{Bonanni 1723}}; {{Bonanni 1733}}; {{Roubo 1774}}; {{Watin 1773}}; {{Le Pileur d’Apligny 1779}}. Bonanni was translated into French in 1723 by A. A. J. Dezallier d’Argenville and again in 1733 by Laurent d’Houry and is therefore included in the French treatise.
+[^26]: See {{< q-cite "Pomet 1694" >}}; {{< q-cite "Bonanni 1723" >}}; {{< q-cite "Bonanni 1733" >}}; {{< q-cite "Roubo 1774" >}}; {{< q-cite "Watin 1773" >}}; {{< q-cite "Le Pileur d’Apligny 1779" >}}. Bonanni was translated into French in 1723 by A. A. J. Dezallier d’Argenville and again in 1733 by Laurent d’Houry and is therefore included in the French treatise.
 
-[^27]: {{Koller and Baumer 1997}}.
+[^27]: {{< q-cite "Koller and Baumer 1997" >}}.
 
-[^28]: {{Augerson 2011}}; {{Langenheim 2003}}, 304–5.
+[^28]: {{< q-cite "Augerson 2011" >}}; {{< q-cite "Langenheim 2003" >}}, 304–5.
 
-[^29]: {{Keulen 2014}}.
+[^29]: {{< q-cite "van Keulen 2014" >}}.
 
 [^30]: For example, commonly used pine resin also shares some chemical compounds with Baltic amber, sandarac, copal, and even shellac, making the precise linking of some individual compounds to specific ingredients impossible.
 
