@@ -205,3 +205,7 @@ Spectral Light
   }
 }
 
+/* Hide page bibliographies except for main Biblio page */
+.quire__primary:not(#bibliography) .quire-page__content__references {
+  display: none;
+}
