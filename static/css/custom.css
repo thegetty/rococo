@@ -270,6 +270,21 @@ Spectral Light
     page-break-before: left;
   }
 
+  #bibliography .quire-page__content,
+  #bookindex .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: .1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  dt {
+    page-break-after: avoid;
+  }
+  dd {
+    page-break-inside: avoid;
+  }
+  
 }
 
 /* Adjust URL breaks in PDF */
