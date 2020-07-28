@@ -612,20 +612,8 @@ figure_list:
     caption: "Composite ultraviolet photomicrograph of the Chinese lacquer showing an overall thickness of 1.2 mm, including what remains of the original wood substrate."
     download: true
 
-  - id: "fig-6-12-1"
-    src: "figures/fig-6-12-1.jpg"
-    label: "Figure 6.12"
-    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
-    download: true
-
-  - id: "fig-6-12-2"
-    src: "figures/fig-6-12-2.jpg"
-    label: "Figure 6.12"
-    caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
-    download: true
-
-  - id: "fig-6-12-3"
-    src: "figures/fig-6-12-3.jpg"
+  - id: "fig-6-12"
+    src: "figures/fig-6-12.jpg"
     label: "Figure 6.12"
     caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image and infrared reflectogram."
     download: true
@@ -840,14 +828,8 @@ figure_list:
     caption: "X-radiograph detailing how the upper sections of the legs were internally modified to enlarge the swell of the knees behind the pierced sections of the corner mounts."
     download: true
 
-  - id: "fig-8-13-1"
-    src: "figures/fig-8-13-1.jpg"
-    label: "Figure 8.13"
-    caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
-    download: true
-
-  - id: "fig-8-13-2"
-    src: "figures/fig-8-13-2.jpg"
+  - id: "fig-8-13"
+    src: "figures/fig-8-13.jpg"
     label: "Figure 8.13"
     caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolent light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
     download: true
@@ -1050,14 +1032,8 @@ figure_list:
     caption: "Remnants of the original loose double-dovetail blocks that were severed to remove the original case top."
     download: true
 
-  - id: "fig-10-13-1"
-    src: "figures/fig-10-13-1--fpo.jpg"
-    label: "Figure 10.13"
-    caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
-    download: true
-
-  - id: "fig-10-13-2"
-    src: "figures/fig-10-13-2--fpo.jpg"
+  - id: "fig-10-13"
+    src: "figures/fig-10-13--fpo.jpg"
     label: "Figure 10.13"
     caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
     download: true
@@ -1386,14 +1362,8 @@ figure_list:
     caption: "Detail of cracks in the lacquer, seen in raking light, showing the unusual pattern of long diagonal cracks that cross over the more typical gridlike pattern of cracks."
     download: true
 
-  - id: "fig-13-16-1"
-    src: "figures/fig-13-16-1.jpg"
-    label: "Figure 13.16"
-    caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
-    download: true
-
-  - id: "fig-13-16-2"
-    src: "figures/fig-13-16-2.jpg"
+  - id: "fig-13-16"
+    src: "figures/fig-13-16.jpg"
     label: "Figure 13.16"
     caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
     download: true
