@@ -209,3 +209,11 @@ Spectral Light
 .quire__primary:not(#bibliography) .quire-page__content__references {
   display: none;
 }
+
+/* Remove decorative quote on blockquotes */
+.quire-page__content .container .content blockquote {
+  padding-left: 0;
+}
+.quire-page__content .container .content blockquote p:first-child::before, .quire-page__content .container .content blockquote ul:first-child::before, .quire-page__content .container .content blockquote ol:first-child::before {
+  content: "";
+}
