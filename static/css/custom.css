@@ -211,9 +211,63 @@ Spectral Light
 }
 
 /* Remove decorative quote on blockquotes */
-.quire-page__content .container .content blockquote {
-  padding-left: 0;
+@media screen {
+  .quire-page__content .container .content blockquote {
+    padding-left: 0;
+  }
 }
 .quire-page__content .container .content blockquote p:first-child::before, .quire-page__content .container .content blockquote ul:first-child::before, .quire-page__content .container .content blockquote ol:first-child::before {
   content: "";
+}
+
+/* Make heading sizes consistent */
+.quire-entry h2,
+.quire-page h2 {
+  font-size: 1.3125rem;
+}
+
+
+/* PRINT
+============================================================================= */
+@media print {
+  
+  /* Remove page numbering from splash page */
+  @page splash {
+    @bottom-right {
+      content: none;
+    }
+  
+    @bottom-left {
+      content: none;
+    }
+  }
+  
+  /* Hide catalogue grid in print and make adjustments to contents pages  */
+  #catalogue-catalogue-index .quire-contents-list.grid {
+    display: none;
+  }
+  #catalogue-catalogue-index .quire-page--grid.quire-contents {
+    page: splash;
+  }
+  #catalogue-catalogue-index .quire-page--grid.quire-contents h1 {
+    margin-top: 2in;
+    color: #fff;
+  }
+  .quire-contents-list .section-item {
+    max-width: 90%;
+  }
+  .quire-contents-list .section-item a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page);
+    margin-left: 6pt; 
+    margin-right: -10%;
+    /* This border is a hack for PrinceXML which doesn't
+    otherwise recognize the box sizing for some reason */
+    border: 1pt solid transparent;
+  }
+  
+  /* Ensure plates always start on left page */
+  .quire-entry__image .quire-entry__image__group-container figure {      
+    page-break-before: left;
+  }
+
 }
