@@ -143,9 +143,176 @@ Spectral Light
 }
 
 
+/* ABOUT & COPYRIGHT PAGE
+============================================================================= */
+
+/* LOC Cataloguing in Publication format */
+.quire-page__content .container .content .cip-data p {
+  display: none;
+}
+.quire-page__content .container .content .cip-data ul {
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.quire-page__content .container .content .cip-data ul li {
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+.quire-page__content .container .content .cip-data ul li::before {
+  display: none;
+}
+@media print {
+  .quire-page__content .container .content .cip-data {
+    column-break-before: always;
+  }
+}
+
+@media print {
+  #copyright .quire-page.quire-page--frontmatter {
+    page: no-footer;
+  }
+  #copyright .quire-page__header {
+    display: none;
+  }
+  #copyright .quire-page__content {
+    column-count: 2;
+    column-gap: .1875in;
+    column-fill: auto;
+    max-width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  #copyright img {
+    height: .25in;
+  }
+}
+
+
 /* MISC
 ============================================================================= */
 /* Hide arrow graphic in TOC */
 .menu-list .arrow {
   display: none;
+}
+
+@media print {
+  .quire-entry__tombstone * {
+    color: #000;
+  }
+}
+
+/* Hide page bibliographies except for main Biblio page */
+.quire__primary:not(#bibliography) .quire-page__content__references {
+  display: none;
+}
+
+/* Remove decorative quote on blockquotes */
+@media screen {
+  .quire-page__content .container .content blockquote {
+    padding-left: 0;
+  }
+}
+.quire-page__content .container .content blockquote p:first-child::before, .quire-page__content .container .content blockquote ul:first-child::before, .quire-page__content .container .content blockquote ol:first-child::before {
+  content: "";
+}
+
+/* Make heading sizes consistent */
+.quire-entry h2,
+.quire-page h2 {
+  font-size: 1.3125rem;
+}
+
+
+/* PRINT
+============================================================================= */
+@media print {
+  
+  /* Remove page numbering from splash page */
+  @page splash {
+    @bottom-right {
+      content: none;
+    }
+  
+    @bottom-left {
+      content: none;
+    }
+  }
+  
+  /* Hide catalogue grid in print and make adjustments to contents pages  */
+  #catalogue-catalogue-index .quire-contents-list.grid {
+    display: none;
+  }
+  #catalogue-catalogue-index .quire-page--grid.quire-contents {
+    page: splash;
+  }
+  #catalogue-catalogue-index .quire-page--grid.quire-contents h1 {
+    margin-top: 2in;
+    color: #fff;
+  }
+  .quire-contents-list .section-item {
+    max-width: 90%;
+  }
+  .quire-contents-list .section-item a::after {
+    content: leader(dotted) ' 'target-counter(attr(href, url), page);
+    margin-left: 6pt; 
+    margin-right: -10%;
+    /* This border is a hack for PrinceXML which doesn't
+    otherwise recognize the box sizing for some reason */
+    border: 1pt solid transparent;
+  }
+  
+  /* Ensure plates always start on left page */
+  .quire-entry__image .quire-entry__image__group-container figure {      
+    page-break-before: left;
+  }
+
+  #bibliography .quire-page__content,
+  #bookindex .quire-page__content {
+    column-count: 2;
+    column-fill: balance;
+    column-gap: .1875in;
+    max-width: 100%;
+    margin: 0;
+  }
+  dt {
+    page-break-after: avoid;
+  }
+  dd {
+    page-break-inside: avoid;
+  }
+  
+}
+
+/* Adjust URL breaks in PDF */
+@media print {
+  /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
+  method for suggesting places to break words, instead we're using here
+  the prince-text-replace specialty attribute to insert zero-width-spaces */
+  a[target=_blank] {
+    prince-text-replace: "/" "\200B/"
+                          "~" "\200B~"
+                          "." "\200B."
+                          "," "\200B,"
+                          "-" "\200B-"
+                          "_" "\200B_"
+                          "?" "\200B?"
+                          "#" "\200B#"
+                          "%" "\200B%"
+                          "=" "\200B="
+                          "&" "\200B&"
+                          "+" "\200B+"
+                          "\200B/\200B/" "//\200B";
+  }
+}
+
+/* Following the same pattern as above, this improves breaking after 
+em dashes */
+@media print {
+  body * {
+    prince-text-replace: "—" "—\200B"
+  }
 }

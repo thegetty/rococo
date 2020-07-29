@@ -44,7 +44,7 @@ The twenty-eight works of French Rococo *ébénisterie* in the J. Paul Getty Mus
 
 For personal reasons, Gillian Wilson could not continue her work on this collection after the summer of 2013, and she unfortunately died on November 15, 2019, just before the manuscript was delivered to Getty Publications. The final stages of the curatorial contributions to this publication were therefore carried out by the Sculpture and Decorative Arts Department under my supervision. Linnea Seidling, curatorial assistant, coordinated the project. Philippe Halbert, former graduate intern in the department, wrote the catalogue entry on the two pairs of corner cupboards attributed to Latz (72.DA.39 and 72.DA.69; [cat. no. 17](/catalogue/17/)) and the descriptions of the writing table attributed to Joseph Baumhauer (71.DA.95; [cat. no. 15](/catalogue/15/)) and the commode stamped “DF” (76.DA.15; [cat. no. 20](/catalogue/20/)). Grace Chuang, former volunteer in the department, assisted us, in particular, with the objects by Bernard van Risenburgh II, on whom she is writing her dissertation (New York University, Institute of Fine Arts). Amanda Berman, curatorial assistant, and Dulcinea Cano, senior staff assistant, provided crucial help during the last stage of preparation of the material for Getty Publications. The manuscript greatly benefited from the expertise of Charissa Bremer-David, curator, and Jeffrey Weaver, associate curator. As much as possible, the editing process has preserved the curatorial entries as they were delivered by Wilson. However, adjustments were made when new discoveries and conclusions by conservators allowed for more precision in the art historical commentaries. In addition, the bibliography directly related to the Getty objects has been updated to 2016, and in certain instances references have been added to the general bibliography in order to include major exhibition catalogues, museums’ collection catalogues, and scholarly articles. The provenance of each object, including the supporting sources, reflects the best of our knowledge as of April 2020. I was able to check the French sources quoted in the entries against the originals in the Archives nationales in Paris and in the Archives diplomatiques of the Ministère des Affaires étrangères in La Courneuve: the original spelling was retained, but capitalization, accents, and punctuation were modernized. The historical units of measure and currency in these documents are, respectively, the *pied* (32.4 cm; 1 ft. 3/4 in.; a pied was divided into 12 *pouces*) and the *livre tournois* (divided into 20 sous, 1 sou being worth 12 deniers).
 
-In addition to the many illustrations included in this catalogue, high-resolution views and details, zoomable and downloadable at no charge, are available on the collection pages of these objects on the Getty Museum website (https://[www.getty.edu/art/sculpture-and-decorative-arts/](http://www.getty.edu/art/sculpture-and-decorative-arts/)).
+In addition to the many illustrations included in this catalogue, high-resolution views and details, zoomable and downloadable at no charge, are available on the collection pages of these objects on the Getty Museum website ([https://www.getty.edu/art/sculpture-and-decorative-arts/](https://www.getty.edu/art/sculpture-and-decorative-arts/)).
 
 Woods marked with an asterisk (\*) in the list of the media for each object indicates that they have been identified by microscopic anatomy (see “Glossary”).
 
@@ -52,29 +52,29 @@ Woods marked with an asterisk (\*) in the list of the media for each object indi
 ## Notes
 {{< /q-class >}}
 
-[^1]: {{Getty 1941}}, 391.
+[^1]: {{< q-cite "Getty 1941" >}}, 391.
 
-[^2]: Ethel Le Vane, in {{Getty and Le Vane 1955}}, 147. The initials “B.V.R.B” were misread as “B.U.R.B.”
+[^2]: Ethel Le Vane, in {{< q-cite "Getty and Le Vane 1955" >}}, 147. The initials “B.V.R.B” were misread as “B.U.R.B.”
 
-[^3]: {{Baroli 1957}}.
+[^3]: {{< q-cite "Baroli 1957" >}}.
 
-[^4]: Ethel Le Vane, in {{Getty and Le Vane 1955}}, 168.
+[^4]: Ethel Le Vane, in {{< q-cite "Getty and Le Vane 1955" >}}, 168.
 
-[^5]: Also in 1949, J. Paul Getty bought another table that was considered a masterpiece by B.V.R.B., whose genuine stamp is visible on the underside of the drawer. While it appears that its beautiful Sèvres porcelain plaque once belonged to a table now in the Louvre, its carcass, decorated with green varnish whose chemical components were not available in the eighteenth century and with poor-quality gilt bronze mounts, may be dated to the late nineteenth century or theearly twentieth century along with an old panel inserted in the drawer. Unlike the above-mentioned commodes stamped Delorme and Petit (70.DA.79; [cat. no. 21](/catalogue/21/)), since this piece was published as early as 1981, it was decided not to include it in this catalogue (see, in particular, {{Sassoon 1981}}; {{Sassoon 1991}}, cat. 32, 162–65).
+[^5]: Also in 1949, J. Paul Getty bought another table that was considered a masterpiece by B.V.R.B., whose genuine stamp is visible on the underside of the drawer. While it appears that its beautiful Sèvres porcelain plaque once belonged to a table now in the Louvre, its carcass, decorated with green varnish whose chemical components were not available in the eighteenth century and with poor-quality gilt bronze mounts, may be dated to the late nineteenth century or theearly twentieth century along with an old panel inserted in the drawer. Unlike the above-mentioned commodes stamped Delorme and Petit (70.DA.79; [cat. no. 21](/catalogue/21/)), since this piece was published as early as 1981, it was decided not to include it in this catalogue (see, in particular, {{< q-cite "Sassoon 1981" >}}; {{< q-cite "Sassoon 1991" >}}, cat. 32, 162–65).
 
 [^6]: The full citation is in [cat. no. 19](/catalogue/19/).
 
-[^7]: As quoted by Ethel Le Vane, in {{Getty and Le Vane 1955}}, 151.
+[^7]: As quoted by Ethel Le Vane, in {{< q-cite "Getty and Le Vane 1955" >}}, 151.
 
-[^8]: {{Getty and Le Vane 1955}}, 261–63.
+[^8]: {{< q-cite "Getty and Le Vane 1955" >}}, 261–63.
 
-[^9]: {{Valentiner and Wescher 1954}}, esp. 12–15 and plates “Louis XV Gallery,” “No. 22,” and “No. 24.”
+[^9]: {{< q-cite "Valentiner and Wescher 1954" >}}, esp. 12–15 and plates “Louis XV Gallery,” “No. 22,” and “No. 24.”
 
-[^10]: Gillian Wilson, in {{Wilson et al. 2008}}, 2.
+[^10]: Gillian Wilson, in {{< q-cite "Wilson et al. 2008" >}}, 2.
 
-[^11]: Gillian Wilson, in {{Wilson et al. 2008}}, 2.
+[^11]: Gillian Wilson, in {{< q-cite "Wilson et al. 2008" >}}, 2.
 
-[^12]: As quoted by Ethel Le Vane, in {{Getty and Le Vane 1955}}, 263. The list also included another artwork in Getty’s possession: the green veneered table stamped “B.V.R.B.” with a Sèvres porcelain plaque mentioned in note 5 above.
+[^12]: As quoted by Ethel Le Vane, in {{< q-cite "Getty and Le Vane 1955" >}}, 263. The list also included another artwork in Getty’s possession: the green veneered table stamped “B.V.R.B.” with a Sèvres porcelain plaque mentioned in note 5 above.
 
 [^13]: A copy of this “important notice” was sent to the Getty Museum’s director, Steven Garret, and is conserved in the object file in the Sculpture and Decorative Arts Department.
 
@@ -84,6 +84,6 @@ Woods marked with an asterisk (\*) in the list of the media for each object indi
 
 [^16]: See *Nice-Matin*, June 27, 1979, 26; *Time*, July 9, 1979, 53, in the files of the Sculpture and Decorative Arts Department.
 
-[^17]: {{Getty 1949}}, 56.
+[^17]: {{< q-cite "Getty 1949" >}}, 56.
 
 [^18]: A few of the eight cabinetmakers represented in this ensemble lived long after the Rococo style fell out of fashion. Consequently, they also produced extraordinary Neoclassical *ébénisterie* pieces, some of which are part of the Getty Museum collection but are not included in this catalogue (Joseph Baumhauer: [79.DA.58](http://www.getty.edu/art/collection/objects/5679/joseph-baumhauer-cabinet-french-about-1765/) and [84.DA.969](http://www.getty.edu/art/collection/objects/5860/joseph-baumhauer-drop-front-secretaire-secretaire-a-abattant-french-about-1765-1770/); Jean-François Oeben: [71.DA.105](http://www.getty.edu/art/collection/objects/5443/jean-francois-oeben-card-table-french-about-1760/) and [72.DA.54](http://www.getty.edu/art/collection/objects/5483/jean-francois-oeben-commode-french-about-1760/)).

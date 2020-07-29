@@ -30,20 +30,20 @@ In addition to quantitative analysis of base alloys, XRF analysis can provide us
 
 ## Bibliography
 
-{{de Bellaigue 1974}}; {{Heginbotham et al. 2011}}; {{Heginbotham et al. 2015}}; {{Heginbotham et al. 2019}}; {{Heginbotham et al. 2020}}; {{Heginbotham, Erdmann, and Hayek 2018}}; {{Jacobsen 2016}}; {{Roubo 1774}}.
+{{< q-cite "de Bellaigue 1974" >}}; {{< q-cite "Heginbotham et al. 2011" >}}; {{< q-cite "Heginbotham et al. 2015" >}}; {{< q-cite "Heginbotham et al. 2019" >}}; {{< q-cite "Heginbotham et al. 2020" >}}; {{< q-cite "Heginbotham, Erdmann, and Hayek 2018" >}}; {{< q-cite "Jacobsen 2016" >}}; {{< q-cite "Roubo 1774" >}}.
 
 {{< q-class "backmatter" >}}
 ## Notes
 {{< /q-class >}}
 
-[^1]: {{Kisluk-Grosheide 2008}}; {{de Bellaigue 1974}}, vol. 1, 35.
+[^1]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 35.
 
-[^2]: {{de Bellaigue 1974}}, vol. 1, 36; {{Jacobsen 2016}}. On present-day deceptive reproduction, see, e.g., Vincent Noce, “New Twist in Fake Antique Furniture Scandal Overshadows Opening of Biennale des Antiquaires in Paris,” *Art Newspaper*, September 8, 2016.
+[^2]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 36; {{< q-cite "Jacobsen 2016" >}}. On present-day deceptive reproduction, see, e.g., Vincent Noce, “New Twist in Fake Antique Furniture Scandal Overshadows Opening of Biennale des Antiquaires in Paris,” *Art Newspaper*, September 8, 2016.
 
 [^3]: We have chosen to use the terms “solder” and “soldering metal” in this volume because they are familiar and correspond well with the widely used French terms “souder” and “soudure.” In this context, the terms refer to joining pieces of brass by the addition of a lower melting brass alloy that is melted into the joint. This procedure would in fact be more properly referred to in technical English terms as “brazing” and the metal used as “brazing metal.”
 
-[^4]: {{Heginbotham et al. 2011}}; {{Heginbotham et al. 2015}}; {{Heginbotham and Solé 2017}}; {{Heginbotham et al. 2019}}.
+[^4]: {{< q-cite "Heginbotham et al. 2011" >}}; {{< q-cite "Heginbotham et al. 2015" >}}; {{< q-cite "Heginbotham and Solé 2017" >}}; {{< q-cite "Heginbotham et al. 2019" >}}.
 
-[^5]: {{Heginbotham, Erdmann, and Hayek 2018}}.
+[^5]: {{< q-cite "Heginbotham, Erdmann, and Hayek 2018" >}}.
 
-[^6]: {{Roubo 1774}}, vol. 3, 1031–33.
+[^6]: {{< q-cite "Roubo 1774" >}}, vol. 3, 1031–33.

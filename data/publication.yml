@@ -28,24 +28,23 @@ reading_line:
 short_title: Rococo Ébénisterie
 
 description:
-  one_line:
-  full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
-
+  one_line: "French ébénisterie furniture in the Rococo style dating from 1735 to 1760."
+  full: 
+    
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date:
+pub_date: 2021-02-23
 language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn:
+  url: http://www.getty.edu/publications/rococo/
 
 publisher:
-  - name: J. Paul Getty Trust
+  - name: J. Paul Getty Museum
     location: Los Angeles
     url:
     logo: logo-getty.png
@@ -160,13 +159,14 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2021 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: some-exceptions # full | text-only | some-exceptions
+  online_text: "The text and figures of this work are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Figs. X, XX, XY, etc. are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -174,20 +174,25 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (12 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (78 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /downloads/output.epub
   - type: other-format
-    name: Kindle/MOBI
+    name: Kindle/MOBI (192 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
     url: /downloads/output.mobi
+  - type: other-format
+    name: Paperback
+    media_type: print
+    link_relation: alternate
+    url: https://shop.getty.edu/
   - type: footer-link
     name: About
     link_relation: about
@@ -207,22 +212,17 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "http://vocab.getty.edu/ulan/500007674"
-  - type: keyword
-    name: photography
-  - type: getty
-    name: Walker Evans
-    identifier: "http://vocab.getty.edu/ulan/500012076"
-  - type: getty
-    name: black-and-white photography
-    identifier: "http://vocab.getty.edu/aat/300162056"
-  - type: getty
-    name: despression (economic concept)
-    identifier: "http://vocab.getty.edu/aat/300410245"
+    name: DESIGN / Decorative Arts
+    identifer: DES003000
+  - type: bisac
+    name: ART / History / Baroque & Rococo
+    identifer: ART015090
+  - type: bisac
+    name: ART / Collections, Catalogs, Exhibitions / Permanent Collections
+    identifer: ART006020
+  - type: bisac
+    name: ANTIQUES & COLLECTIBLES / General
+    identifer: ANT000000
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -232,7 +232,7 @@ revision_history:
   - date:
     summary:
 
-repository_url:
+repository_url: https://github.com/thegetty/rococo/
 
 # ------------------------------------------------------------------------------
 # Promo Image

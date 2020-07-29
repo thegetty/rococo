@@ -45,4 +45,4 @@ In the list of materials at the beginning of each entry, woods that are marked w
 | white oak | _Quercus_ sect. _Quercus_ | _Chêne_ |
 | white pine | _Pinus_ subsect_. strobus_ | _pin blanc_ |
 
-† There is no recognized common name in English for the unidentified species of _Swartzia_ that was called _ferréol_ in eighteenth-century France. In modern English &quot;wamara&quot; is commonly used to refer to any of a number of species of _Swartzia_ and was used in {{< q-cite "Wilson et al. 2008" >}}, 176–77; however, for specificity, we have chosen to use the modern French term according to {{< q-cite "Viaux-Lauquin 1997" >}}.
+† There is no recognized common name in English for the unidentified species of _Swartzia_ that was called _ferréol_ in eighteenth-century France. In modern English "wamara" is commonly used to refer to any of a number of species of _Swartzia_ and was used in {{< q-cite "Wilson et al. 2008" >}}, 176–77; however, for specificity, we have chosen to use the modern French term according to {{< q-cite "Viaux-Lauquin 1997" >}}.

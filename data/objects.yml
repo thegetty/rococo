@@ -4,6 +4,8 @@ object_display_order:
   - materials
   - dimensions
   - accession_number
+  - dimensions_two
+  - accession_number_two
 object_list:
   - id: "1"
     title: "Cabinet"
@@ -11,7 +13,7 @@ object_list:
     display_date: "mid-1730s"
     place_date: "French (Paris), mid-1730s"
     attribution: "Attributed to Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
-    materials: "White oak veneered with bloodwood*, cherry*, *ferréol**, and amaranth*; gilt bronze mounts; brass and iron hardware, lock, and keys; *brèche d’Alep* top"
+    materials: "White oak veneered with bloodwood*, cherry*, <em>ferréol</em>*, and amaranth*; gilt bronze mounts; brass and iron hardware, lock, and keys; <em>brèche d’Alep</em> top"
     dimensions: "H: 3 ft. 9 5/8 in., W: 15 ft. 4 1/2 in., D: 1 ft. 9 1/2 in. (115.8 x 468.6 x 54.5 cm)"
     accession_number: "77.DA.91"
     link: https://www.getty.edu/art/collection/objects/5616/
@@ -50,7 +52,7 @@ object_list:
     display_date: "about 1740"
     place_date: "French (Paris), about 1740"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
-    materials: "White oak* veneered with amaranth*, cherry*, and sycamore maple*, set with panels of black Japanese lacquer on Japanese arborvitae***, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; *sarrancolin* marble tops"
+    materials: "White oak* veneered with amaranth*, cherry*, and sycamore maple*, set with panels of black Japanese lacquer on Japanese arborvitae*, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; <em>sarrancolin</em> marble tops"
     dimensions: "H: 3 ft. 3 1/8 in., W: 2 ft. 10 3/4 in., D: 2 ft. 1/8 in. (99.4 x 88.3 x 61.3 cm)"
     accession_number: 72.DA.44.1 and .2
     link: https://www.getty.edu/art/collection/objects/5465/
@@ -63,7 +65,7 @@ object_list:
     display_date: "ca. 1737"
     place_date: "French (Paris), ca. 1737, late nineteenth-/early twentieth-century gilt bronze mounts"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
-    materials: "White oak*, veneered with alder*, set with panels of Japanese lacquer on a coniferous substrate and painted with European lacquer; veneered with cherry* and amaranth* on interior of the doors; replacement gilt bronze mounts; brass and iron hardware and lock; *sarrancolin* marble top; original silk fabric lining; and silver metal *galon* trim"
+    materials: "White oak*, veneered with alder*, set with panels of Japanese lacquer on a coniferous substrate and painted with European lacquer; veneered with cherry* and amaranth* on interior of the doors; replacement gilt bronze mounts; brass and iron hardware and lock; <em>sarrancolin</em> marble top; original silk fabric lining; and silver metal <em>galon</em> trim"
     dimensions: "H: 2 ft. 10 3/4 in., W: 4 ft. 11 3/4 in., D: 1 ft. 10 3/4 in. (88.3 x 151.9 x 57.8 cm)"
     accession_number: 65.DA.4
     link: https://www.getty.edu/art/collection/objects/5375/
@@ -76,7 +78,7 @@ object_list:
     display_date: "ca. 1740"
     place_date: "French (Paris), ca. 1740"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
-    materials: "White oak, set with panels of Chinese red lacquer on a coniferous substrate, and sycamore maple* painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; *brèche d’Alep* top"
+    materials: "White oak, set with panels of Chinese red lacquer on a coniferous substrate, and sycamore maple* painted with European lacquer; gilt bronze mounts; brass and iron hardware and lock; <em>brèche d’Alep</em> top"
     dimensions: "H: 2 ft. 9 in., W: 3 ft. 9 in., D: 1 ft. 9 1/2 in. (83.8 x 114.3 x 54.9 cm)"
     accession_number: 72.DA.46
     link: https://www.getty.edu/art/collection/objects/5469/
@@ -89,7 +91,7 @@ object_list:
     display_date: "ca. 1750"
     place_date: "French (Paris), ca. 1750"
     attribution: "By Bernard II van Risenburgh (French, after 1696–ca. 1766, master before 1730)"
-    materials: "White oak* veneered with bloodwood*, kingwood*, and amaranth*; drawers of walnut* and white oak; gilt bronze mounts; brass, steel, and iron locks; modern *campan grand mélange* marble tops"
+    materials: "White oak* veneered with bloodwood*, kingwood*, and amaranth*; drawers of walnut* and white oak; gilt bronze mounts; brass, steel, and iron locks; modern <em>campan grand mélange</em> marble tops"
     dimensions: "H: 2 ft. 10 3/16 in., W: 3 ft. 3 15/16 in., D: 1 ft. 10 1/16 in. (86.8 x 101.4 x 56 cm)"
     accession_number: 71.DA.96.1–.2
     link: https://www.getty.edu/art/collection/objects/5429/
@@ -141,7 +143,7 @@ object_list:
     display_date: "ca. 1744–55"
     place_date: "French (Paris), cabinet, ca. 1744–55, clock, ca. 1744"
     attribution: "By Jacques Dubois (French, 1694–1763, master 1742); clock movement by Étienne Le Noir II (French, 1699–1778, master 1717); enamel dial by Antoine Nicolas Martinière (French, 1706–1784, master 1720); design attributed to Nicolas Pineau (French, 1684–1754); maker of gilt bronze clock case unknown"
-    materials: "Mahogany* and white oak* veneered with bloodwood*, kingwood*, *ferréol**, amaranth, and mahogany; enameled metal clock dial; glass; gilt bronze mounts; brass and iron hardware and lock [Restorations in fir*, walnut*, and Andaman padauk*]"
+    materials: "Mahogany* and white oak* veneered with bloodwood*, kingwood*, <em>ferréol</em>*, amaranth, and mahogany; enameled metal clock dial; glass; gilt bronze mounts; brass and iron hardware and lock [Restorations in fir*, walnut*, and Andaman padauk*]"
     dimensions: "H: 9 ft. 6 in., W: 4 ft. 3 in., D: 2 ft. 4 1/2 in. (289.5 x 129.5 x 72 cm)"
     accession_number: 79.DA.66
     link: https://www.getty.edu/art/collection/objects/5693/
@@ -154,7 +156,7 @@ object_list:
     display_date: "ca. 1755"
     place_date: "French (Paris), ca. 1755"
     attribution: "By Jacques Dubois (French, 1694–1763, master 1742)"
-    materials: "White oak veneered with pear* and bloodwood, set with leather panels of Chinese black lacquer, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and locks; *brèche d’Alep* top"
+    materials: "White oak veneered with pear* and bloodwood, set with leather panels of Chinese black lacquer, and painted with European lacquer; gilt bronze mounts; brass and iron hardware and locks; <em>brèche d’Alep</em> top"
     dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 7 1/2 in., D: 1 ft. 11 1/4 in. (97.2 x 80 x 58.7 cm)"
     accession_number: 78.DA.119.1-2
     link: https://www.getty.edu/art/collection/objects/5650/
@@ -167,7 +169,7 @@ object_list:
     display_date: "ca. 1755"
     place_date: "French (Paris), ca. 1755"
     attribution: "By Jacques Dubois (French, 1694–1763, master 1742)"
-    materials: "White oak and sycamore maple* veneered with panels of Chinese red lacquer on Japanese arborvitae* and painted with European lacquer; interior drawers of sycamore maple, and Japanese arborvitae; gilt bronze mounts; brass and iron hardware and locks; *brèche d’Alep* top; replacement silk velvet, and trim"
+    materials: "White oak and sycamore maple* veneered with panels of Chinese red lacquer on Japanese arborvitae* and painted with European lacquer; interior drawers of sycamore maple, and Japanese arborvitae; gilt bronze mounts; brass and iron hardware and locks; <em>brèche d’Alep</em> top; replacement silk velvet, and trim"
     dimensions: "H: 3ft. 4 1/2 in., W: 3ft. 9 in., D: 1ft. 3 1/8 in. (102.8 x 114.3 x 38.4 cm)"
     accession_number: 65.DA.3
     link: https://www.getty.edu/art/collection/objects/5374/
@@ -180,7 +182,7 @@ object_list:
     display_date: "early to mid-1750s"
     place_date: "French (Paris), early to mid-1750s"
     attribution: "Attributed to Joseph Baumhauer (French, died 1772; *ébéniste privilégié du Roi*, ca. 1749)"
-    materials: "White oak veneered with ebony* and a wood possibly identified as service tree*, set with panels of Japanese lacquer on Japanese arborvitae, and painted with European lacquer; drawers of white oak; brass and iron hardware and lock; gilt bronze mounts; *campan mélange vert* marble top"
+    materials: "White oak veneered with ebony* and a wood possibly identified as service tree*, set with panels of Japanese lacquer on Japanese arborvitae, and painted with European lacquer; drawers of white oak; brass and iron hardware and lock; gilt bronze mounts; <em>campan mélange vert</em> marble top"
     dimensions: "H: 2 ft. 10 3/4 in., W: 4 ft. 9 1/2 in., D: 2 ft. 3/4 in. (88.3 x 146.1 x 62.6 cm)"
     accession_number: 55.DA.2
     link: https://www.getty.edu/art/collection/objects/5359/
@@ -206,7 +208,7 @@ object_list:
     display_date: "ca. 1750"
     place_date: "French (Paris), ca. 1750"
     attribution: "Attributed to Jean-Pierre Latz (French, ca. 1691–1754, *ébéniste privilégié du Roi* before May 1741)"
-    materials: "White oak* and poplar* veneered with bloodwood*; drawers of white oak and walnut*; brass and iron locks; gilt bronze mounts; *fleur de pêcher* marble top"
+    materials: "White oak* and poplar* veneered with bloodwood*; drawers of white oak and walnut*; brass and iron locks; gilt bronze mounts; <em>fleur de pêcher</em> marble top"
     dimensions: "H: 2 ft. 10 1/2 in., W: 4 ft. 11 5/8 in., D: 2 ft. 2 5/8 in. (87.7 x 151.5 x 65 cm)"
     accession_number: 83.DA.356
     link: https://www.getty.edu/art/collection/objects/5814/
@@ -218,12 +220,12 @@ object_list:
     display_maker: ""
     display_date: "French (Paris), ca. 1750–60"
     place_date: "French (Paris), ca. 1750–60"
-    attribution: ""
-    materials: "Carcass and mounts attributed to Jean-Pierre Latz (French, ca. 1691–1754, *ébéniste privilégié du Roi* before May 1741), marquetry panels attributed to Jean-François Oeben (French, born Germany, 1721–1763, *ébéniste mécanicien du Roi* from 1760 and master 1761), and 72.DA.69.1–.2 altered by Jean-Henri Riesener (1734–1806, master 1768 and *ébéniste ordinaire du Roi* from 1774)\
-    materials: White oak* veneered with amaranth*, sycamore maple*, holly, fruitwood, barberry, boxwood, maple*, walnut*, and other unidentified woods; gilt bronze mounts; brass hinges; brass and iron locks and keys; *brèche d’Alep* top"
-    dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 9 3/4 in., D: 1 ft. 11 1/8 in. (97.2 x 85.7 x 58.7 cm)
-    H: 3 ft. 1/4 in., W: 2 ft. 8 1/4 in., D: 2 ft. (92.1 x 81.9 x 61 cm)"
-    accession_number: 72.DA.39.1–.2 72.DA.69.1–.2
+    attribution: "Carcass and mounts attributed to Jean-Pierre Latz (French, ca. 1691–1754, *ébéniste privilégié du Roi* before May 1741), marquetry panels attributed to Jean-François Oeben (French, born Germany, 1721–1763, *ébéniste mécanicien du Roi* from 1760 and master 1761), and 72.DA.69.1–.2 altered by Jean-Henri Riesener (1734–1806, master 1768 and *ébéniste ordinaire du Roi* from 1774)"
+    materials: "White oak* veneered with amaranth*, sycamore maple*, holly, fruitwood, barberry, boxwood, maple*, walnut*, and other unidentified woods; gilt bronze mounts; brass hinges; brass and iron locks and keys; <em>brèche d’Alep</em> top"
+    dimensions: "H: 3 ft. 2 1/4 in., W: 2 ft. 9 3/4 in., D: 1 ft. 11 1/8 in. (97.2 x 85.7 x 58.7 cm)"
+    accession_number: 72.DA.39.1–.2
+    dimensions_two: "H: 3 ft. 1/4 in., W: 2 ft. 8 1/4 in., D: 2 ft. (92.1 x 81.9 x 61 cm)"
+    accession_number_two: 72.DA.69.1–.2
     link: https://www.getty.edu/art/collection/objects/5454/
     figure:
       - id: "cat-17"
@@ -260,7 +262,7 @@ object_list:
     display_date: "ca.1735 for some parts; finished late nineteenth or twentieth century"
     place_date: "French (Paris), portions of carcass and gilt bronze mounts, ca.1735; finished carcass and veneer, late nineteenth or twentieth century"
     attribution: "By unidentified *ébéniste* “DF”"
-    materials: "White oak, maple, and fir veneered with tulipwood, kingwood, amaranth, and other unidentified woods; gilt bronze mounts; brass and iron lock; *brèche d’Alep* top"
+    materials: "White oak, maple, and fir veneered with tulipwood, kingwood, amaranth, and other unidentified woods; gilt bronze mounts; brass and iron lock; <em>brèche d’Alep</em> top"
     dimensions: "H: 2 ft. 10 1/4 in., W: 5 ft. 1 1/4 in., D: 2 ft. 1 in. (87 x 155.5 x 63.5 cm)"
     accession_number: 76.DA.15
     link: https://www.getty.edu/art/collection/objects/5603/
@@ -279,30 +281,3 @@ object_list:
     link: https://www.getty.edu/art/collection/objects/5398/
     figure:
       - id: "cat-21"
-
-  - id: ""
-    title: ""
-    place_date: ""
-    attribution: ""
-    materials: ""
-    dimensions: ""
-    accession_number:
-    link:
-    figure:
-      - id: "fig--1"
-      - id: "fig--2"
-      - id: "fig--3"
-      - id: "fig--4"
-      - id: "fig--5"
-      - id: "fig--6"
-      - id: "fig--7"
-      - id: "fig--8"
-      - id: "fig--9"
-      - id: "fig--10"
-      - id: "fig--11"
-      - id: "fig--12"
-      - id: "fig--13"
-      - id: "fig--14"
-      - id: "fig--15"
-      - id: "fig--16"
-      - id: "fig--17"
