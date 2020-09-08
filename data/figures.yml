@@ -3,7 +3,7 @@ figure_list:
   - id: "fig-1"
     src: "figures/fig-1.jpg"
     label: "Figure 1"
-    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table (70.DA.84; [cat. no. 19](/catalogue/19/)), Ranch House, Malibu, 1950."
+    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table ([cat. no. 18](/catalogue/18/)), Ranch House, Malibu, 1950."
     download: true
 
   - id: "fig-2"
@@ -15,7 +15,7 @@ figure_list:
   - id: "fig-3"
     src: "figures/fig-3--fpo.jpg"
     label: "Figure 3"
-    caption: "The Régence (or Rote) Salon of Baron Alphone (Mayer) von Rothschild, view of the collection with the Dubois corner cupboard on the left (79.DA.66; [cat. no. 11](/catalogue/11/)), Theresianum Gasse 16--18, Vienna, before 1938."
+    caption: "The Régence (or Rote) Salon of Baron Alphonse (Mayer) von Rothschild, view of the collection with the Dubois corner cupboard on the left ([cat. no. 11](/catalogue/11/)), Theresianum Gasse 16--18, Vienna, before 1938."
     download: true
 
   - id: "cat-1"
