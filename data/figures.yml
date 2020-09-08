@@ -27,7 +27,7 @@ figure_list:
   - id: "fig-1-1"
     src: "figures/fig-1-1.jpg"
     label: "Figure 1.1"
-    caption: "Center section, doors and drawer open."
+    caption: "Left section, doors and drawer open."
     download: true
 
   - id: "fig-1-2"
@@ -57,7 +57,7 @@ figure_list:
   - id: "fig-1-6"
     src: "figures/fig-1-6.jpg"
     label: "Figure 1.6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 x 139.7 x 41.5 cm (66 x 55 x 16.3 in.). Versailles, Château de Versailles, OA 9599, V 5090."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 x 139.7 x 41.5 cm (66 x 55 x 16.3 in.). Versailles, Château de Versailles, OA 9599, V5090."
     download: true
 
   - id: "fig-1-7"
