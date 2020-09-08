@@ -17,20 +17,20 @@ titlepage_contributor_as_it_appears: |
 
   Gillian Wilson and Arlen Heginbotham
 
-  with Jessica Chasen, Yannick Chastang, Jan Dorscheid, Joe Godla, Clara von Englehardt, Philippe Halbert, Gordon Hanlon, Katrina Posner, Michael Schilling, Ron&nbsp;Schmidtling, and Linnea Seidling
+  Edited and with an introduction by Anne-Lise Desmas
 
-  Introduction by Anne-Lise Desmas
-  
+  with Jessica Chasen, Yannick Chastang, Jan Dorscheid, Clara von Englehardt, Joe Godla, Philippe Halbert, Gordon Hanlon, Katrina Posner, Michael Schilling, and Ron Schmidtling
 
-title: Rococo Ébénisterie in the J. Paul Getty Museum
+
+title: French Rococo Ébénisterie in the J. Paul Getty Museum
 subtitle:
 reading_line:
-short_title: Rococo Ébénisterie
+short_title: French Rococo Ébénisterie
 
 description:
   one_line: "French ébénisterie furniture in the Rococo style dating from 1735 to 1760."
-  full: 
-    
+  full:
+
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ contributor:
     initials: GW
     role: author
   - id: phalbert
-    type: 
+    type:
     first_name: Philippe
     last_name: Halbert
     initials: PH
@@ -152,7 +152,7 @@ contributor:
     first_name: Michael
     last_name: Smith
     initials: MS
-    role: conservator 
+    role: conservator
 
 
 # ------------------------------------------------------------------------------
