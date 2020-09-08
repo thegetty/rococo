@@ -1,15 +1,15 @@
 ---
-title: List of Contributors
+title: Contributors
 weight: 5
 type: page
 class: list
 ---
 
-Y.C.
-: Yannick Chastang
-
 J.C.
 : Jessica Chasen
+
+Y.C.
+: Yannick Chastang
 
 J.D.
 : Jan Dorscheid
