@@ -93,7 +93,7 @@ figure_list:
   - id: "fig-1-12"
     src: "figures/fig-1-12.jpg"
     label: "Figure 1.12"
-    caption: "The bottom of the central base section. The front bottom rails of the base are fixed to the sides with a single dovetail, reinforced with three wooden pegs."
+    caption: "The bottom of the right base section. The front bottom rails of the base are fixed to the sides with a single dovetail, reinforced with wooden pegs."
     download: true
 
   - id: "fig-1-13"
