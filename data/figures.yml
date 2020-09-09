@@ -261,7 +261,7 @@ figure_list:
   - id: "fig-3-6"
     src: "figures/fig-3-6.jpg"
     label: "Figure 3.6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois santiné*, chased gilt bronze mounts, 57 x 82 x 31 cm (22.4 x 32.3 x 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois satiné*, chased gilt bronze mounts, 57 x 82 x 31 cm (22.4 x 32.3 x 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584."
     download: true
 
   - id: "fig-3-7"
@@ -327,7 +327,7 @@ figure_list:
   - id: "fig-3-17"
     src: "figures/fig-3-17.jpg"
     label: "Figure 3.17"
-    caption: "Details, front and rear, of the upper right framing mount of the front of the *bout de bureau*. The central section has been brazed in to lengthen the original, shorter mount for use on the broad front of the *bout*."
+    caption: "Details, front and rear, of the upper right framing mount of the front of the *bout de bureau*. The central section has been soldered in to lengthen the original, shorter mount for use on the broad front of the *bout*."
     download: true
 
   - id: "cat-4"
