@@ -351,7 +351,7 @@ figure_list:
   - id: "fig-4-3"
     src: "figures/fig-4-3.jpg"
     label: "Figure 4.3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1745--49. Oak veneered with ebony and Coromandel lacquer, cherry wood, and purplewood; gilt bronze mounts; brocatelle marble top, 91.1 x 86 x 66.4 cm (35 7/8 x 33 7/8 x 26 1/8 in.). New York, Metropolitan Museum of Art, 1983.185.1."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1745–49. Oak veneered with ebony and Coromandel lacquer, cherry wood, and purplewood; gilt bronze mounts; brocatelle marble top, 91.1 x 86 x 66.4 cm (35.9 x 33.9 x 26.1 in.). New York, Metropolitan Museum of Art, 1983.185.1."
     download: true
 
   - id: "fig-4-4"
@@ -363,13 +363,13 @@ figure_list:
   - id: "fig-4-5"
     src: "figures/fig-4-5.jpg"
     label: "Figure 4.5"
-    caption: "Top."
+    caption: "Top of 72.DA.44.1."
     download: true
 
   - id: "fig-4-6"
     src: "figures/fig-4-6.jpg"
     label: "Figure 4.6"
-    caption: "Bottom."
+    caption: "Bottom of 72.DA.44.1."
     download: true
 
   - id: "fig-4-7"
@@ -381,13 +381,13 @@ figure_list:
   - id: "fig-4-8"
     src: "figures/fig-4-8.jpg"
     label: "Figure 4.8"
-    caption: "Intact Japanese cabinet in the collections of Rosenborg Castle. A similar cabinet was the likely source for the lacquerwork on the Museum's cabinets. Cabinet, ca. 1640--90, 69.8 x 91.1 x 50.8 cm (27 1/2 x 35 7/8 x 20 in.). Copenhagen, Royal Collections, Rosenborg Castle, EAc 229."
+    caption: "Intact Japanese cabinet in the collections of Rosenborg Castle. A similar cabinet was the likely source for the lacquerwork on the Museum's cabinets. Cabinet, ca. 1640--90, 69.8 x 91.1 x 50.8 cm (27.5 x 35.9 x 20 in.). Copenhagen, Royal Collections, Rosenborg Castle, EAc 229."
     download: true
 
   - id: "fig-4-9"
     src: "figures/fig-4-9.jpg"
     label: "Figure 4.9"
-    caption: "Composite cross-section photomicrograph in ultraviolet illumination showing the original Japanese substrate thinned down to 1.3 mm."
+    caption: "Composite cross-section photomicrograph in ultraviolet illumination showing the original Japanese lacquer and its substrate thinned down to 1.3 mm."
     download: true
 
   - id: "fig-4-10"
@@ -417,19 +417,19 @@ figure_list:
   - id: "fig-4-14"
     src: "figures/fig-4-14.jpg"
     label: "Figure 4.14"
-    caption: "The locations of the samples taken for comparison from the .1 (above) and .2 (below) cabinets."
+    caption: "The locations of the samples taken for comparison from the .1 (above) and .2 (below) cabinets. Sample sites are hidden behind gilt bronze mounts."
     download: true
 
   - id: "fig-4-15"
     src: "figures/fig-4-15.jpg"
     label: "Figure 4.15"
-    caption: "Composite photomicrograph of the Japanese lacquer on cabinet .1 featuring the complex buildup of layers to create the surface decoration. The seven layers (including the wood) comprising the black background are 0.75 mm thick. The *takamakie* decoration above adds 0.65 mm of thickness in an additional six to seven layers."
+    caption: "Composite photomicrograph of the Japanese lacquer on cabinet .1 featuring the complex buildup of layers to create the surface decoration. The seven layers (including the wood) composing the black background are 0.75 mm thick. The *takamakie* decoration above adds 0.65 mm of thickness in an additional six to seven layers."
     download: true
 
   - id: "fig-4-16"
     src: "figures/fig-4-16.jpg"
     label: "Figure 4.16"
-    caption: "Right door from cabinet .1 as seen under ultraviolet illumination showing the variety of materials applied to the surface during different restoration campaigns."
+    caption: "Left door from cabinet .1 as seen under ultraviolet illumination showing the variety of materials applied to the surface during different restoration campaigns."
     download: true
 
   - id: "cat-5"
