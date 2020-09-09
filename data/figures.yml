@@ -3,7 +3,7 @@ figure_list:
   - id: "fig-1"
     src: "figures/fig-1.jpg"
     label: "Figure 1"
-    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table (70.DA.84; [cat. no. 19](/catalogue/19/)), Ranch House, Malibu, 1950."
+    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table ([cat. no. 18](/catalogue/18/)), Ranch House, Malibu, 1950."
     download: true
 
   - id: "fig-2"
@@ -15,7 +15,7 @@ figure_list:
   - id: "fig-3"
     src: "figures/fig-3--fpo.jpg"
     label: "Figure 3"
-    caption: "The Régence (or Rote) Salon of Baron Alphone (Mayer) von Rothschild, view of the collection with the Dubois corner cupboard on the left (79.DA.66; [cat. no. 11](/catalogue/11/)), Theresianum Gasse 16--18, Vienna, before 1938."
+    caption: "The Régence (or Rote) Salon of Baron Alphonse (Mayer) von Rothschild, view of the collection with the Dubois corner cupboard on the left ([cat. no. 11](/catalogue/11/)), Theresianum Gasse 16--18, Vienna, before 1938."
     download: true
 
   - id: "cat-1"
@@ -27,7 +27,7 @@ figure_list:
   - id: "fig-1-1"
     src: "figures/fig-1-1.jpg"
     label: "Figure 1-1"
-    caption: "Center section, doors and drawer open."
+    caption: "Left section, doors and drawer open."
     download: true
 
   - id: "fig-1-2"
@@ -57,7 +57,7 @@ figure_list:
   - id: "fig-1-6"
     src: "figures/fig-1-6.jpg"
     label: "Figure 1-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 x 139.7 x 41.5 cm (66 x 55 x 16.3 in.). Versailles, Château de Versailles, OA 9599, V 5090."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 x 139.7 x 41.5 cm (66 x 55 x 16.3 in.). Versailles, Château de Versailles, OA 9599, V5090."
     download: true
 
   - id: "fig-1-7"
@@ -93,7 +93,7 @@ figure_list:
   - id: "fig-1-12"
     src: "figures/fig-1-12.jpg"
     label: "Figure 1-12"
-    caption: "The bottom of the central base section. The front bottom rails of the base are fixed to the sides with a single dovetail, reinforced with three wooden pegs."
+    caption: "The bottom of the right base section. The front bottom rails of the base are fixed to the sides with a single dovetail, reinforced with wooden pegs."
     download: true
 
   - id: "fig-1-13"
