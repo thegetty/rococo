@@ -153,7 +153,7 @@ figure_list:
   - id: "fig-2-4"
     src: "figures/fig-2-4.jpg"
     label: "Figure 2.4"
-    caption: "On the back of the cabinet on the upper rail is stamped “B.V.R.B.”(84.DA.24.1)."
+    caption: "On the back of the cabinet on the upper rail is stamped “B.V.R.B.” (84.DA.24.1)."
     download: true
 
   - id: "fig-2-5"
@@ -177,7 +177,7 @@ figure_list:
   - id: "fig-2-8"
     src: "figures/fig-2-8.jpg"
     label: "Figure 2.8"
-    caption: "X-radiograph, and corresponding photograph, showing a multilayered cabinet top. A cross-grain is visible in the X-radiograph, revealing the presence of a hidden board between the upper veneer and the original panelboard, which is invisible from below."
+    caption: "X-radiograph, and corresponding photograph, showing a multilayered cabinet top. A cross-grain is visible in the X-radiograph, revealing the presence of a hidden board between the upper veneer and the original panel, which is invisible from below."
     download: true
 
   - id: "fig-2-9"
@@ -201,7 +201,7 @@ figure_list:
   - id: "fig-2-12"
     src: "figures/fig-2-12.jpg"
     label: "Figure 2.12"
-    caption: "Composite of two X-radiographs showing that the slides, situated between the upper and lower door sections, are made of butt-joined boards running from side to side, with front-to-back battens on both ends. The battens are attached with both tongue-and-groove joints and mortise and tenons at the front and back."
+    caption: "Composite of two X-radiographs showing that the sliding shelves, situated between the upper and lower door sections, are made of butt-joined boards running from side to side, with front-to-back battens on both ends. The battens are attached with both tongue-and-groove joints and mortise and tenons at the front and back."
     download: true
 
   - id: "fig-2-13"
@@ -213,13 +213,13 @@ figure_list:
   - id: "fig-2-14"
     src: "figures/fig-2-14.jpg"
     label: "Figure 2.14"
-    caption: "X-radiograph of the .1 lower left door. It is comprised of butt-joined vertical boards secured with tongue-and-groove joints to horizontal battens at the top and bottom. Veneer pin holes align well with the inner edge of the amaranth banding, showing that the craftsman applied veneer from the perimeter toward the middle."
+    caption: "X-radiograph of the .1 lower left door. It is composed of butt-joined vertical boards secured with tongue-and-groove joints to horizontal battens at the top and bottom. Veneer pin holes align well with the inner edge of the amaranth banding, showing that the craftsman applied veneer from the perimeter toward the middle."
     download: true
 
   - id: "fig-2-15"
     src: "figures/fig-2-15.jpg"
     label: "Figure 2.15"
-    caption: "X-radiograph of one of the cabinet's sides showing that the veneer pin holes are slightly offset, suggesting the marquetry may have been removed during a previous restoration."
+    caption: "X-radiograph of one of the cabinet’s sides showing that the veneer pin holes are slightly offset, suggesting the marquetry may have been removed during a previous restoration."
     download: true
 
   - id: "cat-3"
