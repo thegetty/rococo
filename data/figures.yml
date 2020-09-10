@@ -1947,7 +1947,7 @@ figure_list:
   - id: "fig-19-5"
     src: "figures/fig-19-5--fpo.jpg"
     label: "Figure 19-5"
-    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Galerie Charpentier, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
     download: true
 
   - id: "fig-19-6"
@@ -1989,19 +1989,19 @@ figure_list:
   - id: "fig-19-12"
     src: "figures/fig-19-12.jpg"
     label: "Figure 19-12"
-    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-13. The thickness of the glue lines also gives clues to the marquetry techniques used."
+    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-14. The thickness of the glue lines also gives clues to the marquetry techniques used."
     download: true
 
   - id: "fig-19-13"
     src: "figures/fig-19-13.jpg"
     label: "Figure 19-13"
-    caption: "Some flowers were enhanced with engraved veins filled with black or red mastic. The engraved lines have pointed tips, while saw cut veins have blunt tips."
+    caption: "Some flowers were enhanced with engraved veins filled with black or red mastic. The engraved lines have pointed tips, while saw-cut veins have blunt tips."
     download: true
 
   - id: "fig-19-14"
     src: "figures/fig-19-14.jpg"
     label: "Figure 19-14"
-    caption: "X-radiography indicates the use of veneer pins to hold stringing in place during marquetry assembly. Both the holes left by the pins and even some broken off fragments are visible in this X-radiograph."
+    caption: "X-radiography indicates the use of veneer pins to hold stringing in place during marquetry assembly. Both the holes left by the pins and even some broken-off fragments are visible in this X-radiograph."
     download: true
 
   - id: "fig-19-15"
