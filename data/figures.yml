@@ -1803,19 +1803,19 @@ figure_list:
   - id: "fig-18-1"
     src: "figures/fig-18-1.jpg"
     label: "Figure 18-1"
-    caption: "Three-quarter right front, drawer open."
+    caption: "Top."
     download: true
 
   - id: "fig-18-2"
     src: "figures/fig-18-2.jpg"
     label: "Figure 18-2"
-    caption: "The underside of the front rail is stamped “J.F.OEBEN” and “JME.”"
+    caption: "Three-quarter right front, drawer open."
     download: true
 
   - id: "fig-18-3"
     src: "figures/fig-18-3.jpg"
     label: "Figure 18-3"
-    caption: "Top."
+    caption: "The underside of the front rail is stamped “J.F.OEBEN” and “JME.”"
     download: true
 
   - id: "fig-18-4"
@@ -1833,7 +1833,7 @@ figure_list:
   - id: "fig-18-6"
     src: "figures/fig-18-6.jpg"
     label: "Figure 18-6"
-    caption: "Jean-François Oeben (French, born Germany, 1721--1763), and Roger Vandercruse, called Lacroix (French, 1727--1799), Mechanical table, ca. 1761--63. Oak veneered with mahogany, kingwood, and tulipwood, with marquetry of mahogany, rosewood, holly, and various other woods; gilt bronze mounts; imitation Japanese lacquer; replaced silk, 69.9 x 81.9 x 46.7 cm (27 1/2 x 32 1/4 x 18 3/8 in.). New York, Metropolitan Museum of Art, 1982.60.61."
+    caption: "Jean-François Oeben (French, born Germany, 1721--1763), and Roger Vandercruse, called Lacroix (French, 1727--1799), Mechanical table, ca. 1761--63. Oak veneered with mahogany, kingwood, and tulipwood, with marquetry of mahogany, rosewood, holly, and various other woods; gilt bronze mounts; imitation Japanese lacquer; replaced silk, 69.9 x 81.9 x 46.7 cm (27.5 x 32.2 x 18.4 in.). New York, Metropolitan Museum of Art, 1982.60.61."
     download: true
 
   - id: "fig-18-7"
@@ -1863,7 +1863,7 @@ figure_list:
   - id: "fig-18-11"
     src: "figures/fig-18-11.jpg"
     label: "Figure 18-11"
-    caption: "Left side of the sliding drawer case, showing the toothed brass rail with extraneous holes, indicating some prior modification of the mechanism."
+    caption: "Left side of the sliding drawer case, showing the toothed brass rail with extraneous holes and patched wood, indicating some prior modification of the mechanism."
     download: true
 
   - id: "fig-18-12"
@@ -1947,7 +1947,7 @@ figure_list:
   - id: "fig-19-5"
     src: "figures/fig-19-5--fpo.jpg"
     label: "Figure 19-5"
-    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Galerie Charpentier, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
     download: true
 
   - id: "fig-19-6"
@@ -1989,19 +1989,19 @@ figure_list:
   - id: "fig-19-12"
     src: "figures/fig-19-12.jpg"
     label: "Figure 19-12"
-    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-13. The thickness of the glue lines also gives clues to the marquetry techniques used."
+    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-14. The thickness of the glue lines also gives clues to the marquetry techniques used."
     download: true
 
   - id: "fig-19-13"
     src: "figures/fig-19-13.jpg"
     label: "Figure 19-13"
-    caption: "Some flowers were enhanced with engraved veins filled with black or red mastic. The engraved lines have pointed tips, while saw cut veins have blunt tips."
+    caption: "Some flowers were enhanced with engraved veins filled with black or red mastic. The engraved lines have pointed tips, while saw-cut veins have blunt tips."
     download: true
 
   - id: "fig-19-14"
     src: "figures/fig-19-14.jpg"
     label: "Figure 19-14"
-    caption: "X-radiography indicates the use of veneer pins to hold stringing in place during marquetry assembly. Both the holes left by the pins and even some broken off fragments are visible in this X-radiograph."
+    caption: "X-radiography indicates the use of veneer pins to hold stringing in place during marquetry assembly. Both the holes left by the pins and even some broken-off fragments are visible in this X-radiograph."
     download: true
 
   - id: "fig-19-15"
@@ -2073,7 +2073,7 @@ figure_list:
   - id: "fig-20-6"
     src: "figures/fig-20-6.jpg"
     label: "Figure 20-6"
-    caption: "Detail showing the in-line double dovetail and the open-faced dovetail on the proper right front corner post."
+    caption: "Detail showing the in-line double dovetail and the open-faced dovetail on the left front corner post."
     download: true
 
   - id: "fig-20-7"
@@ -2085,7 +2085,7 @@ figure_list:
   - id: "fig-20-8"
     src: "figures/fig-20-8.jpg"
     label: "Figure 20-8"
-    caption: "Three-quarter right front without drawers removed."
+    caption: "The case with drawers removed."
     download: true
 
   - id: "fig-20-9"
@@ -2115,7 +2115,7 @@ figure_list:
   - id: "fig-20-13"
     src: "figures/fig-20-13.jpg"
     label: "Figure 20-13"
-    caption: "Flat-sawn kingwood lacks the ray “streaks” and generally exhibits dark stripes in the grain that are more widely spaced than in the quarter-sawn variety."
+    caption: "Flat-sawn kingwood lacks the ray “streaks” and generally exhibits dark stripes in the grain that are more widely spaced than in the quartersawn variety."
     download: true
 
   - id: "cat-21"
@@ -2127,25 +2127,25 @@ figure_list:
   - id: "fig-21-1"
     src: "figures/fig-21-1.jpg"
     label: "Figure 21-1"
-    caption: "The top of the right leg stile is stamped “DELORME JME” and “N.PETIT.”"
+    caption: "The top of the right leg stile is stamped “DELORME,” “JME,” and “N.PETIT.”"
     download: true
 
   - id: "fig-21-2"
     src: "figures/fig-21-2.jpg"
     label: "Figure 21-2"
-    caption: "Further comparison of the Latz mounts and the later copies of this commode. The dramatic difference in scale suggests that the new master models could have been made from sketches or photographs, without the original mounts at hand."
+    caption: "A corner mount from the Baumhauer commode ([cat. no. 14](/catalogue/14/)) on the left, compared to one from this commode on the right. Differences in layout and scale make it clear that these are not direct copies of the Baumhauer mounts."
     download: true
 
   - id: "fig-21-3"
     src: "figures/fig-21-3.jpg"
     label: "Figure 21-3"
-    caption: "Unknown maker, *Commode*, reign of Louis XV. Unidentified wood, gilt bronze mounts, *brèche d'Alep* marble top, 142 cm wide (56 in. wide). Galerie Georges Petit, Paris, *Objets d'art et très bel ameublement du XVIIIe siècle et autres*, December 6--7, 1928, lot 180."
+    caption: "Unknown maker, Commode, reign of Louis XV. Unidentified wood, gilt bronze mounts, *brèche d'Alep* marble top, 142 cm (56 in.) wide. Galerie Georges Petit, Paris, *Objets d'art et très bel ameublement du XVIIIe siècle et autres*, December 6--7, 1928, lot 180."
     download: true
 
   - id: "fig-21-4"
     src: "figures/fig-21-4.jpg"
     label: "Figure 21-4"
-    caption: "Joseph Baumhauer (French, died 1772), *Commode*, 1755--58 (designed). Carcass of oak veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*; mounts of gilt bronze; slab of *rouge de Villefranche* (possibly Languedoc) marble, 86 x 127 x 62.3 cm (33.85 x 50 x 24.5 in.). London, Victoria and Albert Museum, 1013-1882."
+    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58 (designed). Carcass of oak veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*; mounts of gilt bronze; slab of *rouge de Villefranche* (possibly Languedoc) marble, 86 x 127 x 62.3 cm (33.85 x 50 x 24.5 in.). London, Victoria and Albert Museum, 1013-1882."
     download: true
 
   - id: "fig-21-5"
@@ -2175,11 +2175,11 @@ figure_list:
   - id: "fig-21-9"
     src: "figures/fig-21-9.jpg"
     label: "Figure 21-9"
-    caption: "Comparison of the original eighteenth-century mounts of the Latz commode ([cat. no. 16](/catalogue/16/)) and the copies on this commode. The chasing of the Latz mounts is more varied; the chasing of the later copies is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
+    caption: "Comparison of the original eighteenth-century mounts of the Joseph Baumhauer commode ([cat. no. 14](/catalogue/14/)) and the copies on this commode. The chasing of the Baumhauer mounts (left) is more varied; the chasing of the later copies (right) is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
     download: true
 
   - id: "fig-21-10"
     src: "figures/fig-21-10.jpg"
     label: "Figure 21-10"
-    caption: "Comparison of the original eighteenth-century mounts of the Latz commode ([cat. no. 16](/catalogue/16/)) and the copies on this commode. The chasing of the Latz mounts is more varied; the chasing of the later copies is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
+    caption: "Comparison of the original eighteenth-century mounts of the Joseph Baumhauer commode ([cat. no. 14](/catalogue/14/)) and the copies on this commode. The chasing of the Baumhauer mounts (left) is more varied; the chasing of the later copies (right) is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
     download: true
