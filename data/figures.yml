@@ -2073,7 +2073,7 @@ figure_list:
   - id: "fig-20-6"
     src: "figures/fig-20-6.jpg"
     label: "Figure 20-6"
-    caption: "Detail showing the in-line double dovetail and the open-faced dovetail on the proper right front corner post."
+    caption: "Detail showing the in-line double dovetail and the open-faced dovetail on the left front corner post."
     download: true
 
   - id: "fig-20-7"
@@ -2085,7 +2085,7 @@ figure_list:
   - id: "fig-20-8"
     src: "figures/fig-20-8.jpg"
     label: "Figure 20-8"
-    caption: "Three-quarter right front without drawers removed."
+    caption: "The case with drawers removed."
     download: true
 
   - id: "fig-20-9"
@@ -2115,7 +2115,7 @@ figure_list:
   - id: "fig-20-13"
     src: "figures/fig-20-13.jpg"
     label: "Figure 20-13"
-    caption: "Flat-sawn kingwood lacks the ray “streaks” and generally exhibits dark stripes in the grain that are more widely spaced than in the quarter-sawn variety."
+    caption: "Flat-sawn kingwood lacks the ray “streaks” and generally exhibits dark stripes in the grain that are more widely spaced than in the quartersawn variety."
     download: true
 
   - id: "cat-21"
