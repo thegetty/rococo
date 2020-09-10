@@ -1209,13 +1209,13 @@ figure_list:
   - id: "fig-12-8"
     src: "figures/fig-12-8.jpg"
     label: "Figure 12-8"
-    caption: "X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door."
+    caption: "Composite X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door (indicated with arrows)."
     download: true
 
   - id: "fig-12-9"
     src: "figures/fig-12-9.jpg"
     label: "Figure 12-9"
-    caption: "X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door."
+    caption: "Composite X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door (indicated with arrows)."
     download: true
 
   - id: "fig-12-10"
@@ -1251,19 +1251,19 @@ figure_list:
   - id: "fig-12-15"
     src: "figures/fig-12-15.jpg"
     label: "Figure 12-15"
-    caption: "Sample of the European red lacquer from the interior of the cabinet viewed as a cross section in ultraviolet illumination. The photomicrographs feature the original series of two varnish layers, one pigmented and one transparent, followed by later restoration coatings."
+    caption: "Sample of the European red lacquer from the interior of the cabinet viewed as a cross section in ultraviolet illumination. The photomicrograph features the original series of two varnish layers, one pigmented and one transparent, followed by later restoration coatings."
     download: true
 
   - id: "fig-12-16"
     src: "figures/fig-12-16.jpg"
     label: "Figure 12-16"
-    caption: "Details of a mount from the .2 cabinet showing the brazing method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be brazed without shifting. The remnants of the wire, surrounded by brazing metal, are still visible."
+    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be soldered without shifting. The remnants of the wire, surrounded by soldering, are still visible."
     download: true
 
   - id: "fig-12-17"
     src: "figures/fig-12-17.jpg"
     label: "Figure 12-17"
-    caption: "Details of a mount from the .2 cabinet showing the brazing method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be brazed without shifting. The remnants of the wire, surrounded by brazing metal, are still visible."
+    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be soldered without shifting. The remnants of the wire, surrounded by soldering, are still visible."
     download: true
 
   - id: "cat-13"
@@ -1317,19 +1317,19 @@ figure_list:
   - id: "fig-13-8"
     src: "figures/fig-13-8.jpg"
     label: "Figure 13-8"
-    caption: "X-ray detail showing the tenons on the case back that have been usually cut with angled shoulders."
+    caption: "X-ray detail showing the tenons on the case front that have been cut with unusual angled shoulders."
     download: true
 
   - id: "fig-13-9"
     src: "figures/fig-13-9.jpg"
     label: "Figure 13-9"
-    caption: "View of the *secrétaire*'s back showing the tongue-and-groove joint assembly method for the horizontal boards."
+    caption: "View of the *secrétaire*'s back with arrows indicating the tongue-and-groove joint assembly method for the horizontal boards, exposed by the chamfering of the panels."
     download: true
 
   - id: "fig-13-10"
     src: "figures/fig-13-10.jpg"
     label: "Figure 13-10"
-    caption: "Joinery drawing. Request for professional drawing. Caption to come after drawing complete."
+    caption: "The case top boards rest in dadoes in the top rails at front and rear."
     download: true
 
   - id: "fig-13-11"
@@ -1341,7 +1341,7 @@ figure_list:
   - id: "fig-13-12"
     src: "figures/fig-13-12.jpg"
     label: "Figure 13-12"
-    caption: "Composite X-ray of the *secrétaire*'s top showing the joints between the original Asian wood panels on which the lacquer was first applied."
+    caption: "Composite X-ray of the *secrétaire*'s full front showing the vertical joints between the original Asian wood panels on which the lacquer was first applied."
     download: true
 
   - id: "fig-13-13"
@@ -1353,7 +1353,7 @@ figure_list:
   - id: "fig-13-14"
     src: "figures/fig-13-14.jpg"
     label: "Figure 13-14"
-    caption: "Detail of the corresponding sample site for fig. 13-13."
+    caption: "Detail of the sample site for fig. 13-13, covered by a gilt bronze mount."
     download: true
 
   - id: "fig-13-15"
@@ -1377,19 +1377,19 @@ figure_list:
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
     label: "Figure 14-1"
-    caption: "Left profile."
+    caption: "Right side."
     download: true
 
   - id: "fig-14-2"
     src: "figures/fig-14-2.jpg"
     label: "Figure 14-2"
-    caption: "On the underside of the *commode*, a trade label for the *marchand-mercier* François-Charles Darnault."
+    caption: "On the underside of the commode, a trade label for the *marchand-mercier* François Charles Darnault."
     download: true
 
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
     label: "Figure 14-3"
-    caption: "Joseph Baumhauer (French, died 1772), *Commode*, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 x 139 x 58.5 cm (33 x 55 x 23 in.). London, Victoria and Albert Museum, 1013-1882."
+    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 x 139 x 58.5 cm (33 x 55 x 23 in.). London, Victoria and Albert Museum, 1013-1882."
     download: true
 
   - id: "fig-14-4"
@@ -1407,37 +1407,37 @@ figure_list:
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
     label: "Figure 14-6"
-    caption: "Detail of 55.DA.2; the four corner posts are attached to the perimeter rails using a single, open-faced dovetail method."
+    caption: "Top; the four corner posts are attached to the perimeter rails using a single, open-faced dovetail method."
     download: true
 
   - id: "fig-14-7"
     src: "figures/fig-14-7.jpg"
     label: "Figure 14-7"
-    caption: "Reverse detail of the lower edge showing how it was created by building up the reverse with oak blocks that were then carved and sanded to achieve the desired profile."
+    caption: "Bottom."
     download: true
 
   - id: "fig-14-8"
     src: "figures/fig-14-8.jpg"
     label: "Figure 14-8"
-    caption: "Open drawers: Detail showing how curved blocks of wood were glued over the drawer fronts, serving to both hide their method of assembly and serve as decorative extensions."
+    caption: "Lower drawer."
     download: true
 
   - id: "fig-14-9"
     src: "figures/fig-14-9.jpg"
     label: "Figure 14-9"
-    caption: "View of the cabinet, with most of its mounts removed, detailing the locations of two seventeenth-century Japanese lacquer panels."
+    caption: "View of the cabinet with most of its mounts removed, detailing the locations of two seventeenth-century Japanese lacquer panels."
     download: true
 
   - id: "fig-14-10"
     src: "figures/fig-14-10.jpg"
     label: "Figure 14-10"
-    caption: "Unknown Japanese lacquer cabinet, 1670--1700. [**Waiting for Dims from Dr. Rachel Conroy**]. Leeds, Temple Newsom House."
+    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. [**Waiting for Dims from Dr. Rachel Conroy**]. Leeds, Temple Newsam House."
     download: true
 
   - id: "fig-14-11"
     src: "figures/fig-14-11.jpg"
     label: "Figure 14-11"
-    caption: "Morel and Seddon, *Fall-front secrétaire, ca.* 1829--30. 177.5 x 110 x 56 cm (70 x 43.3 x 22 in.). Temple Newsom House."
+    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 x 110 x 56 cm (70 x 43.3 x 22 in.). Leeds, Temple Newsam House."
     download: true
 
   - id: "fig-14-12"
@@ -1455,7 +1455,7 @@ figure_list:
   - id: "fig-14-14-1"
     src: "figures/fig-14-14-1.jpg"
     label: "Figure 14-14"
-    caption: "**[TWO LAYER IMAGE WITH SLIDER]** X-radiograph of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
+    caption: "X-radiograph detail of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
     download: true
 
   - id: "fig-14-14-2"
@@ -1599,13 +1599,13 @@ figure_list:
   - id: "fig-16-2"
     src: "figures/fig-16-2.jpg"
     label: "Figure 16-2"
-    caption: "“RESTAURE par P. SPOHN.” stamp on top of the right rear post, beneath the marble."
+    caption: "“RESTAURE par P. SPOHN” stamp on top of the right rear post, beneath the marble."
     download: true
 
   - id: "fig-16-3"
     src: "figures/fig-16-3.jpg"
     label: "Figure 16-3"
-    caption: "Jean Pierre Latz (French, 1691--1754), *Commode*, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 x 153 x 66.5 cm (34.5 x 60 x 26 in.). Rome, Palazzo del Quirinale."
+    caption: "Jean-Pierre Latz (French, 1691--1754), Commode, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 x 153 x 66.5 cm (34.5 x 60 x 26 in.). Rome, Palazzo del Quirinale."
     download: true
 
   - id: "fig-16-4"
@@ -1629,7 +1629,7 @@ figure_list:
   - id: "fig-16-7"
     src: "figures/fig-16-7.jpg"
     label: "Figure 16-7"
-    caption: "Composite of the red chalk drawing found on the underside of an interior panel showing a male figure with a long *queue*, fencing."
+    caption: "Composite of the red chalk drawing found on the underside of an interior panel showing a male figure with a long queue, fencing."
     download: true
 
   - id: "fig-16-8"
@@ -1641,7 +1641,7 @@ figure_list:
   - id: "fig-16-9"
     src: "figures/fig-16-9.jpg"
     label: "Figure 16-9"
-    caption: "Interior of a commode in the collection of the Palazzo del Quirinale. This version appears outwardly identical to the Museum's, but its joinery method is plank construction."
+    caption: "Interior of the Latz commode in Rome, Palazzo del Quirinale (see [fig. 16-3](#fig-16-3)). This version appears outwardly identical to the Museum's, but its joinery method is largely plank construction."
     download: true
 
   - id: "fig-16-10"
@@ -1653,7 +1653,7 @@ figure_list:
   - id: "fig-16-11"
     src: "figures/fig-16-11.jpg"
     label: "Figure 16-11"
-    caption: "Top of the marble."
+    caption: "The marble top."
     download: true
 
   - id: "fig-16-12"
@@ -1671,7 +1671,7 @@ figure_list:
   - id: "fig-16-14"
     src: "figures/fig-16-14.jpg"
     label: "Figure 16-14"
-    caption: "Line drawing detailing the repair at the join between the right case side panel and the right rear post. Five 9 mm holes were drilled through the back of the post and into the case side panel; 15-cm-long oak pegs were then driven into these holes with glue to secure the joint."
+    caption: "Line drawing detailing the repair at the join between the right case side panel and the right rear post. Five 9-mm holes were drilled through the back of the post and into the case side panel; 15-cm-long oak pegs were then driven into these holes with glue to secure the joint."
     download: true
 
   - id: "fig-16-15"
@@ -1689,7 +1689,7 @@ figure_list:
   - id: "fig-17-1"
     src: "figures/fig-17-1.jpg"
     label: "Figure 17-1"
-    caption: "Jean Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 x 82.5 x 59 cm (37 x 32.5 x 23 in.). Rome, Palazzo del Quirinale."
+    caption: "Jean-Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 x 82.5 x 59 cm (37 x 32.5 x 23 in.). Rome, Palazzo del Quirinale."
     download: true
 
   - id: "fig-17-2"
@@ -1707,7 +1707,7 @@ figure_list:
   - id: "fig-17-4"
     src: "figures/fig-17-4.jpg"
     label: "Figure 17-4"
-    caption: "Schematic diagram showing the original and restored reverse structures for the .39 cabinets."
+    caption: "Schematic diagram showing the original and restored reverse structures for the 72.DA.39 cabinets."
     download: true
 
   - id: "fig-17-5"
@@ -1725,13 +1725,13 @@ figure_list:
   - id: "fig-17-7"
     src: "figures/fig-17-7.jpg"
     label: "Figure 17-7"
-    caption: "The top on cabinet 72.DA.69.2 is marked at its right corner with a recently discovered stamp of J. H. Riesener. This photographic composite shows, from the top, the stamp in normal light, with RTI “specular enhancement” (greyscale), and with RTI “normals visualization.” The lowest image is a close-up detail of the stamp modified with yellow outlines to indicate areas that can be discerned in the images and with orange outlines to indicate the areas where letters are not visible but assumed to have once been based on complete surviving Riesener stamps."
+    caption: "The top on cabinet 72.DA.69.2 is marked at its right corner with a recently discovered stamp of J. H. Riesener. This photographic composite shows, from the top, the stamp in normal light, with RTI “specular enhancement” (grayscale), and with RTI “normals visualization.” The lowest image is a close-up detail of the stamp modified with yellow outlines to indicate areas that can be discerned in the images and with orange outlines to indicate the areas where letters are not visible but assumed to have once been based on complete surviving Riesener stamps."
     download: true
 
   - id: "fig-17-8"
     src: "figures/fig-17-8.jpg"
     label: "Figure 17-8"
-    caption: "Near-infrared reflectance image of the inscription, presumably in pencil, on the .69.2 cabinet: “Réparée le 13 Juillet 1843 / par [indecipherable] de Fère Champenoise / rue de Vitry No 29.”"
+    caption: "Near-infrared reflectance image of the inscription, presumably in pencil, on the 72.DA.69.2 cabinet: “Réparée le 13 Juillet 1843 / par [indecipherable] de Fère Champenoise / rue de Vitry No 29.”"
     download: true
 
   - id: "fig-17-9"
@@ -1743,31 +1743,31 @@ figure_list:
   - id: "fig-17-10"
     src: "figures/fig-17-10.jpg"
     label: "Figure 17-10"
-    caption: "Original dolphin key for cabinets .39.1--.2."
+    caption: "Original dolphin keys for cabinets 72.DA.39.1--.2."
     download: true
 
   - id: "fig-17-11"
     src: "figures/fig-17-11.jpg"
     label: "Figure 17-11"
-    caption: "The fronts (first image) and backs (second image) of mounts from both cabinets. In both images, the original mount is on the top, and the copies, sequentially, are beneath it."
+    caption: "The fronts of the corner mounts from both cabinets. The original mount is on the top and the copies are beneath."
     download: true
 
   - id: "fig-17-12"
     src: "figures/fig-17-12.jpg"
     label: "Figure 17-12"
-    caption: "The fronts (first image) and backs (second image) of mounts from both cabinets. In both images, the original mount is on the top, and the copies, sequentially, are beneath it."
+    caption: "The backs of the corner mounts in [fig. 17-11](#fig-17-11)."
     download: true
 
   - id: "fig-17-13"
     src: "figures/fig-17-13.jpg"
     label: "Figure 17-13"
-    caption: "Framing mount from a .39 cabinet (left side of each image) compared to a corresponding mount from a .69 cabinet (right side of each image). The solder line is visible on the .39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during brazing) is visible in the brazing metal on the reverse."
+    caption: "Framing mount from a 72.DA.39 cabinet (left side of each image) compared to a corresponding mount from a 72.DA.69 cabinet (right side of each image). The solder line is visible on the 72.DA.39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during soldering) is visible in the brazing metal on the reverse."
     download: true
 
   - id: "fig-17-14"
     src: "figures/fig-17-14.jpg"
     label: "Figure 17-14"
-    caption: "XRF macro-scanning images (left) of sections of a door from cabinet 72.DA.69.2. These illustrate how leaves with high iron content (appearing red in the scans) appear mixed in the composition with leaves that contain both iron and zinc in high concentration (shown as fuschia)."
+    caption: "XRF macroscanning images (left) of sections of a door from cabinet 72.DA.69.2. These illustrate how leaves with high iron content (appearing red in the scans) appear mixed in the composition with leaves that contain both iron and zinc in high concentration (shown as fuchsia). The satiné gris background has lower levels of iron and zinc, while the stems and leaves that appear black in the XRF scans have virtually none."
     download: true
 
   - id: "fig-17-15"
@@ -1779,19 +1779,19 @@ figure_list:
   - id: "fig-17-16"
     src: "figures/fig-17-16.jpg"
     label: "Figure 17-16"
-    caption: "X-radiograph of the marquetry on an area of the .69.2 cabinet. The lines around the perimeters of the flowers are generally fainter than those outlining the stems and smaller leaves. This is likely because the stems and leaves were inlaid using a knife, which left a deep groove in the substrate that subsequently filled with dense glue. The flowers, on the other hand, were probably inlaid into the background with a fretsaw, before the veneer was applied to the substrate, resulting in a thinner glue line."
+    caption: "X-radiograph of the marquetry on an area of the 72.DA.69.2 cabinet. The lines around the perimeters of the flowers are generally fainter than those outlining the stems and smaller leaves. This is likely because the stems and leaves were inlaid using a knife, which left a deep groove in the substrate that subsequently was filled with dense glue. The flowers, on the other hand, were probably inlaid into the background with a fretsaw, before the veneer was applied to the substrate, resulting in a thinner glue line."
     download: true
 
   - id: "fig-17-17"
     src: "figures/fig-17-17.jpg"
     label: "Figure 17-17"
-    caption: "The black lines drawn in ink on the surface of leaves are almost certainly the result of a previous restoration that was meant to replicate original etched (and black pigment--filled) embellishments."
+    caption: "The black lines drawn in ink on the surface of leaves are almost certainly the result of a previous restoration that was meant to replicate original engraved (and black pigment--filled) embellishments."
     download: true
 
   - id: "fig-17-18"
     src: "figures/fig-17-18.jpg"
     label: "Figure 17-18"
-    caption: "The flower on the left, found on the left door of 72.DA.39.1, is aesthetically different from surrounding examples and is most likely a replacement."
+    caption: "The flower on the upper left, found on the left door of 72.DA.39.1, is different from surrounding examples and is most likely a replacement."
     download: true
 
   - id: "cat-18"
