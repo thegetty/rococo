@@ -447,13 +447,13 @@ figure_list:
   - id: "fig-5-2"
     src: "figures/fig-5-2.jpg"
     label: "Figure 5-2"
-    caption: "The top of the front right leg is stamped “B.V.R.B.”"
+    caption: "The top of the front right leg, stamped “B.V.R.B.”"
     download: true
 
   - id: "fig-5-3"
     src: "figures/fig-5-3.jpg"
     label: "Figure 5-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 x 127 x 61 cm (33.5 x 50 x 24 in.). Paris, Musée du Louvre, OA 11193."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 x 127 x 61 cm (33.5 x 50 x 24 in.). Paris, musée du Louvre, OA 11193."
     download: true
 
   - id: "fig-5-4"
@@ -501,7 +501,7 @@ figure_list:
   - id: "fig-5-11"
     src: "figures/fig-5-11.jpg"
     label: "Figure 5-11"
-    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 x 69 x 49 cm (35.8 x 27.2 x 19.3 in.). Vienna, Präsidentschaftskanzleiin, MD 035837. Photo: Silvia Miklin-Kniefacz."
+    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 x 69 x 49 cm (35.8 x 27.2 x 19.3 in.). Vienna, Präsidentschaftskanzlein, MD 035837. Photo: Silvia Miklin-Kniefacz."
     download: true
 
   - id: "fig-5-12"
@@ -537,7 +537,7 @@ figure_list:
   - id: "fig-5-17"
     src: "figures/fig-5-17.jpg"
     label: "Figure 5-17"
-    caption: "Profile rending of the commode's marble top."
+    caption: "Profile of the commode's marble top."
     download: true
 
   - id: "cat-6"
