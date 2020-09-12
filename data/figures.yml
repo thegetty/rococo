@@ -1167,7 +1167,7 @@ figure_list:
   - id: "fig-12-1"
     src: "figures/fig-12-1.jpg"
     label: "Figure 12-1"
-    caption: "Three-quarter right front view, with doors open."
+    caption: "Three-quarter right front view, with door open."
     download: true
 
   - id: "fig-12-2"
