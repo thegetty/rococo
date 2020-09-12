@@ -1275,13 +1275,13 @@ figure_list:
   - id: "fig-13-1"
     src: "figures/fig-13-1.jpg"
     label: "Figure 13-1"
-    caption: "Right side."
+    caption: "Right profile."
     download: true
 
   - id: "fig-13-2"
     src: "figures/fig-13-2.jpg"
     label: "Figure 13-2"
-    caption: "Left side."
+    caption: "Left profile."
     download: true
 
   - id: "fig-13-3"
