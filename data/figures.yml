@@ -669,7 +669,7 @@ figure_list:
   - id: "fig-7-4"
     src: "figures/fig-7-4.jpg"
     label: "Figure 7-4"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1750. Now destroyed. Residenzschloss, Dresden. Pictured in Adolf Feulner, *Kunstgeschichte des Möbels* (Berlin: Propyläen-Verlag, 1927), 325, fig. 227."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cupboard (*encoignure*) (one of a pair), ca. 1750. Now destroyed. Residenzschloss, Dresden. Pictured in Adolf Feulner, *Kunstgeschichte des Möbels* (Berlin: Propyläen-Verlag, 1927), 325, fig. 227."
     download: true
 
   - id: "fig-7-5"
@@ -1065,7 +1065,7 @@ figure_list:
   - id: "fig-11-1"
     src: "figures/fig-11-1.jpg"
     label: "Figure 11-1"
-    caption: "Stamp “I.DUBOIS” on the back."
+    caption: "Stamp “IDUBOIS” on the back."
     download: true
 
   - id: "fig-11-2"
@@ -1167,13 +1167,13 @@ figure_list:
   - id: "fig-12-1"
     src: "figures/fig-12-1.jpg"
     label: "Figure 12-1"
-    caption: "Three-quarter right front view, with doors open."
+    caption: "Three-quarter right front view, with door open."
     download: true
 
   - id: "fig-12-2"
     src: "figures/fig-12-2.jpg"
     label: "Figure 12-2"
-    caption: "On top of the front right leg stile is stamped “I.DUBOIS JME JME” (78.DA.119.2)."
+    caption: "On top of the front right leg stile is stamped “IDUBOIS JME JME” (78.DA.119.2)."
     download: true
 
   - id: "fig-12-3"
@@ -1275,13 +1275,13 @@ figure_list:
   - id: "fig-13-1"
     src: "figures/fig-13-1.jpg"
     label: "Figure 13-1"
-    caption: "Right side."
+    caption: "Right profile."
     download: true
 
   - id: "fig-13-2"
     src: "figures/fig-13-2.jpg"
     label: "Figure 13-2"
-    caption: "Left side."
+    caption: "Left profile."
     download: true
 
   - id: "fig-13-3"
@@ -1299,7 +1299,7 @@ figure_list:
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
     label: "Figure 13-5"
-    caption: "On the top rear right stile is stamped “I.DUBOIS” and “JME.”"
+    caption: "On the top rear right stile is stamped “IDUBOIS” and “JME.”"
     download: true
 
   - id: "fig-13-6"
@@ -1431,13 +1431,13 @@ figure_list:
   - id: "fig-14-10"
     src: "figures/fig-14-10.jpg"
     label: "Figure 14-10"
-    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. [**Waiting for Dims from Dr. Rachel Conroy**]. Leeds, Temple Newsam House."
+    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 x 99 x 61.8 cm (30.9 x 38.9 x 24.3 in.). Leeds, Temple Newsam."
     download: true
 
   - id: "fig-14-11"
     src: "figures/fig-14-11.jpg"
     label: "Figure 14-11"
-    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 x 110 x 56 cm (70 x 43.3 x 22 in.). Leeds, Temple Newsam House."
+    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 x 110 x 56 cm (70 x 43.3 x 22 in.). Leeds, Temple Newsam."
     download: true
 
   - id: "fig-14-12"
