@@ -45,7 +45,7 @@ figure_list:
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
     label: "Figure 1-4"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-1-5"
@@ -147,7 +147,7 @@ figure_list:
   - id: "fig-2-3"
     src: "figures/fig-2-3.jpg"
     label: "Figure 2-3"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-2-4"
@@ -237,7 +237,7 @@ figure_list:
   - id: "fig-3-2"
     src: "figures/fig-3-2.jpg"
     label: "Figure 3-2"
-    caption: "Right profile."
+    caption: "Left profile."
     download: true
 
   - id: "fig-3-3"
