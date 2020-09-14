@@ -1257,13 +1257,13 @@ figure_list:
   - id: "fig-12-16"
     src: "figures/fig-12-16.jpg"
     label: "Figure 12-16"
-    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be soldered without shifting. The remnants of the wire, surrounded by soldering, are still visible."
+    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet."
     download: true
 
   - id: "fig-12-17"
     src: "figures/fig-12-17.jpg"
     label: "Figure 12-17"
-    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be soldered without shifting. The remnants of the wire, surrounded by soldering, are still visible."
+    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet."
     download: true
 
   - id: "cat-13"
