@@ -17,26 +17,11 @@ J.D.
 C.E.
 : Clara von Englehardt
 
-J.G.
-: Joe Godla
-
-C.G.
-: Cecily Grzywacz
-
 P.H.
 : Philippe Halbert
 
-G.H.
-: Gordon Hanlon
-
 A.H.
 : Arlen Heginbotham
-
-G.H.
-: Gary Hughes
-
-H.P.
-: Heinrich Piening
 
 K.P.
 : Katrina Posner
@@ -46,9 +31,6 @@ M.S.
 
 R.S.
 : Ron Schmidtling
-
-M.S.
-: Michael Smith
 
 G.W.
 : Gillian Wilson
