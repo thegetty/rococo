@@ -20,7 +20,7 @@ In the list of materials at the beginning of each entry, woods that are marked w
 | cedar | _Cedrus_ spp. | _cèdre_ |
 | cherry | _Prunus_ spp. | _merisier_ or _cerisier_ |
 | ebony | _Diospyros_ spp. | _ébène_ |
-| _ferréol_ (Wamara)† | _Swartzia_ sp. | _ferréol_ |
+| _ferréol_ (wamara)† | _Swartzia_ sp. | _ferréol_ |
 | fir | _Abies_ spp. | _sapin_ |
 | fruitwood | family _Rosaceae_ | _tribu du pommier_ |
 | holly | _Ilex aquifolium_ | _houx_ |

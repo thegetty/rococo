@@ -45,7 +45,7 @@ figure_list:
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
     label: "Figure 1-4"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-1-5"
@@ -147,7 +147,7 @@ figure_list:
   - id: "fig-2-3"
     src: "figures/fig-2-3.jpg"
     label: "Figure 2-3"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-2-4"
@@ -237,7 +237,7 @@ figure_list:
   - id: "fig-3-2"
     src: "figures/fig-3-2.jpg"
     label: "Figure 3-2"
-    caption: "Right profile."
+    caption: "Left profile."
     download: true
 
   - id: "fig-3-3"
@@ -1257,13 +1257,13 @@ figure_list:
   - id: "fig-12-16"
     src: "figures/fig-12-16.jpg"
     label: "Figure 12-16"
-    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be soldered without shifting. The remnants of the wire, surrounded by soldering, are still visible."
+    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet."
     download: true
 
   - id: "fig-12-17"
     src: "figures/fig-12-17.jpg"
     label: "Figure 12-17"
-    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet. The bronzier drilled two small holes on either side of the last joints to be welded, looped copper wire through the holes, and then twisted the wire to pull the joints tightly together, thereby fixing the position of the sections securely so that they could be soldered without shifting. The remnants of the wire, surrounded by soldering, are still visible."
+    caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet."
     download: true
 
   - id: "cat-13"
@@ -1299,7 +1299,7 @@ figure_list:
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
     label: "Figure 13-5"
-    caption: "On the top rear right stile is stamped “IDUBOIS” and “JME.”"
+    caption: "On the top rear right post is stamped “IDUBOIS” and “JME.”"
     download: true
 
   - id: "fig-13-6"
@@ -1947,7 +1947,7 @@ figure_list:
   - id: "fig-19-5"
     src: "figures/fig-19-5--fpo.jpg"
     label: "Figure 19-5"
-    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore maple, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 x 80 x 43 cm (28 x 31.5 x 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
     download: true
 
   - id: "fig-19-6"
