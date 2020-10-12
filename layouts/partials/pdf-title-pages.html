@@ -15,12 +15,12 @@
 <div class="title-page">
   {{ if .site.Data.publication.title }}
   <span class="title-tp">
-    {{ .site.Data.publication.title }}
+    {{ .site.Data.publication.title | safeHTML }}
   </span><br />
   {{ end }}
   {{ if .site.Data.publication.subtitle }}
   <span class="sub-title">
-    {{ .site.Data.publication.subtitle }}
+    {{ .site.Data.publication.subtitle | safeHTML }}
   </span><br />
   {{ end }}
   <span class="contributor">
