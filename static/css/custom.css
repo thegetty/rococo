@@ -1,6 +1,6 @@
 /* COVER
 ============================================================================= */
-/* 
+/*
 Spectral
 https://github.com/productiontype/Spectral
 Open Font License 1.1 (https://scripts.sil.org/OFL)
@@ -15,7 +15,7 @@ Spectral Light
   font-weight: 300;
   font-style: normal;
 }
-/* Spectral Semi-Bold 
+/* Spectral Semi-Bold
 */
 @font-face {
   font-family: "Spectral";
@@ -56,7 +56,7 @@ Spectral Light
   margin-bottom: 3rem;
 }
 .quire-cover .quire-page__content .container.is-fluid .content .cover-authors p {
-  font-family: 'Noto Sans', sans-serif; 
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 700;
   text-align: center;
 }
@@ -140,6 +140,13 @@ Spectral Light
   float: left;
   width: 5rem;
   font-weight: 400;
+}
+.quire-contributors-list.initials {
+  page-break-before: avoid;
+}
+/* To add a "with" after all of Arlen's contributions on entry pages */
+.quire-contributor__name#initials-ah::after {
+  content: "with ";
 }
 
 
@@ -230,18 +237,18 @@ Spectral Light
 /* PRINT
 ============================================================================= */
 @media print {
-  
+
   /* Remove page numbering from splash page */
   @page splash {
     @bottom-right {
       content: none;
     }
-  
+
     @bottom-left {
       content: none;
     }
   }
-  
+
   /* Hide catalogue grid in print and make adjustments to contents pages  */
   #catalogue-catalogue-index .quire-contents-list.grid {
     display: none;
@@ -258,15 +265,15 @@ Spectral Light
   }
   .quire-contents-list .section-item a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page);
-    margin-left: 6pt; 
+    margin-left: 6pt;
     margin-right: -10%;
     /* This border is a hack for PrinceXML which doesn't
     otherwise recognize the box sizing for some reason */
     border: 1pt solid transparent;
   }
-  
+
   /* Ensure plates always start on left page */
-  .quire-entry__image .quire-entry__image__group-container figure {      
+  .quire-entry__image .quire-entry__image__group-container figure {
     page-break-before: left;
   }
 
@@ -284,7 +291,7 @@ Spectral Light
   dd {
     page-break-inside: avoid;
   }
-  
+
 }
 
 /* Adjust URL breaks in PDF */
@@ -309,7 +316,7 @@ Spectral Light
   }
 }
 
-/* Following the same pattern as above, this improves breaking after 
+/* Following the same pattern as above, this improves breaking after
 em dashes */
 @media print {
   body * {
