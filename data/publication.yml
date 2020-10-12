@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 
 # Adds HTML to the title for styling it on the cover
-getty_catalogue_title: "French Rococo <span class=\"title-large\">Ébénisterie</span> in the J.&nbsp;Paul Getty Museum"
+getty_catalogue_title: "French Rococo <span class=\"title-large\">Ébénisterie</span> in the J. Paul Getty Museum"
 
 # The title page authors are different than the cover authors
 titlepage_contributor_as_it_appears: |
@@ -22,7 +22,7 @@ titlepage_contributor_as_it_appears: |
   with Jessica Chasen, Yannick Chastang, Jan Dorscheid, Clara von Englehardt, Philippe Halbert, Katrina Posner, Michael Schilling, and Ron Schmidtling
 
 
-title: French Rococo Ébénisterie in the J.&nbsp;Paul Getty Museum
+title: French Rococo Ébénisterie in the J. Paul Getty Museum
 subtitle:
 reading_line:
 short_title: French Rococo Ébénisterie
