@@ -21,7 +21,7 @@ figure_list:
   - id: "cat-1"
     src: "figures/cat-1.jpg"
     label: "Catalogue 1"
-    caption: "Main view: front view of whole thing"
+    alt: "Main view: front view of whole thing"
     download: true
 
   - id: "fig-1-1"
@@ -129,7 +129,7 @@ figure_list:
   - id: "cat-2"
     src: "figures/cat-2.jpg"
     label: "Catalogue 2"
-    caption: "Main view: 3/4 right front of .1, front of .2"
+    alt: "Main view: 3/4 right front of .1, front of .2"
     download: true
 
   - id: "fig-2-1"
@@ -225,7 +225,7 @@ figure_list:
   - id: "cat-3"
     src: "figures/cat-3.jpg"
     label: "Catalogue 3"
-    caption: "Main view: 3/4 right front, with side door open"
+    alt: "Main view: 3/4 right front, with side door open"
     download: true
 
   - id: "fig-3-1"
@@ -333,7 +333,7 @@ figure_list:
   - id: "cat-4"
     src: "figures/cat-4.jpg"
     label: "Catalogue 4"
-    caption: "Main view: front of both cupboards"
+    alt: "Main view: front of both cupboards"
     download: true
 
   - id: "fig-4-1"
@@ -435,7 +435,7 @@ figure_list:
   - id: "cat-5"
     src: "figures/cat-5.jpg"
     label: "Catalogue 5"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-5-1"
@@ -543,7 +543,7 @@ figure_list:
   - id: "cat-6"
     src: "figures/cat-6.jpg"
     label: "Catalogue 6"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-6-1"
@@ -645,7 +645,7 @@ figure_list:
   - id: "cat-7"
     src: "figures/cat-7.jpg"
     label: "Catalogue 7"
-    caption: "Main view: 3/4 right front of each"
+    alt: "Main view: 3/4 right front of each"
     download: true
 
   - id: "fig-7-1"
@@ -753,7 +753,7 @@ figure_list:
   - id: "cat-8"
     src: "figures/cat-8.jpg"
     label: "Catalogue 8"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-8-1"
@@ -855,7 +855,7 @@ figure_list:
   - id: "cat-9"
     src: "figures/cat-9.jpg"
     label: "Catalogue 9"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-9-1"
@@ -957,7 +957,7 @@ figure_list:
   - id: "cat-10"
     src: "figures/cat-10.jpg"
     label: "Catalogue 10"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-10-1"
@@ -1059,7 +1059,7 @@ figure_list:
   - id: "cat-11"
     src: "figures/cat-11.jpg"
     label: "Catalogue 11"
-    caption: "Main view: front"
+    alt: "Main view: front"
     download: true
 
   - id: "fig-11-1"
@@ -1161,7 +1161,7 @@ figure_list:
   - id: "cat-12"
     src: "figures/cat-12.jpg"
     label: "Catalogue 12"
-    caption: "Main view: 3/4 right front view of each"
+    alt: "Main view: 3/4 right front view of each"
     download: true
 
   - id: "fig-12-1"
@@ -1269,7 +1269,7 @@ figure_list:
   - id: "cat-13"
     src: "figures/cat-13.jpg"
     label: "Catalogue 13"
-    caption: "Main view: 3/4 right front."
+    alt: "Main view: 3/4 right front."
     download: true
 
   - id: "fig-13-1"
@@ -1371,7 +1371,7 @@ figure_list:
   - id: "cat-14"
     src: "figures/cat-14.jpg"
     label: "Catalogue 14"
-    caption: "Main view: 3/4 right front."
+    alt: "Main view: 3/4 right front."
     download: true
 
   - id: "fig-14-1"
@@ -1485,7 +1485,7 @@ figure_list:
   - id: "cat-15"
     src: "figures/cat-15.jpg"
     label: "Catalogue 15"
-    caption: "Main view: 3/4 right front."
+    alt: "Main view: 3/4 right front."
     download: true
 
   - id: "fig-15-1"
@@ -1587,7 +1587,7 @@ figure_list:
   - id: "cat-16"
     src: "figures/cat-16.jpg"
     label: "Catalogue 16"
-    caption: "Main view: 3/4 right front."
+    alt: "Main view: 3/4 right front."
     download: true
 
   - id: "fig-16-1"
@@ -1683,7 +1683,7 @@ figure_list:
   - id: "cat-17"
     src: "figures/cat-17.jpg"
     label: "Catalogue 17"
-    caption: "Main view: front of both"
+    alt: "Main view: front of both"
     download: true
 
   - id: "fig-17-1"
@@ -1797,7 +1797,7 @@ figure_list:
   - id: "cat-18"
     src: "figures/cat-18.jpg"
     label: "Catalogue 18"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-18-1"
@@ -1917,7 +1917,7 @@ figure_list:
   - id: "cat-19"
     src: "figures/cat-19.jpg"
     label: "Catalogue 19"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-19-1"
@@ -2037,7 +2037,7 @@ figure_list:
   - id: "cat-20"
     src: "figures/cat-20.jpg"
     label: "Catalogue 20"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-20-1"
@@ -2121,7 +2121,7 @@ figure_list:
   - id: "cat-21"
     src: "figures/cat-21.jpg"
     label: "Catalogue 21"
-    caption: "Main view: 3/4 right front"
+    alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-21-1"
