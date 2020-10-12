@@ -93,6 +93,12 @@ Spectral Light
   }
 }
 
+/* NAVBAR
+============================================================================= */
+.quire-navbar-page-controls__item.quire-home-page {
+  font-weight: bold;
+}
+
 
 /* OBJECT ENTRIES
 ============================================================================= */
@@ -110,6 +116,18 @@ Spectral Light
   margin-left: 2rem;
   margin-top: 1rem;
   font-size: .875rem;
+}
+/* Make side-by-side viewer 50% of width */
+@media screen and (min-width: 1184px) {
+  .quire-entry div.side-by-side div.quire-entry__image-wrap {
+    width: 50%;
+  }
+  .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image {
+    width: calc(50% - 8px);
+  }
+  .quire-entry div.side-by-side div.quire-entry__content {
+    width: 50%;
+  }
 }
 
 
