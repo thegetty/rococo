@@ -291,7 +291,7 @@ figure_list:
   - id: "fig-3-11"
     src: "figures/fig-3-11.jpg"
     label: "Figure 3-11"
-    caption: "Cross-section photomicrograph in visible light (left) and in ultraviolet illumination (right) illustrating the layer structure of the European lacquer on the *serre-papiers*. The sample shows a mixture of gold- and silver-colored metal powders."
+    caption: "Cross-section photomicrograph in visible light (top) and in ultraviolet illumination (bottom) illustrating the layer structure of the European lacquer on the *serre-papiers*. The sample shows a mixture of gold- and silver-colored metal powders."
     download: true
 
   - id: "fig-3-12"
@@ -747,7 +747,7 @@ figure_list:
   - id: "fig-7-17"
     src: "figures/fig-7-17.jpg"
     label: "Figure 7-17"
-    caption: "Two versions of one of the mounts, at left the model or “original” and at right an aftercast made from that model. There is a marked difference in their surface treatment. Generally, the models are larger and less detailed, and the copies are smaller, with more elaborate surface chasing."
+    caption: "Two versions of one of the mounts, at top the model or “original” and at bottom an aftercast made from that model. There is a marked difference in their surface treatment. Generally, the models are larger and less detailed, and the copies are smaller, with more elaborate surface chasing."
     download: true
 
   - id: "cat-8"

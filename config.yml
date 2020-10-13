@@ -40,7 +40,7 @@ params:
   displayBiblioShort: true
   imageDir: "img"
   tocType: short
-  menuType: short
+  menuType: full
   prevPageButtonText: "Back"
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: false
@@ -51,3 +51,4 @@ params:
   figureModalIcons: true
   figureZoom: true
   citationPopupStyle: text # text | icon
+  pdf: true
