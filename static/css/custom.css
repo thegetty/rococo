@@ -310,6 +310,26 @@ Spectral Light
     page-break-inside: avoid;
   }
 
+  /* Image adjustments for print */
+  .quire-figure.pdf-one-column .quire-figure--group__row.columns {
+    display: block;
+  }
+  .quire-figure.pdf-one-column .quire-figure--group__row.columns .quire-figure--group__item {
+    width: 100% !important;
+  }
+  .quire-figure.pdf-two-column {
+    column-span: all;
+  }
+  .quire-figure.pdf-80-percent-width .q-figure__wrapper img {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-50-percent-width .q-figure__wrapper img {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /* Adjust URL breaks in PDF */
