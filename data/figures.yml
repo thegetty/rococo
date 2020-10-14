@@ -519,24 +519,18 @@ figure_list:
   - id: "fig-5-14"
     src: "figures/fig-5-14.jpg"
     label: "Figure 5-14"
-    caption: "Cross-section photomicrograph of the European lacquer in visible light showing the layer structure of the original ground, original pigmented and transparent varnishes, and later restorations."
+    caption: "Cross-section photomicrograph of the European lacquer in visible light (top) and ultraviolet illumination (bottom) showing the layer structure of the original ground, original pigmented and transparent varnishes, and later restorations."
     download: true
 
   - id: "fig-5-15"
     src: "figures/fig-5-15.jpg"
     label: "Figure 5-15"
-    caption: "Cross-section photomicrograph of the European lacquer in ultraviolet illumination showing the layer structure of the original ground, original pigmented and transparent varnishes, and later restorations."
+    caption: "Detail of marble tabletop with rudist bivalve fossil traces."
     download: true
 
   - id: "fig-5-16"
     src: "figures/fig-5-16.jpg"
     label: "Figure 5-16"
-    caption: "Detail of marble tabletop with rudist bivalve fossil traces."
-    download: true
-
-  - id: "fig-5-17"
-    src: "figures/fig-5-17.jpg"
-    label: "Figure 5-17"
     caption: "Profile of the commode's marble top."
     download: true
 
@@ -633,13 +627,7 @@ figure_list:
   - id: "fig-6-15"
     src: "figures/fig-6-15.jpg"
     label: "Figure 6-15"
-    caption: "Cross-section photomicrograph in visible light showing the buildup of the European varnish layers."
-    download: true
-
-  - id: "fig-6-16"
-    src: "figures/fig-6-16.jpg"
-    label: "Figure 6-16"
-    caption: "Cross-section photomicrograph in ultraviolet illumination showing the buildup of the European varnish layers."
+    caption: "Cross-section photomicrograph in visible light (top) and ultraviolet illumination (bottom) showing the buildup of the European varnish layers."
     download: true
 
   - id: "cat-7"
