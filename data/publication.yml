@@ -97,23 +97,11 @@ contributor:
     last_name: Dorscheid
     initials: JD
     role: conservator
-  - id: jgodla
-    type:
-    first_name: Joe
-    last_name: Godla
-    initials: JG
-    role: conservator
   - id: cvonenglehardt
     type:
     first_name: Clara
     last_name: von Englehardt
     initials: CvE
-    role: conservator
-  - id: ghanlon
-    type:
-    first_name: Gordon
-    last_name: Hanlon
-    initials: GH
     role: conservator
   - id: kposner
     type:
@@ -133,27 +121,6 @@ contributor:
     last_name: Schmidtling
     initials: RS
     role: conservator
-  - id: hpiening
-    first_name: Heinrich
-    last_name: Piening
-    initials: HP
-    role: conservator
-  - id: cgrzywacz
-    first_name: Cecily
-    last_name: Grzywacz
-    initials: CG
-    role: conservator
-  - id: ghughes
-    first_name: Gary
-    last_name: Hughes
-    initials: GH
-    role: conservator
-  - id: msmith
-    first_name: Michael
-    last_name: Smith
-    initials: MS
-    role: conservator
-
 
 # ------------------------------------------------------------------------------
 # Copright & License
