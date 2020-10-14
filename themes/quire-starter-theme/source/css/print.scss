@@ -29,8 +29,8 @@ $print-footer-font-size: 8pt;
 $print-trim: $print-bleed * 2;
 
 
-@media print {    
-  
+@media print {
+
 // Paged Media CSS Setup for PrinceXML
 // -----------------------------------------------------------------------------
   @page {
@@ -73,7 +73,8 @@ $print-trim: $print-bleed * 2;
     margin-right: $print-outer-margin;
 
     @bottom-left {
-      content: string(pagetitle);
+      // content: string(pagetitle);
+      content: flow(pgtitle);
     }
 
     @bottom-right {
@@ -93,21 +94,21 @@ $print-trim: $print-bleed * 2;
       content: counter(page, lower-roman);
     }
   }
-  
+
   @page frontmatter:right {
     @bottom-right {
       text-align: right;
       content: counter(page, lower-roman);
     }
   }
-  
+
   @page frontmatter-splash:left {
     background-color: $print-splash-color;
     @bottom-left {
       content: counter(page, lower-roman);
     }
   }
-  
+
   @page frontmatter-splash:right {
     background-color: $print-splash-color;
     @bottom-right {
@@ -115,15 +116,15 @@ $print-trim: $print-bleed * 2;
       content: counter(page, lower-roman);
     }
   }
-  
+
   @page splash {
     background-color: $print-splash-color;
   }
-  
+
   @page entry-image {
     background-color: $print-entry-image-color;
   }
-  
+
   @page splash-image {
     margin-top: 0;
     margin-bottom: -$print-bleed;
@@ -135,18 +136,18 @@ $print-trim: $print-bleed * 2;
     @bottom-right {
       content: none;
     }
-  
+
     @bottom-left {
       content: none;
     }
   }
-  
+
   @page page-one:first {
     @bottom-left {
       content: none;
     }
   }
-  
+
   @page :blank {
     @bottom-left {
       content: none;
@@ -166,13 +167,20 @@ $print-trim: $print-bleed * 2;
 // Generated content for footers and page #s in TOC
 // -----------------------------------------------------------------------------
   .pdf-page-title {
-    string-set: pagetitle content();
+    // display: none;
+    // string-set: pagetitle content();
+    flow: static(pgtitle);
+    display: inline;
+    font-family: $print-footer-font;
+    font-size: $print-footer-font-size;
+    color: $print-text-color;
   }
 
   .pdf-page-section {
+    display: none;
     string-set: sectiontitle content();
   }
-  
+
   .pdf-page-label {
     string-set: pagelabel content();
   }
@@ -182,7 +190,7 @@ $print-trim: $print-bleed * 2;
       max-width: 90%;
       a::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page);
-        margin-left: 6pt; 
+        margin-left: 6pt;
         margin-right: -10%;
         // This border is a hack for PrinceXML which doesn't
         // otherwise recognize the box sizing for some reason
@@ -191,7 +199,7 @@ $print-trim: $print-bleed * 2;
       a.frontmatter-page::after {
         content: leader(dotted) ' 'target-counter(attr(href, url), page, lower-roman);
         font-style: italic;
-        margin-left: 6pt; 
+        margin-left: 6pt;
         margin-right: -10%;
         // This border is a hack for PrinceXML which doesn't
         // otherwise recognize the box sizing for some reason
@@ -227,12 +235,12 @@ $print-trim: $print-bleed * 2;
   .quire-page--frontmatter {
     page: frontmatter;
   }
-  
+
   #half-title .quire-page--frontmatter,
   #title .quire-page--frontmatter {
     page: no-footer;
   }
-  
+
   .quire-splash {
     page: splash;
     background-color: $print-splash-color;
@@ -240,14 +248,14 @@ $print-trim: $print-bleed * 2;
       page: splash-image;
     }
   }
-  
+
   .quire-splash.quire-page--frontmatter {
     page: frontmatter-splash;
   }
 
   .quire-entry__image {
     .quire-entry__image__group-container {
-      figure {      
+      figure {
         page: entry-image;
         }
       }
@@ -256,7 +264,7 @@ $print-trim: $print-bleed * 2;
   .quire-contents {
     page: no-footer;
   }
-  
+
   .quire-cover {
     page: splash-image;
   }
@@ -264,24 +272,24 @@ $print-trim: $print-bleed * 2;
   #content>div.container>div>figure:nth-child(11)>div:nth-child(1) .quire-figure--group-pdf {
     color: #fff;
   }
-  
+
 // Set columns and widths for main page content
 // -----------------------------------------------------------------------------
   .quire-page__content {
     column-count: 1;
     max-width: $print-base-text-column-width;
     margin: 0 auto;
-    
+
     #title .quire-page &,
     #half-title .quire-page & {
       margin: 0;
       max-width: 100%;
     }
-    
+
     .quire-contents & {
       margin: 0;
       max-width: 100%;
-      
+
       .quire-contents-list {
         &:not(.grid) {
           max-width: $print-base-text-column-width;
@@ -289,7 +297,7 @@ $print-trim: $print-bleed * 2;
         }
       }
     }
-    
+
     @if $print-width > 7 {
       .quire-essay &,
       .quire-entry & {
@@ -298,10 +306,10 @@ $print-trim: $print-bleed * 2;
         column-gap: .1875in;
         max-width: 100%;
         margin: 0;
-      
+
         // with narrower columns, image should be full width
         .quire-figure.is-pulled-left,
-        .quire-figure.is-pulled-right {      
+        .quire-figure.is-pulled-right {
           float: none;
           width: 100%;
           margin-left: 0;
@@ -309,9 +317,9 @@ $print-trim: $print-bleed * 2;
         }
       }
     }
-    
+
   }
-  
+
   // make other elements same width as single-column pages
   .quire-page__abstract {
     column-span: all;
@@ -319,14 +327,14 @@ $print-trim: $print-bleed * 2;
     margin: 0 auto 1.25em;
     max-width: $print-base-text-column-width;
   }
-  
+
   .quire-entry__tombstone {
     column-span: all;
     column-count: 1;
     margin: 0 auto .25in;
     max-width: $print-base-text-column-width;
   }
-  
+
   .quire-page__header.hero-image .hero-body {
     margin: 2.5in .5in 0;
     @if $print-width <= 7 {
@@ -334,18 +342,18 @@ $print-trim: $print-bleed * 2;
       margin: 2.5in auto 0;
     }
   }
-  
+
 // Content list grid view
 // -----------------------------------------------------------------------------
   $menu-grid-gap: .1875in;
   $menu-grid-item-margin: $menu-grid-gap / 2;
-  
+
   $menu-grid-item-width: ($print-width - $print-outer-margin - $print-inner-margin - (3 * $menu-grid-gap)) / 3;
-  
+
   @if $print-width <= 7 {
     $menu-grid-item-width: ($print-width - $print-outer-margin - $print-inner-margin - (2 * $menu-grid-gap)) / 2;
   }
-  
+
   .quire-contents-list.grid .menu-list ul {
     .page-item {
       width: $menu-grid-item-width;
@@ -380,14 +388,14 @@ $print-trim: $print-bleed * 2;
       border-bottom: 1px solid $print-text-color;
       margin-bottom: .25in;
     }
-  }    
-  
+  }
+
 // Entry image pages
 // -----------------------------------------------------------------------------
   $print-entry-image-width: $print-width - $print-inner-margin - $print-outer-margin;
   $print-entry-image-height: $print-height - $print-top-margin - $print-bottom-margin;
   $print-entry-image-max-height: $print-entry-image-height - 1in;
-  
+
   .quire-entry__image & figure {
     display: flex;
     flex-direction: column;
@@ -399,29 +407,29 @@ $print-trim: $print-bleed * 2;
         display: block;
       }
     }
-    break-after: page;    
+    break-after: page;
     .quire-figure__media-fallback {
       .quire-figure__wrapper {
         width: auto;
         height: auto;
-      }      
+      }
       img {
         max-width: $print-entry-image-width;
         max-height: $print-entry-image-max-height;
         margin: 0 auto;
         object-fit: contain;
-        display: block;    
+        display: block;
       }
     }
   }
-  
+
 // Improve page and line breaks
 // -----------------------------------------------------------------------------
   html body * {
     orphans: 2;
     widows: 2;
   }
-  
+
   // Use PrinceXML prince-text-replace to insert zero-width-spaces in URLs
   // that are printed in the text of the book, in order to facilitate better
   // line breaking per Chicago Manual of Style
@@ -443,12 +451,12 @@ $print-trim: $print-bleed * 2;
                           "\200B/\200B/" "//\200B"
                           "\200B:\200B:" "\200B::";
   }
-  
+
   // Same method as above but to improve breaks around em-dashes
   html body * {
     prince-text-replace: "—" "—\200B";
   }
-  
+
   // For contributor bio lists/pages
   .quire-contributor .title {
     page-break-after: avoid;
@@ -457,7 +465,7 @@ $print-trim: $print-bleed * 2;
     page-break-before: avoid;
     page-break-inside: auto;
   }
-  
+
 // Better list defaults and custom bullet alignment
 // -----------------------------------------------------------------------------
   .quire-page__content .container .content ul {
@@ -470,7 +478,7 @@ $print-trim: $print-bleed * 2;
   .quire-page__content .container .content hr:after {
     font-size: 7pt;
   }
-  
+
 // Globally hidden elements
 // -----------------------------------------------------------------------------
   html body {
@@ -485,7 +493,7 @@ $print-trim: $print-bleed * 2;
     .remove-from-epub {
       display: none;
     }
-    
+
     // Leaflet
     .leaflet-pane,
     .leaflet-map-pane,
@@ -502,7 +510,7 @@ $print-trim: $print-bleed * 2;
     height: $print-height;
     width: $print-width;
   }
-  
+
   $title-page-margin: $print-outer-margin + .5;
 
   .title-page {
@@ -556,7 +564,7 @@ $print-trim: $print-bleed * 2;
         right: $print-outer-margin;
       }
     }
-    
+
     br {
       display: none;
     }
@@ -580,10 +588,10 @@ $print-trim: $print-bleed * 2;
     }
 
     span {
-      display: block; 
+      display: block;
     }
 
-    .title-htp {    
+    .title-htp {
       font-weight: 700;
     }
 
