@@ -342,10 +342,19 @@ Spectral Light
     margin-left: auto;
     margin-right: auto;
   }
+  .quire-figure.pdf-page-break-after {
+    page-break-after: always;
+    column-break-after: always;
+  }
 
   /* Tighten up footnotes */
   .quire-page__content .content .footnotes ol li {
     margin-bottom: .5rem;
+  }
+
+  /* Remove padding that can cause unneccesary new pages */
+  .quire-entry .quire-page__content {
+    padding-bottom: 0;
   }
 
 }
@@ -377,5 +386,27 @@ em dashes */
 @media print {
   body * {
     prince-text-replace: "—" "—\200B"
+  }
+}
+
+
+.quire-figure.is-pulled-left.image-pair {
+  margin-right: .375rem;
+  width: calc(50% - .75rem);
+}
+.quire-figure.is-pulled-right.image-pair {
+  margin-left: .375rem;
+  width: calc(50% - .75rem);
+}
+.quire-figure.is-pulled-left.image-pair + p,
+.quire-figure.is-pulled-right.image-pair + p {
+  clear: both;
+}
+@media print or screen and (max-width: 480px) {
+  .quire-figure.is-pulled-left.image-pair,
+  .quire-figure.is-pulled-right.image-pair {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
   }
 }

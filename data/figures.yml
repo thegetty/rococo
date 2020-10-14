@@ -1081,13 +1081,13 @@ figure_list:
     download: true
 
   - id: "fig-11-4"
-    src: "figures/fig-11-4-1.jpg"
+    src: "figures/fig-11-4.jpg"
     label: "Figure 11-4"
     caption: "Back left."
     download: true
 
   - id: "fig-11-5"
-    src: "figures/fig-11-4-2.jpg"
+    src: "figures/fig-11-5.jpg"
     label: "Figure 11-5"
     caption: "An exploded diagram showing eight of the nine elements of cabinetry (the drawer has been omitted for clarity) that can easily be assembled and disassembled for transport."
 
@@ -1451,16 +1451,10 @@ figure_list:
     caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
     download: true
 
-  - id: "fig-14-14-1"
-    src: "figures/fig-14-14-1.jpg"
+  - id: "fig-14-14"
+    src: "figures/fig-14-14.jpg"
     label: "Figure 14-14"
-    caption: "X-radiograph detail of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
-    download: true
-
-  - id: "fig-14-14-2"
-    src: "figures/fig-14-14-2.jpg"
-    label: "Figure 14-14"
-    caption: "X-radiograph of the top drawer overlaid with visible light photography of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
+    caption: "X-radiograph detail (top) of the top drawer and visible light photography (bottom) of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
     download: true
 
   - id: "fig-14-15"
@@ -1889,15 +1883,9 @@ figure_list:
     caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
     download: true
 
-  - id: "fig-18-16-1"
-    src: "figures/fig-18-16-1.jpg"
-    label: "Figure 18-16.1"
-    caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
-    download: true
-
-  - id: "fig-18-16-2"
-    src: "figures/fig-18-16-2.jpg"
-    label: "Figure 18-16.2"
+  - id: "fig-18-16"
+    src: "figures/fig-18-16.jpg"
+    label: "Figure 18-16"
     caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
     download: true
 
