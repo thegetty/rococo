@@ -95,6 +95,11 @@ Spectral Light
 
 /* NAVBAR
 ============================================================================= */
+.quire-navbar {
+  font-family: 'Times', serif;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
 .quire-navbar-page-controls__item.quire-home-page {
   font-weight: bold;
 }
