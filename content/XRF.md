@@ -33,7 +33,7 @@ In addition to quantitative analysis of base alloys, XRF analysis can provide us
 ## Notes
 {{< /q-class >}}
 
-[^1]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 35.
+[^1]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 35. 
 
 [^2]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 36; {{< q-cite "Jacobsen 2016" >}}. On present-day deceptive reproduction, see, e.g., Vincent Noce, “New Twist in Fake Antique Furniture Scandal Overshadows Opening of Biennale des Antiquaires in Paris,” *Art Newspaper*, September 8, 2016.
 
