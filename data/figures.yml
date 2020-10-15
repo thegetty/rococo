@@ -1853,63 +1853,83 @@ figure_list:
     caption: "Front left corner with the corner mount removed and sliding block in place (left) and removed (right)."
     download: true
 
-  - id: "fig-18-a"
-    src: "figures/fig-18-a.gif"
-    label: "Figure 18-a"
+  - id: "fig-18-13"
+    src: "figures/fig-18-13.gif"
+    label: "Figure 18-13"
+    caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
+    download: true
+  - id: "fig-18-13-print"
+    src: "figures/fig-18-13-print.jpg"
+    label: "Figure 18-13"
     caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
     download: true
 
-  - id: "fig-18-b"
-    src: "figures/fig-18-b.gif"
-    label: "Figure 18-b"
+  - id: "fig-18-14"
+    src: "figures/fig-18-14.gif"
+    label: "Figure 18-14"
     caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
     download: true
+  - id: "fig-18-14-print"
+    src: "figures/fig-18-14-print.jpg"
+    label: "Figure 18-14"
+    caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
+    download: tru
 
-  - id: "fig-18-c"
-    src: "figures/fig-18-c.gif"
-    label: "Figure 18-c"
+  - id: "fig-18-15"
+    src: "figures/fig-18-15.gif"
+    label: "Figure 18-15"
+    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table’s case side, just below the lower brass U-channel. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
+    download: true
+  - id: "fig-18-15-print"
+    src: "figures/fig-18-15-print.jpg"
+    label: "Figure 18-15"
     caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table’s case side, just below the lower brass U-channel. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
 
-  - id: "fig-18-d"
-    src: "figures/fig-18-d.gif"
-    label: "Figure 18-d"
+  - id: "fig-18-16"
+    src: "figures/fig-18-16.gif"
+    label: "Figure 18-16"
     caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
     download: true
-
-  - id: "fig-18-13"
-    src: "figures/fig-18-13.jpg"
-    label: "Figure 18-13"
-    caption: "Mark from a shoulder knife on the top edge of the side drawer front, showing that pieces of veneer were trimmed in place, after having been glued down to the oak substrate."
-    download: true
-
-  - id: "fig-18-14"
-    src: "figures/fig-18-14.jpg"
-    label: "Figure 18-14"
-    caption: "Detail of an X-radiograph showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate. The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
-    download: true
-
-  - id: "fig-18-15"
-    src: "figures/fig-18-15.jpg"
-    label: "Figure 18-15"
-    caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
-    download: true
-
-  - id: "fig-18-16"
-    src: "figures/fig-18-16.jpg"
+  - id: "fig-18-16-print"
+    src: "figures/fig-18-16-print.jpg"
     label: "Figure 18-16"
-    caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
+    caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
     download: true
 
   - id: "fig-18-17"
     src: "figures/fig-18-17.jpg"
     label: "Figure 18-17"
-    caption: "The Museum's table, in its current condition on the left and virtually restored to its original colors on the right."
+    caption: "Mark from a shoulder knife on the top edge of the side drawer front, showing that pieces of veneer were trimmed in place, after having been glued down to the oak substrate."
     download: true
 
   - id: "fig-18-18"
     src: "figures/fig-18-18.jpg"
     label: "Figure 18-18"
+    caption: "Detail of an X-radiograph showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate. The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
+    download: true
+
+  - id: "fig-18-19"
+    src: "figures/fig-18-19.jpg"
+    label: "Figure 18-19"
+    caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
+    download: true
+
+  - id: "fig-18-20"
+    src: "figures/fig-18-20.jpg"
+    label: "Figure 18-20"
+    caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
+    download: true
+
+  - id: "fig-18-21"
+    src: "figures/fig-18-21.jpg"
+    label: "Figure 18-21"
+    caption: "The Museum's table, in its current condition on the left and virtually restored to its original colors on the right."
+    download: true
+
+  - id: "fig-18-22"
+    src: "figures/fig-18-22.jpg"
+    label: "Figure 18-22"
     caption: "The top of the table, virtually restored to its original colors based on detailed analysis of trace dye compounds remaining in the wood and the use of reference samples, prepared using traditional techniques."
     download: true
 
