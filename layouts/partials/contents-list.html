@@ -1,13 +1,13 @@
 {{/*
-  
+
   THIS OVERRIDE FILE ADDS OBJECT INFO TO THE CONTENTS GRID, INCLUDING
   MAKER AND DATE
-  
-  
+
+
   This partial generates a contents list. It is used in the publication menu
   and in the "contents" page type, but could be extended for further use. It
   expects five specific variables to be passed:
-  
+
   site              .Site
   contentsScope     Typically .Site.Pages or narrowed down to pages within a
                     specific section.
@@ -44,8 +44,8 @@
   `brief`           Lists only the title, or short_title when available.
 
   EXAMPLE PARTIAL USE:
-  partial "contents-list.html" (dict "site" .Site "contentsScope" .Site.Pages 
-  "contentsType" .Site.Params.tocType "contentsLocation" ".Params.toc" 
+  partial "contents-list.html" (dict "site" .Site "contentsScope" .Site.Pages
+  "contentsType" .Site.Params.tocType "contentsLocation" ".Params.toc"
   "contentsPage" . )
 
 */}}
@@ -183,7 +183,7 @@
                 <p class="object-info--title">{{ with .title }}{{ markdownify . }}{{ end }}</p>
                 <p class="object-info--maker">{{ with .display_maker }}{{ markdownify . }}{{ end }}</p>
                 <p class="object-info--date">{{ with .display_date }}{{ markdownify . }}{{ end }}</p>
-                <p class="object-info--acc-no">{{ with .accession_number }}{{ markdownify . }}{{ end }}</p>
+                <p class="object-info--acc-no">{{ with .accession_number }}{{ markdownify . }}{{ end }}{{ with .accession_number_two }} <br />{{ markdownify . }}{{ end }}</p>
               </div>
             {{ end }}
           {{ end }}

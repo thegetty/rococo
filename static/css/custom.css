@@ -1,6 +1,6 @@
 /* COVER
 ============================================================================= */
-/* 
+/*
 Spectral
 https://github.com/productiontype/Spectral
 Open Font License 1.1 (https://scripts.sil.org/OFL)
@@ -15,7 +15,7 @@ Spectral Light
   font-weight: 300;
   font-style: normal;
 }
-/* Spectral Semi-Bold 
+/* Spectral Semi-Bold
 */
 @font-face {
   font-family: "Spectral";
@@ -56,7 +56,7 @@ Spectral Light
   margin-bottom: 3rem;
 }
 .quire-cover .quire-page__content .container.is-fluid .content .cover-authors p {
-  font-family: 'Noto Sans', sans-serif; 
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 700;
   text-align: center;
 }
@@ -93,6 +93,17 @@ Spectral Light
   }
 }
 
+/* NAVBAR
+============================================================================= */
+.quire-navbar {
+  font-family: 'Times', serif;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+.quire-navbar-page-controls__item.quire-home-page {
+  font-weight: bold;
+}
+
 
 /* OBJECT ENTRIES
 ============================================================================= */
@@ -110,6 +121,18 @@ Spectral Light
   margin-left: 2rem;
   margin-top: 1rem;
   font-size: .875rem;
+}
+/* Make side-by-side viewer 50% of width */
+@media screen and (min-width: 1184px) {
+  .quire-entry div.side-by-side div.quire-entry__image-wrap {
+    width: 50%;
+  }
+  .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image {
+    width: calc(50% - 8px);
+  }
+  .quire-entry div.side-by-side div.quire-entry__content {
+    width: 50%;
+  }
 }
 
 
@@ -140,6 +163,20 @@ Spectral Light
   float: left;
   width: 5rem;
   font-weight: 400;
+}
+.quire-contributors-list.initials {
+  page-break-before: avoid;
+}
+/* To add a "with" after all of Arlen's contributions on entry pages */
+.content ul.quire-contributors-list.initials li.quire-contributor__name {
+  /* border: 1px solid red; */
+  display: inline-block;
+  margin-right: .25rem;
+  /* width: fit-content;
+  height: 1rem; */
+}
+.quire-contributor__name#initials-ah::after {
+  content: "with ";
 }
 
 
@@ -230,18 +267,30 @@ Spectral Light
 /* PRINT
 ============================================================================= */
 @media print {
-  
+
   /* Remove page numbering from splash page */
   @page splash {
     @bottom-right {
       content: none;
     }
-  
+
     @bottom-left {
       content: none;
     }
   }
-  
+
+  html body * {
+    orphans: 2;
+    widows: 2;
+  }
+
+  /* Accounts for pdf output of cover and first blank page. Numbering
+    should alwys start at 1 on the half title page. This negative number
+    hack on the cover seems to do the trick */
+  .quire-page--frontmatter.quire-cover {
+    counter-reset: page -1;
+  }
+
   /* Hide catalogue grid in print and make adjustments to contents pages  */
   #catalogue-catalogue-index .quire-contents-list.grid {
     display: none;
@@ -258,15 +307,15 @@ Spectral Light
   }
   .quire-contents-list .section-item a::after {
     content: leader(dotted) ' 'target-counter(attr(href, url), page);
-    margin-left: 6pt; 
+    margin-left: 6pt;
     margin-right: -10%;
     /* This border is a hack for PrinceXML which doesn't
     otherwise recognize the box sizing for some reason */
     border: 1pt solid transparent;
   }
-  
+
   /* Ensure plates always start on left page */
-  .quire-entry__image .quire-entry__image__group-container figure {      
+  .quire-entry__image .quire-entry__image__group-container figure {
     page-break-before: left;
   }
 
@@ -284,7 +333,46 @@ Spectral Light
   dd {
     page-break-inside: avoid;
   }
-  
+
+  /* Image adjustments for print */
+  .quire-figure.pdf-one-column .quire-figure--group__row.columns {
+    display: block;
+  }
+  .quire-figure.pdf-one-column .quire-figure--group__row.columns .quire-figure--group__item {
+    width: 100% !important;
+  }
+  .quire-figure.pdf-two-column {
+    column-span: all;
+  }
+  .quire-figure.pdf-80-percent-width .q-figure__wrapper img {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-50-percent-width .q-figure__wrapper img {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-page-break-after {
+    page-break-after: always;
+    column-break-after: always;
+  }
+
+  /* Tighten up footnotes */
+  .quire-page__content .content .footnotes ol li {
+    margin-bottom: .5rem;
+  }
+
+  /* Remove padding that can cause unneccesary new pages */
+  .quire-entry .quire-page__content {
+    padding-bottom: 0;
+  }
+
+  .quire-page {
+    page-break-before: avoid !important;
+  }
+
 }
 
 /* Adjust URL breaks in PDF */
@@ -309,10 +397,32 @@ Spectral Light
   }
 }
 
-/* Following the same pattern as above, this improves breaking after 
+/* Following the same pattern as above, this improves breaking after
 em dashes */
 @media print {
   body * {
     prince-text-replace: "—" "—\200B"
+  }
+}
+
+
+.quire-figure.is-pulled-left.image-pair {
+  margin-right: .375rem;
+  width: calc(50% - .75rem);
+}
+.quire-figure.is-pulled-right.image-pair {
+  margin-left: .375rem;
+  width: calc(50% - .75rem);
+}
+.quire-figure.is-pulled-left.image-pair + p,
+.quire-figure.is-pulled-right.image-pair + p {
+  clear: both;
+}
+@media print or screen and (max-width: 480px) {
+  .quire-figure.is-pulled-left.image-pair,
+  .quire-figure.is-pulled-right.image-pair {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
   }
 }
