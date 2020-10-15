@@ -12,9 +12,9 @@ image: 006674F12V1.jpg
 
 Gillian Wilson and Arlen Heginbotham
 
-with Jessica Chasen, Yannick Chastang, Jan Dorscheid, Joe Godla, Clara von Englehardt, Philippe Halbert, Gordon Hanlon, Katrina Posner, Michael Schilling, Ron Schmidtling, and Linnea Seidling
+Edited and with an introduction by Anne-Lise Desmas
 
-Introduction by Anne-Lise Desmas
+with Jessica Chasen, Yannick Chastang, Jan Dorscheid, Clara von Englehardt, Philippe Halbert, Katrina Posner, Michael Schilling, and Ron Schmidtling
 
 </div>
 
