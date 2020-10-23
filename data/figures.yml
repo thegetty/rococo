@@ -20,125 +20,125 @@ figure_list:
 
   - id: "cat-1"
     src: "figures/cat-1.jpg"
-    alt: "frontal view of a long wooden cabinet with gold detailing and a stone top"
+    alt: "frontal view of a long wooden cabinet with six doors, crafted with veneer, gilt bronze, and marble"
     label: "Catalogue 1"
     download: true
 
   - id: "fig-1-1"
     src: "figures/fig-1-1.jpg"
-    alt: "open cabinet with a plain, wooden interior"
+    alt: "two cabinet doors open to reveal a plain interior made up of multiple verticle panels of oak within a structural framework of wooden pieces"
     label: "Figure 1-1"
     caption: "Left section, doors and drawer open."
     download: true
 
   - id: "fig-1-2"
     src: "figures/fig-1-2.jpg"
-    alt: "closed section of the cabinet, highlighting the ornate multi-colored wooden veneer and gold molding"
+    alt: "one of three of the cabinet sections, closed to accentuate the multi-colored wooden veneer and floral bronze gilt molding"
     label: "Figure 1-2"
     caption: "Center section, three-quarter view."
     download: true
 
   - id: "fig-1-3"
     src: "figures/fig-1-3.jpg"
-    alt: "closed section of the cabinet, highlighting the ornate multi-colored wooden veneer and gold molding"
+    alt: "one of three of the cabinet sections, closed to accentuate the multi-colored wooden veneer and floral bronze gilt molding"
     label: "Figure 1-3"
     caption: "Left section, three-quarter view."
     download: true
 
   - id: "fig-1-4"
     src: "figures/fig-1-4.jpg"
-    alt: "profile view of the side of the cabinet"
+    alt: "the right side of the cabinet features dark brown, light brown, and reddish pieces of wooden veneer in geometric and organic shapes"
     label: "Figure 1-4"
     caption: "Right profile."
     download: true
 
   - id: "fig-1-5"
     src: "figures/fig-1-5.jpg"
-    alt: "The back of the cabinet, plain, slightly scuffed wood with chalk inscriptions"
+    alt: "a view of the back of the cabinet reveals four vertical wooden panels framed by smaller vertical and horizontal strips of wood"
     label: "Figure 1-5"
     caption: "Back of right section, with the “DAVAL” inscription."
     download: true
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.jpg"
-    alt: "ornate, orientalist armoire with four red and white laquer panels and gold detailing"
+    alt: "a large armoire with four red and white laquer panels featuring orientalist figures and framed with floral gilt bronze molding"
     label: "Figure 1-6"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 × 139.7 × 41.5 cm (66 × 55 × 16.3 in.). Versailles, Château de Versailles, OA 9599, V5090."
     download: true
 
   - id: "fig-1-7"
     src: "figures/fig-1-7.jpg"
-    alt: "plain wooden backing, highlighting the technical construction of the piece"
+    alt: "a detail of the underside of the cabinet top shows two vertical wooden panels and one horizontal wooden panel with four rectangular gaps near the edges used to join the top of the cabinet to the bottom"
     label: "Figure 1-7"
     caption: "The underside of the left side cabinet top showing the offset double pinning of the mortise-and-tenon joints, the mortises for the side panel unit, and the dado for the back panels."
     download: true
 
   - id: "fig-1-8"
     src: "figures/fig-1-8.jpg"
-    alt: "large piece of scuffed wood, highlighting the joinery"
+    alt: "a bird's-eye-view of the top of the cabinet with the marble removed, showing three inset panels within a framework of structural wood pieces"
     label: "Figure 1-8"
     caption: "The top section of the right case from above. Note the five pieces of oak glued around the perimeter of the frame-and-panel element. These pieces are simply butt joined, with no additional joinery between them."
     download: true
 
   - id: "fig-1-9"
     src: "figures/fig-1-9.jpg"
-    alt: "black and white line drawing of the side panel construction"
+    alt: "diagram of cabinet construction showing three parallel, upright side panels, two tabs on top, and more square end pieces on either side"
     label: "Figure 1-9"
     caption: "A schematic drawing of the side panel construction."
     download: true
 
   - id: "fig-1-10"
     src: "figures/fig-1-10.jpg"
-    alt: "inside of the cabinet door, highlighting metal hinges and silver locking mechanism"
+    alt: "the cabinet door opens to reveal interlocking pieces of dark and light brown wood, with metal hinges joining the door to the cabinet frame and a silver locking mechanism attached to the inside edge of the door"
     label: "Figure 1-10"
     caption: "Inside cabinet door."
     download: true
 
   - id: "fig-1-11"
     src: "figures/fig-1-11.jpg"
-    alt: "x-ray of a door, highlighting the technical construction"
+    alt: "a gray, white, and black x-ray of the cabinet door reveals the wooden pegs that connect the horizontal and vertical pieces of wood"
     label: "Figure 1-11"
     caption: "An X-radiograph of a door, showing the batten, or breadboard end, at the bottom, joined to the vertical boards with hand-shaped wooden pegs, driven into holes drilled with a round-tipped spoon bit."
     download: true
 
   - id: "fig-1-12"
     src: "figures/fig-1-12.jpg"
-    alt: "large piece of scuffed wood, highlighting the joinery"
+    alt: "a bird's-eye-view of the bottom of the cabinet, showing three long horiztonal panels within a framework of structural wood pieces"
     label: "Figure 1-12"
     caption: "The bottom of the right base section. The front bottom rails of the base are fixed to the sides with a single dovetail, reinforced with wooden pegs."
     download: true
 
   - id: "fig-1-13"
     src: "figures/fig-1-13.jpg"
-    alt: "wooden drawer seen from above"
+    alt: "a shallow cabinet drawer as seen from above, revealing a plain wooden interior made up of multiple panels of wood connected by dovetail joints "
     label: "Figure 1-13"
     caption: "Three-quarter top view of a drawer."
     download: true
 
   - id: "fig-1-14"
     src: "figures/fig-1-14.jpg"
-    alt: "wooden drawer seen from below"
+    alt: "a shallow cabinet drawer as seen from below, revealing multiple panels of wood joined together to form the base of the drawer"
     label: "Figure 1-14"
     caption: "Three-quarter bottom view of a drawer."
     download: true
 
   - id: "fig-1-15"
     src: "figures/fig-1-15.jpg"
-    alt: "gray, black, and brown illustration highlighting the variations in the color of the wood used to construct the cabinet"
+    alt: "diagram of a log of ferréol revealing concentric rings of beige, dark brown, tan, and reddish layers of wood alongside four examples of the possible color variations in single slices of the log"
     label: "Figure 1-15"
     caption: "A schematic drawing of the log of *ferréol* that provided the highly varied patterns of veneer used on the cabinet."
     download: true
 
   - id: "fig-1-16"
     src: "figures/fig-1-16.jpg"
-    alt: "example of an additional cabinet that uses a similar style of wood veneer"
+    alt: "three black and white images of the cabinet, as seen from the front and the side, with parts of the ferréol veneer in color to highlight the complex variations in the cabinet's veneer"
     label: "Figure 1-16"
     caption: "This image shows the unusually extensive and creative use of *ferréol* on the cabinet surfaces."
     download: true
 
   - id: "fig-1-17"
     src: "figures/fig-1-17.jpg"
-    alt: "four views of a disassembled metal lock"
+    alt: "four views of a silver, disassembled lock from the cabinet, revealing the gears and spring catch that make up the locking mechanism"
     label: "Figure 1-17"
     caption: "A lock disassembled; top left, the lock as removed from the door; top right, the upper and lower bolts removed; bottom left, the lock with the intermediate cover plate removed showing the action of the double bolt above and the spring catch at bottom; bottom right, the inner face of the intermediate cover plate with the wards for the key attached."
     download: true
