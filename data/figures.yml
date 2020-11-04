@@ -549,19 +549,19 @@ figure_list:
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
     label: "Figure 6-2"
-    caption: "On top of the right rear leg stile are the stamps “JME, B.V.R.B., JME.”"
+    caption: "On top of the right rear leg stile are the stamps “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-6-3"
     src: "figures/fig-6-3.jpg"
     label: "Figure 6-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*. Caen, musée des Beaux-Arts."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*. Caen, Musée des Beaux-Arts. Photo: Musée des Beaux-Arts, Caen, France / Bridgeman Images"
     download: true
 
   - id: "fig-6-4"
     src: "figures/fig-6-4.jpg"
     label: "Figure 6-4"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 × 116 × 54.5 cm (33 × 45.75 × 21.5 in.). Abu Dhabi, Louvre Abu Dhabi."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 × 116 × 54.5 cm (33 × 45.75 × 21.5 in.). Abu Dhabi, Louvre Abu Dhabi. Photo: © Department of Culture and Tourism – Abu Dhabi / Thierry Ollivier"
     download: true
 
   - id: "fig-6-5"
