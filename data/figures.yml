@@ -453,7 +453,7 @@ figure_list:
   - id: "fig-5-3"
     src: "figures/fig-5-3.jpg"
     label: "Figure 5-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, musée du Louvre, OA 11193."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, Musée du Louvre, OA 11193. © Musée du Louvre, Dist. RMN-Grand Palais / Studio Sébert / Photo: Art Resource, NY"
     download: true
 
   - id: "fig-5-4"
@@ -501,7 +501,7 @@ figure_list:
   - id: "fig-5-11"
     src: "figures/fig-5-11.jpg"
     label: "Figure 5-11"
-    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 × 69 × 49 cm (35.8 × 27.2 × 19.3 in.). Vienna, Präsidentschaftskanzlein, MD 035837. Photo: Silvia Miklin-Kniefacz."
+    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 × 69 × 49 cm (35.8 × 27.2 × 19.3 in.). The Imperial Furniture Collection, Vienna, Präsidentschaftskanzlein, MD 035838. © Bundesmobilienverwaltung, Hofmobiliendepot, Möbel Museum Wein / Photo: Silvia Miklin-Kniefacz."
     download: true
 
   - id: "fig-5-12"
@@ -513,7 +513,7 @@ figure_list:
   - id: "fig-5-13"
     src: "figures/fig-5-13.jpg"
     label: "Figure 5-13"
-    caption: "X-radiograph of the border on the front showing the radio-opaque raised cartouche extending over a now-concealed Japanese decoration with a sprinkled dot pattern."
+    caption: "Image and corresponding X-radiograph of the border on the front, the latter showing the radio-opaque raised cartouche extending over a now-concealed Japanese decoration with a sprinkled dot pattern."
     download: true
 
   - id: "fig-5-14"
