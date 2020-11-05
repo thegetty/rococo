@@ -777,7 +777,7 @@ figure_list:
   - id: "fig-8-6"
     src: "figures/fig-8-6.jpg"
     label: "Figure 8-6"
-    caption: "Underneath the central drawer on the back of the desk, a rail is stamped “JME B.V.R.B. JME.”"
+    caption: "Underneath the central drawer on the back of the desk, a rail is stamped “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-8-7"
@@ -969,7 +969,7 @@ figure_list:
   - id: "fig-10-4"
     src: "figures/fig-10-4.jpg"
     label: "Figure 10-4"
-    caption: "Underneath the table by the left drawer, with the effaced stamp “JME BVRB JME.”"
+    caption: "Underneath the table by the left drawer, with the effaced stamps “JME,” “B.V.R.B,” “JME.”"
     download: true
 
   - id: "fig-10-5"
@@ -1160,7 +1160,7 @@ figure_list:
   - id: "fig-12-2"
     src: "figures/fig-12-2.jpg"
     label: "Figure 12-2"
-    caption: "On top of the front right leg stile is stamped “IDUBOIS JME JME” (78.DA.119.2)."
+    caption: "On top of the front right leg stile is stamped “IDUBOIS,” “JME,” “JME” (78.DA.119.2)."
     download: true
 
   - id: "fig-12-3"
