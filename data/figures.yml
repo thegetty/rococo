@@ -1562,7 +1562,7 @@ figure_list:
   - id: "fig-15-16"
     src: "figures/fig-15-16.jpg"
     label: "Figure 15-16"
-    caption: "Detail of an anchor bridge brazed to the underside of the gilt molding. These help secure the molding around the top of the bureau."
+    caption: "Detail of an anchor bridge soldered to the underside of the gilt molding. These help secure the molding around the top of the bureau."
     download: true
 
   - id: "cat-16"
@@ -1742,7 +1742,7 @@ figure_list:
   - id: "fig-17-13"
     src: "figures/fig-17-13.jpg"
     label: "Figure 17-13"
-    caption: "Framing mount from a 72.DA.39 cabinet (left side of each image) compared to a corresponding mount from a 72.DA.69 cabinet (right side of each image). The solder line is visible on the 72.DA.39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during soldering) is visible in the brazing metal on the reverse."
+    caption: "Framing mount from a 72.DA.39 cabinet (left side of each image) compared to a corresponding mount from a 72.DA.69 cabinet (right side of each image). The solder line is visible on the 72.DA.39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during soldering) is visible in the soldering metal on the reverse."
     download: true
 
   - id: "fig-17-14"
