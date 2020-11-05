@@ -963,7 +963,7 @@ figure_list:
   - id: "fig-10-3"
     src: "figures/fig-10-3.jpg"
     label: "Figure 10-3"
-    caption: "Top of a front leg with the stamp “JME B.V.R.B. JME.”"
+    caption: "Top of a front leg with the stamps “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-10-4"
@@ -975,13 +975,13 @@ figure_list:
   - id: "fig-10-5"
     src: "figures/fig-10-5.jpg"
     label: "Figure 10-5"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Tulipwood and kingwood with gilt bronze mounts. Vienna, The Princely Collections, Liechtenstein."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Tulipwood and kingwood with gilt bronze mounts, 170 × 81 × 82 cm (66.9 × 31.9 × 32.25 in.). Vienna, The Princely Collections, Liechtenstein. © LIECHTENSTEIN. The Princely Collections, Vaduz-Vienna"
     download: true
 
   - id: "fig-10-6"
     src: "figures/fig-10-6.jpg"
     label: "Figure 10-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Amaranth, *bois satiné*, and Japanese lacquer with gilt bronze mounts, 164.5 × 78 × 80 cm (64.75 × 30.75 × 31.5 in.). London, Christie's, June 10, 1993, lot 34."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Amaranth, *bois satiné*, and Japanese lacquer with gilt bronze mounts, 164.5 × 78 × 80 cm (64.75 × 30.75 × 31.5 in.). London, Christie's, June 10, 1993, lot 34. Private Collection. Photo: © Christie's Images / Bridgeman Images"
     download: true
 
   - id: "fig-10-7"
@@ -993,7 +993,7 @@ figure_list:
   - id: "fig-10-8"
     src: "figures/fig-10-8.jpg"
     label: "Figure 10-8"
-    caption: "Edward Holmes Baldock (English, 1777--1845), *Bureau plat*, nineteenth century. Tulipwood and kingwood with gilt bronze mounts, 79 × 161.7 × 80.6 cm (31.1 × 63.7 × 31.7 in.). Los Angeles, Sotheby Parke Bernet, October 31, 1978, lot 795."
+    caption: "Edward Holmes Baldock (English, 1777--1845), *Bureau plat*, nineteenth century. Tulipwood and kingwood with gilt bronze mounts, 79 × 161.7 × 80.6 cm (31.1 × 63.7 × 31.7 in.). Los Angeles, Sotheby Parke-Bernet, October 31, 1978, lot 795. Photo: © Sotheby's"
     download: true
 
   - id: "fig-10-9"
@@ -1029,7 +1029,7 @@ figure_list:
   - id: "fig-10-14"
     src: "figures/fig-10-14.jpg"
     label: "Figure 10-14"
-    caption: "Replacement veneer with horizontally oriented grain on the table's sides, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from “aging” with acid."
+    caption: "Replacement veneer with horizontally oriented grain on one of the drawer fronts, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from “aging” with acid."
     download: true
 
   - id: "fig-10-15"
@@ -1041,7 +1041,7 @@ figure_list:
   - id: "fig-10-16"
     src: "figures/fig-10-16.jpg"
     label: "Figure 10-16"
-    caption: "Backside detail of one of the tabletop mounts. These are fixed to the secondary wood with slotted head bolts that run through the frame and are secured with nuts soldered to the backsides of the mounts. The threading of the bolts conforms to a British nineteenth-century standard."
+    caption: "Backside detail of one of the tabletop mounts. These are fixed to the secondary wood with slotted-head bolts that run through the frame and are secured with nuts soldered to the backsides of the mounts. The threading of the bolts conforms to a British nineteenth-century standard."
     download: true
 
   - id: "cat-11"
