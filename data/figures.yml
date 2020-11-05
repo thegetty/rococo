@@ -645,7 +645,7 @@ figure_list:
   - id: "fig-7-2"
     src: "figures/fig-7-2.jpg"
     label: "Figure 7-2"
-    caption: "Left profile of 71.DA.96.1."
+    caption: "Right side of 71.DA.96.1."
     download: true
 
   - id: "fig-7-3"
@@ -663,13 +663,13 @@ figure_list:
   - id: "fig-7-5"
     src: "figures/fig-7-5.jpg"
     label: "Figure 7-5"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode* (one of a pair), ca. 1750. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; *brèche d'Alep* marble top; brass and iron locks, 92.5 × 150 × 64.5 cm (36.5 × 59 × 25.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37418."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode* (one of a pair), ca. 1750. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; *brèche d'Alep* marble top; brass and iron locks, 92.5 × 150 × 64.5 cm (36.5 × 59 × 25.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37418. © Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden / Foto: Frank Dornacher"
     download: true
 
   - id: "fig-7-6"
     src: "figures/fig-7-6.jpg"
     label: "Figure 7-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, mid-eighteenth century. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; marble top; brass and iron locks, 89 × 146 × 67 (35 × 57.5 × 26.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37348."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, mid-eighteenth century. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; marble top; brass and iron locks, 89 × 146 × 67 (35 × 57.5 × 26.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37348. © Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden"
     download: true
 
   - id: "fig-7-7"
