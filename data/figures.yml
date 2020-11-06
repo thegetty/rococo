@@ -1364,7 +1364,7 @@ figure_list:
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
     label: "Figure 14-1"
-    caption: "Right side."
+    caption: "Right profile."
     download: true
 
   - id: "fig-14-2"
@@ -1376,7 +1376,7 @@ figure_list:
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
     label: "Figure 14-3"
-    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 × 139 × 58.5 cm (33 × 55 × 23 in.). London, Victoria and Albert Museum, 1013-1882."
+    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 × 139 × 58.5 cm (33 × 55 × 23 in.). London, Victoria and Albert Museum, 1013-1882. © Victoria and Albert Museum, London"
     download: true
 
   - id: "fig-14-4"
@@ -1394,7 +1394,7 @@ figure_list:
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
     label: "Figure 14-6"
-    caption: "Top; the four corner posts are attached to the perimeter rails using a single, open-faced dovetail method."
+    caption: "Top; the four corner posts are attached to the perimeter rails using single, open-faced dovetails."
     download: true
 
   - id: "fig-14-7"
@@ -1418,13 +1418,13 @@ figure_list:
   - id: "fig-14-10"
     src: "figures/fig-14-10.jpg"
     label: "Figure 14-10"
-    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 × 99 × 61.8 cm (30.9 × 38.9 × 24.3 in.). Leeds, Temple Newsam."
+    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 × 99 × 61.8 cm (30.9 × 38.9 × 24.3 in.). Leeds, Temple Newsam. Photo: Leeds Museums and Art Galleries (Temple Newsam House) UK / Bridgeman Images"
     download: true
 
   - id: "fig-14-11"
     src: "figures/fig-14-11.jpg"
     label: "Figure 14-11"
-    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 × 110 × 56 cm (70 × 43.3 × 22 in.). Leeds, Temple Newsam."
+    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 × 110 × 56 cm (70 × 43.3 × 22 in.). Leeds, Temple Newsam. Leeds Museums and Art Galleries (Temple Newsam House) UK / Bought with financial assistance from the National Art Collection Fund (with a contribution from the Wolfson Foundation), the LMA/V&A Purchase Grant Fund, the Esmee Fairbairn Foundation, the Pilgrim Trust, the Leeds Art Collections Fund, the Arnold Burton 1998 Charitable Trust, the Leche Trust, the A & S Burton 1960 Charitable Trust, Giles Eilwood Limited, the Tomasso Brothers Limited, and Dr. Terry Friedman / Bridgeman Images"
     download: true
 
   - id: "fig-14-12"
