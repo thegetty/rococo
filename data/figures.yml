@@ -1262,13 +1262,13 @@ figure_list:
   - id: "fig-13-1"
     src: "figures/fig-13-1.jpg"
     label: "Figure 13-1"
-    caption: "Right profile."
+    caption: "Left profile."
     download: true
 
   - id: "fig-13-2"
     src: "figures/fig-13-2.jpg"
     label: "Figure 13-2"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-13-3"
@@ -1286,7 +1286,7 @@ figure_list:
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
     label: "Figure 13-5"
-    caption: "On the top rear right post is stamped “IDUBOIS” and “JME.”"
+    caption: "On the top front right post is stamped “IDUBOIS” and “JME.”"
     download: true
 
   - id: "fig-13-6"
@@ -1328,7 +1328,7 @@ figure_list:
   - id: "fig-13-12"
     src: "figures/fig-13-12.jpg"
     label: "Figure 13-12"
-    caption: "Composite X-ray of the *secrétaire*'s full front showing the vertical joints between the original Asian wood panels on which the lacquer was first applied."
+    caption: "Composite X-ray of the *secrétaire*'s fall front showing the vertical joints between the original Asian wood panels on which the lacquer was first applied."
     download: true
 
   - id: "fig-13-13"
