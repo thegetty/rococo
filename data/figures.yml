@@ -1586,13 +1586,13 @@ figure_list:
   - id: "fig-16-3"
     src: "figures/fig-16-3.jpg"
     label: "Figure 16-3"
-    caption: "Jean-Pierre Latz (French, 1691--1754), Commode, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 × 153 × 66.5 cm (34.5 × 60 × 26 in.). Rome, Palazzo del Quirinale."
+    caption: "Jean-Pierre Latz (French, 1691--1754), Commode, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 × 153 × 66.5 cm (34.5 × 60 × 26 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.jpg"
     label: "Figure 16-4"
-    caption: "Carl Hårleman (Swedish, 1700--1753), *A Clock and a Commode*, ca. 1744--45. Pen and ink tracing on thin yellow, probably oiled, paper. Stockholm, Nationalmuseum, THC 7158."
+    caption: "Carl Hårleman (Swedish, 1700--1753), *A Clock and a Commode*, ca. 1744--45. Pen and ink tracing on thin yellow, probably oiled, paper. Stockholm, Nationalmuseum, NMH THC 7158. Photo: Nationalmuseum Sweden"
     download: true
 
   - id: "fig-16-5"
@@ -1622,7 +1622,7 @@ figure_list:
   - id: "fig-16-9"
     src: "figures/fig-16-9.jpg"
     label: "Figure 16-9"
-    caption: "Interior of the Latz commode in Rome, Palazzo del Quirinale (see [fig. 16-3](#fig-16-3)). This version appears outwardly identical to the Museum's, but its joinery method is largely plank construction."
+    caption: "Interior of the Latz commode in Rome, Palazzo del Quirinale (see [fig. 16-3](#fig-16-3)). This version appears outwardly identical to the Museum's, but its joinery method is largely plank construction. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-16-10"
@@ -1640,7 +1640,7 @@ figure_list:
   - id: "fig-16-12"
     src: "figures/fig-16-12.jpg"
     label: "Figure 16-12"
-    caption: "Line drawing showing the restoration method used to fill a split on the right side of the commode."
+    caption: "In order to repair a split, the side of the commode was sawn through along the red line; the loose section that resulted was then slid toward the back to fill the split."
     download: true
 
   - id: "fig-16-13"
