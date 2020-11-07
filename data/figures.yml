@@ -1670,13 +1670,13 @@ figure_list:
   - id: "fig-17-1"
     src: "figures/fig-17-1.jpg"
     label: "Figure 17-1"
-    caption: "Jean-Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 × 82.5 × 59 cm (37 × 32.5 × 23 in.). Rome, Palazzo del Quirinale."
+    caption: "Jean-Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 × 82.5 × 59 cm (37 × 32.5 × 23 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-17-2"
     src: "figures/fig-17-2.jpg"
     label: "Figure 17-2"
-    caption: "Juste Chevillet (French, 1729--1802) after Louis Tessier (French, 1719--1781), *Lys*, from *Livre de principes de fleurs, dédié aux dames*, ca. 1755. Engraving with etching. Getty Research Institute, Los Angeles, P860001."
+    caption: "Juste Chevillet (French, 1729--1802) after Louis Tessier (French, 1719--1781), *Lys*, from *Livre de principes de fleurs, dédié aux dames*, ca. 1755. Engraving with etching. Los Angeles, Getty Research Institute, P860001 (2918-915)."
     download: true
 
   - id: "fig-17-3"
@@ -1688,7 +1688,7 @@ figure_list:
   - id: "fig-17-4"
     src: "figures/fig-17-4.jpg"
     label: "Figure 17-4"
-    caption: "Schematic diagram showing the original and restored reverse structures for the 72.DA.39 cabinets."
+    caption: "Schematic diagram showing the original and restored structures for the 72.DA.39 cabinets."
     download: true
 
   - id: "fig-17-5"
@@ -1718,7 +1718,7 @@ figure_list:
   - id: "fig-17-9"
     src: "figures/fig-17-9.jpg"
     label: "Figure 17-9"
-    caption: "Detail showing the wire finishing nails that were used to join the bottom to the side rails of the cabinet."
+    caption: "Bottom of 72.DA.39.2. The bottom boards behind the front legs are replaced and are fastened to the case sides with modern wire nails."
     download: true
 
   - id: "fig-17-10"
@@ -1730,7 +1730,7 @@ figure_list:
   - id: "fig-17-11"
     src: "figures/fig-17-11.jpg"
     label: "Figure 17-11"
-    caption: "The fronts of the corner mounts from both cabinets. The original mount is on the top and the copies are beneath."
+    caption: "The left front of the corner mounts taken from each of the four cabinets. The first casting is on the top and the copies are beneath."
     download: true
 
   - id: "fig-17-12"
