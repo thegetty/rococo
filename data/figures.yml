@@ -61,7 +61,7 @@ figure_list:
 
   - id: "fig-1-6"
     src: "figures/fig-1-6.jpg"
-    alt: "a large armoire with four red and white laquer panels featuring orientalist figures and framed with floral gilt bronze molding"
+    alt: "a large armoire with four red and white lacquer panels featuring orientalist figures and framed with floral gilt bronze molding"
     label: "Figure 1-6"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 × 139.7 × 41.5 cm (66 × 55 × 16.3 in.). Versailles, Château de Versailles, OA 9599, V5090."
     download: true
@@ -110,7 +110,7 @@ figure_list:
 
   - id: "fig-1-13"
     src: "figures/fig-1-13.jpg"
-    alt: "a shallow cabinet drawer as seen from above, revealing a plain wooden interior made up of multiple panels of wood connected by dovetail joints "
+    alt: "a shallow cabinet drawer as seen from above, revealing a plain wooden interior made up of multiple panels of wood connected by dovetail joints"
     label: "Figure 1-13"
     caption: "Three-quarter top view of a drawer."
     download: true
