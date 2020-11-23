@@ -114,7 +114,7 @@ As research into the materials of both Asian and European lacquer making continu
 
 [^28]: {{< q-cite "Augerson 2011" >}}; {{< q-cite "Langenheim 2003" >}}, 304–5.
 
-[^29]: {{< q-cite "van Keulen 2014" >}}.
+[^29]: {{< q-cite "Van Keulen 2014" >}}.
 
 [^30]: For example, commonly used pine resin also shares some chemical compounds with Baltic amber, sandarac, copal, and even shellac, making the precise linking of some individual compounds to specific ingredients impossible.
 

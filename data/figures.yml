@@ -3,7 +3,7 @@ figure_list:
   - id: "fig-1"
     src: "figures/fig-1.jpg"
     label: "Figure 1"
-    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table ([cat. no. 18](/catalogue/18/)), Ranch House, Malibu, 1950."
+    caption: "J. Paul Getty showing his son Timmy the mechanical system of the Oeben table ([cat. no. 18](/catalogue/18/)), Ranch House, Malibu, 1950. Still from *Getty: Life and Legacy* / Courtesy of Theodora Lynch Getty"
     download: true
 
   - id: "fig-2"
@@ -57,7 +57,7 @@ figure_list:
   - id: "fig-1-6"
     src: "figures/fig-1-6.jpg"
     label: "Figure 1-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 × 139.7 × 41.5 cm (66 × 55 × 16.3 in.). Versailles, Château de Versailles, OA 9599, V5090."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Armoire, ca. 1755. Oak frame, Chinese lacquer, rosewood, kingwood, gilt bronze, 167.7 × 139.7 × 41.5 cm (66 × 55 × 16.3 in.). Versailles, Château de Versailles, OA 9599, V5090. Photo: © RMN-Grand Palais / Art Resource, NY"
     download: true
 
   - id: "fig-1-7"
@@ -165,7 +165,7 @@ figure_list:
   - id: "fig-2-6"
     src: "figures/fig-2-6.jpg"
     label: "Figure 2-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Louis XV's secretary at Trianon, ca. 1755. Oak frame, rosewood, kingwood, gilt bronze, white marble, white satin, 229 × 112 × 53 cm (90 × 44 × 20.9 in.). Le Mans, Musée de Tessé, Inv. 1906.29.66."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Louis XV's secretary at Trianon, ca. 1755. Oak frame, rosewood, kingwood, gilt bronze, white marble, white satin, 229 × 112 × 53 cm (90 × 44 × 20.9 in.). Le Mans, Musée de Tessé, Inv. 1906.29.66. Photo: © Museums of Le Mans"
     download: true
 
   - id: "fig-2-7"
@@ -195,7 +195,7 @@ figure_list:
   - id: "fig-2-11"
     src: "figures/fig-2-11.jpg"
     label: "Figure 2-11"
-    caption: "Bonde (per the signature [unidentified French painter]), *Les enfants des Machault d'Arnouville*, ca. 1741--47. Pastel on paper, 114 × 89 cm (44.9 × 35 in.). Thoiry, château de Thoiry."
+    caption: "Bonde (per the signature [unidentified French painter]), *Les enfants des Machault d'Arnouville*, ca. 1741--47. Pastel on paper, 114 × 89 cm (44.9 × 35 in.). Thoiry, Château de Thoiry. Photo: Château de Thoiry / Arthus Boutin"
     download: true
 
   - id: "fig-2-12"
@@ -261,7 +261,7 @@ figure_list:
   - id: "fig-3-6"
     src: "figures/fig-3-6.jpg"
     label: "Figure 3-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois satiné*, chased gilt bronze mounts, 57 × 82 × 31 cm (22.4 × 32.3 × 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois satiné*, chased gilt bronze mounts, 57 × 82 × 31 cm (22.4 × 32.3 × 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584. © Calouste Gulbenkian Foundation, Lisbon Calouste Gulbenkian Museum – Founder’s Collection / Photo: Catarina Gomes Ferreira"
     download: true
 
   - id: "fig-3-7"
@@ -321,7 +321,7 @@ figure_list:
   - id: "fig-3-16"
     src: "figures/fig-3-16.jpg"
     label: "Figure 3-16"
-    caption: "Image of the Getty *cartonnier* from the sale catalogue, *Porcelain, Objects of Art and Decorative Furniture*, Christie, Manson & Woods, London, May 9, 1922, lot 144."
+    caption: "Image of the Getty *cartonnier* from the sale catalogue, *Porcelain, Objects of Art and Decorative Furniture*, Christie, Manson & Woods, London, May 9, 1922, lot 144. Private Collection. Photo: © Christie’s Images / Bridgeman Images"
     download: true
 
   - id: "fig-3-17"
@@ -351,7 +351,7 @@ figure_list:
   - id: "fig-4-3"
     src: "figures/fig-4-3.jpg"
     label: "Figure 4-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1745–49. Oak veneered with ebony and Coromandel lacquer, cherry wood, and purplewood; gilt bronze mounts; brocatelle marble top, 91.1 × 86 × 66.4 cm (35.9 × 33.9 × 26.1 in.). New York, Metropolitan Museum of Art, 1983.185.1."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1745–49. Oak veneered with ebony and Coromandel lacquer, cherry wood, and purplewood; gilt bronze mounts; brocatelle marble top, 91.1 × 86 × 66.4 cm (35.9 × 33.9 × 26.1 in.). New York, Metropolitan Museum of Art, Gift of Mr. and Mrs. Charles Wrightsman, 1983, 1983.185.1. Photo: www.metmuseum.org, CC0"
     download: true
 
   - id: "fig-4-4"
@@ -375,13 +375,13 @@ figure_list:
   - id: "fig-4-7"
     src: "figures/fig-4-7.jpg"
     label: "Figure 4-7"
-    caption: "Left back."
+    caption: "Left back of 72.DA.44.1."
     download: true
 
   - id: "fig-4-8"
     src: "figures/fig-4-8.jpg"
     label: "Figure 4-8"
-    caption: "Intact Japanese cabinet in the collections of Rosenborg Castle. A similar cabinet was the likely source for the lacquerwork on the Museum's cabinets. Cabinet, ca. 1640--90, 69.8 × 91.1 × 50.8 cm (27.5 × 35.9 × 20 in.). Copenhagen, Royal Collections, Rosenborg Castle, EAc 229."
+    caption: "Intact Japanese cabinet in the collections of Rosenborg Castle. A similar cabinet was the likely source for the lacquerwork on the Museum's cabinets. Cabinet, ca. 1640--90, 69.8 × 91.1 × 50.8 cm (27.5 × 35.9 × 20 in.). Copenhagen, Royal Collections, Rosenborg Castle, EAc 229. The Royal Danish Collection, Rosenborg Castle / Photo: Peter Nørby"
     download: true
 
   - id: "fig-4-9"
@@ -453,7 +453,7 @@ figure_list:
   - id: "fig-5-3"
     src: "figures/fig-5-3.jpg"
     label: "Figure 5-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, musée du Louvre, OA 11193."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, Musée du Louvre, OA 11193. © Musée du Louvre, Dist. RMN-Grand Palais / Studio Sébert / Photo: Art Resource, NY"
     download: true
 
   - id: "fig-5-4"
@@ -501,7 +501,7 @@ figure_list:
   - id: "fig-5-11"
     src: "figures/fig-5-11.jpg"
     label: "Figure 5-11"
-    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 × 69 × 49 cm (35.8 × 27.2 × 19.3 in.). Vienna, Präsidentschaftskanzlein, MD 035837. Photo: Silvia Miklin-Kniefacz."
+    caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 × 69 × 49 cm (35.8 × 27.2 × 19.3 in.). The Imperial Furniture Collection, Vienna, Präsidentschaftskanzlein, MD 035838. © Bundesmobilienverwaltung, Hofmobiliendepot, Möbel Museum Wein / Photo: Silvia Miklin-Kniefacz."
     download: true
 
   - id: "fig-5-12"
@@ -513,7 +513,7 @@ figure_list:
   - id: "fig-5-13"
     src: "figures/fig-5-13.jpg"
     label: "Figure 5-13"
-    caption: "X-radiograph of the border on the front showing the radio-opaque raised cartouche extending over a now-concealed Japanese decoration with a sprinkled dot pattern."
+    caption: "Image and corresponding X-radiograph of the border on the front, the latter showing the radio-opaque raised cartouche extending over a now-concealed Japanese decoration with a sprinkled dot pattern."
     download: true
 
   - id: "fig-5-14"
@@ -549,19 +549,19 @@ figure_list:
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
     label: "Figure 6-2"
-    caption: "On top of the right rear leg stile are the stamps “JME, B.V.R.B., JME.”"
+    caption: "On top of the right rear leg stile are the stamps “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-6-3"
     src: "figures/fig-6-3.jpg"
     label: "Figure 6-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*. Caen, musée des Beaux-Arts."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*. Caen, Musée des Beaux-Arts. Photo: Musée des Beaux-Arts, Caen, France / Bridgeman Images"
     download: true
 
   - id: "fig-6-4"
     src: "figures/fig-6-4.jpg"
     label: "Figure 6-4"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 × 116 × 54.5 cm (33 × 45.75 × 21.5 in.). Abu Dhabi, Louvre Abu Dhabi."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 × 116 × 54.5 cm (33 × 45.75 × 21.5 in.). Abu Dhabi, Louvre Abu Dhabi. Photo: © Department of Culture and Tourism – Abu Dhabi / Thierry Ollivier"
     download: true
 
   - id: "fig-6-5"
@@ -645,7 +645,7 @@ figure_list:
   - id: "fig-7-2"
     src: "figures/fig-7-2.jpg"
     label: "Figure 7-2"
-    caption: "Left profile of 71.DA.96.1."
+    caption: "Right side of 71.DA.96.1."
     download: true
 
   - id: "fig-7-3"
@@ -663,13 +663,13 @@ figure_list:
   - id: "fig-7-5"
     src: "figures/fig-7-5.jpg"
     label: "Figure 7-5"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode* (one of a pair), ca. 1750. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; *brèche d'Alep* marble top; brass and iron locks, 92.5 × 150 × 64.5 cm (36.5 × 59 × 25.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37418."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode* (one of a pair), ca. 1750. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; *brèche d'Alep* marble top; brass and iron locks, 92.5 × 150 × 64.5 cm (36.5 × 59 × 25.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37418. © Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden / Foto: Frank Dornacher"
     download: true
 
   - id: "fig-7-6"
     src: "figures/fig-7-6.jpg"
     label: "Figure 7-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, mid-eighteenth century. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; marble top; brass and iron locks, 89 × 146 × 67 (35 × 57.5 × 26.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37348."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, mid-eighteenth century. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; marble top; brass and iron locks, 89 × 146 × 67 (35 × 57.5 × 26.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37348. © Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden"
     download: true
 
   - id: "fig-7-7"
@@ -777,7 +777,7 @@ figure_list:
   - id: "fig-8-6"
     src: "figures/fig-8-6.jpg"
     label: "Figure 8-6"
-    caption: "Underneath the central drawer on the back of the desk, a rail is stamped “JME B.V.R.B. JME.”"
+    caption: "Underneath the central drawer on the back of the desk, a rail is stamped “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-8-7"
@@ -789,7 +789,7 @@ figure_list:
   - id: "fig-8-8"
     src: "figures/fig-8-8.jpg"
     label: "Figure 8-8"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Lean-to *secrétaire*, ca. 1750. Oak veneered with tulipwood, inlaid with stylized floral marquetry of kingwood; mounts of chased and gilt bronze; drawers of mahogany, probably relined, 104 × 142.2 × 67.5 cm (41 × 56 × 26.5 in.). Edinburgh, Dalmeny House, collection of the Earl of Rosebery."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Lean-to *secrétaire*, ca. 1750. Oak veneered with tulipwood, inlaid with stylized floral marquetry of kingwood; mounts of chased and gilt bronze; drawers of mahogany, probably relined, 104 × 142.2 × 67.5 cm (41 × 56 × 26.5 in.). Edinburgh, Dalmeny House, collection of the Earl of Rosebery. Private Collection / Photo: Rosebery Estates"
     download: true
 
   - id: "fig-8-9"
@@ -819,7 +819,7 @@ figure_list:
   - id: "fig-8-13"
     src: "figures/fig-8-13.jpg"
     label: "Figure 8-13"
-    caption: "Overlay of one of the desk's interior units, under visible and ultraviolet illumination. A varnishing restoration campaign is made visible in ultraviolet light: the restorer's brushstrokes fail to reach the very back of the unit where the original wax finish is preserved."
+    caption: "One of the desk's interior shelf units, under visible (top) and ultraviolet (bottom) illumination. A varnishing restoration campaign is made visible in ultraviolet light: the restorer's brushstrokes, which appear orange, fail to reach the very back of the unit where the original wax finish is preserved."
     download: true
 
   - id: "fig-8-14"
@@ -891,7 +891,7 @@ figure_list:
   - id: "fig-9-8"
     src: "figures/fig-9-8.jpg"
     label: "Figure 9-8"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Writing table (*table à écrire*), ca. 1755. Oak veneered with tulipwood, kingwood, amaranth, mahogany, ebony, mother-of-pearl, stained horn; gilt bronze mounts; modern velvet, 78.1 × 96.5 × 57.5 cm (30.75 × 38 × 22.6 in.). New York, Metropolitan Museum of Art, 1976.155.100."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Writing table (*table à écrire*), ca. 1755. Oak veneered with tulipwood, kingwood, amaranth, mahogany, ebony, mother-of-pearl, stained horn; gilt bronze mounts; modern velvet, 78.1 × 96.5 × 57.5 cm (30.75 × 38 × 22.6 in.). New York, Metropolitan Museum of Art, Gift of Mr. and Mrs. Charles Wrightsman, 1976, 1976.155.100. Photo: www.metmuseum.org, CC0"
     download: true
 
   - id: "fig-9-9"
@@ -963,25 +963,25 @@ figure_list:
   - id: "fig-10-3"
     src: "figures/fig-10-3.jpg"
     label: "Figure 10-3"
-    caption: "Top of a front leg with the stamp “JME B.V.R.B. JME.”"
+    caption: "Top of a front leg with the stamps “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-10-4"
     src: "figures/fig-10-4.jpg"
     label: "Figure 10-4"
-    caption: "Underneath the table by the left drawer, with the effaced stamp “JME BVRB JME.”"
+    caption: "Underneath the table by the left drawer, with the effaced stamps “JME,” “B.V.R.B,” “JME.”"
     download: true
 
   - id: "fig-10-5"
     src: "figures/fig-10-5.jpg"
     label: "Figure 10-5"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Tulipwood and kingwood with gilt bronze mounts. Vienna, The Princely Collections, Liechtenstein."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Tulipwood and kingwood with gilt bronze mounts, 170 × 81 × 82 cm (66.9 × 31.9 × 32.25 in.). Vienna, The Princely Collections, Liechtenstein. © LIECHTENSTEIN. The Princely Collections, Vaduz-Vienna"
     download: true
 
   - id: "fig-10-6"
     src: "figures/fig-10-6.jpg"
     label: "Figure 10-6"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Amaranth, *bois satiné*, and Japanese lacquer with gilt bronze mounts, 164.5 × 78 × 80 cm (64.75 × 30.75 × 31.5 in.). London, Christie's, June 10, 1993, lot 34."
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Bureau plat*, 1745--49. Amaranth, *bois satiné*, and Japanese lacquer with gilt bronze mounts, 164.5 × 78 × 80 cm (64.75 × 30.75 × 31.5 in.). London, Christie's, June 10, 1993, lot 34. Private Collection. Photo: © Christie's Images / Bridgeman Images"
     download: true
 
   - id: "fig-10-7"
@@ -993,7 +993,7 @@ figure_list:
   - id: "fig-10-8"
     src: "figures/fig-10-8.jpg"
     label: "Figure 10-8"
-    caption: "Edward Holmes Baldock (English, 1777--1845), *Bureau plat*, nineteenth century. Tulipwood and kingwood with gilt bronze mounts, 79 × 161.7 × 80.6 cm (31.1 × 63.7 × 31.7 in.). Los Angeles, Sotheby Parke Bernet, October 31, 1978, lot 795."
+    caption: "Edward Holmes Baldock (English, 1777--1845), *Bureau plat*, nineteenth century. Tulipwood and kingwood with gilt bronze mounts, 79 × 161.7 × 80.6 cm (31.1 × 63.7 × 31.7 in.). Los Angeles, Sotheby Parke-Bernet, October 31, 1978, lot 795. Photo: © Sotheby's"
     download: true
 
   - id: "fig-10-9"
@@ -1029,7 +1029,7 @@ figure_list:
   - id: "fig-10-14"
     src: "figures/fig-10-14.jpg"
     label: "Figure 10-14"
-    caption: "Replacement veneer with horizontally oriented grain on the table's sides, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from “aging” with acid."
+    caption: "Replacement veneer with horizontally oriented grain on one of the drawer fronts, pictured here with frame mount removed. Oak veneer patches can be seen at either end. The veneer is rough and blistered, probably from “aging” with acid."
     download: true
 
   - id: "fig-10-15"
@@ -1041,7 +1041,7 @@ figure_list:
   - id: "fig-10-16"
     src: "figures/fig-10-16.jpg"
     label: "Figure 10-16"
-    caption: "Backside detail of one of the tabletop mounts. These are fixed to the secondary wood with slotted head bolts that run through the frame and are secured with nuts soldered to the backsides of the mounts. The threading of the bolts conforms to a British nineteenth-century standard."
+    caption: "Backside detail of one of the tabletop mounts. These are fixed to the secondary wood with slotted-head bolts that run through the frame and are secured with nuts soldered to the backsides of the mounts. The threading of the bolts conforms to a British nineteenth-century standard."
     download: true
 
   - id: "cat-11"
@@ -1059,13 +1059,13 @@ figure_list:
   - id: "fig-11-2"
     src: "figures/fig-11-2.jpg"
     label: "Figure 11-2"
-    caption: "Delineator, Nicolas Pineau (French, 1684--1754), and publisher, Jean Mariette (French, 1694--1774), *Dessin de Lambris d'une chambre à coucher avec lit en niche*, ca. 1727. Engraving on white laid paper, platemark: 30.1 × 21.1 cm (11.8 × 8.3 in), sheet: 41.5 × 27.8 cm (16.3 × 10.9 in.). New York, Cooper Hewitt, Smithsonian Design Museum, 1959-85-49."
+    caption: "Delineator, Nicolas Pineau (French, 1684--1754), and publisher, Jean Mariette (French, 1694--1774), *Dessin de Lambris d'une chambre à coucher avec lit en niche*, ca. 1727. Engraving on white laid paper, platemark: 30.1 × 21.1 cm (11.8 × 8.3 in.), sheet: 41.5 × 27.8 cm (16.3 × 10.9 in.). New York, Cooper Hewitt, Smithsonian Design Museum, 1959-85-49. Photo: www.si.edu, CC0"
     download: true
 
   - id: "fig-11-3"
     src: "figures/fig-11-3.jpg"
     label: "Figure 11-3"
-    caption: "Nicolas Pineau (French, 1684--1754), *Encoignure avec pendule*, eighteenth century. Pen, gray wash, brown wash, 27.7 × 7.5 cm (11 × 3 in.). Paris, musée des Arts décoratifs, inv. no. 4504."
+    caption: "Nicolas Pineau (French, 1684--1754), *Encoignure avec pendule*, eighteenth century. Pen, gray wash, brown wash, 27.7 × 7.5 cm (11 × 3 in.). Paris, Musée des Arts décoratifs, collection UFAC, inv. no. 4504. Photo: © MAD, Paris / madparis.fr"
     download: true
 
   - id: "fig-11-4"
@@ -1160,13 +1160,13 @@ figure_list:
   - id: "fig-12-2"
     src: "figures/fig-12-2.jpg"
     label: "Figure 12-2"
-    caption: "On top of the front right leg stile is stamped “IDUBOIS JME JME” (78.DA.119.2)."
+    caption: "On top of the front right leg stile is stamped “IDUBOIS,” “JME,” “JME” (78.DA.119.2)."
     download: true
 
   - id: "fig-12-3"
     src: "figures/fig-12-3.jpg"
     label: "Figure 12-3"
-    caption: "Jacques Dubois (French, 1694--1763), Pair of corner cupboards, ca. 1750. Oak veneered with bloodwood, softwood, and kingwood; gilt bronze mounts; *fleur de pêcher* marble top, 105 × 85 × 54 cm (41 × 33 × 21 in.). Rome, Palazzo del Quirinale."
+    caption: "Jacques Dubois (French, 1694--1763), Pair of corner cupboards, ca. 1750. Oak veneered with bloodwood, softwood, and kingwood; gilt bronze mounts; *fleur de pêcher* marble top, 105 × 85 × 54 cm (41 × 33 × 21 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma – Foto: Araldo De Luca"
     download: true
 
   - id: "fig-12-4"
@@ -1262,13 +1262,13 @@ figure_list:
   - id: "fig-13-1"
     src: "figures/fig-13-1.jpg"
     label: "Figure 13-1"
-    caption: "Right profile."
+    caption: "Left profile."
     download: true
 
   - id: "fig-13-2"
     src: "figures/fig-13-2.jpg"
     label: "Figure 13-2"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-13-3"
@@ -1286,7 +1286,7 @@ figure_list:
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
     label: "Figure 13-5"
-    caption: "On the top rear right post is stamped “IDUBOIS” and “JME.”"
+    caption: "On the top front right post is stamped “IDUBOIS” and “JME.”"
     download: true
 
   - id: "fig-13-6"
@@ -1328,7 +1328,7 @@ figure_list:
   - id: "fig-13-12"
     src: "figures/fig-13-12.jpg"
     label: "Figure 13-12"
-    caption: "Composite X-ray of the *secrétaire*'s full front showing the vertical joints between the original Asian wood panels on which the lacquer was first applied."
+    caption: "Composite X-ray of the *secrétaire*'s fall front showing the vertical joints between the original Asian wood panels on which the lacquer was first applied."
     download: true
 
   - id: "fig-13-13"
@@ -1364,7 +1364,7 @@ figure_list:
   - id: "fig-14-1"
     src: "figures/fig-14-1.jpg"
     label: "Figure 14-1"
-    caption: "Right side."
+    caption: "Right profile."
     download: true
 
   - id: "fig-14-2"
@@ -1376,7 +1376,7 @@ figure_list:
   - id: "fig-14-3"
     src: "figures/fig-14-3.jpg"
     label: "Figure 14-3"
-    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 × 139 × 58.5 cm (33 × 55 × 23 in.). London, Victoria and Albert Museum, 1013-1882."
+    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 × 139 × 58.5 cm (33 × 55 × 23 in.). London, Victoria and Albert Museum, 1013-1882. © Victoria and Albert Museum, London"
     download: true
 
   - id: "fig-14-4"
@@ -1394,7 +1394,7 @@ figure_list:
   - id: "fig-14-6"
     src: "figures/fig-14-6.jpg"
     label: "Figure 14-6"
-    caption: "Top; the four corner posts are attached to the perimeter rails using a single, open-faced dovetail method."
+    caption: "Top; the four corner posts are attached to the perimeter rails using single, open-faced dovetails."
     download: true
 
   - id: "fig-14-7"
@@ -1418,13 +1418,13 @@ figure_list:
   - id: "fig-14-10"
     src: "figures/fig-14-10.jpg"
     label: "Figure 14-10"
-    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 × 99 × 61.8 cm (30.9 × 38.9 × 24.3 in.). Leeds, Temple Newsam."
+    caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 × 99 × 61.8 cm (30.9 × 38.9 × 24.3 in.). Leeds, Temple Newsam. Photo: Leeds Museums and Art Galleries (Temple Newsam House) UK / Bridgeman Images"
     download: true
 
   - id: "fig-14-11"
     src: "figures/fig-14-11.jpg"
     label: "Figure 14-11"
-    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 × 110 × 56 cm (70 × 43.3 × 22 in.). Leeds, Temple Newsam."
+    caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 × 110 × 56 cm (70 × 43.3 × 22 in.). Leeds, Temple Newsam. Leeds Museums and Art Galleries (Temple Newsam House) UK / Bought with financial assistance from the National Art Collection Fund (with a contribution from the Wolfson Foundation), the LMA/V&A Purchase Grant Fund, the Esmee Fairbairn Foundation, the Pilgrim Trust, the Leeds Art Collections Fund, the Arnold Burton 1998 Charitable Trust, the Leche Trust, the A & S Burton 1960 Charitable Trust, Giles Eilwood Limited, the Tomasso Brothers Limited, and Dr. Terry Friedman / Bridgeman Images"
     download: true
 
   - id: "fig-14-12"
@@ -1502,7 +1502,7 @@ figure_list:
   - id: "fig-15-6"
     src: "figures/fig-15-6.jpg"
     label: "Figure 15-6"
-    caption: "Joseph Baumhauer (French, died 1772) and Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, mid-eighteenth century. Oak, amaranth, red wood, gilt bronze, marquetry, 133 × 106 × 46 cm (52 × 42 × 18 in.). Saint Petersburg, State Hermitage Museum, MB 434."
+    caption: "Joseph Baumhauer (French, died 1772) and Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, mid-eighteenth century. Oak, amaranth, red wood, gilt bronze, marquetry, 133 × 106 × 46 cm (52 × 42 × 18 in.). Saint Petersburg, State Hermitage Museum, MB 434. Photo: © The State Hermitage Museum / Vladimir Terebenin"
     download: true
 
   - id: "fig-15-7"
@@ -1562,7 +1562,7 @@ figure_list:
   - id: "fig-15-16"
     src: "figures/fig-15-16.jpg"
     label: "Figure 15-16"
-    caption: "Detail of an anchor bridge brazed to the underside of the gilt molding. These help secure the molding around the top of the bureau."
+    caption: "Detail of an anchor bridge soldered to the underside of the gilt molding. These help secure the molding around the top of the bureau."
     download: true
 
   - id: "cat-16"
@@ -1586,13 +1586,13 @@ figure_list:
   - id: "fig-16-3"
     src: "figures/fig-16-3.jpg"
     label: "Figure 16-3"
-    caption: "Jean-Pierre Latz (French, 1691--1754), Commode, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 × 153 × 66.5 cm (34.5 × 60 × 26 in.). Rome, Palazzo del Quirinale."
+    caption: "Jean-Pierre Latz (French, 1691--1754), Commode, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 × 153 × 66.5 cm (34.5 × 60 × 26 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-16-4"
     src: "figures/fig-16-4.jpg"
     label: "Figure 16-4"
-    caption: "Carl Hårleman (Swedish, 1700--1753), *A Clock and a Commode*, ca. 1744--45. Pen and ink tracing on thin yellow, probably oiled, paper. Stockholm, Nationalmuseum, THC 7158."
+    caption: "Carl Hårleman (Swedish, 1700--1753), *A Clock and a Commode*, ca. 1744--45. Pen and ink tracing on thin yellow, probably oiled, paper. Stockholm, Nationalmuseum, NMH THC 7158. Photo: Nationalmuseum Sweden"
     download: true
 
   - id: "fig-16-5"
@@ -1622,7 +1622,7 @@ figure_list:
   - id: "fig-16-9"
     src: "figures/fig-16-9.jpg"
     label: "Figure 16-9"
-    caption: "Interior of the Latz commode in Rome, Palazzo del Quirinale (see [fig. 16-3](#fig-16-3)). This version appears outwardly identical to the Museum's, but its joinery method is largely plank construction."
+    caption: "Interior of the Latz commode in Rome, Palazzo del Quirinale (see [fig. 16-3](#fig-16-3)). This version appears outwardly identical to the Museum's, but its joinery method is largely plank construction. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-16-10"
@@ -1640,7 +1640,7 @@ figure_list:
   - id: "fig-16-12"
     src: "figures/fig-16-12.jpg"
     label: "Figure 16-12"
-    caption: "Line drawing showing the restoration method used to fill a split on the right side of the commode."
+    caption: "In order to repair a split, the side of the commode was sawn through along the red line; the loose section that resulted was then slid toward the back to fill the split."
     download: true
 
   - id: "fig-16-13"
@@ -1670,13 +1670,13 @@ figure_list:
   - id: "fig-17-1"
     src: "figures/fig-17-1.jpg"
     label: "Figure 17-1"
-    caption: "Jean-Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 × 82.5 × 59 cm (37 × 32.5 × 23 in.). Rome, Palazzo del Quirinale."
+    caption: "Jean-Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 × 82.5 × 59 cm (37 × 32.5 × 23 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-17-2"
     src: "figures/fig-17-2.jpg"
     label: "Figure 17-2"
-    caption: "Juste Chevillet (French, 1729--1802) after Louis Tessier (French, 1719--1781), *Lys*, from *Livre de principes de fleurs, dédié aux dames*, ca. 1755. Engraving with etching. Getty Research Institute, Los Angeles, P860001."
+    caption: "Juste Chevillet (French, 1729--1802) after Louis Tessier (French, 1719--1781), *Lys*, from *Livre de principes de fleurs, dédié aux dames*, ca. 1755. Engraving with etching. Los Angeles, Getty Research Institute, P860001 (2918-915)."
     download: true
 
   - id: "fig-17-3"
@@ -1688,7 +1688,7 @@ figure_list:
   - id: "fig-17-4"
     src: "figures/fig-17-4.jpg"
     label: "Figure 17-4"
-    caption: "Schematic diagram showing the original and restored reverse structures for the 72.DA.39 cabinets."
+    caption: "Schematic diagram showing the original and restored structures for the 72.DA.39 cabinets."
     download: true
 
   - id: "fig-17-5"
@@ -1718,7 +1718,7 @@ figure_list:
   - id: "fig-17-9"
     src: "figures/fig-17-9.jpg"
     label: "Figure 17-9"
-    caption: "Detail showing the wire finishing nails that were used to join the bottom to the side rails of the cabinet."
+    caption: "Bottom of 72.DA.39.2. The bottom boards behind the front legs are replaced and are fastened to the case sides with modern wire nails."
     download: true
 
   - id: "fig-17-10"
@@ -1730,7 +1730,7 @@ figure_list:
   - id: "fig-17-11"
     src: "figures/fig-17-11.jpg"
     label: "Figure 17-11"
-    caption: "The fronts of the corner mounts from both cabinets. The original mount is on the top and the copies are beneath."
+    caption: "The left front of the corner mounts taken from each of the four cabinets. The first casting is on the top and the copies are beneath."
     download: true
 
   - id: "fig-17-12"
@@ -1742,7 +1742,7 @@ figure_list:
   - id: "fig-17-13"
     src: "figures/fig-17-13.jpg"
     label: "Figure 17-13"
-    caption: "Framing mount from a 72.DA.39 cabinet (left side of each image) compared to a corresponding mount from a 72.DA.69 cabinet (right side of each image). The solder line is visible on the 72.DA.39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during soldering) is visible in the brazing metal on the reverse."
+    caption: "Framing mount from a 72.DA.39 cabinet (left side of each image) compared to a corresponding mount from a 72.DA.69 cabinet (right side of each image). The solder line is visible on the 72.DA.39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during soldering) is visible in the soldering metal on the reverse."
     download: true
 
   - id: "fig-17-14"
@@ -1814,7 +1814,7 @@ figure_list:
   - id: "fig-18-6"
     src: "figures/fig-18-6.jpg"
     label: "Figure 18-6"
-    caption: "Jean-François Oeben (French, born Germany, 1721--1763), and Roger Vandercruse, called Lacroix (French, 1727--1799), Mechanical table, ca. 1761--63. Oak veneered with mahogany, kingwood, and tulipwood, with marquetry of mahogany, rosewood, holly, and various other woods; gilt bronze mounts; imitation Japanese lacquer; replaced silk, 69.9 × 81.9 × 46.7 cm (27.5 × 32.2 × 18.4 in.). New York, Metropolitan Museum of Art, 1982.60.61."
+    caption: "Jean-François Oeben (French, born Germany, 1721--1763), and Roger Vandercruse, called Lacroix (French, 1727--1799), Mechanical table, ca. 1761--63. Oak veneered with mahogany, kingwood, and tulipwood, with marquetry of mahogany, rosewood, holly, and various other woods; gilt bronze mounts; imitation Japanese lacquer; replaced silk, 69.9 × 81.9 × 46.7 cm (27.5 × 32.2 × 18.4 in.). New York, Metropolitan Museum of Art, The Jack and Belle Linsky Collection, 1982, 1982.60.61. Photo: www.metmuseum.org, CC0"
     download: true
 
   - id: "fig-18-7"
@@ -1832,7 +1832,7 @@ figure_list:
   - id: "fig-18-9"
     src: "figures/fig-18-9.jpg"
     label: "Figure 18-9"
-    caption: "Spring release mechanism of a table in the collection of the Victoria and Albert Museum, inv. no. 1095:1 to 3-1882."
+    caption: "Spring release mechanism of a table in the collection of the Victoria and Albert Museum, inv. no. 1095:1 to 3-1882. © Victoria and Albert Museum, London"
     download: true
 
   - id: "fig-18-10"
@@ -1906,7 +1906,7 @@ figure_list:
   - id: "fig-18-18"
     src: "figures/fig-18-18.jpg"
     label: "Figure 18-18"
-    caption: "Detail of an X-radiograph showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate. The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
+    caption: "Detail of an X-radiograph showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate (compare to [fig. 19-12](#fig-19-12)). The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
     download: true
 
   - id: "fig-18-19"
@@ -1960,13 +1960,13 @@ figure_list:
   - id: "fig-19-4"
     src: "figures/fig-19-4.jpg"
     label: "Figure 19-4"
-    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1755. Oak veneered with amaranth, burl wood, bloodwood, kingwood, and mahogany; marquetry in polychrome wood and green-stained ivory; Japanese lacquer; gilt bronze mounts, 68.3 × 79.5 × 44.8 cm (27 × 31 × 17.5 in.). Paris, musée du Louvre, OA 10404."
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1755. Oak veneered with amaranth, burl wood, bloodwood, kingwood, and mahogany; marquetry in polychrome wood and green-stained ivory; Japanese lacquer; gilt bronze mounts, 68.3 × 79.5 × 44.8 cm (27 × 31 × 17.5 in.). Paris, Musée du Louvre, OA 10404. Photo: © Musée du Louvre, Dist. RMN-Grand Palais / Thierry Ollivier / Art Resource, NY"
     download: true
 
   - id: "fig-19-5"
     src: "figures/fig-19-5.jpg"
     label: "Figure 19-5"
-    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore maple, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 × 80 × 43 cm (28 × 31.5 × 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109."
+    caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore maple, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 × 80 × 43 cm (28 × 31.5 × 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109. Photo: © Sotheby's / Art Digital Studio"
     download: true
 
   - id: "fig-19-6"
@@ -2008,7 +2008,7 @@ figure_list:
   - id: "fig-19-12"
     src: "figures/fig-19-12.jpg"
     label: "Figure 19-12"
-    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-14. The thickness of the glue lines also gives clues to the marquetry techniques used."
+    caption: "Detail of an X-radiograph of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-18. The thickness of the glue lines also gives clues to the marquetry techniques used."
     download: true
 
   - id: "fig-19-13"
@@ -2164,7 +2164,7 @@ figure_list:
   - id: "fig-21-4"
     src: "figures/fig-21-4.jpg"
     label: "Figure 21-4"
-    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58 (designed). Carcass of oak veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*; mounts of gilt bronze; slab of *rouge de Villefranche* (possibly Languedoc) marble, 86 × 127 × 62.3 cm (33.85 × 50 × 24.5 in.). London, Victoria and Albert Museum, 1013-1882."
+    caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58 (designed). Carcass of oak veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*; mounts of gilt bronze; slab of *rouge de Villefranche* (possibly Languedoc) marble, 86 × 127 × 62.3 cm (33.85 × 50 × 24.5 in.). London, Victoria and Albert Museum, 1013-1882. Photo: © Victoria and Albert Museum, London"
     download: true
 
   - id: "fig-21-5"
