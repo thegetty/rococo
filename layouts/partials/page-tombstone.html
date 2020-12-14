@@ -47,8 +47,12 @@
       {{ end }}
       {{ if .id }}
         {{ range where $.Site.Data.objects.object_list "id" "eq" .id }}
-          {{ if .link }}
-          <a href="{{ .link | safeURL }}" target="_blank" class="button">{{ $.Site.Params.entryPageObjectLinkText }} {{- partial "icon.html" (dict "type" "link" "description" "") -}}</a>
+          {{  if .links }}
+            {{ range .links }}
+              <a href="{{ .link | safeURL }}" target="_blank" class="button">{{ if .text }}{{ .text }}{{ else }}{{ $.Site.Params.entryPageObjectLinkText }}{{ end }} {{- partial "icon.html" (dict "type" "link" "description" "") -}}</a>
+            {{ end }}
+          {{ else if .link }}
+            <a href="{{ .link | safeURL }}" target="_blank" class="button">{{ $.Site.Params.entryPageObjectLinkText }} {{- partial "icon.html" (dict "type" "link" "description" "") -}}</a>
           {{ end }}
         {{ end }}
       {{ else }}

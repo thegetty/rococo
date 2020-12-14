@@ -133,7 +133,7 @@ object_list:
     materials: "White oak and white pine*, veneered with tulipwood*, stained pear*, and ebony*; drawers of walnut and white oak; gilt bronze mounts; brass, steel, and iron hardware and locks; replacement leather top"
     dimensions: "H: 2 ft. 7 in., W: 5 ft. 4 1/2 in., D: 2 ft. 7 1/2 in. (78.7 × 163.8 × 79.6 cm)"
     accession_number: 78.DA.84
-    link:
+    link: https://www.getty.edu/art/collection/objects/5628/
     figure:
       - id: "cat-10"
 
@@ -226,7 +226,11 @@ object_list:
     accession_number: 72.DA.39.1–.2
     dimensions_two: "H: 3 ft. 1/4 in., W: 2 ft. 8 1/4 in., D: 2 ft. (92.1 × 81.9 × 61 cm)"
     accession_number_two: 72.DA.69.1–.2
-    link: https://www.getty.edu/art/collection/objects/5454/
+    links:
+      - link: https://www.getty.edu/art/collection/objects/5454/
+        text: View 72.DA.39 in the Collection
+      - link: https://www.getty.edu/art/collection/objects/5503/
+        text: View 72.DA.69 in the Collection
     figure:
       - id: "cat-17"
 

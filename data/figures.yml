@@ -1664,6 +1664,7 @@ figure_list:
   - id: "cat-17"
     src: "figures/cat-17.jpg"
     label: "Catalogue 17"
+    caption: "72.DA.39.1–.2 are on top, 72.DA.69.1–.2 are below."
     alt: "Main view: front of both"
     download: true
 
