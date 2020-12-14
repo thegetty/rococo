@@ -65,7 +65,7 @@ This publication was created using Quire™, a multiformat publishing tool from 
 </svg>
 {{< /q-class >}}
 
-The text and figures of this work are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/). Figs. X, XX, XY, etc. are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License]((https://creativecommons.org/licenses/by-nc/4.0/)). Figs. 1, 1-6, 2-6, 2-11, 3-6, 3-16, 4-3, 4-8, 5-3, 5-11, 6-3, 6-4, 7-5, 7-6, 8-8, 9-8, 10-5, 10-6, 10-8, 11-2, 11-3, 12-3, 14-3, 14-10, 14-11, 15-6, 16-3, 16-4, 16-9, 17-1, 17-2, 18-6, 18-9, 19-4, 19-5, and 21-4 are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
 
 **Published by the J. Paul Getty Museum, Los Angeles**<br />
 Getty Publications<br />
@@ -88,6 +88,7 @@ Library of Congress Cataloging-in-Publication Data
 
 {{< /q-class >}}
 
-Front cover: Detail of [cat. no. 16](/catalogue/16/)
+Front cover: Detail of [cat. no. 16](/catalogue/16/)<br />
+Back cover: [Cat. no. 11](/catalogue/11/)
 
 {{< /q-class >}}

@@ -8,7 +8,9 @@ toc: false
 
 {{< q-class "backmatter" >}}
 
-This publication was created using Quire™, a multiformat publishing tool from Getty. The free online edition of this publication available at [getty.edu/publications/rococo/](http://getty.edu/publications/rococo/) includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book, and JPG downloads of the main catalogue images.
+This publication was created using Quire™, a multiformat publishing tool from Getty.
+
+The free online edition of this publication available at [getty.edu/publications/rococo/](http://getty.edu/publications/rococo/) includes zoomable high-resolution photography. Also available are free PDF, EPUB, and Kindle/MOBI downloads of the book, and JPG downloads of the main catalogue images.
 
 © 2021 J. Paul Getty Trust
 
