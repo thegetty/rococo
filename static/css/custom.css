@@ -185,7 +185,7 @@ Spectral Light
 
 /* LOC Cataloguing in Publication format */
 .quire-page__content .container .content .cip-data p {
-  display: none;
+  margin-bottom: 0;
 }
 .quire-page__content .container .content .cip-data ul {
   margin-left: 0;

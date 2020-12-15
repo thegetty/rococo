@@ -42,11 +42,34 @@ Distributed outside the United States and Canada by Yale University Press, Londo
 
 Library of Congress Cataloging-in-Publication Data
 
-- TK
+- Names: J. Paul Getty Museum, author, issuing body. | Desmas, Anne-Lise,
+   editor, writer of introduction. | Chasen, Jessica, contributor.
+- Title: French Rococo ébénisterie in the J. Paul Getty Museum / Gillian
+   Wilson and Arlen Heginbotham ; edited and with an introduction by
+   Anne-Lise Desmas ; with Jessica Chasen, Yannick Chastang, Jan Dorscheid,
+    Clara von Englehardt, Phillipe Halbert, Katrina Posner, Michael
+   Schilling, and Ron Schmidtling
+- Description: First edition. | Los Angeles : J. Paul Getty Museum, 2021. |
+   Includes bibliographical references. | Summary: “Catalogue of the Rococo
+   ébénisterie furniture in the collection of the J. Paul Getty Museum”—
+   Provided by publisher.
+- Identifiers: LCCN 2020036837 (print) | LCCN 2020036838 (ebook) | ISBN
+   9781606066300 (paperback) | ISBN 9781606066324 (ebook) | ISBN
+   9781606066317
+- Subjects: LCSH: J. Paul Getty Museum—Catalogs. |
+   Furniture—France—History—18th century—Catalogs. |
+   Cabinetwork—France—History—18th century—Catalogs. | Furniture,
+   Rococo—France—Catalogs. | Furniture—California—Los
+   Angeles—Catalogs.
+- Classification: LCC NK2548 .J285 2021  (print) | LCC NK2548  (ebook) | DDC
+   749.0944/09033—dc23
+- LC record available at https://lccn.loc.gov/2020036837
+- LC ebook record available at https://lccn.loc.gov/2020036838
+
 
 {{< /q-class >}}
 
-Front cover: Detail of [cat. no. 16](/catalogue/16/)
+Front cover: Detail of [cat. no. 16](/catalogue/16/)<br />
 Back cover: [Cat. no. 11](/catalogue/11/)
 
 {{< /q-class >}}
