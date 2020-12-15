@@ -296,6 +296,13 @@ Spectral Light
     font-size: 7.5pt;
   }
 
+  /* Add ornament to blank pages */
+  @page:blank {
+    background-image: url("../img/blank-page.svg");
+    background-repeat: no-repeat ;
+    background-position: center 45%;
+  }
+
   /* Add padding to make for better page breaking */
   #intro .quire-page__content .container .content,
   #catalogue-21 .quire-page__content .container .content {
