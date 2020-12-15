@@ -32,7 +32,7 @@ In the list of materials at the beginning of each entry, woods that are marked w
 | mahogany | _Swietenia_ spp. | _acajou_ |
 | maple | _Acer_ spp. | _érable_ |
 | oak | _Quercus_ spp. | _chêne_ |
-| padouk | _Pterocarpus_ spp. | _padouk_ or _corail_ |
+| padauk | _Pterocarpus_ spp. | _padouk_ or _corail_ |
 | pear | _Pyrus_ spp. | _poirier_ |
 | poplar | _Populus_ spp. | _peuplier_ |
 | rosewood | _Dalbergia_ spp. | _palissandre_ |
