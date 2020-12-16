@@ -185,7 +185,7 @@ Spectral Light
 
 /* LOC Cataloguing in Publication format */
 .quire-page__content .container .content .cip-data p {
-  display: none;
+  margin-bottom: 0;
 }
 .quire-page__content .container .content .cip-data ul {
   margin-left: 0;
@@ -263,10 +263,66 @@ Spectral Light
   font-size: 1.3125rem;
 }
 
+.is-epub-only {
+  display: none;
+}
+@media print {
+  html body figure.remove-from-epub {
+    display: block;
+  }
+  html body span.remove-from-epub {
+    display: inline;
+  }
+  html body figure.remove-from-epub.is-screen-only,
+  html body span.remove-from-epub.is-screen-only {
+    display: none;
+  }
+}
 
 /* PRINT
 ============================================================================= */
 @media print {
+
+  @page:left {
+    @bottom-right {
+      content: flow(sectiontitle);
+    }
+  }
+  @page:right {
+    @bottom-left {
+      content: flow(pagetitle);
+    }
+  }
+  .pdf-page-title {
+    flow: static(pagetitle);
+    font-family: Times, serif;
+    font-size: 8pt;
+    color: #000000;
+  }
+
+  .pdf-page-section {
+    flow: static(sectiontitle);
+    font-family: Times, serif;
+    font-size: 7.5pt;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+    text-align: right;
+    font-size: 7.5pt;
+  }
+
+  /* Add ornament to blank pages */
+  @page:blank {
+    background-image: url("../img/blank-page.svg");
+    background-repeat: no-repeat ;
+    background-position: center 28%;
+  }
+
+  /* Add padding to make for better page breaking */
+  #intro .quire-page__content .container .content,
+  #catalogue-21 .quire-page__content .container .content {
+    padding-bottom: .125in;
+  }
 
   /* Remove page numbering from splash page */
   @page splash {
@@ -344,8 +400,18 @@ Spectral Light
   .quire-figure.pdf-two-column {
     column-span: all;
   }
+  .quire-figure.pdf-90-percent-width .q-figure__wrapper img {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .quire-figure.pdf-80-percent-width .q-figure__wrapper img {
     max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .quire-figure.pdf-70-percent-width .q-figure__wrapper img {
+    max-width: 70%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -405,6 +471,21 @@ em dashes */
   }
 }
 
+/*
+  In instances in the PDF where there is only a little bit of text on the last
+  page of chapter, the desired output is to have that text fill just one of the
+  two columns and not break across it. This can be acheived by adding
+
+    class: pdf-single-column-last-page
+
+  to the page YAML of the specific pages where this is an issue
+*/
+@media print {
+  .quire-essay.quire-page--pdf-single-column-last-page .quire-page__content,
+  .quire-entry.quire-page--pdf-single-column-last-page .quire-page__content {
+    column-fill: auto;
+  }
+}
 
 .quire-figure.is-pulled-left.image-pair {
   margin-right: .375rem;

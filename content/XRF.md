@@ -1,7 +1,7 @@
 ---
 title: "Technical Note"
 subtitle: "The Use of X-Ray Fluorescence Spectroscopy (XRF) in the Technical Study of Gilt Bronze Mounts in This Catalogue"
-short_title: XRF – Technical Note
+short_title: "Technical Note: The Use of XRF"
 weight: 8
 type: page
 contributor:
