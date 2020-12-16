@@ -263,6 +263,21 @@ Spectral Light
   font-size: 1.3125rem;
 }
 
+.is-epub-only {
+  display: none;
+}
+@media print {
+  html body figure.remove-from-epub {
+    display: block;
+  }
+  html body span.remove-from-epub {
+    display: inline;
+  }
+  html body figure.remove-from-epub.is-screen-only,
+  html body span.remove-from-epub.is-screen-only {
+    display: none;
+  }
+}
 
 /* PRINT
 ============================================================================= */
