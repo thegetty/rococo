@@ -41,7 +41,7 @@ pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn:
-  url: http://www.getty.edu/publications/rococo/
+  url: http://www.getty.edu/publications/rococo # no trailing slash
 
 publisher:
   - name: J. Paul Getty Museum
