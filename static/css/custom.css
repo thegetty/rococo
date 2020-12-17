@@ -177,6 +177,7 @@ Spectral Light
 }
 .quire-contributor__name#initials-ah::after {
   content: "with ";
+  display: inline-block;
 }
 
 
