@@ -169,15 +169,13 @@ Spectral Light
 }
 /* To add a "with" after all of Arlen's contributions on entry pages */
 .content ul.quire-contributors-list.initials li.quire-contributor__name {
-  /* border: 1px solid red; */
   display: inline-block;
   margin-right: .25rem;
-  /* width: fit-content;
-  height: 1rem; */
 }
 .quire-contributor__name#initials-ah::after {
   content: "with ";
   display: inline-block;
+  margin-right: .25rem;
 }
 
 
