@@ -2029,7 +2029,7 @@ figure_list:
   - id: "fig-19-12"
     src: "figures/fig-19-12.jpg"
     label: "Figure 19-12"
-    caption: "Detail of an X-radiograph (top) of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers. Compare to figure 18-18. The thickness of the glue lines also gives clues to the marquetry techniques used."
+    caption: "Detail of an X-radiograph (top) of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers (compare to [fig. 18-18](#fig-18-18)). The thickness of the glue lines also gives clues to the marquetry techniques used."
     download: true
 
   - id: "fig-19-13"
