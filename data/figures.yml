@@ -1065,7 +1065,7 @@ figure_list:
   - id: "fig-11-3"
     src: "figures/fig-11-3.jpg"
     label: "Figure 11-3"
-    caption: "Nicolas Pineau (French, 1684--1754), *Encoignure avec pendule*, eighteenth century. Pen, gray wash, brown wash, 27.7 × 7.5 cm (11 × 3 in.). Paris, Musée des Arts décoratifs, collection UFAC, inv. no. 4504. Photo: © MAD, Paris / madparis.fr"
+    caption: "Nicolas Pineau (French, 1684--1754), *Encoignure avec pendule*, eighteenth century. Pen, gray wash, brown wash, 27.7 × 7.5 cm (11 × 3 in.). Paris, Musée des Arts décoratifs, collection UFAC, inv. no. 4504. Photo: © MAD, Paris. madparis.fr"
     download: true
 
   - id: "fig-11-4"
@@ -1286,7 +1286,7 @@ figure_list:
   - id: "fig-13-5"
     src: "figures/fig-13-5.jpg"
     label: "Figure 13-5"
-    caption: "On the top front right post is stamped “IDUBOIS” and “JME.”"
+    caption: "The top front right post is stamped “IDUBOIS” and “JME.”"
     download: true
 
   - id: "fig-13-6"
@@ -1889,17 +1889,17 @@ figure_list:
   - id: "fig-18-15"
     src: "figures/fig-18-15.gif"
     label: "Figure 18-15"
-    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side, just below the lower brass U-channel. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
+    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
   - id: "fig-18-15-print"
     src: "figures/fig-18-15-print.jpg"
     label: "Figure 18-15"
-    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side, just below the lower brass U-channel. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
+    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
   - id: "fig-18-15-epub"
     src: "figures/fig-18-15-print.jpg"
     label: "Figure 18-15"
-    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side, just below the lower brass U-channel. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
+    caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
 
   - id: "fig-18-16"
