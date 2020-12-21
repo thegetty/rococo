@@ -453,7 +453,7 @@ figure_list:
   - id: "fig-5-3"
     src: "figures/fig-5-3.jpg"
     label: "Figure 5-3"
-    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, Musée du Louvre, OA 11193. © Musée du Louvre, Dist. RMN-Grand Palais / Studio Sébert / Photo: Art Resource, NY"
+    caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, Musée du Louvre, OA 11193. Photo: © Musée du Louvre, Dist. RMN-Grand Palais / Studio Sébert / Art Resource, NY"
     download: true
 
   - id: "fig-5-4"
@@ -543,7 +543,7 @@ figure_list:
   - id: "fig-6-1"
     src: "figures/fig-6-1.jpg"
     label: "Figure 6-1"
-    caption: "Left profile."
+    caption: "Right profile."
     download: true
 
   - id: "fig-6-2"
