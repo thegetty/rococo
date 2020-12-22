@@ -17,7 +17,7 @@ The entry on each work comprises both a curatorial section, with description and
 
 ### Chicago
 
-Wilson, Gillian, and Arlen Heginbotham. *French Rococo Ébénisterie in the J. Paul Getty Museum*. With an introduction by Anne-Lise Desmas. Los Angeles: J. Paul Getty Museum, 2021. http://www.getty.edu/publications/rococo/.
+Wilson, Gillian, and Arlen Heginbotham. *French Rococo Ébénisterie in the J. Paul Getty Museum*. Edited and with an introduction by Anne-Lise Desmas. Los Angeles: J. Paul Getty Museum, 2021. http://www.getty.edu/publications/rococo/.
 
 ### MLA
 

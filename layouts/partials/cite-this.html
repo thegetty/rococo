@@ -3,6 +3,10 @@
     UPDATES THE CITATION PARTIAL BASED ON WORK ALREADY HAPPENING IN
     CORE QUIRE
 
+    ALSO HARD CODES "edited and with an introduction by Anne-Lise Desmas" INTO
+    THE CHICAGO CITATION.
+    
+
     Template for the "Cite this Page" feature. Called as a
     partial, such as:
 
@@ -40,7 +44,7 @@
 
   {{- if eq $citationRange "page" -}}
 
-    {{ if .page.Params.contributor }}{{ template "page-contributors-chicago" .page }}. {{ end }}{{ if .page.Title }}“{{ partial "page-title.html" .page }}.” {{ else if .page.Params.label }}“{{ .page.Params.label }}.” {{ else }}Untitled. {{ end }}In <em>{{ partial "site-title.html" .page }}</em>{{ if gt $siteAuthorCount 0 }}, {{ if gt $siteEditorCount 0 }}edited {{ end }}by {{ template "publication-contributors-chicago" .page }}{{ end }}. {{ template "publishers-chicago" (dict "site" .site)}}{{ with .site.Data.publication.pub_date }}, {{ dateFormat "2006" . }}{{ end }}. <span class="url-string">{{ if .site.Data.publication.identifier.url }}{{ .site.Data.publication.identifier.url }}{{ .page.RelPermalink }}{{ else }}{{ .page.Permalink }}{{ end }}</span>.
+    {{ if .page.Params.contributor }}{{ template "page-contributors-chicago" .page }}. {{ end }}{{ if .page.Title }}“{{ partial "page-title.html" .page }}.” {{ else if .page.Params.label }}“{{ .page.Params.label }}.” {{ else }}Untitled. {{ end }}In <em>{{ partial "site-title.html" .page }}</em>{{ if gt $siteAuthorCount 0 }}, {{ if gt $siteEditorCount 0 }}edited {{ end }}by {{ template "publication-contributors-chicago" .page }}{{ end }}, edited and with an introduction by Anne-Lise Desmas. {{ template "publishers-chicago" (dict "site" .site)}},{{ with .site.Data.publication.pub_date }}, {{ dateFormat "2006" . }}{{ end }}. <span class="url-string">{{ if .site.Data.publication.identifier.url }}{{ .site.Data.publication.identifier.url }}{{ .page.RelPermalink }}{{ else }}{{ .page.Permalink }}{{ end }}</span>.
 
   {{- else if eq $citationRange "site" -}}
 
