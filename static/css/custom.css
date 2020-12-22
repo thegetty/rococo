@@ -423,6 +423,14 @@ Spectral Light
     page-break-after: always;
     column-break-after: always;
   }
+  .quire-figure--group.pdf-align-grid-bottom .quire-grid--2 {
+    display: flex;
+    align-items: flex-end;
+  }
+  .quire-figure--group.pdf-align-grid-bottom .quire-grid--2 .q-figure__wrapper,
+  .quire-figure--group.pdf-align-grid-bottom .quire-grid--2 .q-figure__wrapper a {
+    width: 100%;
+  }
 
   /* Tighten up footnotes */
   .quire-page__content .content .footnotes ol li {
