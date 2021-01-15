@@ -6,6 +6,10 @@
 
   q-contributor range="page" role="conservator" format="initials"
 
+  THERE IS ALSO SOME CUSTOM CSS ADDED IN static/css/custom.css THAT ADDS THE
+  MODIFER "with" AFTER ARLEN’S INITIALS, AND HERE REMOVES AN UNNECCESARY
+  OXFORD COMMA IN SOME SITUATIONS BECAUSE OF THAT. AND ALSO ADDS A COMMAN AND
+  REMOVES AN "and". SEE LINES 301–306 BELOW.
 
   The q-contributor shortcode can be used to create a page of contributor
   biographies, a section of bios for a single page, a list of contributors,
@@ -294,12 +298,12 @@
       {{- if eq $len 1 -}}
       <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}">{{ range $initials }}{{ . }}.{{ end }}</li>
       {{- else if eq (add $index 1) $len -}}
-      <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}"> and {{ range $initials }}{{ . }}.{{ end }}</li>
+      <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}">{{ if and (eq $listRole "conservator") (eq $len 2) }} {{ else }} and {{ end }}{{ range $initials }}{{ . }}.{{ end }}</li>
       {{- else -}}
         {{- if eq $len 2 -}}
-          <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}">{{ range $initials }}{{ . }}.{{ end }} </li>
+          <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}">{{ range $initials }}{{ . }}.{{ end }}{{ if eq $listRole "conservator" }}, {{ else }} {{ end }}</li>
         {{- else -}}
-          <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}">{{ range $initials }}{{ . }}.{{ end }}, </li>
+          <li class="quire-contributor__name" id="initials-{{ range $initials }}{{ . | urlize }}{{ end }}">{{ range $initials }}{{ . }}.{{ end }}{{ if and (and (eq $listRole "conservator") (eq $len 3)) (eq $index 1) }} {{ else }}, {{ end }}</li>
         {{- end -}}
       {{- end -}}
     {{- end -}}

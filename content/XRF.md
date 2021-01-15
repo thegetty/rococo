@@ -1,7 +1,7 @@
 ---
 title: "Technical Note"
 subtitle: "The Use of X-Ray Fluorescence Spectroscopy (XRF) in the Technical Study of Gilt Bronze Mounts in This Catalogue"
-short_title: XRF – Technical Note
+short_title: "Technical Note: The Use of XRF"
 weight: 8
 type: page
 contributor:
@@ -33,9 +33,9 @@ In addition to quantitative analysis of base alloys, XRF analysis can provide us
 ## Notes
 {{< /q-class >}}
 
-[^1]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 35. 
+[^1]: {{< q-cite "De Bellaigue 1974" >}}, vol. 1, 35.
 
-[^2]: {{< q-cite "de Bellaigue 1974" >}}, vol. 1, 36; {{< q-cite "Jacobsen 2016" >}}. On present-day deceptive reproduction, see, e.g., Vincent Noce, “New Twist in Fake Antique Furniture Scandal Overshadows Opening of Biennale des Antiquaires in Paris,” *Art Newspaper*, September 8, 2016.
+[^2]: {{< q-cite "De Bellaigue 1974" >}}, vol. 1, 36; {{< q-cite "Jacobsen 2016" >}}. On present-day deceptive reproduction, see, e.g., Vincent Noce, “New Twist in Fake Antique Furniture Scandal Overshadows Opening of Biennale des Antiquaires in Paris,” *Art Newspaper*, September 8, 2016.
 
 [^3]: We have chosen to use the terms “solder” and “soldering metal” in this volume because they are familiar and correspond well with the widely used French terms “souder” and “soudure.” In this context, the terms refer to joining pieces of brass by the addition of a lower melting brass alloy that is melted into the joint. This procedure would in fact be more properly referred to in technical English terms as “brazing” and the metal used as “brazing metal.”
 

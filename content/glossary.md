@@ -32,7 +32,7 @@ In the list of materials at the beginning of each entry, woods that are marked w
 | mahogany | _Swietenia_ spp. | _acajou_ |
 | maple | _Acer_ spp. | _érable_ |
 | oak | _Quercus_ spp. | _chêne_ |
-| padouk | _Pterocarpus_ spp. | _padouk_ or _corail_ |
+| padauk | _Pterocarpus_ spp. | _padouk_ or _corail_ |
 | pear | _Pyrus_ spp. | _poirier_ |
 | poplar | _Populus_ spp. | _peuplier_ |
 | rosewood | _Dalbergia_ spp. | _palissandre_ |
@@ -40,10 +40,10 @@ In the list of materials at the beginning of each entry, woods that are marked w
 | service tree | _Sorbus domestica_ | _cormier_ |
 | Spanish cedar | _Cedrela_ spp. | _cèdre_ |
 | stone pine | _Pinus cembra_ | _arolle_ or _pin cembro_ |
-| sycamore maple | _Acer pseudoplatanus_ | _érable sycomore_ or simply _sycomore_) |
+| sycamore maple | _Acer pseudoplatanus_ | _érable sycomore_ or simply _sycomore_ |
 | tulipwood | _Dalbergia_ _decipularis_ | _bois de rose_ |
 | walnut | _Juglans_ spp. | _noyer_ |
 | white oak | _Quercus_ sect. _Quercus_ | _chêne_ |
 | white pine | _Pinus_ subsect _strobus_ | _pin blanc_ |
 
-† There is no recognized common name in English for the unidentified species of _Swartzia_ that was called fereol in eighteenth-century France. In modern English "wamara" is commonly used to refer to any of a number of species of _Swartzia_ and was used in {{< q-cite "Wilson et al. 2008" >}}, 176–77; however, for specificity, we have chosen to use the modern French term according to {{< q-cite "Viaux-Lauquin 1997" >}}.
+† There is no recognized common name in English for the unidentified species of _Swartzia_ that was called *fereol* in eighteenth-century France. In modern English "wamara" is commonly used to refer to any of a number of species of _Swartzia_ and was used in {{< q-cite "Wilson et al. 2008" >}}, 176–77; however, for specificity, we have chosen to use the modern French term according to {{< q-cite "Viaux-Lauquin 1997" >}}.

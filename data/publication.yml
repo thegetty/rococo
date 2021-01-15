@@ -41,7 +41,7 @@ pub_type: book # book | journal-periodical | other
 
 identifier:
   isbn:
-  url: http://www.getty.edu/publications/rococo/
+  url: http://www.getty.edu/publications/rococo # no trailing slash
 
 publisher:
   - name: J. Paul Getty Museum
@@ -133,7 +133,7 @@ license:
   abbreviation: CC BY-NC
   url: http://creativecommons.org/licenses/by-nc/4.0/
   scope: some-exceptions # full | text-only | some-exceptions
-  online_text: "The text and figures of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Figs. X, XX, XY, etc. are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
+  online_text: "Unless otherwise indicated, the text and images of this work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License]((https://creativecommons.org/licenses/by-nc/4.0/)). Figs. 1, 2, 3, 1-6, 2-6, 2-11, 3-6, 3-16, 4-3, 4-8, 5-3, 5-11, 6-3, 6-4, 7-4, 7-5, 7-6, 8-8, 9-8, 10-5, 10-6, 10-8, 11-2, 11-3, 12-3, 14-3, 14-10, 14-11, 15-5, 15-6, 16-3, 16-4, 16-9, 17-1, 17-2, 18-6, 18-9, 19-4, 19-5, 21-3, and 21-4 are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY-NC license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights."
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
@@ -141,17 +141,17 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (12 MB)
+    name: PDF (15.4 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/output.pdf
   - type: other-format
-    name: EPUB (78 MB)
+    name: EPUB (96.5 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /downloads/output.epub
   - type: other-format
-    name: Kindle/MOBI (192 MB)
+    name: Kindle/MOBI (232.7 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
     url: /downloads/output.mobi
@@ -159,7 +159,7 @@ resource_link:
     name: Paperback
     media_type: print
     link_relation: alternate
-    url: https://shop.getty.edu/
+    url: https://shop.getty.edu/products/french-rococo-ebenisterie-in-the-j-paul-getty-museum-978-1606066300
   - type: footer-link
     name: About
     link_relation: about

@@ -169,14 +169,13 @@ Spectral Light
 }
 /* To add a "with" after all of Arlen's contributions on entry pages */
 .content ul.quire-contributors-list.initials li.quire-contributor__name {
-  /* border: 1px solid red; */
   display: inline-block;
   margin-right: .25rem;
-  /* width: fit-content;
-  height: 1rem; */
 }
 .quire-contributor__name#initials-ah::after {
   content: "with ";
+  display: inline-block;
+  margin-left: .25rem;
 }
 
 
@@ -185,7 +184,7 @@ Spectral Light
 
 /* LOC Cataloguing in Publication format */
 .quire-page__content .container .content .cip-data p {
-  display: none;
+  margin-bottom: 0;
 }
 .quire-page__content .container .content .cip-data ul {
   margin-left: 0;
@@ -263,10 +262,66 @@ Spectral Light
   font-size: 1.3125rem;
 }
 
+.is-epub-only {
+  display: none;
+}
+@media print {
+  html body figure.remove-from-epub {
+    display: block;
+  }
+  html body span.remove-from-epub {
+    display: inline;
+  }
+  html body figure.remove-from-epub.is-screen-only,
+  html body span.remove-from-epub.is-screen-only {
+    display: none;
+  }
+}
 
 /* PRINT
 ============================================================================= */
 @media print {
+
+  @page:left {
+    @bottom-right {
+      content: flow(sectiontitle);
+    }
+  }
+  @page:right {
+    @bottom-left {
+      content: flow(pagetitle);
+    }
+  }
+  .pdf-page-title {
+    flow: static(pagetitle);
+    font-family: Times, serif;
+    font-size: 8pt;
+    color: #000000;
+  }
+
+  .pdf-page-section {
+    flow: static(sectiontitle);
+    font-family: Times, serif;
+    font-size: 7.5pt;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+    text-align: right;
+    font-size: 7.5pt;
+  }
+
+  /* Add ornament to blank pages */
+  @page:blank {
+    background-image: url("../img/blank-page.svg");
+    background-repeat: no-repeat ;
+    background-position: center 28%;
+  }
+
+  /* Add padding to make for better page breaking */
+  #intro .quire-page__content .container .content,
+  #catalogue-21 .quire-page__content .container .content {
+    padding-bottom: .125in;
+  }
 
   /* Remove page numbering from splash page */
   @page splash {
@@ -344,19 +399,67 @@ Spectral Light
   .quire-figure.pdf-two-column {
     column-span: all;
   }
+  /* Narrow images for better page fit, alight to left edge */
+  .quire-figure.pdf-90-percent-width .q-figure__wrapper img {
+    max-width: 90%;
+    margin-left: 0;
+    margin-right: 10%;
+  }
   .quire-figure.pdf-80-percent-width .q-figure__wrapper img {
     max-width: 80%;
+    margin-left: 0;
+    margin-right: 20%;
+  }
+  .quire-figure.pdf-70-percent-width .q-figure__wrapper img {
+    max-width: 70%;
+    margin-left: 0;
+    margin-right: 30%;
+  }
+  /* This one is only used on a line drawing, fig. 9-12, and looks better centered */
+  .quire-figure.pdf-60-percent-width .q-figure__wrapper img {
+    max-width: 60%;
     margin-left: auto;
     margin-right: auto;
   }
+  /* When image is only 50% width, float caption to the side */
   .quire-figure.pdf-50-percent-width .q-figure__wrapper img {
-    max-width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 50%;
+    margin-left: 0;
+    margin-right: 1rem;
+    float: left;
   }
+  .quire-figure.pdf-50-percent-width .quire-figure__caption {
+    margin-top: 0;
+  }
+  .quire-figure.pdf-50-percent-width .quire-figure__modal {
+    top: -0.35em;
+    margin-top: 0;
+  }
+  .quire-figure.pdf-50-percent-width + p {
+    clear: both;
+  }
+  /* Break the page after this image */
   .quire-figure.pdf-page-break-after {
     page-break-after: always;
     column-break-after: always;
+  }
+  /* Add a border around the image */
+  .quire-figure.pdf-image-border .q-figure__wrapper img {
+    padding: 1.25rem;
+    border: .5pt solid #777;
+  }
+  /* Align images that are gridded to the bottom of the caption */
+  .quire-figure--group.pdf-align-grid-bottom .quire-grid--2 {
+    display: flex;
+    align-items: flex-end;
+  }
+  .quire-figure--group.pdf-align-grid-bottom .quire-grid--2 .q-figure__wrapper,
+  .quire-figure--group.pdf-align-grid-bottom .quire-grid--2 .q-figure__wrapper a {
+    width: 100%;
+  }
+  /* float the image to the bottom of the column */
+  .quire-figure.pdf-bottom-column {
+    float: column-bottom;
   }
 
   /* Tighten up footnotes */
@@ -380,7 +483,8 @@ Spectral Light
   /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
   method for suggesting places to break words, instead we're using here
   the prince-text-replace specialty attribute to insert zero-width-spaces */
-  a[target=_blank] {
+  a[target=_blank],
+  .url-string a {
     prince-text-replace: "/" "\200B/"
                           "~" "\200B~"
                           "." "\200B."
@@ -405,6 +509,21 @@ em dashes */
   }
 }
 
+/*
+  In instances in the PDF where there is only a little bit of text on the last
+  page of chapter, the desired output is to have that text fill just one of the
+  two columns and not break across it. This can be acheived by adding
+
+    class: pdf-single-column-last-page
+
+  to the page YAML of the specific pages where this is an issue
+*/
+@media print {
+  .quire-essay.quire-page--pdf-single-column-last-page .quire-page__content,
+  .quire-entry.quire-page--pdf-single-column-last-page .quire-page__content {
+    column-fill: auto;
+  }
+}
 
 .quire-figure.is-pulled-left.image-pair {
   margin-right: .375rem;

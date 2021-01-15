@@ -1,0 +1,17 @@
+{{/*
+
+  FIXES THE URL SO THAT IF A CONNONICAL LINK IS PROVIDED IT
+  WILL FORMAT PROPERLY
+
+  Reusable partial to display a list of links.
+*/}}
+
+<ul class="menu-list">
+  {{ range . }}
+  <li>
+    <a href="{{ if .url }}{{ if hasPrefix .url "http" }}{{ .url }}{{ else }}{{ .url | relURL }}{{ end }}{{ else }}#{{ end }}" target="_blank" {{ with .link_relation }}rel="{{ . }}"{{ end }} {{ with .media_type }}type="{{ . }}"{{ end }}>{{ .name }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+
