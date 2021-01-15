@@ -146,95 +146,110 @@ figure_list:
   - id: "cat-2"
     src: "figures/cat-2.jpg"
     label: "Catalogue 2"
-    alt:
+    alt: “a pair of rectangular cabinets with four doors constructed with an elaborate veneer of five different types of wood and decorated with floral gilt bronze mounts”
     download: true
 
   - id: "fig-2-1"
     src: "figures/fig-2-1.jpg"
+    alt: “one of the cabinets shown with both sets of doors opened, revealing four horizontal wooden shelves”
     label: "Figure 2-1"
     caption: "Front, doors open."
     download: true
 
   - id: "fig-2-2"
     src: "figures/fig-2-2.jpg"
+    alt: “a three-quarter view of one of the cabinets with the doors closed and the sliding shelf that sits between the two sets of doors pulled out”
     label: "Figure 2-2"
     caption: "Front, slide out."
     download: true
 
   - id: "fig-2-3"
     src: "figures/fig-2-3.jpg"
+    alt: “a side view of one of the cabinets, revealing the elaborate organic and geometric wooden veneer and floral gilt bronze mounts”
     label: "Figure 2-3"
     caption: "Right profile."
     download: true
 
   - id: "fig-2-4"
     src: "figures/fig-2-4.jpg"
+    alt: “a detail of the back of one of the cabinets that shows an illegible remnant of a dark brown stamp that reads B.V.R.B.”
     label: "Figure 2-4"
     caption: "On the back of the cabinet on the upper rail is stamped “B.V.R.B.” (84.DA.24.1)."
     download: true
 
   - id: "fig-2-5"
     src: "figures/fig-2-5.jpg"
+    alt: “a detail of the back of one of the cabinets that shows a legible dark brown stamp that reads B.V.R.B.”
     label: "Figure 2-5"
     caption: "On the back of the cabinet on the upper rail is stamped “B.V.R.B.” (84.DA.24.2)."
     download: true
 
   - id: "fig-2-6"
     src: "figures/fig-2-6.jpg"
+    alt: “a tall secretary desk with two sets of doors, one under the desktop of shelves and drawers, and the other above, constructed with three different types of wood and decorated with gilt bronze mounts, white marble accents, and two white satin curtains installed inside the upper set of cabinet doors”
     label: "Figure 2-6"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Louis XV's secretary at Trianon, ca. 1755. Oak frame, rosewood, kingwood, gilt bronze, white marble, white satin, 229 × 112 × 53 cm (90 × 44 × 20.9 in.). Le Mans, Musée de Tessé, Inv. 1906.29.66. Photo: © Museums of Le Mans"
     download: true
 
   - id: "fig-2-7"
     src: "figures/fig-2-7.jpg"
+    alt: “one of the cabinets as shown from the back, revealing four sets of vertical wooden panels within a framework of structural wood pieces”
     label: "Figure 2-7"
     caption: "Back."
     download: true
 
   - id: "fig-2-8"
     src: "figures/fig-2-8.jpg"
+    alt: “a black and white x-ray of the top of one of the cabinets revealing the hidden board between the two layers of the cabinet, coupled with a photograph of the same section as seen from the above”
     label: "Figure 2-8"
     caption: "X-radiograph, and corresponding photograph, showing a multilayered cabinet top. A cross-grain is visible in the X-radiograph, revealing the presence of a hidden board between the upper veneer and the original panel, which is invisible from below."
     download: true
 
   - id: "fig-2-9"
     src: "figures/fig-2-9.jpg"
+    alt: “one of the cabinets as seen from above, showing the angled grain of two square pieces of wood surrounded by a wooden border and gilt bronze mounts”
     label: "Figure 2-9"
     caption: "Top."
     download: true
 
   - id: "fig-2-10"
     src: "figures/fig-2-10.jpg"
+    alt: “one of the cabinets as seen from below, revealing seven vertical pieces of wood within a framework of structural wood pieces and wooden joinery”
     label: "Figure 2-10"
     caption: "Bottom."
     download: true
 
   - id: "fig-2-11"
     src: "figures/fig-2-11.jpg"
+    alt: “two young boys dressed in elaborate 18th-century costumes in varying shades of blue, positioned in front of a cabinet with wire mesh; one sits at a desk with an open drawer and writes, while the other stands behind the desk and holds a piece of pink satin against a white bust of a woman”
     label: "Figure 2-11"
     caption: "Bonde (per the signature [unidentified French painter]), *Les enfants des Machault d'Arnouville*, ca. 1741--47. Pastel on paper, 114 × 89 cm (44.9 × 35 in.). Thoiry, Château de Thoiry. Photo: Château de Thoiry / Arthus Boutin"
     download: true
 
   - id: "fig-2-12"
     src: "figures/fig-2-12.jpg"
+    alt: “composite of two black and white x-rays of one of the cabinets, revealing the joinery of the sliding shelf located in between the two sets of cabinet doors”
     label: "Figure 2-12"
     caption: "Composite of two X-radiographs showing that the sliding shelves, situated between the upper and lower door sections, are made of butt-joined boards running from side to side, with front-to-back battens on both ends. The battens are attached with both tongue-and-groove joints and mortise and tenons at the front and back."
     download: true
 
   - id: "fig-2-13"
     src: "figures/fig-2-13.jpg"
+    alt: “detail of one of the cabinet’s wooden surface, showing evidence of shoulder knife cuts around the corner of one of the elaborate geometric veneer designs”
     label: "Figure 2-13"
     caption: "Detail showing the traces of shoulder knife cuts, here seen as compressed and distorted wood fibers around the tight curves of the marquetry. Such evidence is found widely on these cabinets."
     download: true
 
   - id: "fig-2-14"
     src: "figures/fig-2-14.jpg"
+    alt: “black and white x-ray of the lower left door of one of the cabinets, revealing the hidden joinery that connects the multiple vertical wooden panels that make up the cabinet door”
     label: "Figure 2-14"
     caption: "X-radiograph of the .1 lower left door. It is composed of butt-joined vertical boards secured with tongue-and-groove joints to horizontal battens at the top and bottom. Veneer pin holes align well with the inner edge of the amaranth banding, showing that the craftsman applied veneer from the perimeter toward the middle."
     download: true
 
   - id: "fig-2-15"
     src: "figures/fig-2-15.jpg"
+    alt: “black and white x-ray of one side of one of the cabinets, reveling an outline of veneer pin holes slightly asymmetrically positioned within an organic shape”
     label: "Figure 2-15"
     caption: "X-radiograph of one of the cabinet's sides showing that the veneer pin holes are slightly offset, suggesting the marquetry may have been removed during a previous restoration."
     download: true
