@@ -145,8 +145,8 @@ figure_list:
 
   - id: "cat-2"
     src: "figures/cat-2.jpg"
-    label: "Catalogue 2"
     alt: “a pair of rectangular cabinets with four doors constructed with an elaborate veneer of five different types of wood and decorated with floral gilt bronze mounts”
+    label: "Catalogue 2"
     download: true
 
   - id: "fig-2-1"
@@ -256,210 +256,244 @@ figure_list:
 
   - id: "cat-3"
     src: "figures/cat-3.jpg"
+    alt: “three-quarter view of a black cartonnier with filing compartments, a clock decorated with Chinese figures and gilt bronze mounts, and an open side cabinet door revealing shelves and marquetry on inside door panel”
     label: "Catalogue 3"
-    alt: "Main view: 3/4 right front, with side door open"
     download: true
 
   - id: "fig-3-1"
     src: "figures/fig-3-1.jpg"
+    alt: “detail of the top of the cartonnier, showing the clock framed with gilt bronze mounts and four Chinese figures”
     label: "Figure 3-1"
     caption: "Front of the clock."
     download: true
 
   - id: "fig-3-2"
     src: "figures/fig-3-2.jpg"
+    alt: “left profile view of the cartonnier, revealing the elaborate floral gilt bronze mounts and painted lacquer foliage”
     label: "Figure 3-2"
     caption: "Left profile."
     download: true
 
   - id: "fig-3-3"
     src: "figures/fig-3-3.jpg"
+    alt: “detail of the gilt bronze mounts, highlighting the elaborate floral and leafy scrolls”
     label: "Figure 3-3"
     caption: "Mount detail."
     download: true
 
   - id: "fig-3-4"
     src: "figures/fig-3-4.jpg"
+    alt: “detail of the back of the cartonnier that shows a legible remnant of two faded stamps that read B.V.R.B.”
     label: "Figure 3-4"
     caption: "Center of the top rail on the back of the *bout de bureau* stamped “B.V.R.B.” twice."
     download: true
 
   - id: "fig-3-5"
     src: "figures/fig-3-5.jpg"
+    alt: “detail of the back of the cartonnier that shows a legible remnant of an imprinted stamp that reads E.J. CUVELLIER”
     label: "Figure 3-5"
     caption: "Stamp on the upper back of the *bout de bureau*: “E.J.CUVELLIER.”"
     download: true
 
   - id: "fig-3-6"
     src: "figures/fig-3-6.jpg"
+    alt: “three-quarter view of a dark wood cartonnier with veneer, floral gilt bronze mounts, and five filing compartments”
     label: "Figure 3-6"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, ca. 1750. Carcass in oak; veneer in amaranth and *bois satiné*, chased gilt bronze mounts, 57 × 82 × 31 cm (22.4 × 32.3 × 12.2 in.). Lisbon, Calouste Gulbenkian Museum, Inv. 584. © Calouste Gulbenkian Foundation, Lisbon Calouste Gulbenkian Museum – Founder's Collection / Photo: Catarina Gomes Ferreira"
     download: true
 
   - id: "fig-3-7"
     src: "figures/fig-3-7.jpg"
+    alt: “back view of the cartonnier, revealing the attachments between the three registers: clock at the top, serre-papiers in the middle, and bout de bureau on the bottom”
     label: "Figure 3-7"
     caption: "Back."
     download: true
 
   - id: "fig-3-8"
     src: "figures/fig-3-8.jpg"
+    alt: “black and white x-ray of the left side of the middle register, revealing a number of small white dots that represent insect damage and the subsequent attempts to restore the damage with putty”
     label: "Figure 3-8"
     caption: "X-radiograph of the left side of the *serre-papiers*, showing extensive insect damage to the poplar structure. The damage is partly filled with a high-density restoration putty (white in image)."
     download: true
 
   - id: "fig-3-9"
     src: "figures/fig-3-9.jpg"
+    alt: “black and white x-ray of one of the corner scrolls, revealing the joinery that secures the gilt bronze mounts to the wooden base”
     label: "Figure 3-9"
     caption: "X-radiograph showing the loose tenon securing the corner scroll to the base."
     download: true
 
   - id: "fig-3-10"
     src: "figures/fig-3-10.jpg"
+    alt: “top of the bottom register as seen under ultraviolet light, revealing a c-shaped patch of veneer alongside the back and sides of the serre-papiers”
     label: "Figure 3-10"
     caption: "Top of the *bout de bureau* under ultraviolet illumination, showing the C-shaped veneer patch beneath the sides and back edge of the *serre-papiers*."
     download: true
 
   - id: "fig-3-11"
     src: "figures/fig-3-11.jpg"
+    alt: “two photomicrographs of the layers of the painted lacquer on the middle register, one under visible light and one under ultraviolet light, revealing the metal powders used in the lacquer”
     label: "Figure 3-11"
     caption: "Cross-section photomicrograph in visible light (top) and in ultraviolet illumination (bottom) illustrating the layer structure of the European lacquer on the *serre-papiers*. The sample shows a mixture of gold- and silver-colored metal powders."
     download: true
 
   - id: "fig-3-12"
     src: "figures/fig-3-12.jpg"
+    alt: “detail of the front of the middle register of the cartonnier, showing the elaborate painted lacquer in the form of gold and orange foliage”
     label: "Figure 3-12"
     caption: "Detail of the front of the *bout de bureau.*"
     download: true
 
   - id: "fig-3-13"
     src: "figures/fig-3-13.jpg"
+    alt: “composite photomicrograph of the top register of the cartonnier — the clock — under ultraviolet light, revealing myriad layers of thin white streaks”
     label: "Figure 3-13"
     caption: "Composite photomicrograph in ultraviolet illumination showing the stratigraphy of the clock, which varies significantly from the body of the *cartonnier*."
     download: true
 
   - id: "fig-3-14"
     src: "figures/fig-3-14.jpg"
+    alt: “cross-section of a photomicrograph of the painted lacquer under ultraviolet light, revealing four distinct layers of lacquer: two dense white layers with a dark blue, mineral layer in between and a thin mineral layer of red and dark blue on top”
     label: "Figure 3-14"
     caption: "Cross-section photomicrograph in ultraviolet illumination illustrating the buildup of lacquer layers on the *pagodes* beginning with the transparent undervarnish."
     download: true
 
   - id: "fig-3-15"
     src: "figures/fig-3-15.jpg"
+    alt: “detail of two images of a tiny stamp of the letter C topped with a crown: the black-and-white image shows a stamp found on one of the Chinese figure’s feet and the other gold-toned image shows a stamp found on one of the gilt bronze mounts on the clock”
     label: "Figure 3-15"
     caption: "Detail of the crowned C stamp on the foot of the *pagode* (left) and a stamp on a gilt bronze mount from the clock. The *pagode* was stamped before the application of the lacquer."
     download: true
 
   - id: "fig-3-16"
     src: "figures/fig-3-16.jpg"
+    alt: “three-quarter view of the cartonnier as photographed in the 1920s, revealing the additional floral gilt bronze mount added to the center of the bout de bureau as well as the absence of a palm tree from the mount on the top of the clock”
     label: "Figure 3-16"
     caption: "Image of the Getty *cartonnier* from the sale catalogue, *Porcelain, Objects of Art and Decorative Furniture*, Christie, Manson & Woods, London, May 9, 1922, lot 144. Private Collection. Photo: © Christie's Images / Bridgeman Images"
     download: true
 
   - id: "fig-3-17"
     src: "figures/fig-3-17.jpg"
+    alt: “three details of one of the gilt bronze mounts from the bout de bureau: one from the front revealing the bright gilding, one from the back revealing the underlying bronze, and one zoomed-in image of the back revealing where the mount was soldered to reduce its length”
     label: "Figure 3-17"
     caption: "Details, front and rear, of the upper right framing mount of the front of the *bout de bureau*. The central section has been soldered in to lengthen the original, shorter mount for use on the broad front of the *bout*."
     download: true
 
   - id: "cat-4"
     src: "figures/cat-4.jpg"
+    alt: “pair of corner cupboards crafted from multiple types of wood and decorated with black lacquer, gilt bronze molding, red-veined marble, and an Japanese landscape with rocky outcroppings, plants, pheasants, pagodas, and a river”
     label: "Catalogue 4"
     alt: "Main view: front of both cupboards"
     download: true
 
   - id: "fig-4-1"
     src: "figures/fig-4-1.jpg"
+    alt: “frontal view of one of the cabinets with the two doors open, revealing a brown wooden interior with three shelves”
     label: "Figure 4-1"
     caption: "Front, doors open."
     download: true
 
   - id: "fig-4-2"
     src: "figures/fig-4-2.jpg"
+    alt: “detail of the top of one of the cabinets that shows a legible remnant of a faded, impressed stamp that reads B.V.R.B.”
     label: "Figure 4-2"
     caption: "Stamp on the top of 72.DA.44.1: “B.V.R.B.”"
     download: true
 
   - id: "fig-4-3"
     src: "figures/fig-4-3.jpg"
+    alt: “black-and-white image of another corner cabinet decorated with elaborate Asian imagery showing a domestic interior with women and gardens”
     label: "Figure 4-3"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cabinet (*encoignure*) (one of a pair), ca. 1745–49. Oak veneered with ebony and Coromandel lacquer, cherry wood, and purplewood; gilt bronze mounts; brocatelle marble top, 91.1 × 86 × 66.4 cm (35.9 × 33.9 × 26.1 in.). New York, Metropolitan Museum of Art, Gift of Mr. and Mrs. Charles Wrightsman, 1983, 1983.185.1. Photo: [www.metmuseum.org](https://www.metmuseum.org), CC0"
     download: true
 
   - id: "fig-4-4"
     src: "figures/fig-4-4.jpg"
+    alt: “detail of the front of one of the cabinets, revealing a small matte black line between two parts of the gilt bronze mounts that indicates the location of a now-removed metal hinge strap”
     label: "Figure 4-4"
     caption: "Ghosts of the original metal hinge straps that once fixed this lacquer panel to a Japanese cabinet, top left corner of 72.DA.44.2."
     download: true
 
   - id: "fig-4-5"
     src: "figures/fig-4-5.jpg"
+    alt: “top of one of the cabinets with the red-veined marble removed, revealing two diagonal wooden panels framed by two smaller strips of wood joined in a L-shape”
     label: "Figure 4-5"
     caption: "Top of 72.DA.44.1."
     download: true
 
   - id: "fig-4-6"
     src: "figures/fig-4-6.jpg"
+    alt: “bottom of one of the cabinets, revealing two horizontal wooden panels, which match the construction of the top of cabinet, and three cabinet legs”
     label: "Figure 4-6"
     caption: "Bottom of 72.DA.44.1."
     download: true
 
   - id: "fig-4-7"
     src: "figures/fig-4-7.jpg"
+    alt: “side view of one of the cabinets, revealing three vertical wooden panels framed by smaller horizontal and vertical strips of wood — all constructed from a dark reddish-brown wood”
     label: "Figure 4-7"
     caption: "Left back of 72.DA.44.1."
     download: true
 
   - id: "fig-4-8"
     src: "figures/fig-4-8.jpg"
+    alt: “a three-quarter view of an incredibly elaborate Japanese cabinet, featuring a gold lacquer landscape scene with rocky outcroppings, flying birds, pagodas, and a body of water”
     label: "Figure 4-8"
     caption: "Intact Japanese cabinet in the collections of Rosenborg Castle. A similar cabinet was the likely source for the lacquerwork on the Museum's cabinets. Cabinet, ca. 1640--90, 69.8 × 91.1 × 50.8 cm (27.5 × 35.9 × 20 in.). Copenhagen, Royal Collections, Rosenborg Castle, EAc 229. The Royal Danish Collection, Rosenborg Castle / Photo: Peter Nørby"
     download: true
 
   - id: "fig-4-9"
     src: "figures/fig-4-9.jpg"
+    alt: “composite of five photomicrographs of the Japanese lacquer under ultraviolet light — the metal powders and flakes appear as light blue, dark blue, brown, and gold variations in the lacquer”
     label: "Figure 4-9"
     caption: "Composite cross-section photomicrograph in ultraviolet illumination showing the original Japanese lacquer and its substrate thinned down to 1.3 mm."
     download: true
 
   - id: "fig-4-10"
     src: "figures/fig-4-10.jpg"
+    alt: “black-and-white x-ray of the doors of one of the cabinets with a vertical line of red squares (some with X’s inside and some without) connected by red lines along the outer edges of the cabinet, which demarcate the location of the original nail holes”
     label: "Figure 4-10"
     caption: "X-ray images of the doors of cabinet .1 with an overlay detailing the locations of the nail holes from the original Japanese cabinet hinges."
     download: true
 
   - id: "fig-4-11"
     src: "figures/fig-4-11.jpg"
+    alt: “black-and-white x-ray of the doors of the other cabinet with a vertical line of red squares (some with X’s inside and some without) connected by red lines along the outer edges of the cabinet, which demarcate the location of the original nail holes”
     label: "Figure 4-11"
     caption: "X-ray images of the doors of cabinet .2 with an overlay detailing the locations of the nail holes from the original Japanese cabinet hinges."
     download: true
 
   - id: "fig-4-12"
     src: "figures/fig-4-12.jpg"
+    alt: “photomicrograph of the ground used in one of the cabinets, shown as striations in various shades of beige, brown, blue, and white”
     label: "Figure 4-12"
     caption: "Cross-section photomicrograph in ultraviolet illumination showing the black clay ground used in cabinet .1."
     download: true
 
   - id: "fig-4-13"
     src: "figures/fig-4-13.jpg"
+    alt: “photomicrograph of the ground used in the other cabinet, shown as striations in various shades of black, red, beige, brown, and blue”
     label: "Figure 4-13"
     caption: "Cross-section photomicrograph in ultraviolet illumination showing the beige-colored ground used in cabinet .2."
     download: true
 
   - id: "fig-4-14"
     src: "figures/fig-4-14.jpg"
+    alt: “details of the lacquer panels featuring white triangles labeled with sample numbers that indicate the location of the ground samples shown in the photomicrographs on the cabinets themselves”
     label: "Figure 4-14"
     caption: "The locations of the samples taken for comparison from the .1 (above) and .2 (below) cabinets. Sample sites are hidden behind gilt bronze mounts."
     download: true
 
   - id: "fig-4-15"
     src: "figures/fig-4-15.jpg"
+    alt: “composite photomicrograph of the multilayer lacquer, revealing at least 11 layers of lacquer in shades of red, beige, brown, blue, and white in various speckled and striated patterns”
     label: "Figure 4-15"
     caption: "Composite photomicrograph of the Japanese lacquer on cabinet .1 featuring the complex buildup of layers to create the surface decoration. The seven layers (including the wood) composing the black background are 0.75 mm thick. The *takamakie* decoration above adds 0.65 mm of thickness in an additional six to seven layers."
     download: true
 
   - id: "fig-4-16"
     src: "figures/fig-4-16.jpg"
+    alt: “left door of one of the cabinets under ultraviolet light, which reveals the various shades of turquoise, copper, and brown that are indicative of materials added to the cabinet during restoration processes”
     label: "Figure 4-16"
     caption: "Left door from cabinet .1 as seen under ultraviolet illumination showing the variety of materials applied to the surface during different restoration campaigns."
     download: true
