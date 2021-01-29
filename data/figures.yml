@@ -939,7 +939,7 @@ figure_list:
     download: true
 
   - id: "fig-9-11"
-    src: "figures/fig-9-11.png"
+    src: "figures/fig-9-11.svg"
     label: "Figure 9-11"
     caption: "Schematic diagram of the construction and assembly of the top."
     download: true
@@ -1053,7 +1053,7 @@ figure_list:
     download: true
 
   - id: "fig-10-13"
-    src: "figures/fig-10-13.png"
+    src: "figures/fig-10-13.svg"
     label: "Figure 10-13"
     caption: "Drawing (left) detailing the original method for securing the top to the case's side rails. Trapezoidal gaps in the rails held blocks of oak with dovetails that extended above the side rails. These gaps are still visible in the case sides. Drawing (right) of the sliding dovetail mortises in the original top. These would have had square-sided gaps, as well as undercut sections to receive the eight protruding dovetails from the case."
     download: true
@@ -1107,7 +1107,7 @@ figure_list:
     download: true
 
   - id: "fig-11-5"
-    src: "figures/fig-11-5.png"
+    src: "figures/fig-11-5.svg"
     label: "Figure 11-5"
     caption: "An exploded diagram showing eight of the nine elements of cabinetry (the drawer has been omitted for clarity) that can easily be assembled and disassembled for transport."
 
@@ -1346,7 +1346,7 @@ figure_list:
     download: true
 
   - id: "fig-13-10"
-    src: "figures/fig-13-10.png"
+    src: "figures/fig-13-10.svg"
     label: "Figure 13-10"
     caption: "The case top boards rest in dadoes in the top rails at front and rear."
     download: true
@@ -1544,13 +1544,13 @@ figure_list:
     download: true
 
   - id: "fig-15-8"
-    src: "figures/fig-15-8.png"
+    src: "figures/fig-15-8.svg"
     label: "Figure 15-8"
     caption: "Construction of rear frieze rail, as seen from inside the case. Gray areas indicate the extension blocks, attached to the center rail section with massive finger joints."
     download: true
 
   - id: "fig-15-9"
-    src: "figures/fig-15-9.png"
+    src: "figures/fig-15-9.svg"
     label: "Figure 15-9"
     caption: "Schematic drawing of the two-tiered construction of the bottom frame."
     download: true
@@ -1670,7 +1670,7 @@ figure_list:
     download: true
 
   - id: "fig-16-12"
-    src: "figures/fig-16-12.png"
+    src: "figures/fig-16-12.svg"
     label: "Figure 16-12"
     caption: "In order to repair a split, the side of the commode was sawn through along the red line; the loose section that resulted was then slid toward the back to fill the split."
     download: true
@@ -1682,7 +1682,7 @@ figure_list:
     download: true
 
   - id: "fig-16-14"
-    src: "figures/fig-16-14.png"
+    src: "figures/fig-16-14.svg"
     label: "Figure 16-14"
     caption: "Line drawing detailing the repair at the join between the right case side panel and the right rear post. Five 9-mm holes were drilled through the back of the post and into the case side panel; 15-cm-long oak pegs were then driven into these holes with glue to secure the joint."
     download: true
