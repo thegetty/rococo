@@ -346,6 +346,12 @@ Spectral Light
     counter-reset: page -1;
   }
 
+  /* Ensure texts are black */
+  .title-page,
+  #copyright strong {
+    color: #000;
+  }
+
   /* Hide catalogue grid in print and make adjustments to contents pages  */
   #catalogue-catalogue-index .quire-contents-list.grid {
     display: none;
