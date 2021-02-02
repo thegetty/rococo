@@ -144,17 +144,17 @@ resource_link:
     name: PDF (15.4 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/WilsonHeginbotham_Rococo.pdf
   - type: other-format
-    name: EPUB (96.5 MB)
+    name: EPUB (96.8 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/WilsonHeginbotham_Rococo.epub
   - type: other-format
-    name: Kindle/MOBI (232.7 MB)
+    name: Kindle/MOBI (232.6 MB)
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/WilsonHeginbotham_Rococo.mobi
   - type: other-format
     name: Paperback
     media_type: print
