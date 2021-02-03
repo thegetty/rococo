@@ -500,102 +500,119 @@ figure_list:
 
   - id: "cat-5"
     src: "figures/cat-5.jpg"
+    alt: "three-quarter view of a black commode with four legs and two frontal doors, decorated with floral gilt bronze mounts, lacquer landscape and flower vase scenes, and a red and white veined marble top"
     label: "Catalogue 5"
     alt: "Main view: 3/4 right front"
     download: true
 
   - id: "fig-5-1"
     src: "figures/fig-5-1.jpg"
+    alt: "frontal view of the commode with the doors open, revealing a pale blue-green silk lined interior with two shelves"
     label: "Figure 5-1"
     caption: "Front, doors open."
     download: true
 
   - id: "fig-5-2"
     src: "figures/fig-5-2.jpg"
+    alt: "black and white detail of the top of one of the cabinet legs, showing a legible remnant of an imprinted stamp that reads B.V.R.B."
     label: "Figure 5-2"
     caption: "The top of the front right leg, stamped “B.V.R.B.”"
     download: true
 
   - id: "fig-5-3"
     src: "figures/fig-5-3.jpg"
+    alt: "frontal view of another commode, decorated similarly to the Getty commode, with gilt bronze mounts, black, gold, and red lacquer designs, and a red and white veined marble top"
     label: "Figure 5-3"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, 1737. Oak frame; fruitwood (cherry wood?) veneer; Japanese lacquer; *vernis Martin*; gilt bronze; Anpewter (or *sarrancolin*) marble, 85 × 127 × 61 cm (33.5 × 50 × 24 in.). Paris, Musée du Louvre, OA 11193. Photo: © Musée du Louvre, Dist. RMN-Grand Palais / Studio Sébert / Art Resource, NY"
     download: true
 
   - id: "fig-5-4"
     src: "figures/fig-5-4.jpg"
+    alt: alt: "detail of the attachment of one of the black lacquered legs to the commode’s reddish-brown underside"
     label: "Figure 5-4"
     caption: "Sliding through-dovetails are used to attach the case bottom rails to the posts. The groove for the side panel attachment is visible on the inner face of the post."
     download: true
 
   - id: "fig-5-5"
     src: "figures/fig-5-5.jpg"
+    alt: "top of the commode with the marble removed, revealing two trapezoidal wooden panels framed by smaller strips of wood"
     label: "Figure 5-5"
     caption: "Top."
     download: true
 
   - id: "fig-5-6"
     src: "figures/fig-5-6.jpg"
+    alt: "back of the commode, revealing four vertical wooden panels framed by smaller pieces of wood"
     label: "Figure 5-6"
     caption: "Back."
     download: true
 
   - id: "fig-5-7"
     src: "figures/fig-5-7.jpg"
+    alt: "detail of yellow and blue trim that runs along the edges of the interior’s silk lining"
     label: "Figure 5-7"
     caption: "Detail of the *galon*, or trim, at the perimeter of the interior's silk lining."
     download: true
 
   - id: "fig-5-8"
     src: "figures/fig-5-8.jpg"
+    alt: "composite black and white x-ray of the front doors, showing the gilt bronze mounts, locking mechanism, and lacquer landscape scenes in bright white and the black base in shades of gray and black"
     label: "Figure 5-8"
     caption: "Composite X-radiograph of the commode's front doors. The pattern of damage in the central area is the result of the removal of the lock that adorned the original Japanese cabinet from which the lacquer was taken."
     download: true
 
   - id: "fig-5-9"
     src: "figures/fig-5-9.jpg"
+    alt: "composite cross-section photomicrograph of the front panel’s Japanese lacquer under ultraviolet light — the metal powders and flakes appear as light blue, dark blue, brown, white, and gold striations"
     label: "Figure 5-9"
     caption: "Composite cross-section photomicrograph under ultraviolet illumination showing the Japanese lacquer from the front panel."
     download: true
 
   - id: "fig-5-10"
     src: "figures/fig-5-10.jpg"
+    alt: "composite cross-section photomicrograph of the left-side panel’s Japanese lacquer under ultraviolet light — the metal powders and flakes appear as light blue, dark blue, brown, white, and gold striations"
     label: "Figure 5-10"
     caption: "Composite cross-section photomicrograph of a sample from the left side panel showing a layer structure similar to the front lacquer panel."
     download: true
 
   - id: "fig-5-11"
     src: "figures/fig-5-11.jpg"
+    alt: "frontal view of the side panel of an additional lacquer cabinet, revealing black and gold lacquer designs of a vase of flowers, birds, and various foliage in a similar design to the side panels of the commode"
     label: "Figure 5-11"
     caption: "Japanese lacquer cabinet, seventeenth century. Wood, lacquer, gilded bronze, 91 × 69 × 49 cm (35.8 × 27.2 × 19.3 in.). The Imperial Furniture Collection, Vienna, Präsidentschaftskanzlein, MD 035838. © Bundesmobilienverwaltung, Hofmobiliendepot, Möbel Museum Wein / Photo: Silvia Miklin-Kniefacz."
     download: true
 
   - id: "fig-5-12"
     src: "figures/fig-5-12.jpg"
+    alt: "black and white x-ray of the commode’s right side, showing the top portion of the lacquer design with two pairs of holes — shown as white dots — at the top left- and right-hand side of the image"
     label: "Figure 5-12"
     caption: "X-radiograph of the paired holes on the commode's right side (white areas overlapping the cartouche); these may indicate the position of the handles on the sides of the original Japanese cabinet."
     download: true
 
   - id: "fig-5-13"
     src: "figures/fig-5-13.jpg"
+    alt: "detail of the raised cartouche and part of the lacquer design on the front of the cabinet, coupled with a black and white x-ray of the same section that shows the original flat decoration in white"
     label: "Figure 5-13"
     caption: "Image and corresponding X-radiograph of the border on the front, the latter showing the radio-opaque raised cartouche extending over a now-concealed Japanese decoration with a sprinkled dot pattern."
     download: true
 
   - id: "fig-5-14"
     src: "figures/fig-5-14.jpg"
+    alt: "two cross-section photomicrographs revealing the multi-layer structure; the top shows the lacquer in shades of yellow and gold under visible light, the bottom in shades of blue, brown, black, and white under UV light"
     label: "Figure 5-14"
     caption: "Cross-section photomicrograph of the European lacquer in visible light (top) and ultraviolet illumination (bottom) showing the layer structure of the original ground, original pigmented and transparent varnishes, and later restorations."
     download: true
 
   - id: "fig-5-15"
     src: "figures/fig-5-15.jpg"
+    alt: "detail of the red and white veined marble tabletop, with a black arrow pointing to a fossil trace and a black line at the bottom left of the image scaled to 1 centimeter"
     label: "Figure 5-15"
     caption: "Detail of marble tabletop with rudist bivalve fossil traces."
     download: true
 
   - id: "fig-5-16"
     src: "figures/fig-5-16.png"
+    alt: "black and white line drawing of the profile of the marble tabletop with a black line to the left of the image scaled to 3.2 to 3.5 centimeters"
     label: "Figure 5-16"
     caption: "Profile of the commode's marble top."
     download: true
