@@ -620,408 +620,472 @@ figure_list:
   - id: "cat-6"
     src: "figures/cat-6.jpg"
     label: "Catalogue 6"
-    alt: "Main view: 3/4 right front"
+    alt: "three-quarter view of a red commode with four legs, decorated with floral gilt bronze mounts, lacquer landscape and interior scenes, and a brown and red speckled marble top"
     download: true
 
   - id: "fig-6-1"
     src: "figures/fig-6-1.jpg"
     label: "Figure 6-1"
+    alt: "right profile of the commode, highlighting the intricate lacquer scene of a pagoda surrounded by water and foliage and framed with gilt bronze mounts"
     caption: "Right profile."
     download: true
 
   - id: "fig-6-2"
     src: "figures/fig-6-2.jpg"
     label: "Figure 6-2"
+    alt: "detail of a black and white photograph of the top of one of the commode legs, showing the legible remnants of imprinted stamps"
     caption: "On top of the right rear leg stile are the stamps “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-6-3"
     src: "figures/fig-6-3.jpg"
     label: "Figure 6-3"
+    alt: "three-quarter view of a black commode decorated with gilt bronze mounts, lacquer designs with gold, and a light pink and white speckled marble top"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*. Caen, Musée des Beaux-Arts. Photo: Musée des Beaux-Arts, Caen, France / Bridgeman Images"
     download: true
 
   - id: "fig-6-4"
     src: "figures/fig-6-4.jpg"
     label: "Figure 6-4"
+    alt: "frontal view of an additional red lacquer commode decorated with gilt bronze mounts, black, and gold lacquer designs, and a green, red, and white veined marble top"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, ca. 1753--56. Oak with Chinese lacquer panels, European lacquer, gilt bronze mounts, *campan* marble top, 84 × 116 × 54.5 cm (33 × 45.75 × 21.5 in.). Abu Dhabi, Louvre Abu Dhabi. Photo: © Department of Culture and Tourism – Abu Dhabi / Thierry Ollivier"
     download: true
 
   - id: "fig-6-5"
     src: "figures/fig-6-5.jpg"
     label: "Figure 6-5"
+    alt: "detail of the top of the commode with the marble removed, revealing leg joinery made up of small panels of wood"
     caption: "Detail of the top of the left rear leg showing its laminated construction from two pieces of oak. The image also shows the maker's stamp, the back rail slid into place from above, and the small patch inserted to fill the groove cut for the case side attachment."
     download: true
 
   - id: "fig-6-6"
     src: "figures/fig-6-6.jpg"
     label: "Figure 6-6"
+    alt: "back of the commode, revealing three rectangular wooden panels framed by smaller pieces of wood"
     caption: "Back."
     download: true
 
   - id: "fig-6-7"
     src: "figures/fig-6-7.jpg"
     label: "Figure 6-7"
+    alt: "top of the commode, revealing three vertical panels framed by smaller strips of wood"
     caption: "Top."
     download: true
 
   - id: "fig-6-8"
     src: "figures/fig-6-8.jpg"
     label: "Figure 6-8"
+    alt: "close-up of the commode with the doors open, revealing two shelves composed of three rectangular panels surrounded by smaller, raised strips of wood"
     caption: "The case without marble top, drawers, or mounts showing the bottom exterior rail and cutout for the drop apron."
     download: true
 
   - id: "fig-6-9"
     src: "figures/fig-6-9.jpg"
     label: "Figure 6-9"
+    alt: "detail of the wood grain with a small horizontal strip in the center of the image and a small hollowed circle in the upper right"
     caption: "The front-to-rear medial rails were attached to the top rear rail using unpinned through mortise and tenons, seen here."
     download: true
 
   - id: "fig-6-10"
     src: "figures/fig-6-10.jpg"
     label: "Figure 6-10"
+    alt: "detail of one of the commode legs, showing the wood grain, underside of the desk, and a long vertical crease running down the leg"
     caption: "This image shows the long groove cut in the leg post that extends below the case bottom."
     download: true
 
   - id: "fig-6-11"
     src: "figures/fig-6-11.jpg"
     label: "Figure 6-11"
+    alt: "long vertical image made up of smaller horizontal photographs showing the various shades of blue, white, brown, beige and textures in the multi-layered lacquer as seen under UV light"
     caption: "Composite ultraviolet photomicrograph of the Chinese lacquer showing an overall thickness of 1.2 mm, including what remains of the original wood substrate."
     download: true
 
   - id: "fig-6-12"
     src: "figures/fig-6-12.jpg"
     label: "Figure 6-12"
+    alt: "four images of the front of the commode arranged in four quadrants; one in reds and golds, one in teals and blues, and two in black and white with red outlines"
     caption: "Composite X-radiograph of the drawer fronts, showing the extent of the Chinese lacquer; overlaid with a visible image, UV fluorescence image, and infrared reflectogram."
     download: true
 
   - id: "fig-6-13"
     src: "figures/fig-6-13.jpg"
     label: "Figure 6-13"
+    alt: "detail of one of the commode’s corners, with a horizontal strip of wood visible at the top of the bright reddish-orange leg"
     caption: "Detail of one of the solid sycamore maple blocks inserted into the tops of the legs to provide a smooth substrate for lacquering."
     download: true
 
   - id: "fig-6-14"
     src: "figures/fig-6-14.jpg"
     label: "Figure 6-14"
+    alt: "detail of one of the commode feet with a hole drilled near the bottom; a white arrow with black text reading 'Sample 16' points to the hole'"
     caption: "Detail of the foot with mount removed showing area of European lacquer sampled for analysis."
     download: true
 
   - id: "fig-6-15"
     src: "figures/fig-6-15.jpg"
     label: "Figure 6-15"
+    alt: "two cross-section photomicrographs revealing the multi-layer structure of the varnish; the top shows the lacquer in luminous shades of orange and gold under visible light, the bottom in shades of blue, red, purple, and white under UV light"
     caption: "Cross-section photomicrograph in visible light (top) and ultraviolet illumination (bottom) showing the buildup of the European varnish layers."
     download: true
 
   - id: "cat-7"
     src: "figures/cat-7.jpg"
     label: "Catalogue 7"
-    alt: "Main view: 3/4 right front of each"
+    alt: "three-quarter view of a pair of commodes with four legs, multicolored wooden marquetry, gilt bronze mounts, and a red and white veined marble top"
     download: true
 
   - id: "fig-7-1"
     src: "figures/fig-7-1.jpg"
     label: "Figure 7-1"
+    alt: "front of one of the commodes, highlighting the wooden veneer depicting a tree branch and the intricate gilt bronze mounts including a stag attacked by two dogs"
     caption: "Front of 71.DA.96.1."
     download: true
 
   - id: "fig-7-2"
     src: "figures/fig-7-2.jpg"
     label: "Figure 7-2"
+    alt: "profile of one of the commodes, highlighting the side panel of wooden veneer depicting an organic design and the intricate gilt bronze mounts"
     caption: "Right side of 71.DA.96.1."
     download: true
 
   - id: "fig-7-3"
     src: "figures/fig-7-3.jpg"
     label: "Figure 7-3"
+    alt: "detail showing the textured, dark wood and the legible remnant of an imprinted stamp that reads B.V.R.B."
     caption: "Stamped “B.V.R.B.” on the top of the proper left leg stile (71.DA.96.2)."
     download: true
 
   - id: "fig-7-4"
     src: "figures/fig-7-4.jpg"
     label: "Figure 7-4"
+    alt: "black and white image of a corner cupboard, more rounded in shape than Getty’s commode"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Corner cupboard (*encoignure*) (one of a pair), ca. 1750. Now destroyed. Residenzschloss, Dresden. Pictured in Adolf Feulner, *Kunstgeschichte des Möbels* (Berlin: Propyläen-Verlag, 1927), 325, fig. 227."
     download: true
 
   - id: "fig-7-5"
     src: "figures/fig-7-5.jpg"
     label: "Figure 7-5"
+    alt: "frontal view of an additional example of a paired commode, featuring marquetry of birds perched in a tree and gilt bronze mounts, similar to the Getty pair"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode* (one of a pair), ca. 1750. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; *brèche d'Alep* marble top; brass and iron locks, 92.5 × 150 × 64.5 cm (36.5 × 59 × 25.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37418. © Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden / Foto: Frank Dornacher"
     download: true
 
   - id: "fig-7-6"
     src: "figures/fig-7-6.jpg"
     label: "Figure 7-6"
+    alt: "frontal view of an additional example of a paired commode, with the marble top removed"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), *Commode*, mid-eighteenth century. Oak carcass and drawer fronts, walnut sides and drawer bottoms, frame of amaranth, marquetry of amaranth, satinwood, rosewood, and other exotic woods that could not be identified through macroscopic analysis; mounts of brass and firegilding; marble top; brass and iron locks, 89 × 146 × 67 (35 × 57.5 × 26.4 in.). Dresden, Kunstgewerbemuseum--Staatliche Kunstsammlungen Dresden, inv. no. 37348. © Kunstgewerbemuseum, Staatliche Kunstsammlungen Dresden"
     download: true
 
   - id: "fig-7-7"
     src: "figures/fig-7-7.jpg"
     label: "Figure 7-7"
+    alt: "back of one of the commodes, made up of two wooden squares situated within a framework of smaller horizontal and vertical wooden strips"
     caption: "Back of commode .1."
     download: true
 
   - id: "fig-7-8"
     src: "figures/fig-7-8.jpg"
     label: "Figure 7-8"
+    alt: "birds-eye view of the top of one of the commodes with the marble removed, showing two trapezoidal wooden panels situated within a framework of smaller horizontal and vertical wooden strips"
     caption: "Top of commode .1."
     download: true
 
   - id: "fig-7-9"
     src: "figures/fig-7-9.jpg"
     label: "Figure 7-9"
+    alt: "detail of the top of one of the leg joints, showing multicolored wooden pieces fitted tightly together"
     caption: "Detail of the notched dovetail joint between the front rail and proper left leg."
     download: true
 
   - id: "fig-7-10"
     src: "figures/fig-7-10.jpg"
     label: "Figure 7-10"
+    alt: "bottom of one of the commodes, showing two trapezoidal wooden panels situated within a framework of smaller horizontal and vertical wooden strips"
     caption: "Bottom of commode .1."
     download: true
 
   - id: "fig-7-11"
     src: "figures/fig-7-11.jpg"
     label: "Figure 7-11"
+    alt: "detail of the leg joinery, showing multicolored wooden pieces fitted tightly together"
     caption: "Detail of the sliding half-dovetails that are used to connect the side rails with the rear and front legs."
     download: true
 
   - id: "fig-7-12"
     src: "figures/fig-7-12.jpg"
     label: "Figure 7-12"
+    alt: "detail of one of the leg’s dovetail joints, with a black arrow superimposed onto the photograph to indicate where the final joint piece was inserted"
     caption: "Detail of a small block of oak, added to fill the gap around the notched inside front corners of the rear legs, after assembly."
     download: true
 
   - id: "fig-7-13"
     src: "figures/fig-7-13.jpg"
     label: "Figure 7-13"
+    alt: "the inside of one of the commode drawers, constructed with a lighter wood and outfitted with a large bronze locking mechanism visible"
     caption: "Top view of the upper drawer of commode .1."
     download: true
 
   - id: "fig-7-14"
     src: "figures/fig-7-14.jpg"
     label: "Figure 7-14"
+    alt: "the bottom of one of the commode drawers, constructed of the same lighter wood with the back of the gilt mount visible"
     caption: "Bottom view of the lower drawer of commode .1."
     download: true
 
   - id: "fig-7-15"
     src: "figures/fig-7-15.jpg"
     label: "Figure 7-15"
+    alt: "inside of the commode with the drawers removed, revealing the multiple wood pieces that make up the shelves, bottom, and back of the commode"
     caption: "Three-quarter view without drawers showing internal construction and the cutaway apron."
     download: true
 
   - id: "fig-7-16"
     src: "figures/fig-7-16.jpg"
     label: "Figure 7-16"
+    alt: "detail showing a section of the wooden marquetry, with the two wood colors and grains visible"
     caption: "Detail of the marquetry. The kingwood was likely cut to shape with a fret saw and inlaid with a shoulder knife."
     download: true
 
   - id: "fig-7-17"
     src: "figures/fig-7-17.jpg"
     label: "Figure 7-17"
+    alt: "two horizontal photographs featuring one of the gilt bronze mounts—modeled on a dog—showing the subtle differences between the original mount, on the top, and the aftercast, on the bottom"
     caption: "Two versions of one of the mounts, at top the model or “original” and at bottom an aftercast made from that model. There is a marked difference in their surface treatment. Generally, the models are larger and less detailed, and the copies are smaller, with more elaborate surface chasing."
     download: true
 
   - id: "cat-8"
     src: "figures/cat-8.jpg"
     label: "Catalogue 8"
-    alt: "Main view: 3/4 right front"
+    alt: "three-quarter view of a double-sided desk with four legs and three visible drawers, decorated with veneer, elaborate floral marquetry, and gilt bronze mounts"
     download: true
 
   - id: "fig-8-1"
     src: "figures/fig-8-1.jpg"
     label: "Figure 8-1"
+    alt: "side view of the desk, showing the floral marquetry and gilt bronze mounts"
     caption: "Right profile."
     download: true
 
   - id: "fig-8-2"
     src: "figures/fig-8-2.jpg"
     label: "Figure 8-2"
+    alt: "three-quarter view of the desk with one side open, revealing a flat writing surface decorated with dark leather, four small drawers, and nine pigeonholes"
     caption: "Three-quarter right front, fall front open."
     download: true
 
   - id: "fig-8-3"
     src: "figures/fig-8-3.jpg"
     label: "Figure 8-3"
+    alt: "desk as seen from above, highlighting the symmetry of the veneer, marquetry, and gilt bronze mounts"
     caption: "Top."
     download: true
 
   - id: "fig-8-4"
     src: "figures/fig-8-4.jpg"
     label: "Figure 8-4"
+    alt: "one of the inside drawers, decorated with floral marquetry and a gilt bronze floral handle"
     caption: "Front of a drawer inside the desk."
     download: true
 
   - id: "fig-8-5"
     src: "figures/fig-8-5.jpg"
     label: "Figure 8-5"
+    alt: "gilt bronze plates decorated with floral scrolls cover the desk’s inner hinges"
     caption: "Engraved plates that cover the hinges inside the desk."
     download: true
 
   - id: "fig-8-6"
     src: "figures/fig-8-6.jpg"
     label: "Figure 8-6"
+    alt: "remnants of imprinted stamps are visible underneath one of the drawers"
     caption: "Underneath the central drawer on the back of the desk, a rail is stamped “JME,” “B.V.R.B.,” “JME.”"
     download: true
 
   - id: "fig-8-7"
     src: "figures/fig-8-7.jpg"
     label: "Figure 8-7"
+    alt: "a reddish-orange wax seal with a stamp depicting a man on his knees"
     caption: "One of the seven wax seals of the Duke of Argyll."
     download: true
 
   - id: "fig-8-8"
     src: "figures/fig-8-8.jpg"
     label: "Figure 8-8"
+    alt: "an additional desk, decorated with floral marquetry, veneer, and gilt bronze mounts in a similar style to the Getty desk"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Lean-to *secrétaire*, ca. 1750. Oak veneered with tulipwood, inlaid with stylized floral marquetry of kingwood; mounts of chased and gilt bronze; drawers of mahogany, probably relined, 104 × 142.2 × 67.5 cm (41 × 56 × 26.5 in.). Edinburgh, Dalmeny House, collection of the Earl of Rosebery. Private Collection / Photo: Rosebery Estates"
     download: true
 
   - id: "fig-8-9"
     src: "figures/fig-8-9.jpg"
     label: "Figure 8-9"
+    alt: "interior view of the desk, showing a glossy finished wood on the outside and a rougher unfinished interior made up of multiple wooden strips"
     caption: "View through the interior of the left side of the desk showing the bottom front rail, leg post, and drawer divider, all carved back to accommodate the drawer front."
     download: true
 
   - id: "fig-8-10"
     src: "figures/fig-8-10.jpg"
     label: "Figure 8-10"
+    alt: "black and white x-ray showing the multiple pieces of wood that make up the desk’s side"
     caption: "X-radiograph showing the buildup of overlapping, stacked, and laminated oak blocks that create the curved form of the case sides."
     download: true
 
   - id: "fig-8-11"
     src: "figures/fig-8-11.jpg"
     label: "Figure 8-11"
+    alt: "the desk’s interior on both sides, revealing the floral marquetry decorating each of the pigeonholes and the unfinished wooden spaces where the drawers sit"
     caption: "The pigeonholes and drawers on both sides of the desk are built as separate removable units."
     download: true
 
   - id: "fig-8-12"
     src: "figures/fig-8-12.jpg"
     label: "Figure 8-12"
+    alt: "black and white x-ray of one of the desk legs, showing the wood in shades of gray with a white curved line running down the leg"
     caption: "X-radiograph detailing how the upper sections of the legs were internally modified to enlarge the swell of the knees behind the pierced sections of the corner mounts."
     download: true
 
   - id: "fig-8-13"
     src: "figures/fig-8-13.jpg"
     label: "Figure 8-13"
+    alt: "two photographs of one of the interior units under both visible and UV light—under UV light the difference between the original finish and the restored finish becomes visible"
     caption: "One of the desk's interior shelf units, under visible (top) and ultraviolet (bottom) illumination. A varnishing restoration campaign is made visible in ultraviolet light: the restorer's brushstrokes, which appear orange, fail to reach the very back of the unit where the original wax finish is preserved."
     download: true
 
   - id: "fig-8-14"
     src: "figures/fig-8-14.jpg"
     label: "Figure 8-14"
+    alt: "detail of one of the locking mechanisms, constructed of an iron rectangle with a nail at each corner and two smaller squares protruding from the top"
     caption: "Detail of a lock from one of the exterior drawers, mounted to a pair of horizontal oak blocks that are glued and nailed to the inner face of the drawer fronts."
     download: true
 
   - id: "fig-8-15"
     src: "figures/fig-8-15.jpg"
     label: "Figure 8-15"
+    alt: "inside of the drawer with the gilt bronze lock cover visible"
     caption: "Drawer seen from the top with its gilt bronze lock box."
     download: true
 
   - id: "fig-8-16"
     src: "figures/fig-8-16.jpg"
     label: "Figure 8-16"
+    alt: "the iron interior hinge as seen without the decorative gilt bronze cover"
     caption: "Detail of one of the fall fronts showing the iron hinge and their elegant gilt bronze cover."
     download: true
 
   - id: "cat-9"
     src: "figures/cat-9.jpg"
     label: "Catalogue 9"
-    alt: "Main view: 3/4 right front"
+    alt: "three-quarter view of a writing table with four legs and two drawers, decorated with veneer, elaborate floral marquetry, and gilt bronze mounts"
     download: true
 
   - id: "fig-9-1"
     src: "figures/fig-9-1.jpg"
     label: "Figure 9-1"
+    alt: "three-quarter view of the table with the slides pulled out, two smaller slides decorated with parquetry on the sides and a larger slide decorated with marquetry and green leather on the front"
     caption: "Three-quarter right front, with writing slide and candlestick slides pulled out."
     download: true
 
   - id: "fig-9-2"
     src: "figures/fig-9-2.jpg"
     label: "Figure 9-2"
+    alt: "bird’s-eye view of the frontal slide, highlighting the marquetry of foliate designs that frames the oval-shaped green leather"
     caption: "Writing slide with green leather and marquetry surface."
     download: true
 
   - id: "fig-9-3"
     src: "figures/fig-9-3.jpg"
     label: "Figure 9-3"
+    alt: "bird’s-eye view of one of the side slides, highlighting the veneered surface made up of six rectangular wooden pieces with the grains arranged in an x-shape"
     caption: "Slide to support a candlestick."
     download: true
 
   - id: "fig-9-4"
     src: "figures/fig-9-4.jpg"
     label: "Figure 9-4"
+    alt: "detail of one of the inner drawers, with one large square compartment in the back and four smaller compartments in the front: three small squares and one long rectangle"
     caption: "Drawer."
     download: true
 
   - id: "fig-9-5"
     src: "figures/fig-9-5.jpg"
     label: "Figure 9-5"
+    alt: "detail of the underside of the table, showing the legible remnants of imprinted stamps"
     caption: "“JME” and “B.V.R.B” stamps on the underside of the left front rail."
     download: true
 
   - id: "fig-9-6"
     src: "figures/fig-9-6.jpg"
     label: "Figure 9-6"
+    alt: "detail of the underside of the table, showing two rectangular paper labels"
     caption: "Two paper labels on the underside of the table, one printed “Londesborough” and the other “J.J. Allen.”"
     download: true
 
   - id: "fig-9-7"
     src: "figures/fig-9-7.jpg"
     label: "Figure 9-7"
+    alt: "the table’s surface is decorated with wooden inlay arranged to highlight the grain background and a large marquetry in the middle of the table made of scrolls and floral designs"
     caption: "Top surface."
     download: true
 
   - id: "fig-9-8"
     src: "figures/fig-9-8.jpg"
     label: "Figure 9-8"
+    alt: "the surface of an additional writing table with floral marquetry in bright shades of green, yellow, white, blue and red"
     caption: "Bernard II van Risenburgh (French, after 1696--ca. 1766), Writing table (*table à écrire*), ca. 1755. Oak veneered with tulipwood, kingwood, amaranth, mahogany, ebony, mother-of-pearl, stained horn; gilt bronze mounts; modern velvet, 78.1 × 96.5 × 57.5 cm (30.75 × 38 × 22.6 in.). New York, Metropolitan Museum of Art, Gift of Mr. and Mrs. Charles Wrightsman, 1976, 1976.155.100. Photo: [www.metmuseum.org](https://www.metmuseum.org), CC0"
     download: true
 
   - id: "fig-9-9"
     src: "figures/fig-9-9.jpg"
     label: "Figure 9-9"
+    alt: "interior view of the table, showing a glossy finished wood on the outside and a rougher unfinished interior made up of multiple wooden strips"
     caption: "View through the case, from right to left, with drawers and candle slides removed. The writing slide is extended toward the front (left side of the image)."
     download: true
 
   - id: "fig-9-10"
     src: "figures/fig-9-10.jpg"
     label: "Figure 9-10"
+    alt: "composite of black and white x-rays showing three black rectangles surrounded by smaller horizontal and vertical strips of wood"
     caption: "Composite of several X-radiographs of the tabletop showing its unconventional assembly method."
     download: true
 
   - id: "fig-9-11"
     src: "figures/fig-9-11.svg"
     label: "Figure 9-11"
+    alt: "black, white, and gray diagram with black arrows showing how each individual piece of the tabletop fits into the whole"
     caption: "Schematic diagram of the construction and assembly of the top."
     download: true
 
   - id: "fig-9-12"
     src: "figures/fig-9-12.png"
     label: "Figure 9-12"
+    alt: "black, white, and gray diagram with dotted lines representing the smaller strips of wood that make up the tabletop"
     caption: "The quarter-round molding along the edge of the tabletop is made of many pieces of solid tulipwood, averaging about 4 cm long and about 2.1 cm wide, which extend well beneath the adjacent amaranth veneer banding."
     download: true
 
   - id: "fig-9-13"
     src: "figures/fig-9-13.jpg"
     label: "Figure 9-13"
+    alt: "the bottom of the desk is constructed of four vertical wooden panels, each slightly different in width and four curvilinear legs"
     caption: "Bottom."
     download: true
 
   - id: "fig-9-14"
     src: "figures/fig-9-14.jpg"
     label: "Figure 9-14"
+    alt: "the marquetry flowers are constructed of a dark wood with circular grain structure and the veneer is constructed from an orange-yellow wood with a lined grain structure"
     caption: "Detail of a flower in the veneer showing a visible connecting cut between a leaf and a stem."
     download: true
 
   - id: "fig-9-15"
     src: "figures/fig-9-15.jpg"
     label: "Figure 9-15"
+    alt: "close-up of the marquetry against the veneer with visible knife marks"
     caption: "An errant shoulder knife mark shows that the stem here was inlaid with a knife, not a fretsaw."
     download: true
 
   - id: "fig-9-16"
     src: "figures/fig-9-16.jpg"
     label: "Figure 9-16"
+    alt: "detail of two gilt bronze floral mounts, a reproduction on the left and an original on the right"
     caption: "The scrolling acanthus mount on the left is one of two later copies of the original mounts (example on the right). The copies are not as finely chased and have unrepaired casting flaws."
     download: true
 
