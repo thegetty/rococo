@@ -104,7 +104,7 @@ window["toggleSearch"] = () => {
  * @description Set up the simple image slider used on catalogue entry pages for
  * objects with multiple figure images. See also slideImage function below.
  */
-function sliderSetup() {
+async function sliderSetup() {
   toggleFullscreen(
     mapArr,
     document.getElementById("toggleFullscreen"),
@@ -132,17 +132,16 @@ function sliderSetup() {
     firstImage.css("display", "flex");
     lastImage.addClass("last-image");
   });
-  let images = [...document.querySelectorAll(".quire-deepzoom-entry")]
-    .filter(v => {
+  const images = [...document.querySelectorAll(".quire-deepzoom-entry")];
+  const imageSrcs = images.filter(v => {
       return v.getAttribute("src") !== null ? v : "";
     })
     .map(v => {
       return v.getAttribute("src");
     });
-  preloadImages(images, () => {
-    mapSetup(".quire-map-entry");
-    deepZoomSetup(".quire-deepzoom-entry", mapArr);
-  });
+  await preloadImages(imageSrcs);
+  mapSetup(".quire-map-entry");
+  deepZoomSetup(".quire-deepzoom-entry", mapArr);
 }
 
 /**
@@ -193,6 +192,7 @@ function scrollToHash() {
     // Remove links that don't actually link to anything
     .not('[href="#"]')
     .not('[href="#0"]')
+    .not('.popup')
     .click(function(event) {
       // only override default link behavior if it points to the same page
       if (this.pathname.includes(window.location.pathname)) {
@@ -364,6 +364,30 @@ function quickLinksSetup() {
 }
 
 /**
+ * Applies MLA format to date
+ * 
+ * @param  {Date}   date   javascript date object
+ * @return {String}        MLA formatted date
+ */
+function mlaDate(date) {
+  const options = {
+    month: "long"
+  };
+  const monthNum = date.getMonth();
+  let month;
+  if ([4, 5, 6].includes(monthNum)) {
+    let dateString = date.toLocaleDateString("en-US", options);
+    month = dateString.replace(/[^A-Za-z]+/, '');
+  } else {
+    month = (month === 8) ? "Sept" : date.toLocaleDateString("en-US", options).slice(0, 3);
+    month += '.';
+  }
+  const day = date.getDate();
+  const year = date.getFullYear();
+  return [day, month, year].join(' ');
+}
+
+/**
  * @description
  * Set the date for the cite this partial
  * https://github.com/gettypubs/quire/issues/153
@@ -372,21 +396,8 @@ function quickLinksSetup() {
  *
  */
 function setDate() {
-  let $date = $(".cite-current-date");
-  let options = {
-    year: "numeric",
-    month: "short",
-    day: "numeric"
-  };
-  let today = new Date();
-  let formattedDate =
-    today.toLocaleDateString("en-US", options).indexOf("May") !== -1
-      ? today.toLocaleDateString("en-US", options)
-      : [
-          today.toLocaleDateString("en-US", options).slice(0, 3),
-          ". ",
-          today.toLocaleDateString("en-US", options).slice(4)
-        ].join("");
+  const $date = $(".cite-current-date");
+  const formattedDate = mlaDate(new Date());
   $date.empty();
   $date.text(formattedDate);
 }
@@ -462,6 +473,32 @@ function validateSize(map) {
 }
 
 /**
+* Translates the X-position of an element inside a container so that its contents
+* are contained
+* Expects the contained element to already be translated so that it's centered above
+* another element
+*
+* @param {object} element to position
+* @param {object} container element
+* @param {number} container margin
+*/
+function setPositionInContainer(el, container, margin = 0) {
+  const elRect = el.getBoundingClientRect();
+  const containerRect = container.getBoundingClientRect();
+
+  const leftDiff = containerRect.left - elRect.left;
+  const rightDiff = elRect.right - containerRect.right;
+  const halfElWidth = elRect.width/2;
+  // x
+  if (rightDiff > 0) {
+    el.style.transform = `translateX(-${halfElWidth+rightDiff+margin}px)`;
+  } else if (leftDiff > 0) {
+    el.style.transform = `translateX(-${halfElWidth-leftDiff-margin}px)`;
+  }
+  // @todo y
+}
+
+/**
  * @description
  * find expandable class and look for aria-expanded
  * https://github.com/gettypubs/quire/issues/152
@@ -491,6 +528,7 @@ function toggleCite() {
         } else {
           content.setAttribute("hidden", "hidden");
         }
+        setPositionInContainer(content, document.documentElement);
       }
     });
   }
