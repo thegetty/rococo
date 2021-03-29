@@ -31,7 +31,7 @@ http://www.getty.edu/publications/rococo/
 
 Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [github.com/thegetty/rococo/](https://github.com/thegetty/rococo/), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
-### February 23, 2021
+### March 30, 2021
 
   - First edition
 

@@ -1,3 +1,10 @@
+{{/*
+
+THIS OVERRIDE VERSION ADDS IIIF CAPABILITY,
+COPIED FROM q-figure-zoom.html
+
+*/}}
+
 {{ if isset $.Site.Params "imagedir" }}
 {{ $.Scratch.Set "imageDir" $.Site.Params.imageDir }}
 {{ else }}
@@ -33,7 +40,7 @@ the figure for each into a figure group
   {{/* -------------------- BEGIN IDLIST RANGE -------------------- */}}
   {{ range $i, $e := $idlist }}
   {{ $x := . | string }}
-  
+
 
   {{ if modBool $i ($.Scratch.Get "grid") }}
   {{ if ne $i 0 }}</div>{{ end }}
@@ -81,22 +88,22 @@ the figure for each into a figure group
   <iframe id='{{ .id }}'
           class=" {{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }}"
           title='{{ if $.Get "title" }}{{ $.Get "title" | markdownify }}{{ else if .title }}{{ .title | markdownify }}{{ end }}'
-          width="100%" 
-          height="166" 
-          scrolling="no" 
-          frameborder="no" 
-          allow="autoplay" 
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .media_id }}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe> 
-  {{ else if eq .media_type "soundcloud" }} 
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameborder="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .media_id }}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+  {{ else if eq .media_type "soundcloud" }}
   <iframe id='{{ .id }}'
           class=" {{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }}"
           title='{{ if $.Get "title" }}{{ $.Get "title" | markdownify }}{{ else if .title }}{{ .title | markdownify }}{{ end }}'
-          width="100%" 
-          height="166" 
-          scrolling="no" 
-          frameborder="no" 
-          allow="autoplay" 
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .media_id }}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe> 
+          width="100%"
+          height="166"
+          scrolling="no"
+          frameborder="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .media_id }}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
   {{ end }}
   </div>
   {{ end }}
@@ -130,14 +137,53 @@ the figure for each into a figure group
      {{ $Id := now.UnixNano }}
 
   <div class="q-figure__wrapper">
-    <figure 
+
+    {{ if eq .media_type "iiif" }}
+
+    <figure
+    id="iiif-{{ $Id }}"
+    {{ if .caption }} title='{{ .caption | markdownify | safeHTML }}' {{ end }}
+    class="EEE quire-figure leaflet-outer-wrapper mfp-hide">
+      <div
+      id="js-iiif-{{ now.UnixNano }}"
+      class="quire-deepzoom inset leaflet-inner-wrapper"
+      aria-live="polite"
+      role="application"
+      aria-label="Zoomable image"
+      data-iiif="{{ .iiif }}"
+      {{ if .zoom_max }} data-zoom-max="{{ .zoom_max }}" {{ end }}>
+      </div>
+      <span class="figure-caption visually-hidden">
+          {{ if $.Get "caption" }}
+          {{ $.Get "caption" | markdownify }}
+          {{ else if isset . "caption" }}
+          {{ if .caption }}
+          {{ .caption | markdownify }}
+          {{ end }}
+          {{ end }}
+        </span>
+    </figure>
+
+    <a
+    class='inline popup'
+    href="#iiif-{{ $Id }}"
+    data-type='inline'
+    {{ if .caption }} title='{{ .caption | markdownify | safeHTML }}' {{ end }}>
+      <img
+      id='{{ .id }}'
+      class="quire-figure__image"
+      src='{{ printf "%s/%s" ($.Scratch.Get "imageDir") .src | relURL }}' />
+
+    {{ else }}
+
+    <figure
       id="deepzoom-{{ $Id }}"
-      {{ if .caption }} title='{{ .caption | markdownify | safeHTML }}' {{ end }}  
+      {{ if .caption }} title='{{ .caption | markdownify | safeHTML }}' {{ end }}
       class="quire-figure leaflet-outer-wrapper mfp-hide">
-        <div 
-        id="js-deepzoom-{{ now.UnixNano }}" 
-        class="quire-deepzoom inset leaflet-inner-wrapper " 
-        aria-live="polite" 
+        <div
+        id="js-deepzoom-{{ now.UnixNano }}"
+        class="quire-deepzoom inset leaflet-inner-wrapper "
+        aria-live="polite"
         role="application"
         aria-label="Zoomable image"
         {{ if .zoom_max }} data-zoom-max="{{ .zoom_max }}" {{ end }}
@@ -155,9 +201,11 @@ the figure for each into a figure group
     {{ end }}
       <img
       id="{{ .id }}"
-      class="quire-figure__image" 
-      src='{{ printf "%s/%s" ($.Scratch.Get "imageDir") .src | relURL }}' 
+      class="quire-figure__image"
+      src='{{ printf "%s/%s" ($.Scratch.Get "imageDir") .src | relURL }}'
       alt='{{ with .alt }}{{ . }}{{ end }}' />
+
+    {{ end }}
 
   {{ else }}
 
@@ -168,7 +216,7 @@ the figure for each into a figure group
       <img id="{{ .id }}" class="quire-figure__image"
          src='{{ printf "%s/%s" ($.Scratch.Get "imageDir") .src | relURL }}'
          alt='{{ with .alt }}{{ . }}{{ end }}' />
-    
+
     {{ end }}
 
     {{/* -------------------- END NO_MEDIA_ID BLOCK -------------------- */}}
@@ -182,7 +230,7 @@ the figure for each into a figure group
   {{ if and (ne .media_type "audio") (ne .media_type "soundcloud") (ne .media_type "vimeo") (ne .media_type "youtube") (ne .media_type "website") (eq $.Site.Params.figureModal true) }}
 
 {{ if eq $.Site.Params.figureModalIcons true }}
-<span class="fig"><span class="material-icons md-24 material-fullscreen" aria-hidden="true">fullscreen</span> 
+<span class="fig"><span class="material-icons md-24 material-fullscreen" aria-hidden="true">fullscreen</span>
 {{ else }}
 <span class="fig no-fullscreen {{ if and (eq ($.Get "label") "") (eq (isset . "label") false) }} visually-hidden {{ end }}">
 {{ end }}
@@ -192,7 +240,7 @@ the figure for each into a figure group
 {{ end }}
 
 {{ if or (isset . "label") ($.Get "label") }}
-<strong>  
+<strong>
   {{ if $.Get "label" }}
   {{ $.Get "label" | markdownify }}
   {{ else if isset . "label" }}
@@ -237,7 +285,7 @@ the figure for each into a figure group
   {{ if eq ($.Get "caption") "" }}
     {{/* -------------------- BEGIN CAPTION BLOCK -------------------- */}}
     <figcaption class="quire-figure__caption">
-    
+
       {{ if or (eq .media_type "audio") (eq .media_type "soundcloud") (eq .media_type "vimeo") (eq .media_type "youtube") (eq .media_type "website") (ne $.Site.Params.figureModal true) }}
         {{ if eq $.Site.Params.figureLabelLocation "below" }}
           <span class="quire-figure__label {{ if eq $.Site.Params.pdf true }} media-caption {{ end }} {{ if and (eq ($.Get "label") "") (eq (isset . "label") false) }} visually-hidden {{ end }}">
@@ -253,7 +301,7 @@ the figure for each into a figure group
           </span>
         {{ end }}
       {{ end }}
-    
+
     {{ if eq $.Site.Params.pdf true }}<span class="media-caption">{{ end }}
         <span class="figure-caption">
         {{ if $.Get "caption" }}
@@ -272,7 +320,7 @@ the figure for each into a figure group
 
     </figcaption>
     {{/* -------------------- END CAPTION BLOCK -------------------- */}}
-  
+
   {{/* -------------------- END q-figure__wrapper BLOCK -------------------- */}}
   </div>
   {{/* -------------------- END q-figure__wrapper BLOCK -------------------- */}}
@@ -441,7 +489,7 @@ If the shortcode has no id, post an error message.
     {{- if eq (.site.Get "media_type") "soundcloud" }}
     <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .site.Get.media_id }}" alt="" title="" target="_blank" ><em>https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .site.Get "media_id" }}</em></a>
     {{ end }}
-    
+
     </p>
 
     {{ end }}
@@ -528,11 +576,11 @@ If the shortcode has no id, post an error message.
     {{- if eq (.site.Get "media_type") "soundcloud" }}
     <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .site.Get.media_id }}" alt="" title="" target="_blank" ><em>https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ .site.Get "media_id" }}</em></a>
     {{ end }}
-    
+
     </p>
 
     {{ end }}
-    
+
     {{ end }}
 
 {{- end -}}
