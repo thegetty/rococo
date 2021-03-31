@@ -551,3 +551,20 @@ em dashes */
     width: 100%;
   }
 }
+
+/* TEMPORARY BANNER
+============================================================================= */
+.alert-banner {
+  background-color: #d24c4c;
+  color: white;
+  font-weight: 700;
+  position: fixed;
+  bottom: -115px;
+  right: -115px;
+  width: 230px;
+  height: 230px;
+  z-index: 4000;
+  transform: rotate(-45deg);
+  text-align: center;
+  padding-top: 1rem;
+}
