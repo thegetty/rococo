@@ -989,6 +989,7 @@ figure_list:
     src: "figures/fig-7-3.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-7-3/info.json"
+    zoom_max: 5
     label: "Figure 7-3"
     alt: "detail showing the textured, dark wood and the legible remnant of an imprinted stamp that reads B.V.R.B."
     caption: "Stamped “B.V.R.B.” on the top of the proper left leg stile (71.DA.96.2)."
@@ -2981,7 +2982,6 @@ figure_list:
 
   - id: "fig-19-18"
     src: "figures/fig-19-18.jpg"
-    media_type: iiif
     label: "Figure 19-18"
     caption: "This reproduction of the Museum's table, showing the different stages of production, was made in 2003 by Alain Guéroult. Because the trellis marquetry is made using only naturally colored woods, the finished right side of the reproduction gives an extremely realistic view of the table's original appearance."
     download: true
