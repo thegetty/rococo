@@ -2597,6 +2597,7 @@ figure_list:
     src: "figures/cat-18.jpg"
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-18/info.json"
+    zoom_max: 5
     label: "Catalogue 18"
     alt: "Main view: 3/4 right front"
     download: true
