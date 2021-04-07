@@ -15,6 +15,7 @@ module.exports = {
   watch: true,
   watchOptions: {
     aggregateTimeout: 300,
+    ignored: "**/static/img/",
     poll: 3000
   },
   entry: {
