@@ -3,6 +3,9 @@
 THIS OVERRIDE VERSION ADDS LABELS INSIDE CAPTIONS FOR EPUBS. THEY WERE
 OTHERWISE BEING STRIPPED OUT BY PANDOC.
 
+ALSO LOOKS FOR popup: false IN FIGURE YAML TO NOT INCLUDE THOSE IMAGES
+IN THE MODAL VIEW. SPECIFICALLY TO DEAL WITH PRINT AND EPUB-SPECIFIC IMAGES
+IN CAT 18.
 
 Shortcode will generate error messages if either a `src` or `id` value is not
 supplied; if an `id` value is supplied alone but it doesn't match a
@@ -544,14 +547,14 @@ render the figure from matching values found ther
     {{ if eq $.Site.Params.figureModal true }}
       {{ if eq .media_type "iiif" }}
       <a
-      class='inline popup'
+      class='inline{{ if ne .popup false }} popup{{ end }}'
       href="#iiif-{{ $Id }}"
       data-type='inline'
       {{ if .caption }} title='{{ .caption | markdownify | safeHTML }}' {{ end }}>
       {{ else }}
       <a
       href="#deepzoom-{{ $Id }}"
-      class='inline popup'
+      class='inline{{ if ne .popup false }} popup{{ end }}'
       data-type='inline'
       {{ if .caption }} title='{{ .caption | markdownify | safeHTML }}' {{ end }}>
       {{ end }}

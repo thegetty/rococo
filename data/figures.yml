@@ -2714,11 +2714,13 @@ figure_list:
     download: true
   - id: "fig-18-13-print"
     src: "figures/fig-18-13-print.jpg"
+    popup: false
     label: "Figure 18-13"
     caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
     download: true
   - id: "fig-18-13-epub"
     src: "figures/fig-18-13-print.jpg"
+    popup: false
     label: "Figure 18-13"
     caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
     download: true
@@ -2730,11 +2732,13 @@ figure_list:
     download: true
   - id: "fig-18-14-print"
     src: "figures/fig-18-14-print.jpg"
+    popup: false
     label: "Figure 18-14"
     caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
     download: true
   - id: "fig-18-14-epub"
     src: "figures/fig-18-14-print.jpg"
+    popup: false
     label: "Figure 18-14"
     caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
     download: true
@@ -2746,11 +2750,13 @@ figure_list:
     download: true
   - id: "fig-18-15-print"
     src: "figures/fig-18-15-print.jpg"
+    popup: false
     label: "Figure 18-15"
     caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
   - id: "fig-18-15-epub"
     src: "figures/fig-18-15-print.jpg"
+    popup: false
     label: "Figure 18-15"
     caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
@@ -2762,11 +2768,13 @@ figure_list:
     download: true
   - id: "fig-18-16-print"
     src: "figures/fig-18-16-print.jpg"
+    popup: false
     label: "Figure 18-16"
     caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
     download: true
   - id: "fig-18-16-epub"
     src: "figures/fig-18-16-print.jpg"
+    popup: false
     media_type: iiif
     label: "Figure 18-16"
     caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
