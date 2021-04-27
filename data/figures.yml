@@ -1773,7 +1773,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-12/info.json"
     label: "Catalogue 12"
-    alt: "Main view: 3/4 right front view of each"
+    alt: "frontal view of two corner cupboards, each with four legs and one door and decorated with gilt bronze mounts, red, orange, and white-veined marble, and lacquer landscape and domestic scenes"
     download: true
 
   - id: "fig-12-1"
@@ -1781,6 +1781,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-1/info.json"
     label: "Figure 12-1"
+    alt: "one of the cabinets with its door open, revealing a decorative veneer on the inside of the cabinet door and a bright red painted interior"
     caption: "Three-quarter right front view, with door open."
     download: true
 
@@ -1789,12 +1790,14 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-2/info.json"
     label: "Figure 12-2"
+    alt: "weathered remnants of three imprinted stamps"
     caption: "On top of the front right leg stile is stamped “IDUBOIS,” “JME,” “JME” (78.DA.119.2)."
     download: true
 
   - id: "fig-12-3"
     src: "figures/fig-12-3.jpg"
     label: "Figure 12-3"
+    alt: "frontal view of an additional corner cabinet, decorated with floral veneer, rather than lacquer designs, and curvilinear gilt bronze mounts"
     caption: "Jacques Dubois (French, 1694--1763), Pair of corner cupboards, ca. 1750. Oak veneered with bloodwood, softwood, and kingwood; gilt bronze mounts; *fleur de pêcher* marble top, 105 × 85 × 54 cm (41 × 33 × 21 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma – Foto: Araldo De Luca"
     download: true
 
@@ -1804,6 +1807,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-4/info.json"
     zoom_max: 5
     label: "Figure 12-4"
+    alt: "back of the right-side of one of the cabinets, constructed of two black-stained wood vertical panels framed by smaller horizontal and vertical strips of wood"
     caption: "Right back."
     download: true
 
@@ -1812,6 +1816,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-5/info.json"
     label: "Figure 12-5"
+    alt: "bottom of one of the cabinets, revealing one triangular wooden panel and one curved diagonal panel held together with smaller vertical and horizontal strips of wood"
     caption: "Bottom."
     download: true
 
@@ -1820,6 +1825,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-6/info.json"
     label: "Figure 12-6"
+    alt: "top of one of the cabinets with the marble removed, showing a single triangular black-stained wooden panel framed by smaller horizontal and vertical strips of wood"
     caption: "Top."
     download: true
 
@@ -1829,6 +1835,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-7/info.json"
     zoom_max: 4
     label: "Figure 12-7"
+    alt: "detail of a raised block of black wood on one of the front posts and red interior in the background"
     caption: "Detail of the protruding blocks of wood that were added to the front posts, presumably to fill the gap between the post and the current mounts."
     download: true
 
@@ -1837,6 +1844,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-8/info.json"
     label: "Figure 12-8"
+    alt: "black-and-white composite x-ray of one of the cabinet doors, with 12 white arrows pointing to the vertical staves"
     caption: "Composite X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door (indicated with arrows)."
     download: true
 
@@ -1845,30 +1853,35 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-9/info.json"
     label: "Figure 12-9"
+    alt: "black-and-white composite x-ray of one of the cabinet doors, with 14 white arrows pointing to the vertical staves"
     caption: "Composite X-radiographs of the .1 and .2 doors show that the cabinets' bowed doors are constructed of approximately 15 narrow vertical staves that were glued to one another and not attached by structural means. Also visible in the X-radiographs are the wooden pegs used to secure large battens across the tops and bottoms of each door (indicated with arrows)."
     download: true
 
   - id: "fig-12-10"
     src: "figures/fig-12-10.jpg"
     label: "Figure 12-10"
+    alt: "flattened view of the domestic lacquer design, revealing three triangular slits—one on the top, one on the left, and one on the right—that allow that lacquer to rest flatly against the cabinet’s curved front"
     caption: "Two-dimensional view of the lacquer on cabinet .2 showing the “darts” that enabled the panel to lie flat across the rounded surface of the current cabinet."
     download: true
 
   - id: "fig-12-11"
     src: "figures/fig-12-11.jpg"
     label: "Figure 12-11"
+    alt: "flattened view of the exterior lacquer design, revealing two horizontal cuts that split the design into three horizontal panels, allowing the lacquer to rest flatly against the cabinet’s curved front"
     caption: "Lacquer layout on the .1 cabinet. This panel was cut into three sections before it was secured to the cabinet."
     download: true
 
   - id: "fig-12-12"
     src: "figures/fig-12-12.jpg"
     label: "Figure 12-12"
+    alt: "detail of one of the lacquer scenes, showing slight discoloration and texture variation at the site of one of the cuts"
     caption: "A significant amount of retouching was necessary to bridge the gaps in excised original lacquer, seen here on cabinet .2 as a 2-cm-wide band straddling the cut."
     download: true
 
   - id: "fig-12-13"
     src: "figures/fig-12-13.jpg"
     label: "Figure 12-13"
+    alt: "detail of one of the lacquer scenes, with a white triangle with black text reading “sample 3” pointing to a hole in one of the pagoda columns where a sample was taken"
     caption: "Detail of the area sampled to analyze the composition and structure of the original Chinese lacquer. The sample location is concealed by a gilt bronze mount."
     download: true
 
@@ -1878,12 +1891,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-14/info.json"
     zoom_max: 4
     label: "Figure 12-14"
+    alt: "cross-section photomicrograph revealing the multi-layer structure of the lacquer under UV light, with strips of bright blue, tan, green, bronze, white, and light blue"
     caption: "Cross-section photomicrograph in ultraviolet illumination illustrating the thickness of the water buffalo hide substrate."
     download: true
 
   - id: "fig-12-15"
     src: "figures/fig-12-15.jpg"
     label: "Figure 12-15"
+    alt: "cross-section photomicrograph revealing the multi-layer structure of the European lacquer under UV light, with strips of white, reddish orange, and light blue"
     caption: "Sample of the European red lacquer from the interior of the cabinet viewed as a cross section in ultraviolet illumination. The photomicrograph features the original series of two varnish layers, one pigmented and one transparent, followed by later restoration coatings."
     download: true
 
@@ -1893,6 +1908,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-16/info.json"
     zoom_max: 4
     label: "Figure 12-16"
+    alt: "detail of the back of one of the gilt bronze mounts"
     caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet."
     download: true
 
@@ -1902,6 +1918,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-12-17/info.json"
     zoom_max: 4
     label: "Figure 12-17"
+    alt: "detail of the front of one of the gilt bronze mounts"
     caption: "Details of a mount from the .2 cabinet showing the soldering method used to ensure that the mounts would perfectly conform to the surface of the cabinet."
     download: true
 
@@ -1910,7 +1927,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-13/info.json"
     label: "Catalogue 13"
-    alt: "Main view: 3/4 right front."
+    alt: alt: "frontal view of a red secretary desk with four legs, two cabinet doors, and a pull-down writing surface; decorated with elaborate lacquer scenes of pagodas, people, and foliage, gilt bronze mounts, and a red, orange, and brown speckled marble top"
     download: true
 
   - id: "fig-13-1"
@@ -1918,6 +1935,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-1/info.json"
     label: "Figure 13-1"
+    alt: "left side of the desk, revealing a vertical rectangle with a lacquer scene of a large pagoda and foliage"
     caption: "Left profile."
     download: true
 
@@ -1926,6 +1944,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-2/info.json"
     label: "Figure 13-2"
+    alt: "right side of the desk, revealing a vertical rectangle with a lacquer scene of two pagodas, rocks, birds, and foliage"
     caption: "Right profile."
     download: true
 
@@ -1934,6 +1953,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-3/info.json"
     label: "Figure 13-3"
+    alt: "frontal view of the desk with the fall front pulled down, revealing a red lacquer interior with bright green velvet writing surface"
     caption: "Front with fall front writing surface open."
     download: true
 
@@ -1942,6 +1962,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-4/info.json"
     label: "Figure 13-4"
+    alt: "frontal view of the cabinet with the bottom two doors open, revealing a red lacquer interior with one long shelf and two rectangular cubbies"
     caption: "Front with bottom cupboard doors open."
     download: true
 
@@ -1951,6 +1972,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-5/info.json"
     zoom_max: 4
     label: "Figure 13-5"
+    alt: "detail revealing the legible remnants of two imprinted stamps"
     caption: "The top front right post is stamped “IDUBOIS” and “JME.”"
     download: true
 
@@ -1960,6 +1982,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-6/info.json"
     zoom_max: 4
     label: "Figure 13-6"
+    alt: "detail of the side panel joinery, highlighting the gaps in the wood around the dovetail joints"
     caption: "Detail showing the join of the side panels to the front post with loose splines. This type of joint is atypical of Parisian work."
     download: true
 
@@ -1968,6 +1991,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-7/info.json"
     label: "Figure 13-7"
+    alt: "top of the desk with the marble removed, showing the rough dark wood surface with visible joinery on the corners and sides"
     caption: "Top."
     download: true
 
@@ -1977,6 +2001,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-8/info.json"
     zoom_max: 4
     label: "Figure 13-8"
+    alt: "black-and-white x-ray with a red circle and irregular polygon superimposed on top to indicate the location of angled cuts"
     caption: "X-ray detail showing the tenons on the case front that have been cut with unusual angled shoulders."
     download: true
 
@@ -1985,12 +2010,14 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-9/info.json"
     label: "Figure 13-9"
+    alt: "back of the cabinet with seven black arrows pointing to the joinery that holds the horizontal strips of wood together"
     caption: "View of the *secrétaire*'s back with arrows indicating the tongue-and-groove joint assembly method for the horizontal boards, exposed by the chamfering of the panels."
     download: true
 
   - id: "fig-13-10"
     src: "figures/fig-13-10.svg"
     label: "Figure 13-10"
+    alt: "black-and-white diagram of the joinery that holds the case top to the top rails at the front and rear via a dado"
     caption: "The case top boards rest in dadoes in the top rails at front and rear."
     download: true
 
@@ -2000,6 +2027,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-11/info.json"
     zoom_max: 5
     label: "Figure 13-11"
+    alt: "one of the inner drawers pulled open, showing a glossy black interior with smaller storage compartments built into the front"
     caption: "Detail of open side drawers."
     download: true
 
@@ -2009,6 +2037,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-12/info.json"
     zoom_max: 5
     label: "Figure 13-12"
+    alt: "black-and-white composite x-ray of the pull-down writing surface, revealing the joinery holding multiple horizontal pieces of wood together"
     caption: "Composite X-ray of the *secrétaire*'s fall front showing the vertical joints between the original Asian wood panels on which the lacquer was first applied."
     download: true
 
@@ -2018,6 +2047,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-13/info.json"
     zoom_max: 5
     label: "Figure 13-13"
+    alt: "composite cross-section photomicrograph revealing the multi-layer structure of the lacquer under UV light, with strips of green, off-white, tan, dark blue, light blue, and white"
     caption: "Composite cross-section photomicrograph in ultraviolet illumination showing the lacquer stratigraphy."
     download: true
 
@@ -2027,6 +2057,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-14/info.json"
     zoom_max: 4
     label: "Figure 13-14"
+    alt: "detail of one of the lacquer scenes, with a white triangle with “Sample 2” printed on it pointing to a hole in the ankle of one of the figures"
     caption: "Detail of the sample site for fig. 13-13, covered by a gilt bronze mount."
     download: true
 
@@ -2036,6 +2067,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-15/info.json"
     zoom_max: 5
     label: "Figure 13-15"
+    alt: "detail of one of the lacquer scenes, highlighting the many raised cracks in the surface"
     caption: "Detail of cracks in the lacquer, seen in raking light, showing the unusual pattern of long diagonal cracks that cross over the more typical gridlike pattern of cracks."
     download: true
 
@@ -2045,6 +2077,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-13-16/info.json"
     zoom_max: 4
     label: "Figure 13-16"
+    alt: "two details of lacquer figures, the one on the left has cracks on its face and hand revealing the red lacquer base, the one on the right, restored, has no cracks"
     caption: "Comparison illustrating some of the subtle differences between the original figures (on the left) and the restored figures (on the right)."
     download: true
 
