@@ -1927,7 +1927,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-13/info.json"
     label: "Catalogue 13"
-    alt: alt: "frontal view of a red secretary desk with four legs, two cabinet doors, and a pull-down writing surface; decorated with elaborate lacquer scenes of pagodas, people, and foliage, gilt bronze mounts, and a red, orange, and brown speckled marble top"
+    alt: "frontal view of a red secretary desk with four legs, two cabinet doors, and a pull-down writing surface; decorated with elaborate lacquer scenes of pagodas, people, and foliage, gilt bronze mounts, and a red, orange, and brown speckled marble top"
     download: true
 
   - id: "fig-13-1"
