@@ -2086,7 +2086,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-14/info.json"
     label: "Catalogue 14"
-    alt: "Main view: 3/4 right front."
+    alt: "frontal view of a veneered black commode with four legs and two drawers, decorated with lacquer foliage and birds, gilt bronze mounts, and a dark green marble top"
     download: true
 
   - id: "fig-14-1"
@@ -2095,6 +2095,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-1/info.json"
     zoom_max: 5
     label: "Figure 14-1"
+    alt: "right side of the commode, showing an elaborate lacquer design of a basket filled with flowers and framed with floral gilt bronze mounts"
     caption: "Right profile."
     download: true
 
@@ -2104,6 +2105,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-2/info.json"
     zoom_max: 4
     label: "Figure 14-2"
+    alt: "a weathered label featuring text framed by a square of flowers"
     caption: "On the underside of the commode, a trade label for the *marchand-mercier* François Charles Darnault."
     download: true
 
@@ -2113,6 +2115,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-3/info.json"
     zoom_max: 5
     label: "Figure 14-3"
+    alt: "frontal view of an additional commode, with black veneer and lacquer landscape scenes in a similar style to Getty’s commode"
     caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 × 139 × 58.5 cm (33 × 55 × 23 in.). London, Victoria and Albert Museum, 1013-1882. © Victoria and Albert Museum, London"
     download: true
 
@@ -2121,6 +2124,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-4/info.json"
     label: "Figure 14-4"
+    alt: "commode with the marble top and drawers removed to reveal two horizontal shelves, each made up of three rectangular pieces of wood framed by smaller horizontal and vertical wooden strips"
     caption: "Three-quarter view with drawers removed."
     download: true
 
@@ -2129,6 +2133,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-5/info.json"
     label: "Figure 14-5"
+    alt: "light brown back of the commode, constructed out of three rectangular pieces of wood framed by smaller horizontal and vertical wooden strips"
     caption: "Back."
     download: true
 
@@ -2137,6 +2142,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-6/info.json"
     label: "Figure 14-6"
+    alt: "top of the commode with the marble removed, constructed out of three rectangular pieces of wood framed by smaller horizontal and vertical wooden strips—the label is affixed to the center rectangle"
     caption: "Top; the four corner posts are attached to the perimeter rails using single, open-faced dovetails."
     download: true
 
@@ -2145,6 +2151,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-7/info.json"
     label: "Figure 14-7"
+    alt: "bottom of the commode, constructed out of one square panel framed on either side by two angled pieces of wood and smaller horizontal and vertical wooden strips—an additional weathered and ripped label is affixed to the center square"
     caption: "Bottom."
     download: true
 
@@ -2153,6 +2160,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-8/info.json"
     label: "Figure 14-8"
+    alt: "bottom of one of the drawers, constructed out of four light brown wooden rectangles framed by smaller vertical and horizontal wooden strips"
     caption: "Lower drawer."
     download: true
 
@@ -2162,6 +2170,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-9/info.json"
     zoom_max: 5
     label: "Figure 14-9"
+    alt: "frontal view of the commode with the marble top removed, with the location of the two asymmetrical lacquer panels outlined in bright red"
     caption: "View of the cabinet with most of its mounts removed, detailing the locations of two seventeenth-century Japanese lacquer panels."
     download: true
 
@@ -2171,6 +2180,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-10/info.json"
     zoom_max: 5
     label: "Figure 14-10"
+    alt: "three-quarter view of an additional commode, with black veneer and lacquer landscape scenes in a similar style to Getty’s commode, atop a stand with four cabriole legs"
     caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 × 99 × 61.8 cm (30.9 × 38.9 × 24.3 in.). Leeds, Temple Newsam. Photo: Leeds Museums and Art Galleries (Temple Newsam House) UK / Bridgeman Images"
     download: true
 
@@ -2180,6 +2190,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-11/info.json"
     zoom_max: 4
     label: "Figure 14-11"
+    alt: "three-quarter view of an additional fall-front secrétaire, with black and gold lacquer landscape scenes in a similar style to Getty’s commode"
     caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 × 110 × 56 cm (70 × 43.3 × 22 in.). Leeds, Temple Newsam. Leeds Museums and Art Galleries (Temple Newsam House) UK / Bought with financial assistance from the National Art Collection Fund (with a contribution from the Wolfson Foundation), the LMA/V&A Purchase Grant Fund, the Esmee Fairbairn Foundation, the Pilgrim Trust, the Leeds Art Collections Fund, the Arnold Burton 1998 Charitable Trust, the Leche Trust, the A & S Burton 1960 Charitable Trust, Giles Eilwood Limited, the Tomasso Brothers Limited, and Dr. Terry Friedman / Bridgeman Images"
     download: true
 
@@ -2189,6 +2200,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-12/info.json"
     zoom_max: 4
     label: "Figure 14-12"
+    alt: "composite cross-section photomicrograph revealing the multi-layer structure of the lacquer under visible light, with glittering striations of dark brown, bronze, tan, and cream"
     caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
     download: true
 
@@ -2198,6 +2210,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-13/info.json"
     zoom_max: 4
     label: "Figure 14-13"
+    alt: "composite cross-section photomicrograph revealing the multi-layer structure of the lacquer under UV light, with the striations now appearing in shades of khaki, brown, white, and blue"
     caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
     download: true
 
@@ -2207,12 +2220,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-14/info.json"
     zoom_max: 5
     label: "Figure 14-14"
+    alt: "two stacked horizontal rectangular images of the commode’s top drawer; the top is a black-and-white x-ray with the nashiji powder visible as a group of sparkling specks, and the bottom is a photograph with the powder visible as bronze flecks"
     caption: "X-radiograph detail (top) of the top drawer and visible light photography (bottom) of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
     download: true
 
   - id: "fig-14-15"
     src: "figures/fig-14-15.jpg"
     label: "Figure 14-15"
+    alt: "cross-section photomicrograph revealing the multi-layer structure of the lacquer under visible light, with the lacquer layers in shades of gold, blue, and brown"
     caption: "Cross-section photomicrographs in visible light showing the original European *aventurine*, or imitation *nashiji*, decoration."
     download: true
 
@@ -2222,12 +2237,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-16/info.json"
     zoom_max: 4
     label: "Figure 14-16"
+    alt: "front of the commode as seen under UV light, in shades of bright blue, green, white, and pink"
     caption: "Front of the cabinet under ultraviolet illumination, detailing the extent of restoration overpaint on the surface."
     download: true
 
   - id: "fig-14-17"
     src: "figures/fig-14-17.jpg"
     label: "Figure 14-17"
+    alt: "two square photographic details of a lacquer duck placed side-by-side; the left is a color photograph in black, gold, and red, and the right is a black-and-white x-ray"
     caption: "Detail of the duck in visible light (left) and X-radiograph (right). The original Japanese gold decoration is visible in the X-radiograph but is hidden in visible light by later European overpaint, executed in brass powder paint."
     download: true
 
@@ -2236,7 +2253,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-15/info.json"
     label: "Catalogue 15"
-    alt: "Main view: 3/4 right front."
+    alt: "three-quarter view of a table with four legs and five drawers, decorated with wooden veneer, gilt bronze mounts, and a leather writing surface"
     download: true
 
   - id: "fig-15-1"
@@ -2245,6 +2262,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-1/info.json"
     zoom_max: 5
     label: "Figure 15-1"
+    alt: "three-quarter view of the table with the drawers open, revealing the five compartments"
     caption: "Three-quarter view with drawers open."
     download: true
 
@@ -2254,6 +2272,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-2/info.json"
     zoom_max: 5
     label: "Figure 15-2"
+    alt: "right side of the table, highlighting the elaborate gilt bronze mounts that decorate the sides and run up the length of the legs"
     caption: "Right profile."
     download: true
 
@@ -2263,12 +2282,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-3/info.json"
     zoom_max: 4
     label: "Figure 15-3"
+    alt: "gilt bronze mount decorated with foliate scrolls and floral garlands"
     caption: "Handle of the front right drawer."
     download: true
 
   - id: "fig-15-4"
     src: "figures/fig-15-4.jpg"
     label: "Figure 15-4"
+    alt: "detail of the back of a gilt bronze mount, revealing a pebbled surface texture and a small gilt bronze stamp of a crowned C against a smooth ground near the center of the image"
     caption: "Crowned C mark."
     download: true
 
@@ -2278,6 +2299,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-5/info.json"
     zoom_max: 5
     label: "Figure 15-5"
+    alt: "black and white photograph of an additional table with four legs and three drawers and filing cabinet with open shelves"
     caption: "Joseph Baumhauer (French, died 1772), *Bureau plat* and *cartonnier*, reign of Louis XV. *Bureau plat*: 190 × 95 × 84 cm (75 × 37.5 × 33 in.), *cartonnier*: 86 × 64 cm (34 × 25 in.). Paris, Hôtel Drouot, *Objets d'art et d'ameublement composant la collection de M. B. Kotschoubey*, April 13--16, 1906, lots 384 and 385."
     download: true
 
@@ -2287,6 +2309,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-6/info.json"
     zoom_max: 4
     label: "Figure 15-6"
+    alt: "a three-quarter view of a cartonnier with six pigeonholes atop a stand decorated with multi-tonal wooden veneer and gilt bronze scrolls"
     caption: "Joseph Baumhauer (French, died 1772) and Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, mid-eighteenth century. Oak, amaranth, red wood, gilt bronze, marquetry, 133 × 106 × 46 cm (52 × 42 × 18 in.). Saint Petersburg, State Hermitage Museum, MB 434. Photo: © The State Hermitage Museum / Vladimir Terebenin"
     download: true
 
@@ -2296,18 +2319,21 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-7/info.json"
     zoom_max: 4
     label: "Figure 15-7"
+    alt: "bottom of the case, constructed out of numerous vertical wooden panels framed by additional vertical and horizontal wooden panels"
     caption: "Bottom of the case."
     download: true
 
   - id: "fig-15-8"
     src: "figures/fig-15-8.svg"
     label: "Figure 15-8"
+    alt: "a diagram of a rear frieze rail with the dovetail joinery highlighted in gray"
     caption: "Construction of rear frieze rail, as seen from inside the case. Gray areas indicate the extension blocks, attached to the center rail section with massive finger joints."
     download: true
 
   - id: "fig-15-9"
     src: "figures/fig-15-9.svg"
     label: "Figure 15-9"
+    alt: "diagram of the bottom frame, showing two square blocks framing a rectangular block—all joined by smaller rectangles"
     caption: "Schematic drawing of the two-tiered construction of the bottom frame."
     download: true
 
@@ -2317,6 +2343,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-10/info.json"
     zoom_max: 4
     label: "Figure 15-10"
+    alt: "three-quarter view of the case with the top and drawers removed, revealing the unfinished wooden interior and the drawer mechanisms"
     caption: "Interior of the case with drawers and dust panels removed."
     download: true
 
@@ -2326,6 +2353,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-11/info.json"
     zoom_max: 4
     label: "Figure 15-11"
+    alt: "cropped three-quarter view of the case with the top removed and drawers in place, revealing how the various pieces slide into place in the center of the case"
     caption: "Interior of the case with drawers and dust panels in place."
     download: true
 
@@ -2335,6 +2363,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-12/info.json"
     zoom_max: 5
     label: "Figure 15-12"
+    alt: "two registers of seven images of the case’s joinery—three larger images on the top register and four smaller images on the bottom"
     caption: "Composite of the types of dovetails seen in the drawer constructions: lapped full-blind dovetails, lapped and mitered full-blind dovetails, reverse lapped and mitered full-blind dovetails, lapped half-blind dovetails, and lapped and mitered half-blind dovetails."
     download: true
 
@@ -2344,6 +2373,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-13/info.json"
     zoom_max: 4
     label: "Figure 15-13"
+    alt: "small, inner drawers composed of wooden panels with an elaborate metal locking mechanism visible"
     caption: "View of the secret drawers that are only accessible when the main central drawer is closed."
     download: true
 
@@ -2353,6 +2383,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-14/info.json"
     zoom_max: 4
     label: "Figure 15-14"
+    alt: "the bottom of the table constructed out of multiple rectangular and square wooden panels"
     caption: "Underside view of the top showing its frame-and-panel construction."
     download: true
 
@@ -2362,6 +2393,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-15/info.json"
     zoom_max: 5
     label: "Figure 15-15"
+    alt: "black-and-white x-ray with seven white arrows superimposed onto the image to indicate small discolorations"
     caption: "X-radiograph of the holes left behind by veneer pins. These pins are used during the fabrication process to keep sections of veneer stationary."
     download: true
 
@@ -2371,6 +2403,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-16/info.json"
     zoom_max: 4
     label: "Figure 15-16"
+    alt: "detail of a small raised piece of metal with a hollow, curved underside and a flat top with a brass anchor inside"
     caption: "Detail of an anchor bridge soldered to the underside of the gilt molding. These help secure the molding around the top of the bureau."
     download: true
 
