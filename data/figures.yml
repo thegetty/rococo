@@ -2086,7 +2086,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-14/info.json"
     label: "Catalogue 14"
-    alt: "Main view: 3/4 right front."
+    alt: "frontal view of a veneered black commode with four legs and two drawers, decorated with lacquer foliage and birds, gilt bronze mounts, and a dark green marble top"
     download: true
 
   - id: "fig-14-1"
@@ -2095,6 +2095,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-1/info.json"
     zoom_max: 5
     label: "Figure 14-1"
+    alt: "right side of the commode, showing an elaborate lacquer design of a basket filled with flowers and framed with floral gilt bronze mounts"
     caption: "Right profile."
     download: true
 
@@ -2104,6 +2105,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-2/info.json"
     zoom_max: 4
     label: "Figure 14-2"
+    alt: "a weathered label featuring text framed by a square of flowers"
     caption: "On the underside of the commode, a trade label for the *marchand-mercier* François Charles Darnault."
     download: true
 
@@ -2113,6 +2115,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-3/info.json"
     zoom_max: 5
     label: "Figure 14-3"
+    alt: "frontal view of an additional commode, with black veneer and lacquer landscape scenes in a similar style to Getty’s commode"
     caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58. Carcass of oak, veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*, mounts of gilt bronze, *rouge de Villefranche* (possibly Languedoc) marble, 84.5 × 139 × 58.5 cm (33 × 55 × 23 in.). London, Victoria and Albert Museum, 1013-1882. © Victoria and Albert Museum, London"
     download: true
 
@@ -2121,6 +2124,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-4/info.json"
     label: "Figure 14-4"
+    alt: "commode with the marble top and drawers removed to reveal two horizontal shelves, each made up of three rectangular pieces of wood framed by smaller horizontal and vertical wooden strips"
     caption: "Three-quarter view with drawers removed."
     download: true
 
@@ -2129,6 +2133,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-5/info.json"
     label: "Figure 14-5"
+    alt: "light brown back of the commode, constructed out of three rectangular pieces of wood framed by smaller horizontal and vertical wooden strips"
     caption: "Back."
     download: true
 
@@ -2137,6 +2142,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-6/info.json"
     label: "Figure 14-6"
+    alt: "top of the commode with the marble removed, constructed out of three rectangular pieces of wood framed by smaller horizontal and vertical wooden strips—the label is affixed to the center rectangle"
     caption: "Top; the four corner posts are attached to the perimeter rails using single, open-faced dovetails."
     download: true
 
@@ -2145,6 +2151,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-7/info.json"
     label: "Figure 14-7"
+    alt: "bottom of the commode, constructed out of one square panel framed on either side by two angled pieces of wood and smaller horizontal and vertical wooden strips—an additional weathered and ripped label is affixed to the center square"
     caption: "Bottom."
     download: true
 
@@ -2153,6 +2160,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-8/info.json"
     label: "Figure 14-8"
+    alt: "bottom of one of the drawers, constructed out of four light brown wooden rectangles framed by smaller vertical and horizontal wooden strips"
     caption: "Lower drawer."
     download: true
 
@@ -2162,6 +2170,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-9/info.json"
     zoom_max: 5
     label: "Figure 14-9"
+    alt: "frontal view of the commode with the marble top removed, with the location of the two asymmetrical lacquer panels outlined in bright red"
     caption: "View of the cabinet with most of its mounts removed, detailing the locations of two seventeenth-century Japanese lacquer panels."
     download: true
 
@@ -2171,6 +2180,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-10/info.json"
     zoom_max: 5
     label: "Figure 14-10"
+    alt: "three-quarter view of an additional commode, with black veneer and lacquer landscape scenes in a similar style to Getty’s commode, atop a stand with four cabriole legs"
     caption: "One of a pair of Japanese lacquer cabinets, 1670--1700. 78.6 × 99 × 61.8 cm (30.9 × 38.9 × 24.3 in.). Leeds, Temple Newsam. Photo: Leeds Museums and Art Galleries (Temple Newsam House) UK / Bridgeman Images"
     download: true
 
@@ -2180,6 +2190,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-11/info.json"
     zoom_max: 4
     label: "Figure 14-11"
+    alt: "three-quarter view of an additional fall-front secrétaire, with black and gold lacquer landscape scenes in a similar style to Getty’s commode"
     caption: "Morel and Seddon, Fall-front *secrétaire*, ca. 1829--30. 177.5 × 110 × 56 cm (70 × 43.3 × 22 in.). Leeds, Temple Newsam. Leeds Museums and Art Galleries (Temple Newsam House) UK / Bought with financial assistance from the National Art Collection Fund (with a contribution from the Wolfson Foundation), the LMA/V&A Purchase Grant Fund, the Esmee Fairbairn Foundation, the Pilgrim Trust, the Leeds Art Collections Fund, the Arnold Burton 1998 Charitable Trust, the Leche Trust, the A & S Burton 1960 Charitable Trust, Giles Eilwood Limited, the Tomasso Brothers Limited, and Dr. Terry Friedman / Bridgeman Images"
     download: true
 
@@ -2189,6 +2200,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-12/info.json"
     zoom_max: 4
     label: "Figure 14-12"
+    alt: "composite cross-section photomicrograph revealing the multi-layer structure of the lacquer under visible light, with glittering striations of dark brown, bronze, tan, and cream"
     caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
     download: true
 
@@ -2198,6 +2210,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-13/info.json"
     zoom_max: 4
     label: "Figure 14-13"
+    alt: "composite cross-section photomicrograph revealing the multi-layer structure of the lacquer under UV light, with the striations now appearing in shades of khaki, brown, white, and blue"
     caption: "Composite cross-section photomicrographs of the Japanese lacquer in ultraviolet illumination and visible light showing the thickness of the lacquer layers and the original Japanese wood substrate."
     download: true
 
@@ -2207,12 +2220,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-14/info.json"
     zoom_max: 5
     label: "Figure 14-14"
+    alt: "two stacked horizontal rectangular images of the commode’s top drawer; the top is a black-and-white x-ray with the nashiji powder visible as a group of sparkling specks, and the bottom is a photograph with the powder visible as bronze flecks"
     caption: "X-radiograph detail (top) of the top drawer and visible light photography (bottom) of the same area. Close inspection of the upper edge shows a linear band of original Japanese sprinkled *nashiji* silver powder decoration that has been covered by European lacquer. The Japanese butterfly, clearly visible in the X-radiograph because it was made using gold, has also been covered by European lacquer, while the later European butterflies are nearly invisible in the X-radiograph because they were executed in brass powder."
     download: true
 
   - id: "fig-14-15"
     src: "figures/fig-14-15.jpg"
     label: "Figure 14-15"
+    alt: "cross-section photomicrograph revealing the multi-layer structure of the lacquer under visible light, with the lacquer layers in shades of gold, blue, and brown"
     caption: "Cross-section photomicrographs in visible light showing the original European *aventurine*, or imitation *nashiji*, decoration."
     download: true
 
@@ -2222,12 +2237,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-14-16/info.json"
     zoom_max: 4
     label: "Figure 14-16"
+    alt: "front of the commode as seen under UV light, in shades of bright blue, green, white, and pink"
     caption: "Front of the cabinet under ultraviolet illumination, detailing the extent of restoration overpaint on the surface."
     download: true
 
   - id: "fig-14-17"
     src: "figures/fig-14-17.jpg"
     label: "Figure 14-17"
+    alt: "two square photographic details of a lacquer duck placed side-by-side; the left is a color photograph in black, gold, and red, and the right is a black-and-white x-ray"
     caption: "Detail of the duck in visible light (left) and X-radiograph (right). The original Japanese gold decoration is visible in the X-radiograph but is hidden in visible light by later European overpaint, executed in brass powder paint."
     download: true
 
@@ -2236,7 +2253,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-15/info.json"
     label: "Catalogue 15"
-    alt: "Main view: 3/4 right front."
+    alt: "three-quarter view of a table with four legs and five drawers, decorated with wooden veneer, gilt bronze mounts, and a leather writing surface"
     download: true
 
   - id: "fig-15-1"
@@ -2245,6 +2262,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-1/info.json"
     zoom_max: 5
     label: "Figure 15-1"
+    alt: "three-quarter view of the table with the drawers open, revealing the five compartments"
     caption: "Three-quarter view with drawers open."
     download: true
 
@@ -2254,6 +2272,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-2/info.json"
     zoom_max: 5
     label: "Figure 15-2"
+    alt: "right side of the table, highlighting the elaborate gilt bronze mounts that decorate the sides and run up the length of the legs"
     caption: "Right profile."
     download: true
 
@@ -2263,12 +2282,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-3/info.json"
     zoom_max: 4
     label: "Figure 15-3"
+    alt: "gilt bronze mount decorated with foliate scrolls and floral garlands"
     caption: "Handle of the front right drawer."
     download: true
 
   - id: "fig-15-4"
     src: "figures/fig-15-4.jpg"
     label: "Figure 15-4"
+    alt: "detail of the back of a gilt bronze mount, revealing a pebbled surface texture and a small gilt bronze stamp of a crowned C against a smooth ground near the center of the image"
     caption: "Crowned C mark."
     download: true
 
@@ -2278,6 +2299,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-5/info.json"
     zoom_max: 5
     label: "Figure 15-5"
+    alt: "black and white photograph of an additional table with four legs and three drawers and filing cabinet with open shelves"
     caption: "Joseph Baumhauer (French, died 1772), *Bureau plat* and *cartonnier*, reign of Louis XV. *Bureau plat*: 190 × 95 × 84 cm (75 × 37.5 × 33 in.), *cartonnier*: 86 × 64 cm (34 × 25 in.). Paris, Hôtel Drouot, *Objets d'art et d'ameublement composant la collection de M. B. Kotschoubey*, April 13--16, 1906, lots 384 and 385."
     download: true
 
@@ -2287,6 +2309,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-6/info.json"
     zoom_max: 4
     label: "Figure 15-6"
+    alt: "a three-quarter view of a cartonnier with six pigeonholes atop a stand decorated with multi-tonal wooden veneer and gilt bronze scrolls"
     caption: "Joseph Baumhauer (French, died 1772) and Bernard II van Risenburgh (French, after 1696--ca. 1766), *Cartonnier*, mid-eighteenth century. Oak, amaranth, red wood, gilt bronze, marquetry, 133 × 106 × 46 cm (52 × 42 × 18 in.). Saint Petersburg, State Hermitage Museum, MB 434. Photo: © The State Hermitage Museum / Vladimir Terebenin"
     download: true
 
@@ -2296,18 +2319,21 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-7/info.json"
     zoom_max: 4
     label: "Figure 15-7"
+    alt: "bottom of the case, constructed out of numerous vertical wooden panels framed by additional vertical and horizontal wooden panels"
     caption: "Bottom of the case."
     download: true
 
   - id: "fig-15-8"
     src: "figures/fig-15-8.svg"
     label: "Figure 15-8"
+    alt: "a diagram of a rear frieze rail with the dovetail joinery highlighted in gray"
     caption: "Construction of rear frieze rail, as seen from inside the case. Gray areas indicate the extension blocks, attached to the center rail section with massive finger joints."
     download: true
 
   - id: "fig-15-9"
     src: "figures/fig-15-9.svg"
     label: "Figure 15-9"
+    alt: "diagram of the bottom frame, showing two square blocks framing a rectangular block—all joined by smaller rectangles"
     caption: "Schematic drawing of the two-tiered construction of the bottom frame."
     download: true
 
@@ -2317,6 +2343,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-10/info.json"
     zoom_max: 4
     label: "Figure 15-10"
+    alt: "three-quarter view of the case with the top and drawers removed, revealing the unfinished wooden interior and the drawer mechanisms"
     caption: "Interior of the case with drawers and dust panels removed."
     download: true
 
@@ -2326,6 +2353,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-11/info.json"
     zoom_max: 4
     label: "Figure 15-11"
+    alt: "cropped three-quarter view of the case with the top removed and drawers in place, revealing how the various pieces slide into place in the center of the case"
     caption: "Interior of the case with drawers and dust panels in place."
     download: true
 
@@ -2335,6 +2363,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-12/info.json"
     zoom_max: 5
     label: "Figure 15-12"
+    alt: "two registers of seven images of the case’s joinery—three larger images on the top register and four smaller images on the bottom"
     caption: "Composite of the types of dovetails seen in the drawer constructions: lapped full-blind dovetails, lapped and mitered full-blind dovetails, reverse lapped and mitered full-blind dovetails, lapped half-blind dovetails, and lapped and mitered half-blind dovetails."
     download: true
 
@@ -2344,6 +2373,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-13/info.json"
     zoom_max: 4
     label: "Figure 15-13"
+    alt: "small, inner drawers composed of wooden panels with an elaborate metal locking mechanism visible"
     caption: "View of the secret drawers that are only accessible when the main central drawer is closed."
     download: true
 
@@ -2353,6 +2383,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-14/info.json"
     zoom_max: 4
     label: "Figure 15-14"
+    alt: "the bottom of the table constructed out of multiple rectangular and square wooden panels"
     caption: "Underside view of the top showing its frame-and-panel construction."
     download: true
 
@@ -2362,6 +2393,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-15/info.json"
     zoom_max: 5
     label: "Figure 15-15"
+    alt: "black-and-white x-ray with seven white arrows superimposed onto the image to indicate small discolorations"
     caption: "X-radiograph of the holes left behind by veneer pins. These pins are used during the fabrication process to keep sections of veneer stationary."
     download: true
 
@@ -2371,6 +2403,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-15-16/info.json"
     zoom_max: 4
     label: "Figure 15-16"
+    alt: "detail of a small raised piece of metal with a hollow, curved underside and a flat top with a brass anchor inside"
     caption: "Detail of an anchor bridge soldered to the underside of the gilt molding. These help secure the molding around the top of the bureau."
     download: true
 
@@ -2379,7 +2412,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-16/info.json"
     label: "Catalogue 16"
-    alt: "Main view: 3/4 right front."
+    alt: "three-quarter view of a commode with four legs and two drawers, decorated with a two-toned, wavy wooden veneer, gilt bronze mounts, and a red and brown marble top"
     download: true
 
   - id: "fig-16-1"
@@ -2387,6 +2420,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-1/info.json"
     label: "Figure 16-1"
+    alt: "front of one of the drawers, zoomed in on the gilt bronze keyhole mount and floral tendrils"
     caption: "Detail of the front."
     download: true
 
@@ -2396,12 +2430,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-2/info.json"
     zoom_max: 4
     label: "Figure 16-2"
+    alt: "detail of the leg joinery with a modern sans serif stamp"
     caption: "“RESTAURE par P. SPOHN” stamp on top of the right rear post, beneath the marble."
     download: true
 
   - id: "fig-16-3"
     src: "figures/fig-16-3.jpg"
     label: "Figure 16-3"
+    alt: "frontal view of an additional commode with four legs and two drawers"
     caption: "Jean-Pierre Latz (French, 1691--1754), Commode, 1745--49. Oak veneered with bloodwood; gilt bronze mounts; *brèche violette*, 88 × 153 × 66.5 cm (34.5 × 60 × 26 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
@@ -2411,6 +2447,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-4/info.json"
     zoom_max: 4
     label: "Figure 16-4"
+    alt: "slightly torn piece of paper featuring a grandfather clock drawing on the left side and a partially finished drawing of a commode rotated counterclockwise on the right"
     caption: "Carl Hårleman (Swedish, 1700--1753), *A Clock and a Commode*, ca. 1744--45. Pen and ink tracing on thin yellow, probably oiled, paper. Stockholm, Nationalmuseum, NMH THC 7158. Photo: Nationalmuseum Sweden"
     download: true
 
@@ -2419,6 +2456,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-5/info.json"
     label: "Figure 16-5"
+    alt: "the top of the commode with the marble top removed, constructed out of three rectangular wooden panels framed by smaller vertical and horizontal wooden panels"
     caption: "View of the top of the commode without the marble slab, showing the tripartite frame-and-panel construction method and open-faced dovetails at the corner posts."
     download: true
 
@@ -2427,6 +2465,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-6/info.json"
     label: "Figure 16-6"
+    alt: "the bottom of the commode, constructed out of three rectangular wooden panels framed by smaller vertical and horizontal wooden panels"
     caption: "Bottom."
     download: true
 
@@ -2436,6 +2475,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-7/info.json"
     zoom_max: 5
     label: "Figure 16-7"
+    alt: "red chalk outline of a pair of shoulders and extended arms holding a short sword, with a long coat, stocking, and plait with a bow on the end"
     caption: "Composite of the red chalk drawing found on the underside of an interior panel showing a male figure with a long queue, fencing."
     download: true
 
@@ -2444,6 +2484,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-8/info.json"
     label: "Figure 16-8"
+    alt: "the inside of the commode with the drawers removed, constructed out of two large horizontal panels for the drawers to rest on, one large additional panel in the back, and two smaller rectangular panels on the sides"
     caption: "Three-quarter view with drawers open."
     download: true
 
@@ -2453,12 +2494,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-9/info.json"
     zoom_max: 4
     label: "Figure 16-9"
+    alt: "the inside of the additional commode with the drawers removed, with the smaller rectangular side panels featuring construction joinery"
     caption: "Interior of the Latz commode in Rome, Palazzo del Quirinale (see [fig. 16-3](#fig-16-3)). This version appears outwardly identical to the Museum's, but its joinery method is largely plank construction. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
   - id: "fig-16-10"
     src: "figures/fig-16-10.png"
     label: "Figure 16-10"
+    alt: "black-and-white schematic diagram with dotted lines and red numbers demarcating the individual pieces of wooden veneer"
     caption: "Schematic diagram illustrating the 135 individual pieces of veneer on the front of the commode."
     download: true
 
@@ -2467,12 +2510,14 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-11/info.json"
     label: "Figure 16-11"
+    alt: "the marble top, streaked with reds, beiges, browns, and whites"
     caption: "The marble top."
     download: true
 
   - id: "fig-16-12"
     src: "figures/fig-16-12.svg"
     label: "Figure 16-12"
+    alt: "black-and-white schematic diagram with red lines and arrows demarcating the location of repaired split"
     caption: "In order to repair a split, the side of the commode was sawn through along the red line; the loose section that resulted was then slid toward the back to fill the split."
     download: true
 
@@ -2482,12 +2527,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-13/info.json"
     zoom_max: 5
     label: "Figure 16-13"
+    alt: "photograph of the repaired section, with the repair visible as an indented brown line"
     caption: "Detail of the oak wedges used during the restoration to fill the new gap along the vertical saw cut."
     download: true
 
   - id: "fig-16-14"
     src: "figures/fig-16-14.svg"
     label: "Figure 16-14"
+    alt: "black-and-white schematic diagram of the side of the commode, with the location of the five holes created by the repair demarcated with red lines"
     caption: "Line drawing detailing the repair at the join between the right case side panel and the right rear post. Five 9-mm holes were drilled through the back of the post and into the case side panel; 15-cm-long oak pegs were then driven into these holes with glue to secure the joint."
     download: true
 
@@ -2497,6 +2544,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-16-15/info.json"
     zoom_max: 4
     label: "Figure 16-15"
+    alt: "inside of a drawer, showing five small vertical rectangles in a lighter shade of brown along the front of the drawer"
     caption: "Image of the five vertically oriented blocks of oak that were used to repair a split in the upper drawer front."
     download: true
 
@@ -2506,7 +2554,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-17/info.json"
     label: "Catalogue 17"
     caption: "72.DA.39.1–.2 are on top, 72.DA.69.1–.2 are below."
-    alt: "Main view: front of both"
+    alt: "frontal images of four cabinets, arranged in two registers of two"
     download: true
 
   - id: "fig-17-1"
@@ -2515,6 +2563,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-1/info.json"
     zoom_max: 4
     label: "Figure 17-1"
+    alt: "frontal view of an additional cabinet, redder in tone than the Getty pairs"
     caption: "Jean-Pierre Latz (French, 1691--1754), Pair of corner cabinets (*encoignures*), ca. 1750. Oak veneered with amaranth, rosewood, bloodwood; gilt bronze mounts; giallo Siena marble, 94.5 × 82.5 × 59 cm (37 × 32.5 × 23 in.). Rome, Palazzo del Quirinale. Segretariato Generale della Presidenza della Repubblica, Roma / Foto: Araldo De Luca"
     download: true
 
@@ -2524,6 +2573,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-2/info.json"
     zoom_max: 4
     label: "Figure 17-2"
+    alt: "black-and-white line drawing of a lily with three buds and two in full bloom"
     caption: "Juste Chevillet (French, 1729--1802) after Louis Tessier (French, 1719--1781), *Lys*, from *Livre de principes de fleurs, dédié aux dames*, ca. 1755. Engraving with etching. Los Angeles, Getty Research Institute, P860001 (2918-915)."
     download: true
 
@@ -2533,12 +2583,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-3/info.json"
     zoom_max: 5
     label: "Figure 17-3"
+    alt: "side view of one of the cabinets, made up of multiple vertical strips of wood"
     caption: "Back side of 72.DA.69.1 showing original plank construction of the back panels."
     download: true
 
   - id: "fig-17-4"
     src: "figures/fig-17-4.png"
     label: "Figure 17-4"
+    alt: "two schematic diagrams of the front-end joinery, arranged in one register"
     caption: "Schematic diagram showing the original and restored structures for the 72.DA.39 cabinets."
     download: true
 
@@ -2548,6 +2600,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-5/info.json"
     zoom_max: 5
     label: "Figure 17-5"
+    alt: "detail of the top left corner of a cabinet, with white text and arrows pointing to the locations of the original and current holes for the mounting hardware"
     caption: "Details of the 72.DA.69.2 cabinet with mounts removed illustrating the different locations for the mounting hardware, original and current. Figure 17-5 is of the top left corner; figure 17-6 is of the left foot."
     download: true
 
@@ -2557,6 +2610,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-6/info.json"
     zoom_max: 5
     label: "Figure 17-6"
+    alt: "detail of the left foot of a cabinet, with white and black text and arrows pointing to the locations of the original and current holes for the mounting hardware"
     caption: "Details of the 72.DA.69.2 cabinet with mounts removed illustrating the different locations for the mounting hardware, original and current. Figure 17-5 is of the top left corner; figure 17-6 is of the left foot."
     download: true
 
@@ -2566,6 +2620,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-7/info.json"
     zoom_max: 5
     label: "Figure 17-7"
+    alt: "four photographs of the stamp, arranged in four registers, with text becoming more visible as the images progress from brown to black-and-white-to purple, red, green, blue, orange, and yellow"
     caption: "The top on cabinet 72.DA.69.2 is marked at its right corner with a recently discovered stamp of J. H. Riesener. This photographic composite shows, from the top, the stamp in normal light, with RTI “specular enhancement” (grayscale), and with RTI “normals visualization.” The lowest image is a close-up detail of the stamp modified with yellow outlines to indicate areas that can be discerned in the images and with orange outlines to indicate the areas where letters are not visible but assumed to have once been based on complete surviving Riesener stamps."
     download: true
 
@@ -2575,6 +2630,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-8/info.json"
     zoom_max: 4
     label: "Figure 17-8"
+    alt: "black-and-white image of the inscription"
     caption: "Near-infrared reflectance image of the inscription, presumably in pencil, on the 72.DA.69.2 cabinet: “Réparée le 13 Juillet 1843 / par [indecipherable] de Fère Champenoise / rue de Vitry No 29.”"
     download: true
 
@@ -2584,6 +2640,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-9/info.json"
     zoom_max: 5
     label: "Figure 17-9"
+    alt: "bottom of a cabinet, constructed out of multiple strips of wood on the diagonal"
     caption: "Bottom of 72.DA.39.2. The bottom boards behind the front legs are replaced and are fastened to the case sides with modern wire nails."
     download: true
 
@@ -2593,6 +2650,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-10/info.json"
     zoom_max: 5
     label: "Figure 17-10"
+    alt: "two keys, arranged horizontally in two registers, with decorative handles"
     caption: "Original dolphin keys for cabinets 72.DA.39.1--.2."
     download: true
 
@@ -2602,6 +2660,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-11/info.json"
     zoom_max: 4
     label: "Figure 17-11"
+    alt: "four gilt-bronze mounts arranged horizontally in four registers"
     caption: "The left front of the corner mounts taken from each of the four cabinets. The first casting is on the top and the copies are beneath."
     download: true
 
@@ -2611,6 +2670,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-12/info.json"
     zoom_max: 4
     label: "Figure 17-12"
+    alt: "back view of four gilt-bronze mounts, arranged horizontally in four registers"
     caption: "The backs of the corner mounts in [fig. 17-11](#fig-17-11)."
     download: true
 
@@ -2620,18 +2680,21 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-13/info.json"
     zoom_max: 4
     label: "Figure 17-13"
+    alt: "two photographs of a pair of gilt-bronze mounts, the left image shows the front and the right image shows the back"
     caption: "Framing mount from a 72.DA.39 cabinet (left side of each image) compared to a corresponding mount from a 72.DA.69 cabinet (right side of each image). The solder line is visible on the 72.DA.39 mount where it was shortened by cutting out a section of brass. The impression of an iron binding wire (used to secure the sections during soldering) is visible in the soldering metal on the reverse."
     download: true
 
   - id: "fig-17-14"
     src: "figures/fig-17-14.jpg"
     label: "Figure 17-14"
+    alt: "four details of the wooden veneer—left two in shades of purple, red, and pink and right two in shades of brown, tan, and gold—arranged in a square"
     caption: "XRF macroscanning images (left) of sections of a door from cabinet 72.DA.69.2. These illustrate how leaves with high iron content (appearing red in the scans) appear mixed in the composition with leaves that contain both iron and zinc in high concentration (shown as fuchsia). The satiné gris background has lower levels of iron and zinc, while the stems and leaves that appear black in the XRF scans have virtually none."
     download: true
 
   - id: "fig-17-15"
     src: "figures/fig-17-15.jpg"
     label: "Figure 17-15"
+    alt: "detail of the wooden inlay highlighting the scratches in the wood"
     caption: "Detail showing typical marks on the leaves and adjacent areas left by the use of an inlay knife."
     download: true
 
@@ -2641,12 +2704,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-16/info.json"
     zoom_max: 4
     label: "Figure 17-16"
+    alt: "black-and-white x-ray of the marquetry revealing the variations in the opacity of the lines"
     caption: "X-radiograph of the marquetry on an area of the 72.DA.69.2 cabinet. The lines around the perimeters of the flowers are generally fainter than those outlining the stems and smaller leaves. This is likely because the stems and leaves were inlaid using a knife, which left a deep groove in the substrate that subsequently was filled with dense glue. The flowers, on the other hand, were probably inlaid into the background with a fretsaw, before the veneer was applied to the substrate, resulting in a thinner glue line."
     download: true
 
   - id: "fig-17-17"
     src: "figures/fig-17-17.jpg"
     label: "Figure 17-17"
+    alt: "detail of a veneer leaf with black veins painted along the surface"
     caption: "The black lines drawn in ink on the surface of leaves are almost certainly the result of a previous restoration that was meant to replicate original engraved (and black pigment--filled) embellishments."
     download: true
 
@@ -2656,6 +2721,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-17-18/info.json"
     zoom_max: 4
     label: "Figure 17-18"
+    alt: "detail of the marquetry, showing four flowers with stems and leaves"
     caption: "The flower on the upper left, found on the left door of 72.DA.39.1, is different from surrounding examples and is most likely a replacement."
     download: true
 
@@ -2665,7 +2731,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-18/info.json"
     zoom_max: 5
     label: "Catalogue 18"
-    alt: "Main view: 3/4 right front"
+    alt: "three-quarter view of a table with four legs, decorated with elaborate wooden veneer and gilt bronze mounts"
     download: true
 
   - id: "fig-18-1"
@@ -2673,6 +2739,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-1/info.json"
     label: "Figure 18-1"
+    alt: "top of the table featuring a bouquet of flowers tied with a ribbon and framed with a decorative border"
     caption: "Top."
     download: true
 
@@ -2682,12 +2749,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-2/info.json"
     zoom_max: 5
     label: "Figure 18-2"
+    alt: "the table top slides back to reveal open compartments and drawers"
     caption: "Three-quarter right front, drawer open."
     download: true
 
   - id: "fig-18-3"
     src: "figures/fig-18-3.jpg"
     label: "Figure 18-3"
+    alt: "visible remnants of two stamps"
     caption: "The underside of the front rail is stamped “J.F.OEBEN” and “JME.”"
     download: true
 
@@ -2697,6 +2766,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-4/info.json"
     zoom_max: 5
     label: "Figure 18-4"
+    alt: "detail of one of the marquetry flowers, showing the veins inlaid with different pieces of wood"
     caption: "Marquetry open tulip on the top center of the tabletop."
     download: true
 
@@ -2706,6 +2776,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-5/info.json"
     zoom_max: 5
     label: "Figure 18-5"
+    alt: "detail of one of the marquetry flowers, showing the veins inlaid with different pieces of wood"
     caption: "Marquetry closed tulip on the top center of the tabletop."
     download: true
 
@@ -2715,6 +2786,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-6/info.json"
     zoom_max: 4
     label: "Figure 18-6"
+    alt: "three-quarter view of an additional table, with marquetry along the sides as well as the top and gilt bronze mounts that stretch the length of the legs"
     caption: "Jean-François Oeben (French, born Germany, 1721--1763), and Roger Vandercruse, called Lacroix (French, 1727--1799), Mechanical table, ca. 1761--63. Oak veneered with mahogany, kingwood, and tulipwood, with marquetry of mahogany, rosewood, holly, and various other woods; gilt bronze mounts; imitation Japanese lacquer; replaced silk, 69.9 × 81.9 × 46.7 cm (27.5 × 32.2 × 18.4 in.). New York, Metropolitan Museum of Art, The Jack and Belle Linsky Collection, 1982, 1982.60.61. Photo: [www.metmuseum.org](https://www.metmuseum.org), CC0"
     download: true
 
@@ -2724,6 +2796,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-7/info.json"
     zoom_max: 5
     label: "Figure 18-7"
+    alt: "interior locking mechanism with a horizontal piece of metal attached with four screws and a sawtooth gear visible"
     caption: "Interior of the right-side frieze showing the mainspring assembly at center, with brass guide rails above and below."
     download: true
 
@@ -2733,6 +2806,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-8/info.json"
     zoom_max: 5
     label: "Figure 18-8"
+    alt: "black-and-white x-ray revealing the multiple strips of wood used in the tabletop’s construction and restoration"
     caption: "X-radiograph of the top showing the cross-grain batten on the left, the diagonal grain of the main boards, and the butterfly repairs at the bottom."
     download: true
 
@@ -2742,6 +2816,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-9/info.json"
     zoom_max: 4
     label: "Figure 18-9"
+    alt: "metal spring release mechanism of an additional table as seen from above"
     caption: "Spring release mechanism of a table in the collection of the Victoria and Albert Museum, inv. no. 1095:1 to 3-1882. © Victoria and Albert Museum, London"
     download: true
 
@@ -2751,6 +2826,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-10/info.json"
     zoom_max: 5
     label: "Figure 18-10"
+    alt: "interior with locking mechanism removed, revealing four holes to the inside of each of the screws"
     caption: "Interior of the left-side frieze with mainspring assembly removed, showing four unused screw holes from an earlier mainspring or simple gear wheel."
     download: true
 
@@ -2760,6 +2836,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-11/info.json"
     zoom_max: 5
     label: "Figure 18-11"
+    alt: "toothed brass rail attached to the bottom third of the sliding drawer case"
     caption: "Left side of the sliding drawer case, showing the toothed brass rail with extraneous holes and patched wood, indicating some prior modification of the mechanism."
     download: true
 
@@ -2769,72 +2846,84 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-12/info.json"
     zoom_max: 5
     label: "Figure 18-12"
+    alt: "two square images of the front left corner, the right with the corner mount removed and the left with it in place"
     caption: "Front left corner with the corner mount removed and sliding block in place (left) and removed (right)."
     download: true
 
   - id: "fig-18-13"
     src: "figures/fig-18-13.gif"
     label: "Figure 18-13"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
     download: true
   - id: "fig-18-13-print"
     src: "figures/fig-18-13-print.jpg"
     popup: false
     label: "Figure 18-13"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
     download: true
   - id: "fig-18-13-epub"
     src: "figures/fig-18-13-print.jpg"
     popup: false
     label: "Figure 18-13"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The sliding mechanism for the top and case is activated with a second, smaller key that is inserted into an additional keyhole on the right side, beneath the one used to wind the mechanism. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=65)."
     download: true
 
   - id: "fig-18-14"
     src: "figures/fig-18-14.gif"
     label: "Figure 18-14"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
     download: true
   - id: "fig-18-14-print"
     src: "figures/fig-18-14-print.jpg"
     popup: false
     label: "Figure 18-14"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
     download: true
   - id: "fig-18-14-epub"
     src: "figures/fig-18-14-print.jpg"
     popup: false
     label: "Figure 18-14"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "Turning the key moves a lever that is mounted on a long iron plate, housed in the upper case bottom. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=20)."
     download: true
 
   - id: "fig-18-15"
     src: "figures/fig-18-15.gif"
     label: "Figure 18-15"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
   - id: "fig-18-15-print"
     src: "figures/fig-18-15-print.jpg"
     popup: false
     label: "Figure 18-15"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
   - id: "fig-18-15-epub"
     src: "figures/fig-18-15-print.jpg"
     popup: false
     label: "Figure 18-15"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The forward movement of the sliding case is limited by threaded bolts that pass through the sides of the sliding case and project into a groove in the table's case side. A brass stop plate is affixed at the end of the groove. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=46)."
     download: true
 
   - id: "fig-18-16"
     src: "figures/fig-18-16.gif"
     label: "Figure 18-16"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
     download: true
   - id: "fig-18-16-print"
     src: "figures/fig-18-16-print.jpg"
     popup: false
     label: "Figure 18-16"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
     download: true
   - id: "fig-18-16-epub"
@@ -2842,6 +2931,7 @@ figure_list:
     popup: false
     media_type: iiif
     label: "Figure 18-16"
+    alt: "animated color diagram of the sliding mechanism"
     caption: "The mainsprings of the mechanism do not require winding after each operation of the mechanism; the act of closing the table rewinds the springs to their prior state. View the video at [https://youtu.be/m5OxVgH-T1I](https://youtu.be/m5OxVgH-T1I?t=72)."
     download: true
 
@@ -2851,6 +2941,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-17/info.json"
     zoom_max: 4
     label: "Figure 18-17"
+    alt: "detail of a drawer front, revealing a jagged edge to the veneer pieces and diagonal cross grains"
     caption: "Mark from a shoulder knife on the top edge of the side drawer front, showing that pieces of veneer were trimmed in place, after having been glued down to the oak substrate."
     download: true
 
@@ -2860,6 +2951,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-18/info.json"
     zoom_max: 4
     label: "Figure 18-18"
+    alt: "two details of a marquetry flower, the top under a black-and-white x-ray and the bottom in visible light"
     caption: "Detail of an X-radiograph (top) showing clear cutting marks of a stem running under a flower. This suggests that the stem was inlaid first with a shoulder knife and the flower second. This would not be the case if the flower had been inlaid with a marquetry saw prior to laying the veneer on the oak substrate (compare to [fig. 19-12](/catalogue/19/#fig-19-12)). The leaves and stems appear light because of the high concentration of iron sulfate in the wood, used as a dye mordant."
     download: true
 
@@ -2869,6 +2961,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-19/info.json"
     zoom_max: 4
     label: "Figure 18-19"
+    alt: "detail showing the elaborate veins and textures of a marquetry flower"
     caption: "Detail showing veins made with a saw (blunt ended) and additional veins added with an engraving tool (sharp ended)."
     download: true
 
@@ -2877,6 +2970,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-20/info.json"
     label: "Figure 18-20"
+    alt: "two photographs placed horizontally in a single register, the left shows 18 squares of yellow wood and the right shows 18 squares of green wood"
     caption: "Sample tiles of holly wood. At left, dyed with young fustic dye at different concentrations; at right, mordanted with two different grades of impure iron sulfate (left nine tiles and right nine tiles) to show the range of green tones that could be achieved using Oeben's original recipe."
     download: true
 
@@ -2886,6 +2980,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-21/info.json"
     zoom_max: 5
     label: "Figure 18-21"
+    alt: "two images of the table with drawers open, the left in current muted shades of brown and gold and the right in brighter shades of reddish-brown with vibrantly colored marquetry"
     caption: "The Museum's table, in its current condition on the left and virtually restored to its original colors on the right."
     download: true
 
@@ -2894,6 +2989,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-18-22/info.json"
     label: "Figure 18-22"
+    alt: "top of the table, the bouquet is now digitally colored in vibrant shades of yellow, green, white, red, purple, and blue"
     caption: "The top of the table, virtually restored to its original colors based on detailed analysis of trace dye compounds remaining in the wood and the use of reference samples, prepared using traditional techniques."
     download: true
 
@@ -2902,7 +2998,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-19/info.json"
     label: "Catalogue 19"
-    alt: "Main view: 3/4 right front"
+    alt: "three-quarter view of a table with four legs, decorated with elaborate wooden veneer and gilt bronze mounts"
     download: true
 
   - id: "fig-19-1"
@@ -2910,6 +3006,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-1/info.json"
     label: "Figure 19-1"
+    alt: "top of the table featuring an arrangement of flowers sitting in a tray with floral garlands and leafy scrolls around the border"
     caption: "Top."
     download: true
 
@@ -2919,6 +3016,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-2/info.json"
     zoom_max: 5
     label: "Figure 19-2"
+    alt: "open drawer reveals faded blue silk lining"
     caption: "Interior of the drawer with divided compartments and watered silk lining."
     download: true
 
@@ -2928,6 +3026,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-3/info.json"
     zoom_max: 5
     label: "Figure 19-3"
+    alt: "visible remnant of a stamp"
     caption: "The underside of the rear rail is stamped “J.F.OEBEN.”"
     download: true
 
@@ -2937,6 +3036,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-4/info.json"
     zoom_max: 5
     label: "Figure 19-4"
+    alt: "the marquetry tabletop of an additional table, also decorated with flowers and leafy scrolls"
     caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1755. Oak veneered with amaranth, burl wood, bloodwood, kingwood, and mahogany; marquetry in polychrome wood and green-stained ivory; Japanese lacquer; gilt bronze mounts, 68.3 × 79.5 × 44.8 cm (27 × 31 × 17.5 in.). Paris, Musée du Louvre, OA 10404. Photo: © Musée du Louvre, Dist. RMN-Grand Palais / Thierry Ollivier / Art Resource, NY"
     download: true
 
@@ -2946,6 +3046,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-5/info.json"
     zoom_max: 5
     label: "Figure 19-5"
+    alt: " the marquetry tabletop of an additional table, also decorated with flowers and leafy scrolls and very similar in composition to the Getty table"
     caption: "Jean-François Oeben (1721--1763), Mechanical table, ca. 1750--55. Oak veneered with kingwood, amaranth, burl wood, sycamore maple, mahogany; marquetry in polychrome wood; gilt bronze mounts; drawers lined with blue silk, 72 × 80 × 43 cm (28 × 31.5 × 17 in.). Paris, Sotheby's, *Bel ameublement et objets d'art*, December 15, 2003, lot 109. Photo: © Sotheby's / Art Digital Studio"
     download: true
 
@@ -2955,6 +3056,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-6/info.json"
     zoom_max: 4
     label: "Figure 19-6"
+    alt: "a silver screw partially inserted into the side rails"
     caption: "Detail of one of the stop pins that limits the movement of the sliding top."
     download: true
 
@@ -2963,6 +3065,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-7/info.json"
     label: "Figure 19-7"
+    alt: "bottom of the table, constructed out of two large rectangular panels of wood and framed by smaller horizontal and vertical wooden strips, with a label affixed on the right side"
     caption: "Bottom."
     download: true
 
@@ -2972,6 +3075,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-8/info.json"
     zoom_max: 4
     label: "Figure 19-8"
+    alt: "the sides of the drawer have a protruding horizontal strip of dark wood attached"
     caption: "Detail of the ebony glides on the sides of the drawer. These slide within grooves on either side of the case."
     download: true
 
@@ -2981,12 +3085,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-9/info.json"
     zoom_max: 4
     label: "Figure 19-9"
+    alt: "a diagonal piece of wood slides out of the frame to leave space for the drawer glides"
     caption: "Detail of one of the diagonally oriented blocks that cover the grooves cut for the drawer glides."
     download: true
 
   - id: "fig-19-10"
     src: "figures/fig-19-10.jpg"
     label: "Figure 19-10"
+    alt: "detail of floral marquetry with four white arrows superimposed onto the image to indicate saw marks"
     caption: "Blunt-ended saw cuts and consistently rounded petal tips suggest the flowers and many leaves were inlaid in the background veneer using a fretsaw prior to gluing the marquetry to the oak substrate."
     download: true
 
@@ -2996,6 +3102,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-11/info.json"
     zoom_max: 4
     label: "Figure 19-11"
+    alt: "detail of the marquetry, revealing a small curved errant knife mark above one of the stems"
     caption: "An errant knife mark, bent wood fibers in the background veneer, and sharp corners with no kerf all suggest that this curved stem was inlaid using a shoulder knife, after the veneer had been applied to the oak substrate."
     download: true
 
@@ -3005,6 +3112,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-12/info.json"
     zoom_max: 4
     label: "Figure 19-12"
+    alt: "two details of a marquetry flower, the top under a black-and-white x-ray and the bottom in visible light"
     caption: "Detail of an X-radiograph (top) of a central flower in the marquetry of the top. The outlines of the stems do not continue under the flower petals, suggesting that the stems were inlaid after the flowers (compare to [fig. 18-18](/catalogue/18/#fig-18-18)). The thickness of the glue lines also gives clues to the marquetry techniques used."
     download: true
 
@@ -3014,6 +3122,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-13/info.json"
     zoom_max: 4
     label: "Figure 19-13"
+    alt: " detail of floral marquetry with two white arrows superimposed onto the image to indicate the locations of a saw-cut line and an engraved line"
     caption: "Some flowers were enhanced with engraved veins filled with black or red mastic. The engraved lines have pointed tips, while saw-cut veins have blunt tips."
     download: true
 
@@ -3023,6 +3132,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-14/info.json"
     zoom_max: 4
     label: "Figure 19-14"
+    alt: "black-and-white x-ray of the table, with seven white arrows superimposed onto the image to indicate the location of veneer pins"
     caption: "X-radiography indicates the use of veneer pins to hold stringing in place during marquetry assembly. Both the holes left by the pins and even some broken-off fragments are visible in this X-radiograph."
     download: true
 
@@ -3032,6 +3142,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-15/info.json"
     zoom_max: 4
     label: "Figure 19-15"
+    alt: "detail of the marquetry of light and dark brown wood, highlighting a small, dark brown fretsaw mark"
     caption: "Typical fretsaw mark on the holly trellis of the sliding writing surface. The fretsaw mark is a couple of millimeters away from the finished trellis, suggesting that the fretsaw was used only to cut the trellis to its approximate size."
     download: true
 
@@ -3041,6 +3152,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-16/info.json"
     zoom_max: 4
     label: "Figure 19-16"
+    alt: "detail of the marquetry, highlighting a small, light brown inlay knife mark"
     caption: "Typical inlay knife mark on the trellis, suggesting that the trellis was trimmed to its final size using an inlay knife."
     download: true
 
@@ -3050,12 +3162,14 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-17/info.json"
     zoom_max: 4
     label: "Figure 19-17"
+    alt: "detail of the smooth, beveled edge of the writing surface with the thin layer of marquetry veneered above the solid wood base"
     caption: "View of the exposed edge of the trellis marquetry on the sliding writing surface. The beveled edge of the yellow barberry flower is clearly visible, showing the use of the conic cutting technique."
     download: true
 
   - id: "fig-19-18"
     src: "figures/fig-19-18.jpg"
     label: "Figure 19-18"
+    alt: "photograph of a pair of hands attaching a gilt bronze mount to a reproduction of the table"
     caption: "This reproduction of the Museum's table, showing the different stages of production, was made in 2003 by Alain Guéroult. Because the trellis marquetry is made using only naturally colored woods, the finished right side of the reproduction gives an extremely realistic view of the table's original appearance."
     download: true
 
@@ -3065,6 +3179,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-19-19/info.json"
     zoom_max: 5
     label: "Figure 19-19"
+    alt: "the writing surface is decorated with a curved painted leather panel surrounded by elaborate wooden veneer"
     caption: "The drawer unit, separated from the rest of the table during examination, shows the entire sliding writing surface with its marbleized leather and gilt tooling."
     download: true
 
