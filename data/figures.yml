@@ -3188,7 +3188,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-20/info.json"
     label: "Catalogue 20"
-    alt: "Main view: 3/4 right front"
+    alt: "three-quarter view of a commode with four legs and two drawers, decorated with elaborate wooden veneer, gilt bronze mounts, and a marble top"
     download: true
 
   - id: "fig-20-1"
@@ -3197,6 +3197,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-1/info.json"
     zoom_max: 4
     label: "Figure 20-1"
+    alt: "detail of one of the gilt bronze foot mounts, showing floral tendrils and leaves that wrap up the leg"
     caption: "Foot mount."
     download: true
 
@@ -3206,6 +3207,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-2/info.json"
     zoom_max: 4
     label: "Figure 20-2"
+    alt: "detail of the apron mount, showing a shell bordered by six pearls and two leafy scrolls"
     caption: "Apron mount."
     download: true
 
@@ -3215,6 +3217,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-3/info.json"
     zoom_max: 5
     label: "Figure 20-3"
+    alt: "visible remnant of an embossed stamp"
     caption: "On the top of the left front stile is stamped “DF.”"
     download: true
 
@@ -3223,6 +3226,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-4/info.json"
     label: "Figure 20-4"
+    alt: "the back of the commode is constructed out of five vertical wooden panels surrounded by smaller vertical and horizontal strips of wood"
     caption: "Back."
     download: true
 
@@ -3231,6 +3235,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-5/info.json"
     label: "Figure 20-5"
+    alt: "the top of the commode with the marble removed reveals two trapezoid panels surrounded by smaller vertical and horizontal strips of wood"
     caption: "Top."
     download: true
 
@@ -3240,6 +3245,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-6/info.json"
     zoom_max: 5
     label: "Figure 20-6"
+    alt: "detail of the joinery, showing how three pieces of wood form a corner"
     caption: "Detail showing the in-line double dovetail and the open-faced dovetail on the left front corner post."
     download: true
 
@@ -3248,6 +3254,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-7/info.json"
     label: "Figure 20-7"
+    alt: "bottom of the table, constructed out of one large rectangular panel of wood and framed by smaller horizontal and triangular strips of wood"
     caption: "Bottom."
     download: true
 
@@ -3256,6 +3263,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-8/info.json"
     label: "Figure 20-8"
+    alt: "the inside of the case shows the two horizontal wooden shelves and the construction of the back"
     caption: "The case with drawers removed."
     download: true
 
@@ -3265,6 +3273,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-9/info.json"
     zoom_max: 4
     label: "Figure 20-9"
+    alt: "veneer detail, showing a dark-wood organic shape inlaid into light brown wood"
     caption: "Mechanical saw marks on a kingwood veneer element."
     download: true
 
@@ -3274,6 +3283,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-10/info.json"
     zoom_max: 4
     label: "Figure 20-10"
+    alt: "black-and-white photograph of the veneer, showing the rough edges and uneven surface of the reverse"
     caption: "This photo from the 1977 restoration shows an example of the mechanical saw and toothing plane marks that remain on the reverse of elements within the marquetry panels."
     download: true
 
@@ -3283,6 +3293,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-11/info.json"
     zoom_max: 5
     label: "Figure 20-11"
+    alt: "black-and-white x-ray of the top drawer, with a spattering of handle holes visible as white dots"
     caption: "X-ray of the top drawer showing the myriad locations of the drawer handles throughout the history of the piece. Only the current set of holes remain visible; the others are covered by subsequent marquetry additions."
     download: true
 
@@ -3292,6 +3303,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-12/info.json"
     zoom_max: 4
     label: "Figure 20-12"
+    alt: "detail showing a parallel grain in streaks of dark brown, reddish brown, and light brown"
     caption: "Example of quartersawn kingwood showing the light-colored rays that run perpendicular to the grain direction."
     download: true
 
@@ -3301,6 +3313,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-20-13/info.json"
     zoom_max: 4
     label: "Figure 20-13"
+    alt: "detail showing a looser parallel grain with streaks and specks of dark brown and light brown"
     caption: "Flat-sawn kingwood lacks the ray “streaks” and generally exhibits dark stripes in the grain that are more widely spaced than in the quartersawn variety."
     download: true
 
@@ -3309,6 +3322,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/cat-21/info.json"
     label: "Catalogue 21"
+    alt: "three-quarter view of a commode with four legs and two drawers, decorated with wooden veneer, gilt bronze mounts, and a marble top"
     alt: "Main view: 3/4 right front"
     download: true
 
@@ -3318,6 +3332,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-1/info.json"
     zoom_max: 5
     label: "Figure 21-1"
+    alt: "visible remnant of an embossed “JME” stamp alongside barely visible “DELORME” and “N.PETIT” stamps"
     caption: "The top of the right leg stile is stamped “DELORME,” “JME,” and “N.PETIT.”"
     download: true
 
@@ -3327,6 +3342,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-2/info.json"
     zoom_max: 5
     label: "Figure 21-2"
+    alt: "two corner mounts, showing flowers and leafy scrolls"
     caption: "A corner mount from the Baumhauer commode ([cat. no. 14](/catalogue/14/)) on the left, compared to one from this commode on the right. Differences in layout and scale make it clear that these are not direct copies of the Baumhauer mounts."
     download: true
 
@@ -3336,6 +3352,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-3/info.json"
     zoom_max: 4
     label: "Figure 21-3"
+    alt: "black-and-white photograph of an additional commode"
     caption: "Unknown maker, Commode, reign of Louis XV. Unidentified wood, gilt bronze mounts, *brèche d'Alep* marble top, 142 cm (56 in.) wide. Galerie Georges Petit, Paris, *Objets d'art et très bel ameublement du XVIIIe siècle et autres*, December 6--7, 1928, lot 180."
     download: true
 
@@ -3345,6 +3362,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-4/info.json"
     zoom_max: 5
     label: "Figure 21-4"
+    alt: "frontal view of an additional commode, similar to the Getty commode in structure and gilt bronze mounts but decorated with a landscape scene in black and gold lacquer"
     caption: "Joseph Baumhauer (French, died 1772), Commode, 1755--58 (designed). Carcass of oak veneered with Japanese lacquer and with fruitwood decorated with *vernis Martin*; mounts of gilt bronze; slab of *rouge de Villefranche* (possibly Languedoc) marble, 86 × 127 × 62.3 cm (33.85 × 50 × 24.5 in.). London, Victoria and Albert Museum, 1013-1882. Photo: © Victoria and Albert Museum, London"
     download: true
 
@@ -3353,6 +3371,7 @@ figure_list:
     media_type: iiif
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-5/info.json"
     label: "Figure 21-5"
+    alt: "the back of the commode in constructed out of three square wooden panels framed by smaller horizontal and vertical strips of wood"
     caption: "Back."
     download: true
 
@@ -3362,6 +3381,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-6/info.json"
     zoom_max: 4
     label: "Figure 21-6"
+    alt: "inside of the commode is constructed out of wood of multiple colors and finishes"
     caption: "The interior of the commode reveals inconsistent colors, textures, and degrees of aging in the wood used. The fir panels of the sides also have exposed insect tunnels, typical of old wood that has been resurfaced and reused."
     download: true
 
@@ -3371,6 +3391,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-7/info.json"
     zoom_max: 4
     label: "Figure 21-7"
+    alt: "black-and-white x-ray with insect damage to the drawer shown as a light gray horizontal line"
     caption: "Detail of an X-radiograph of the lower drawer front. The upper half shows extensive tunneling in the substrate by wood-boring insects, while the lower half is undamaged. This suggests that old wood was cut and reused to fabricate the drawer front."
     download: true
 
@@ -3380,6 +3401,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-8/info.json"
     zoom_max: 4
     label: "Figure 21-8"
+    alt: "the bottom of the drawer shows myriad horizontal lines"
     caption: "The saw marks on the drawer bottom are of a type made by a large rotary saw, of a kind not invented until the mid-nineteenth century."
     download: true
 
@@ -3389,6 +3411,7 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-9/info.json"
     zoom_max: 5
     label: "Figure 21-9"
+    alt: "detail of an original Baumhauer mount"
     caption: "Comparison of the original eighteenth-century mounts of the Joseph Baumhauer commode ([cat. no. 14](/catalogue/14/)) and the copies on this commode. The chasing of the Baumhauer mounts (left) is more varied; the chasing of the later copies (right) is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
     download: true
 
@@ -3398,5 +3421,6 @@ figure_list:
     iiif: "https://www.getty.edu/publications/resources/rococo/fig-21-10/info.json"
     zoom_max: 5
     label: "Figure 21-10"
+    alt: "detail of a copied mount"
     caption: "Comparison of the original eighteenth-century mounts of the Joseph Baumhauer commode ([cat. no. 14](/catalogue/14/)) and the copies on this commode. The chasing of the Baumhauer mounts (left) is more varied; the chasing of the later copies (right) is more mechanical, though very skillfully executed. The differences between the two make it clear that new master models were made for the copies rather than simply taking molds from the originals."
     download: true
