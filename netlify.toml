@@ -1,12 +1,14 @@
 [[redirects]]
   from = "https://rococo.netlify.app/*"
   to = "https://www.getty.edu/:splat"
-  status = "301!"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "http://rococo.netlify.app/*"
   to = "https://www.getty.edu/:splat"
-  status = "301!"
+  status = 301
+  force = true
 
 [build]
 publish = "site"
